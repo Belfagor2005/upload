@@ -1,0 +1,22 @@
+LinuxsatPanel Plugin
+Suggested by:
+@masterG
+@oktus
+@pcd
+
+All code was rewritten 
+by Lululla
+maintener
+20240720
+
+ATTENTION PLEASE...    
+This is free software; you can redistribute it and/or modify it 
+underthe terms of the GNU General Public License as published 
+by the Free Software Foundation; or any later version.
+You are not allowed to remove credits and 
+the code must be open to everyone. 
+Thank you Lululla 
+
+Support on:
+linuxsat-support.com
+
