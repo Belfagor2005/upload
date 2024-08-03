@@ -1,0 +1,546 @@
+Changelog
+=========
+
+Git 555
+- python 3 compatibility (extensions changed from pyo to pyc)
+
+Git 497-507
+- Last version for other images, Open Vision has the new generation with smart checks.
+- Maxytec Multibox Plus support
+- Python 3 compatible.
+- Get rid of dev boxes: cc1, v8plus, bcm7358, vp7358ci
+- Turkish translation updated, Thanks to https://github.com/audi06
+
+Git 485-496
+- Use boxbranding when enigma getBoxType isn't available, Thanks to https://github.com/s3n0
+- Get rid of dinobot u42/u43 duplicates
+- Some log messages changed
+- Open Vision detection changed to work on all images, Thanks to https://github.com/athoik
+- Multilib full support by Persian Prince and https://github.com/nautilus7
+- Greek translation updated, Thanks to https://github.com/nautilus7
+
+Git 466-484
+- Octagon SF8008m support
+- Edision OS mini4k support
+- Qviart Lunix Co support
+- Small optimization in Greek translation, Thanks to https://github.com/nautilus7
+- GigaBlue X3 4K support
+- Smart Open Vision detection by Persian Prince and Hains
+- AXAS E4HD Ultra 4K fix
+
+Git 451-465
+- GigaBlue IP 4K support
+- IZIBox X3/Eco Twin HD support
+- Remove superfluous usage of skin_default in image paths.
+- Ferguson Ariva ATV Combo/Twin support
+- JamesDonkey HD Duo support
+- Protek 4K X1 support
+- Spycat Mini V2 support
+- Reduce hd60/hd61 code.
+- Fix flash/backup hd60, Thanks to https://github.com/betacentauri
+- Use proper kernel filename (can also be uImage) to get kernel size, Thanks to https://github.com/betacentauri
+- Vivant Dinobot U43 support
+- AX Ultra support
+- Fix HiSilicon model detection.
+
+Git 442-450
+- Zgemma H10 support
+- Anadol Pro HD5 support
+- AXAS His Twin fix image folder
+- Amiko Viper 4K support
+- Fix identification for lunix4k, Thanks to https://github.com/Dima73
+- Edision OS mio4kplus support
+
+Git 430-441
+- AXAS His C 4K support
+- AXAS His Twin support
+- Don't chmod executable files anymore, bitbake should do that.
+- Travis CI support.
+- Open Vision uses MACHINE names so we have vusolo4k instead of solo4k.
+- Be more accurate for Open Vision.
+- Use getBoxType which is more accurate, reduce code size and be faster.
+
+Git 422-429
+- Beyonwiz V2 support
+- Gigablue Trio 4K support
+- Vu+ Duo 4K kernel detection fixed.
+- Vivant Dinobot H265 support
+- Octagon SF8008 kernel detection fixed, Thanks to https://github.com/athoik
+
+Git 416-421
+- Update no_backup_files regarding "uImage" and "rootfs.ubi"
+- Mutant HD61 support
+- MaxyTec Multibox support
+- Ultra Box V8Plus Combo support
+- Octagon SF8008 fix kernel name
+- Qviart Lunix2 4K fix action
+- Ustym 4K Pro fix kernel name
+- Update setup.py (Version fix)
+- Vivant Dinobot U55 support
+- Use Open Vision name instead of PLi-metas and pli-extras
+
+Git 403-415
+- Vivant Dinobot 4K Pro support
+- findkerneldevice.py: Support devices other than mmcblk0, Thanks to https://github.com/athoik
+- Dutch translation updated, Thanks to https://github.com/Hains
+- Zgemma H9 Combo support
+- Vu+ Duo 4K support
+- Try fix restore problem for h9, h9 combo and i55plus, Thanks to https://github.com/betacentauri
+- Protek 9920LX support
+- Add "ForceMode" for Zgemma h9, h9 combo and i55plus (I hope it helps).
+
+Git 396-402
+- Ustym 4K Pro support
+- Fix pyo files in shell scripts.
+- Fix Qviart Lunix3 4K, thanks to https://github.com/Dima73
+- Mutant HD60 support
+
+Git 389-395
+- Edision OS ninopro/mio4k support
+- Fix message.py error: No such file or directory, Thanks to https://github.com/athoik 
+- We don't ship .py source files anymore so ipk only contains pyo compiled files.
+- Zgemma I55 Plus support
+- Octagon SF8008 support
+- Version change from 25 to 26.
+
+Git 376-388
+- schermen.py : menu button for MMC (Only full hd skins for now).
+- MMC support, Now you can create backups on MMC (/media/mmc) with Menu button.
+- Persian language added.
+- Zgemma H9 changes for restore problem, still not ready.
+- BackupSuite.pot and all po files updated with latest strings (MMC support).
+- French translation updated, Thanks to https://github.com/pr2git
+- Qviart Lunix2 4K support
+
+Git 371-375
+- Evo Nova Combo/IP/Twin support
+- plugin.py changes for Clap CC1 4K
+- Clap CC1 4K support
+- Iqon Force 4 support
+
+Git 351-370
+- Zgemma H7/H9 kernel detection fixed.
+- Protek 4K support
+- GigaBlue 4K kernel detection fixed.
+- plugin.py changes for new Vivant Dinobot 4K models and Protek 4K
+- More Vivant Dinobot support (4K)
+- Amiko Viper Slim support
+- Italian translation updated, Thanks to https://github.com/Gringit
+- Bulgarian translation added, Thanks to https://github.com/marto74bg
+- et11000 kernel detection fixed.
+
+Git 281-350
+- plugin.py cleanup
+- Make sure "backuphdd.sh" and "backupusb.sh" are executable.
+- "backupusb.sh" and "backuphdd.sh" updated, Make sure "backupsuite.sh" is executable.
+- Dreambox support
+All old dreamboxes with "nfi" images could create backups now.
+dm9x0 bz2 backup is ok also
+dm52x,dm7080,dm820 xz backup needs more tests
+Restore for dreambox is not possible via plugin itself
+as you have to flash your backup via DMM's WebIF.
+- Better dreambox detection, Thanks a lot to Hains
+- Vu4k kernel problem fixed.
+- IT language update, Thanks to pzanone
+- mphelp.xml update: Show https://github.com/OpenVisionE2/BackupSuite/issues
+- sf4008 kernel detection fixed.
+- Xtrend file detection fixed.
+- Version change from 24 to 25.
+
+Git 273-280
+- Update po files using latest pot file, Now translators could translate new strings.
+- jffs2 extension detection for all Ebox STBs.
+- tar.bz2 extension detection for STBs without 4K in their names.
+- Backup fixed for STBs with multiple kernel partitions like H7.
+- Use findkerneldevice.py for all STBs not just some with if situations.
+- Allow more localization and update the pot file, 8 New messages ...
+- Version change from 23 to 24.
+
+Git 251-272
+- Bitbake recipe changed: Better mo compile and chmod, Thanks to Erik Slagter (eriksl)
+Shell scripts are executable in our git but distutils won't make them executable so do something about it.
+- SK language update, Thanks to Pr0metheus2
+- Zgemma H9 support (It's experimental as it uses hi3798mv200 chip not broadcom)
+- Edision OSninoplus support
+- plugin.py update, Update "no_backup_files", Use "startswith" method and some improvements
+- Cleanup: Useless and duplicate python imports removed.
+- Xtrend 13000 support
+- Beyonwiz U4 support
+- Version change from 22 to 23.
+
+Git 248-250
+- maintainer.info removed, No need for this file anymore.
+- Follow e2openplugins structure (Use setup.py and setup_translate.py in OE)
+- Correct mo compile from po files as we're using setup_translate.py now.
+- enigma2-plugin-extensions-backupsuite.bb bitbake recipe changed, Check PLi's OE.
+- Rename BackupSuite.translate to BackupSuite.pot and move it to the main git folder.
+- Version change from 21 to 22.
+
+Git 239-247
+- plugin.py: Detect spycat4k and spycat4kmini
+- Spycat 4K support
+- More Evo support (enfinityX and Slim)
+- Octagon SF98/108 support
+- Tripledot Tyrant support
+- Relook Mago support
+- HDBox EniBox support
+- VisionNet Marvel 1 support
+
+Git 222-238
+- Vivant support (4K)
+- MixOS (EBox) support + plugin.py support
+- plugin.py: More accuracy in box detection
+- Amiko Viper Combo HDD support
+- WWIO BRE2ZE support
+- Evo support (ENfinity and Slim)
+- Atemio 6000/6100/6200 support
+- UNiBOX HD-x support
+- Opticum Twin support
+- Miraclebox Hybrid support
+- Beyonwiz support
+- Sezam support
+- Space Black Widow-X/X2 support
+- Tiviar support
+
+Git 214-221
+- lookuptable.txt Cleanup, Thanks to Pedro Newbie
+- Technomate support (Even 4K models)
+- Iqon support (Even 4K models)
+- More Edision support
+- Jepssen MediaBox support
+- VALA Linux support
+- Qviart Lunix and Lunix3 4K support
+
+Git 199-213
+- Support all GigaBlue models except gb800solo
+- More Octagon support (SF128/138/208/228/3038/5008)
+- AX Triplex and Ultrabox support
+- Support blackbox7405 platform (UNiBOX HDECOPlus and Sogno 8800HD)
+- WWIO BRE2ZE T2C support
+- Miraclebox MicroV2 support
+- Red Eagle SingleBox LCD and TwinBox LCD support
+- Opticum Odin2 Hybrid and Odin2 Plus support
+- AXAS Class M and E3HD/E4HD/E4HD Combo support
+- Protek 9900LX/9910LX/9911LX support
+- Odin M9 support
+
+Git 191-197
+- whatsnew.txt updated
+- Compiled mo files removed, We only need po files which are the sources.
+- maintainer.info updated
+- GigaBlue gb800solo: No need to use "jffs2" extension
+- No need to keep LICENSE file inside plugin folder
+- Version change from 20 to 21.
+
+Git 190
+- Message from Pedro Newbie:
+TO ALL USERS
+
+I stop the development and maintenance of the BackupSuite due to personal circumstances. I have found Persian Prince willing to take over the task from me.
+Thank you for all the positive reactions I received in the past.
+I assume that the BackupSuite is in good hands with Persian Prince.
+I do not completely disappear from the satellite scene so you will see me regularly on the Openpli forum
+
+Thanks for all the support and trust in me.
+
+Pedro(_newbie)
+
+Git 178 - 189
+Several pull requests from Persian Prince which contain many enhancements in the plugin:
+- Better VU+ detection
+- Better 4K support (Various brands/models)
+- lookuptable.txt kernel1.bin typo fixed
+- Better Xsarius detection
+- Better GigaBlue detection (All models even 4Ks, lookuptable.txt should be updated too ...)
+- Fix "hd51"/"h7" and use less python code for "sf4008"
+- Faster checks and fix some kernel file detections
+- Detect 4K "tar.bz2" extension
+- Faster file detection for "jffs2" and "bin" extensions also support upcoming models with the reverse old models check
+
+Git 177
+- Corrected a copy paste error
+
+Git 163-176
+Merged pull requests with several additions by Persian Prince :
+- Vu+ Uno 4K SE/Zero 4K support
+- Zgemma H6 support
+- Xsarius Revo 4K/Galaxy 4K support
+- Amiko Viper Combo/Viper T2C support
+- Gigablue Quad 4K/UE 4K support
+- Vimastec VS1000/VS1500 support
+- WWIO BRE2ZE 4K support
+- Corrected some space into tabs in the above mentioned additions
+- Changed the plugin.py to accept the above mentioned editions and changed detection of the VU+ 4k models
+PLEASE NOTE: The file plugin.py still needs some checking on the flash-part, I don't know if the new additions are already flashable in the plugin! I lack time to check it all.
+
+Git 162
+- Xsarius Pure HD SE support, Thanks to Dimmie
+
+Git 160
+- Add Edision OS nino support by athoik
+
+Git 158
+- Added support for the GI ET11000
+
+Git 157
+- Added Lithuanian translation
+Thanks go to VytenisP
+
+Git 156
+- Made some changes in plugin.py to be able to flash h7 images
+
+Git 154-155
+- Added a little workaround to avoid error messages on:
+/var/lib/samba/private/msg.sock
+
+Git 153
+- Added support for several Zgemma receivers. Thanks go to WTE (Walter)
+
+Git 152
+- Added support for the SAB Alpha Triple
+
+Git 149-150
+- Changed the SK translation by Pr0metheus2
+
+Git 146-148
+- Added a small advise how to flash the backup for the Vu+ Solo SE, Uno4K and Zero (rename noforce.update into force.update)
+- Corrected some translations in SK by Pr0metheus2. Big thanks!
+
+Git 142-144
+- Added support for Gigablue Quad
+Thanks Athoik
+
+Git 139-141
+- Added support for the Octagon sf4008
+Thanks Athoik
+
+Git 138
+- Added some code to report the kernel number for the HD51 multiboot
+- corrected an error
+
+Git 137
+- Some minor changes for the HD51. Find the correct kernel partition (important in multiboot environment) and give the kernel#.bin the proper number for backups of the HD51
+
+Git 136
+- Added support for the Spycat Mini Plus, Formuler F4 Turbo and Zgemma I 55
+
+Git 135
+- Added support for the Edision OS mega
+
+Git 134
+- Again a small alteration in scanning for suitable locations for the USB version. On certain mounts the calculated size was wrong.
+If the file 'backupstick' is present in the root of one of the mounts it is possible to make a backup on that mount via the yellow button: 
+Backup > USB
+
+Git 133
+- Very small alteration in scanning for suitable backup locations for the usb version
+
+Git 132
+- Changed some parameters for the Uno 4K and Ultimo 4K
+- Sent Santa home
+
+Git 131
+- Forgot to upload the changed plugin.py for the models Uno4K en Ultimo4K
+
+Git 130
+- Added support for the VU+ models Uno 4K and Ultimo 4K
+
+Git 129
+- Added seasonal greetings!
+
+Git 128
+- Some changes because Betacentauri adapted the binary ofgwrite to facilitate the HD51
+
+Git 123+124
+- Reworked the routine for the Mutant HD51. In the former version the possibility existed that the made backup was not complete. 
+Now the backup is made of the whole partition and then it's compressed in rootfs.tar.bz2 format.
+
+The backup can ONLY be restored using the BackupSuite -> Blue button (=Restore backup). 
+It can't be flashed by the USB-stick.
+
+Thanks go to Betacentauri which pointed me to the possible problems and gave me some guidance to the solution!
+
+It's still work in progress so it could be that in (short) term there will be more changes.
+Please test and report back if there are any issues (or if everthing goes like intended!)
+
+Git 122
+- Added support for the Mutant HD51. The Backupsuite makes a backup in the disk.img format. Don't use it in a multiboot configuration!
+This is the first release for the HD51 and is still work in progress, so use with care.
+The backup made can't be restored via the blue button in the Backupsuite. The backup has to be restored by flashing it via USB just like a new image.
+
+Git 121
+- Merged pull request 120 by Persian Prince with some minor optimization of some png files
+
+Git 119
+- Added the Portugese language provided by Nunigaia, Big Thanks!
+
+Git 116
+- Very small change in code, removed an obsolete part and added versionnumber on plugin-list
+
+Git 113-115
+- Changed the parameter for the Vu+ Duo2
+- Merged the pull request from devclone. Thanks
+
+Git 112
+- Added support for the Edision OS Mini plus
+
+Git 111
+- Added support for the HD 11
+
+Git 110
+- Added support for the Formuler F4
+
+Git 109
+- Added support for online flashing of the image backup of a Vu+ Solo4k.
+Betacentauri changed his execellent tool to make this possible, thanks Betacentauri!
+
+Git 106-108
+- Merged pull request from Dima73 which adds the Ukrainian language by vovan43. Thanks!
+
+Git 105
+- Added support for the Galaxy Innovations (GI) ET7000 Mini
+
+Git 104
+- Added support for the Mut@nt HD 1265
+
+Git 103
+- Added support for the Miraclebox Premium Twin+
+
+Git 102
+- Added support for the Spycat and the Spycat Mini
+
+Git 101
+- Added support for the Xsarius Pure HD
+
+Git 100
+It seems that not every one knows the difference between a file and a folder, so for the making of a backup on an USB-stick there is a check on the existence of a file with the text pattern backupstick in the name, now the check is also done on folders!
+So if a file or a folder is found on the USB-stick with the text pattern backupstick in the name then the USB-stick is valid.
+
+Git 99
+- Merged pull request by Dimitrij: add support dual boot (et8500)
+
+Git 96
+- Merged pull request from Athoik which added support for the Edison OSmini
+
+Git 93
+- Added support for the HD1500
+
+Git 92
+Some big changes, at first now it is possible to maintain your backups from the plugin.
+With the blue button you are now able to delete the backups you want to get rid of.
+Please bear in mind that this only works for the backups created with this or any newer version of the BackupSuite.
+If you want to be able to do this also for your older backups then you'll have to move the files:
+imageversion and BackupSuite.log 
+from the data folder to the folder above (in the folder right under the folder /fullbackup_<model/<date_time>/ )
+Big thanks to Tension for the changes!
+
+Also debugged a bit for the Solo4k, now you should be able to make a backup of the image in the Solo4k. 
+There is still some work to do but for now it should work.
+PLEASE REMEMBER: 
+The Solo4k backup can't be restored by the BackupSuite using the ofgwrite utility (yet).
+Thanks Findex for doing some testing with his Solo4k!
+
+Git 91
+- Added support for the Zgemma 
+Star S / Star 2S
+H5
+H.S / H.2S / H.2H
+
+Git 90
+- Added support for the upcoming Golden Interstar LX Class S2 and C
+
+Git 89
+- Back to normal screens
+
+Git 88
+Happy New Year!
+
+Git 87
+It is for me near impossible to add all enigma2 receivers on the market, just by the lack of time and missing the inside information about the receivers. 
+Therefore I added the ability to maintain your own lookuptable.txt in /etc.
+If you want to add a receiver which isn't supported by me, just copy the lookuptable.txt to /etc and edit this table with the right parameters.
+The file lookuptable.txt in /etc is safe for updates so you can build your own list with supported receivers.
+If you place the file lookuptable.txt in /etc this file will be the one that's used to create the back-up's.
+If there is no file in /etc then the standard file supplied by the BackupSuite is used.
+If you want a certain receiver to be supported just ask the image maker to add a lookuptable.txt in the folder /etc or ask for the parameters to be used.
+
+Git 86
+- Did some overdue maintenance on plugin.py concerning the VU+ models
+
+Git 85
+- Added support for the VU+ Solo 4K. Beware: this is a very early test, the plugin still needs some tidying up.
+Don't try to flash the made back-up of the Solo 4k with the built in OFGWRITE, it needs an update to be able to flash the Solo 4K
+Reverted the truncating of the kernelpartition
+
+Git 84
+- Added seasons greetings
+
+Git 83
+- Added support for the Xsarius Fusion HD SE
+- Corrected the extra path for the Xsarius HD
+
+Git 82
+- Completed support for the Xsarius Fusion HD (at the moment still no confirmation if it functions), looking for some owners of a Fusion who would like to test it and report if all is functioning as it should.
+- Removed the support for unknown devices.
+
+Git 81
+- Added support for Xsarius Fusion HD (very experimental, use with care!)
+
+Git 80
+- Temporary measure: bail out if the receiver is a VU+ Solo 4K until more is known what the requirements are to make a working back-up
+Lookuptable expanded with the entry Solo4K
+
+Git 78 & 79
+- Git 78 has been canceled/reverted by Git 79
+
+Git 77
+- Removed some obsolete code, this were some remains of experiments which I overlooked
+
+Git 76
+- Made some alterations in the way a back-up is made: if a backup is made onto the harddisk there is no longer a flashable copy made in the root of the harddisk. The backup is only stored in the folder "fullbackup_<type> etc.
+If the backup is made onto an USB-stick then the copy is made in the root and a copy in the folder fullbackup_<type> etc.
+
+Git 75
+- Very small change in handling/reporting unknown device
+
+Git 74
+- Very small change in selecting the correct model from the list
+
+Git 73
+- Added some kind of support for unknown receivers. If the receiver is not found in the lookuptable the program won't be aborted but a backup will be made with some standard file naming. The user has at least to rename the folder where the backup is made.
+Highly experimental but it is worth a go.
+WTE gave me the idea to read some necessities from the receiver. Thanks!
+
+Git 72
+- Some small alterations in the way the kernel is dumped, after dumping it will truncated to it's true size
+Inspired by the code of Athoik as seen in: http://tinyurl.com/ofmcvuo
+Thanks!
+
+Git 71
+- Openmb added support for the Miraclebox Mini plus and Micro
+
+Git 67
+- Some small alterations
+
+Git 64
+- Added support for the HD 500c
+
+Git 63
+- Russian translation improved (thanks to 2boom)
+
+Git 62
+- Added support for the HD 1200
+
+Git 61
+- Replaced the help and info buttons
+
+Git 60
+- Some fine tuning for the full HD skins
+
+Git 59
+- A first step to make the BackupSuite also useable on full HD format skins (1920*1080). 
+There still has to be done some work but because of the experimental stage of the full HD skin this has, for me, a low priority at the moment.
+
+Git 58
+- Some minor changes in the code (some inspired by code of Athoik)
+- Some cosmetics in the lookuptable

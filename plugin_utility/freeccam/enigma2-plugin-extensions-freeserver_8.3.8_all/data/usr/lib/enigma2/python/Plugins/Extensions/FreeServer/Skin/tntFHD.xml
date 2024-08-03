@@ -1,0 +1,19 @@
+<screen name="Menu" position="center,center" size="1920,1080" flags="wfNoBorder" backgroundColor="#40000000">
+    <ePixmap position="0,0" size="1920,1080" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FreeServer/Deco/RRFHD.png" alphatest="blend" transparent="1" zPosition="-1"/>
+    <widget name="text" position="80,150" font="bpmo;33" size="855,770" foregroundColor="#00bab329" transparent="1" zPosition="10"/>
+    <widget source="global.CurrentTime" render="Label" position="55,25" size="350,45" foregroundColor="#00ffffff" transparent="1" zPosition="1" font="bpmo;33">
+      <convert type="ClockToText">Format:%A, %d.%m.%Y</convert>
+    </widget>
+    <widget source="global.CurrentTime" render="Label" position="410,25" size="250,45" foregroundColor="#00ffffff" transparent="1" zPosition="1" font="bpmo;33" halign="right">
+      <convert type="ClockToText">Format:%-H:%M:%S</convert>
+    </widget>  
+    <!--widget name="key_green" position="165,532" size="200,30" foregroundColor="#008000" transparent="1" font="bpmo;28"/-->
+    <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FreeServer/Deco/button_blue.png" position="1005,746" size="40,20" zPosition="10" alphatest="blend" />
+    <eLabel text="info" zPosition="3" position="1060,738" size="160,35" font="Regular; 28" transparent="1" backgroundColor="black" halign="left" valign="left" />
+    <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FreeServer/Deco/button_yellow.png" position="1005,789" size="40,20" zPosition="10" alphatest="blend" />
+    <eLabel text="Freeserver" zPosition="3" position="1060,780" size="160,35" font="Regular; 28" transparent="1" backgroundColor="black" halign="left" valign="left" />
+    <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FreeServer/Deco/button_green.png" position="1005,833" size="40,20" zPosition="10" alphatest="blend" />
+    <eLabel text="Update" zPosition="3" position="1060,824" size="160,35" font="Regular; 28" transparent="1" backgroundColor="black" halign="left" valign="left" />
+    <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FreeServer/Deco/button_red.png" position="1005,876" size="40,20" zPosition="10" alphatest="blend" />
+    <eLabel text="Exit" zPosition="3" position="1060,868" size="160,35" font="Regular; 28" transparent="1" backgroundColor="black" halign="left" valign="left" />
+</screen>

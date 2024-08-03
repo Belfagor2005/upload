@@ -1,0 +1,71 @@
+<screen backgroundColor="transparent" flags="wfNoBorder" name="EventView" position="0,0" size="1920,1080" title="Eventview">
+  <widget name="epg_description" position="98,626" size="1150,350" font="Regular;30" foregroundColor="white" backgroundColor="transpBlack" transparent="0" zPosition="100" />
+  <widget render="xtraParental" source="session.Event_Now" position="1520,533" size="90,90" alphatest="blend" zPosition="25" transparent="0" />
+  <widget source="Event" render="iBackdropX" nextEvent="0" renderType="backdrop" alphatest="blend" position="69,89" size="1780,900" cornerRadius="15" zPosition="2" />
+  <eLabel name="" position="69,89" size="1780,900" cornerRadius="15" zPosition="0" />
+  <eLabel position="67,87" size="1784,904" backgroundColor="ltbluette" cornerRadius="15" transparent="0" zPosition="-100" />
+  <!-- Side Column Data -->
+  <widget alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_rec_on.png" position="1710,803" render="Pixmap" size="54,23" source="session.RecordState" zPosition="5">
+    <convert type="ConditionalShowHide">Blink</convert>
+  </widget>
+  <eLabel text="You're watching..." position="1380,639" size="362,42" transparent="1" valign="top" zPosition="5" halign="center" font="Regular; 30" foregroundColor="white" backgroundColor="transpBlack" />
+  <widget halign="center" font="Regular; 32" noWrap="1" foregroundColor="yellow" backgroundColor="transpBlack" options="movetype=running,direction=left,startpoint=0,startdelay=6000,wrap=1,always=0,repeat=5,oneshot=1" position="1260,359" render="iRunningText" size="588,44" source="Event" transparent="1" zPosition="5">
+    <convert type="EventName">Name</convert>
+  </widget>
+  <ePixmap alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_hbbtv_off.png" position="1380,803" size="64,25" zPosition="5" />
+  <widget alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_hbbtv_on.png" position="1380,803" render="Pixmap" size="64,25" source="session.CurrentService" zPosition="5">
+    <convert type="ServiceInfo">HasHBBTV</convert>
+    <convert type="ConditionalShowHide" />
+  </widget>
+  <ePixmap alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_txt_off.png" position="1501,803" size="32,25" zPosition="5" />
+  <widget alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_txt_on.png" position="1501,803" render="Pixmap" size="32,25" source="session.CurrentService" zPosition="5">
+    <convert type="ServiceInfo">HasTelext</convert>
+    <convert type="ConditionalShowHide" />
+  </widget>
+  <ePixmap alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_dolby_off.png" position="1454,803" size="36,25" zPosition="5" />
+  <widget alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_dolby_on.png" position="1454,803" render="Pixmap" size="36,25" source="session.CurrentService" zPosition="5">
+    <convert type="ServiceInfo">IsMultichannel</convert>
+    <convert type="ConditionalShowHide" />
+  </widget>
+  <widget alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_sd_off.png" position="1601,803" render="Pixmap" size="49,25" source="session.CurrentService" zPosition="5">
+    <convert type="ServiceInfo">VideoWidth</convert>
+    <convert type="ValueRange">0,720</convert>
+    <convert type="ConditionalShowHide" />
+  </widget>
+  <widget alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_hd_on.png" position="1601,803" render="Pixmap" size="49,25" source="session.CurrentService" zPosition="5">
+    <convert type="ServiceInfo">IsHD</convert>
+    <convert type="ConditionalShowHide" />
+  </widget>
+  <widget alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_uhd_on.png" position="1601,803" render="Pixmap" size="49,25" source="session.CurrentService" zPosition="5">
+    <convert type="ServiceInfo">Is4K</convert>
+    <convert type="ConditionalShowHide" />
+  </widget>
+  <ePixmap alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_format_off.png" position="1544,803" size="47,25" zPosition="5" />
+  <widget alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_format_on.png" position="1544,803" render="Pixmap" size="47,25" source="session.CurrentService" zPosition="5">
+    <convert type="ServiceInfo">IsWidescreen</convert>
+    <convert type="ConditionalShowHide" />
+  </widget>
+  <ePixmap alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_crypt_off.png" position="1660,803" size="37,25" zPosition="5" />
+  <widget alphatest="blend" pixmap="oDreamy-FHD/icons/art/ico_crypt_on.png" position="1660,803" render="Pixmap" size="37,25" source="session.CurrentService" zPosition="5">
+    <convert type="ServiceInfo">IsCrypted</convert>
+    <convert type="ConditionalShowHide" />
+  </widget>
+  <widget source="session.Event_Now" render="Progress" position="1415,740" size="315,12" backgroundColor="header" foregroundGradient="green,yellow,red,horizontal" borderWidth="1" borderColor="grey" cornerRadius="20" zPosition="5" transparent="1">
+    <convert type="EventTime">Progress</convert>
+  </widget>
+  <eLabel backgroundColor="transpBlack" font="Regular; 30" foregroundColor="white" halign="right" position="1345,474" size="280,40" text="Program Duration:" transparent="1" zPosition="5" />
+  <widget source="session.CurrentService" render="Label" position="1260,305" size="588,50" font="Regular; 30" zPosition="5" halign="center" valign="center" noWrap="1" transparent="1" backgroundColor="transpBlack">
+    <convert type="ServiceName">Name</convert>
+  </widget>
+  <widget backgroundColor="transpBlack" font="Regular; 30" foregroundColor="white" halign="center" name="datetime" position="1325,415" size="467,40" transparent="1" zPosition="5" />
+  <widget backgroundColor="transpBlack" font="Regular; 30" foregroundColor="red" halign="left" name="duration" position="1634,474" size="190,40" transparent="1" zPosition="5" />
+  <ePixmap alphatest="blend" pixmap="oDreamy-FHD/icons/art/left.png" position="1280,418" size="36,36" transparent="1" zPosition="10" />
+  <ePixmap alphatest="blend" pixmap="oDreamy-FHD/icons/art/right.png" position="1804,418" size="36,36" transparent="1" zPosition="10" />
+  <widget foregroundColor="yellow" backgroundColor="transpBlack" font="Regular; 32" halign="center" noWrap="1" options="movetype=running,direction=left,startpoint=0,startdelay=6000,wrap=1,always=0,repeat=5,oneshot=1" position="1260,687" render="iRunningText" size="588,44" source="session.Event_Now" transparent="1" zPosition="5">
+    <convert type="EventName">Name</convert>
+  </widget>
+  <widget alphatest="blend" position="1451,145" render="Picon" size="220,132" source="Service" transparent="1" zPosition="5">
+    <convert type="ServiceName">Reference</convert>
+  </widget>
+  <ePixmap alphatest="blend" pixmap="oDreamy-FHD/difuse.png" position="69,89" size="1780,900" cornerRadius="15" transparent="0" zPosition="3" />
+</screen>

@@ -1,0 +1,9 @@
+Package: enigma2-plugin-extensions-chessboard
+Version: 0.2-r0
+Description: Plugin um Gnu-Chess zu spielen
+Section: games
+Priority: optional
+Maintainer: robert.damas@byom.de
+License: MIT
+Architecture: all
+Depends: gnuchess, python-chess

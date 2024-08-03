@@ -1,0 +1,18 @@
+<screen name="ChannelSelection" position="0,0" size="1920,1080" title="Channel Selection" backgroundColor="transparent" flags="wfNoBorder">
+  <panel name="ChannelSelectionTemplate" />
+  <!-- XtraEvent Posters */ -->
+  <widget source="ServiceEvent" render="xtraNextEvents" nextEvent="0" usedImage="poster" delayPic="0" text="CurrentEvent" position="1030,122" cornerRadius="15" size="300,400" zPosition="100" borderWidth="2" borderColor="ltbluette" />
+  <widget source="ServiceEvent" render="xtraNextEvents" nextEvent="1" usedImage="poster" delayPic="0" text="Event 1" position="1030,740" cornerRadius="15" size="130,200" zPosition="100" borderWidth="2" borderColor="ltbluette" />
+  <widget source="ServiceEvent" render="xtraNextEvents" nextEvent="2" usedImage="poster" delayPic="0" text="Event 2" position="1180,740" cornerRadius="15" size="130,200" zPosition="100" borderWidth="2" borderColor="ltbluette" />
+  <widget source="ServiceEvent" render="xtraNextEvents" nextEvent="3" usedImage="poster" delayPic="0" text="Event 3" position="1328,740" cornerRadius="15" size="130,200" zPosition="100" borderWidth="2" borderColor="ltbluette" />
+  <widget source="ServiceEvent" render="xtraNextEvents" nextEvent="4" usedImage="poster" delayPic="0" text="Event 4" position="1477,740" cornerRadius="15" size="130,200" zPosition="100" borderWidth="2" borderColor="ltbluette" />
+  <widget source="ServiceEvent" render="xtraNextEvents" nextEvent="5" usedImage="poster" delayPic="0" text="Event 5" position="1625,740" cornerRadius="15" size="130,200" zPosition="100" borderWidth="2" borderColor="ltbluette" />
+  <widget source="ServiceEvent" render="xtraNextEvents" nextEvent="6" usedImage="poster" delayPic="0" text="Event 6" position="1773,740" cornerRadius="15" size="130,200" zPosition="100" borderWidth="2" borderColor="ltbluette" />
+  <!-- XtraEvent Events */ -->
+  <widget source="ServiceEvent" render="xtraNxtEvnt" nxtEvents="" snglEvent="1" font="Regular;20" position="1030,548" size="400,25" halign="left" zPosition="5" foregroundColor="yellow" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="xtraNxtEvnt" nxtEvents="" snglEvent="2" font="Regular;20" position="1030,577" size="400,25" halign="left" zPosition="5" foregroundColor="#eeeeee" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="xtraNxtEvnt" nxtEvents="" snglEvent="3" font="Regular;20" position="1030,606" size="400,25" halign="left" zPosition="5" foregroundColor="#dcdcdc" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="xtraNxtEvnt" nxtEvents="" snglEvent="4" font="Regular;20" position="1030,634" size="400,25" halign="left" zPosition="5" foregroundColor="#c4c4c4" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="xtraNxtEvnt" nxtEvents="" snglEvent="6" font="Regular;20" position="1030,690" size="400,25" halign="left" zPosition="5" foregroundColor="#818181" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="xtraNxtEvnt" nxtEvents="" snglEvent="5" font="Regular;20" position="1030,662" size="400,25" halign="left" zPosition="5" foregroundColor="#a0a0a0" backgroundColor="black" transparent="1" />
+</screen>

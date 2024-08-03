@@ -1,0 +1,11 @@
+Package: enigma2-plugin-cams-vicam-mips
+Version: 2.1
+Description: cam
+Section: extra
+Priority: optional
+Maintainer: Levi45
+Architecture: all
+OE: *
+Source: *
+Depends: enigma2
+

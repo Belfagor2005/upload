@@ -1,0 +1,362 @@
+<skin>
+  <output id="0">
+    <resolution bpp="32" xres="1920" yres="1080" />
+  </output>
+  <!-- INSPIRON MODIFIED SCREENS -->
+  <include filename="oDreamy-FHD/skin_templates.xml" />
+  <include filename="oDreamy-FHD/skin_channellist-ChannelList0-7Px.xml" />
+  <include filename="oDreamy-FHD/skin_channellist-ChannelList1-NP.xml" />
+  <include filename="oDreamy-FHD/skin_channellist-ChannelList2-7P-xtraEvent.xml" />
+  <include filename="oDreamy-FHD/skin_channellist-ChannelList3-7P-Pxtra.xml" />
+  <include filename="oDreamy-FHD/skin_channellist-ChannelList4-7P-N.xml" />
+  <include filename="oDreamy-FHD/skin_EPGSelection1-1P.xml" />
+  <include filename="oDreamy-FHD/skin_eventview-EventView1-NP.xml" />
+  <include filename="oDreamy-FHD/skin_eventview-EventView2-1P-big.xml" />
+  <include filename="oDreamy-FHD/skin_eventview-EventView3-7P.xml" />
+  <include filename="oDreamy-FHD/skin_infobar-InfoBar-1P.xml" />
+  <include filename="oDreamy-FHD/skin_infobar-InfoBar-NP.xml" />
+  <include filename="oDreamy-FHD/skin_secondinfobar-SecondInfobar-2P.xml" />
+  <include filename="oDreamy-FHD/skin_secondinfobar-SecondInfobar-NP.xml" />
+  <!-- External Files FHD -->
+  <fonts>
+    <font name="Regular" filename="/usr/share/enigma2/oDreamy-FHD/fonts/verdana.ttf" scale="96" />
+    <font name="LCD" filename="/usr/share/fonts/lcd.ttf" scale="100" />
+    <font name="Console" filename="/usr/share/fonts/tuxtxt.ttf" scale="100" />
+    <font name="Fixed" filename="/usr/share/fonts/andale.ttf" scale="100" />
+    <font name="Replacement" filename="/usr/share/fonts/ae_AlMateen.ttf" scale="100" replacement="1" />
+    <font filename="oDreamy-FHD/fonts/ae_AlMateen.ttf" name="Regularn" scale="100" />
+    <font filename="oDreamy-FHD/fonts/DejaVuSans.ttf" name="DejaVuSans" scale="100" />
+    <font filename="oDreamy-FHD/fonts/arial.ttf" name="Arial" scale="100" replacement="1" />
+    <font filename="oDreamy-FHD/fonts/calibri.ttf" name="Calibri" scale="100" />
+    <font filename="oDreamy-FHD/fonts/DUBAI-REGULAR.ttf" name="DUBAI-REGULAR" scale="100" />
+    <font filename="oDreamy-FHD/fonts/eurofighteroutital.ttf" name="eurofighteroutital" scale="100" />
+    <font filename="oDreamy-FHD/fonts/andlso.ttf" name="Andlso" scale="100" />
+    <font filename="oDreamy-FHD/fonts/times.ttf" name="Times" scale="100" />
+    <font filename="oDreamy-FHD/fonts/georgia.ttf" name="Georgia" scale="100" />
+    <font name="xRegular" filename="/usr/share/fonts/nmsbd.ttf" scale="100" />
+    <alias name="Body" font="Regular" size="32" height="50" />
+    <alias name="TextNormal" font="Regular" size="30" height="50" />
+    <alias name="ChoiceList" font="Regular" size="32" height="50" />
+    <alias name="FileList" font="Regular" size="30" height="50" />
+    <alias name="FileListMulti" font="Regular" size="30" height="50" />
+    <alias name="PluginBrowser0" font="Regular" size="32" height="76" />
+    <alias name="PluginBrowser1" font="Regular" size="22" />
+    <alias name="ServiceInfo" font="Regular" size="30" height="45" />
+    <alias name="SelectionList" font="Regular" size="28" height="50" />
+    <alias name="PartnerBoxEntryList0" font="Regular" size="28" height="38" />
+    <alias name="PartnerBoxEntryList1" font="Regular" size="28" />
+    <alias name="PartnerBoxE2TimerMenu0" font="Regular" size="32" height="114" />
+    <alias name="PartnerBoxE2TimerMenu1" font="Regular" size="28" />
+    <alias name="PartnerBoxBouquetList0" font="Regular" size="32" height="45" />
+    <alias name="PartnerBoxBouquetList1" font="Regular" size="28" />
+    <alias name="PartnerBoxChannelList0" font="Regular" size="32" height="114" />
+    <alias name="PartnerBoxChannelList1" font="Regular" size="28" />
+    <alias name="PartnerBoxChannelEPGList0" font="Regular" size="32" height="38" />
+    <alias name="PartnerBoxChannelEPGList1" font="Regular" size="24" />
+    <alias name="VirtualKeyBoard" font="Regular" size="42" height="68" />
+    <alias name="HelpMenuList" font="Regular" size="30" height="45" />
+    <alias name="HelpMenuListExt0" font="Regular" size="32" height="75" />
+    <alias name="HelpMenuListExt1" font="Regular" size="28" />
+    <alias name="Dreamexplorer" font="Regular" size="28" height="38" />
+    <alias name="PlayList" font="Regular" size="28" height="50" />
+    <alias name="MenuList" font="Regular" size="28" height="50" />
+  </fonts>
+  <parameters>
+    <parameter name="AllowUserDatesAndTimes" value="2,2" />
+    <parameter name="ConfigListSeperator" value="500" />
+    <parameter name="ChoicelistDash" value="0,3,1000,50" />
+    <parameter name="ChoicelistName" value="85,2,1000,53" />
+    <parameter name="ChoicelistIcon" value="10,5,64,50" />
+    <parameter name="ChoicelistIconVerticalline" value="10,2,50,50" />
+    <parameter name="ChoicelistIconExpanded" value="10,2,50,50" />
+    <parameter name="ChoicelistNameSingle" value="5,0,1000,50" />
+    <parameter name="ChoicelistVerticalAlignment" value="*center" />
+    <parameter name="FileListName" value="68,4,1000,50" />
+    <parameter name="FileListIcon" value="7,4,52,50" />
+    <parameter name="FileListMultiName" value="110,3,1000,50" />
+    <parameter name="FileListMultiIcon" value="55,4,50,50" />
+    <parameter name="FileListMultiLock" value="2,0,50,50" />
+    <parameter name="PluginBrowserName" value="180,8,38" />
+    <parameter name="PluginBrowserDescr" value="180,42,25" />
+    <parameter name="PluginBrowserIcon" value="15,8,150,60" />
+    <parameter name="PluginBrowserDownloadName" value="120,8,38" />
+    <parameter name="PluginBrowserDownloadDescr" value="120,42,25" />
+    <parameter name="PluginBrowserDownloadIcon" value="15,0,90,76" />
+    <parameter name="ServiceInfo" value="0,0,450,50" />
+    <parameter name="ServiceInfoLeft" value="5,5,450,45" />
+    <parameter name="ServiceInfoRight" value="450,5,1000,45" />
+    <parameter name="SelectionListDescr" value="75,10,1000,50" />
+    <parameter name="SelectionListLock" value="10,7,50,50" />
+    <parameter name="SelectionListLockOff" value="10,7,50,50" />
+    <parameter name="VirtualKeyBoard" value="68,68" />
+    <parameter name="VirtualKeyBoardAlignment" value="0,0" />
+    <parameter name="VirtualKeyBoardPadding" value="6,6" />
+    <parameter name="VirtualKeyBoardShiftColors" value="0x00ffffff,0x00ffffff,0x0000ffff,0x00ff00ff" />
+    <parameter name="PartnerBoxEntryListName" value="8,2,225,38" />
+    <parameter name="PartnerBoxEntryListIP" value="180,2,225,38" />
+    <parameter name="PartnerBoxEntryListPort" value="405,2,150,38" />
+    <parameter name="PartnerBoxEntryListType" value="615,2,150,38" />
+    <parameter name="PartnerBoxTimerServicename" value="0,0,45" />
+    <parameter name="PartnerBoxTimerName" value="0,42,30" />
+    <parameter name="PartnerBoxE1TimerTime" value="0,78,255,30" />
+    <parameter name="PartnerBoxE1TimerState" value="255,78,255,30" />
+    <parameter name="PartnerBoxE2TimerTime" value="0,78,225,30" />
+    <parameter name="PartnerBoxE2TimerState" value="225,78,225,30" />
+    <parameter name="PartnerBoxE2TimerIcon" value="735,8,60,60" />
+    <parameter name="PartnerBoxBouquetListName" value="0,0,45" />
+    <parameter name="PartnerBoxChannelListName" value="0,0,45" />
+    <parameter name="PartnerBoxChannelListTitle" value="0,42,30" />
+    <parameter name="PartnerBoxChannelListTime" value="0,78,225,30" />
+    <parameter name="HelpMenuListHlp" value="0,0,900,42" />
+    <parameter name="HelpMenuListExtHlp0" value="0,0,900,39" />
+    <parameter name="HelpMenuListExtHlp1" value="0,42,900,30" />
+    <parameter name="AboutHddSplit" value="1" />
+    <parameter name="DreamexplorerName" value="62,0,1200,38" />
+    <parameter name="DreamexplorerIcon" value="15,4,30,30" />
+    <parameter name="PicturePlayerThumb" value="30,285,45,300,30,25" />
+    <parameter name="PlayListName" value="65,2,1000,50" />
+    <parameter name="PlayListIcon" value="10,0,50,50" />
+    <parameter name="WeatherPluginSearchlocation" value="10,0,550,70" />
+    <parameter name="WeatherPluginSearchresult" value="470,0,500,70" />
+    <parameter name="WeatherPluginCity" value="10,0,700,50" />
+    <parameter name="WeatherPluginDegreetype" value="465,0,100,50" />
+  </parameters>
+  <!-- Switch menu pic -->
+  <switchpixmap>
+    <pixmap name="menu_on" filename="egami_skin_default/menu/menu_on.png" />
+    <pixmap name="menu_off" filename="egami_skin_default/menu/menu_off.png" />
+  </switchpixmap>
+  <!-- Colors FHD -->
+  <colors>
+  <color name="#10000000" value="#10000000" />
+  <color name="#10083980" value="#10083980" />
+  <color name="#101010" value="#00101010" />
+  <color name="#10101010" value="#10101010" />
+  <color name="#10202020" value="#10202020" />
+  <color name="#102e59" value="#00102e59" />
+  <color name="#10303030" value="#10303030" />
+  <color name="#10404040" value="#10404040" />
+  <color name="#10808080" value="#10808080" />
+  <color name="#1080911" value="#01080911" />
+  <color name="#114c0000" value="#114c0000" />
+  <color name="#121212" value="#00121212" />
+  <color name="#152a62" value="#00152a62" />
+  <color name="#1842" value="#00001842" />
+  <color name="#1a27408b" value="#1a27408b" />
+  <color name="#1e58" value="#00001e58" />
+  <color name="#20009f3c" value="#20009f3c" />
+  <color name="#20101010" value="#20101010" />
+  <color name="#202020" value="#00202020" />
+  <color name="#20202020" value="#20202020" />
+  <color name="#20224f" value="#0020224f" />
+  <color name="#20303030" value="#20303030" />
+  <color name="#20343c4f" value="#20343c4f" />
+  <color name="#204176b6" value="#204176b6" />
+  <color name="#20808080" value="#20808080" />
+  <color name="#20b81c46" value="#20b81c46" />
+  <color name="#242fd" value="#000242fd" />
+  <color name="#25062748" value="#25062748" />
+  <color name="#254f7497" value="#254f7497" />
+  <color name="#2771ff" value="#002771ff" />
+  <color name="#2b68ff" value="#002b68ff" />
+  <color name="#30000000" value="#30000000" />
+  <color name="#30101010" value="#30101010" />
+  <color name="#303030" value="#00303030" />
+  <color name="#30808080" value="#30808080" />
+  <color name="#31000000" value="#31000000" />
+  <color name="#325e" value="#0000325e" />
+  <color name="#33000000" value="#33000000" />
+  <color name="#33294a6b" value="#33294a6b" />
+  <color name="#333333" value="#00333333" />
+  <color name="#363b38" value="#00363b38" />
+  <color name="#389416" value="#00389416" />
+  <color name="#38ff48" value="#0038ff48" />
+  <color name="#40000000" value="#40000000" />
+  <color name="#404030" value="#00404030" />
+  <color name="#404040" value="#00404040" />
+  <color name="#40404040" value="#40404040" />
+  <color name="#4205" value="#00004205" />
+  <color name="#44000000" value="#44000000" />
+  <color name="#4d4b4b" value="#004d4b4b" />
+  <color name="#4e5a74" value="#004e5a74" />
+  <color name="#4f7497" value="#004f7497" />
+  <color name="#505050" value="#00505050" />
+  <color name="#50808080" value="#50808080" />
+  <color name="#50ef" value="#000050ef" />
+  <color name="#51fff7" value="#0051fff7" />
+  <color name="#5202020" value="#05202020" />
+  <color name="#5483fe" value="#005483fe" />
+  <color name="#55000000" value="#55000000" />
+  <color name="#5b00" value="#00005b00" />
+  <color name="#606060" value="#00606060" />
+  <color name="#66" value="#00000066" />
+  <color name="#66bfff" value="#0066bfff" />
+  <color name="#66ff" value="#000066ff" />
+  <color name="#6e6e6e" value="#006e6e6e" />
+  <color name="#707070" value="#00707070" />
+  <color name="#7300" value="#00007300" />
+  <color name="#80000000" value="#80000000" />
+  <color name="#808080" value="#00808080" />
+  <color name="#818181" value="#00818181" />
+  <color name="#83980" value="#00083980" />
+  <color name="#999999" value="#00999999" />
+  <color name="#9dc042" value="#009dc042" />
+  <color name="#a08500" value="#00a08500" />
+  <color name="#a0a0a0" value="#00a0a0a0" />
+  <color name="#aa001842" value="#aa001842" />
+  <color name="#abe9" value="#0000abe9" />
+  <color name="#b0b0b0" value="#00b0b0b0" />
+  <color name="#b8b8b8" value="#00b8b8b8" />
+  <color name="#bab329" value="#00bab329" />
+  <color name="#c4c4c4" value="#00c4c4c4" />
+  <color name="#c9c2c2" value="#00c9c2c2" />
+  <color name="#cccccc" value="#00cccccc" />
+  <color name="#d0d0d0" value="#00d0d0d0" />
+  <color name="#daa520" value="#00daa520" />
+  <color name="#dc87ff" value="#00dc87ff" />
+  <color name="#dcaaaa" value="#00dcaaaa" />
+  <color name="#dcdcdc" value="#00dcdcdc" />
+  <color name="#dddddd" value="#00dddddd" />
+  <color name="#df0b1300" value="#df0b1300" />
+  <color name="#e1e1ef" value="#00e1e1ef" />
+  <color name="#e5b243" value="#00e5b243" />
+  <color name="#ecbb41" value="#00ecbb41" />
+  <color name="#eeeeee" value="#00eeeeee" />
+  <color name="#f1f5e6" value="#00f1f5e6" />
+  <color name="#f2f2f2" value="#00f2f2f2" />
+  <color name="#ff00" value="#0000ff00" />
+  <color name="#ff0000" value="#00ff0000" />
+  <color name="#ff000000" value="#ff000000" />
+  <color name="#ff101010" value="#ff101010" />
+  <color name="#ff2525" value="#00ff2525" />
+  <color name="#ffba00" value="#00ffba00" />
+  <color name="#ffd700" value="#00ffd700" />
+  <color name="#ffe500" value="#00ffe500" />
+  <color name="#fff000" value="#00fff000" />
+  <color name="#fff3e7" value="#00fff3e7" />
+  <color name="#ffff00" value="#00ffff00" />
+  <color name="#ffff40" value="#00ffff40" />
+  <color name="10000000" value="#00ff00ff" />
+  <color name="1Blue" value="#000021e6" />
+  <color name="1Brown" value="#00452726" />
+  <color name="1Green" value="#001c470e" />
+  <color name="1Grey" value="#002e2e2e" />
+  <color name="1Maroon" value="#006e0b06" />
+  <color name="1Orange" value="#00bd291d" />
+  <color name="1Pink" value="#008a204b" />
+  <color name="1Purple" value="#004f1154" />
+  <color name="1Teal" value="#00143636" />
+  <color name="background" value="#20000000" />
+  <color name="backpurple" value="#0073c6ff" />
+  <color name="bkblue" value="#00162b49" />
+  <color name="bkinfobar" value="#00204372" />
+  <color name="black" value="#00000000" />
+  <color name="blue" value="#00879ce1" />
+  <color name="bluenew" value="#00272e43" />
+  <color name="bluetransparent" value="#08001e4b" />
+  <color name="bluette" value="#0024FF" />
+  <color name="Brown" value="#00a86339" />
+  <color name="dark" value="#00242424" />
+  <color name="darkgrey" value="#00555556" />
+  <color name="dreamy" value="#00182963" />
+  <color name="foreground" value="#00f0f0f0" />
+  <color name="green" value="#0056c856" />
+  <color name="greentransparent" value="#08004c00" />
+  <color name="grey" value="#00aaaaaa" />
+  <color name="header" value="#20000000" />
+  <color name="infobarBG" value="#41080808" />
+  <color name="listbox" value="#000f56a4" />
+  <color name="ltbluette" value="#3282F6" />
+  <color name="noTransBG" value="#00101214" />
+  <color name="oGold" value="#0099e5ff" />
+  <color name="oGreen" value="#004ba615" />
+  <color name="oGrey" value="#004ba615" />
+  <color name="oLBlue" value="#0099e5ff" />
+  <color name="oMaroon" value="#009f1313" />
+  <color name="oOrange" value="#00f4400b" />
+  <color name="orange" value="#00ffc000" />
+  <color name="oRed" value="#00ff0000" />
+  <color name="rds_text_bg" value="#00003258" />
+  <color name="red" value="#00ff4a3c" />
+  <color name="redtransparent" value="#084c0000" />
+  <color name="rssviewtop" value="#00005050" />
+  <color name="secondBG" value="#18101214" />
+  <color name="secondFG" value="#00fcc000" />
+  <color name="selectedBG" value="#06303240" />
+  <color name="selectedFG" value="#00fcc000" />
+  <color name="transparent" value="#ff111111" />
+  <color name="transpBlack" value="#54111112" />
+  <color name="transpBlack2" value="#80000000" />
+  <color name="transpWhite" value="#70f0f0f0" />
+  <color name="trbluette" value="#201b3c85" />
+  <color name="unff0000" value="#00ff00ff" />
+  <color name="white" value="#00ffffff" />
+  <color name="yellow" value="#00ffc000" />
+  <color name="yellowtransparent" value="#084b4b00" />
+</colors>
+  <!-- Main screen colors (id=0 Framebuffer) FHD -->
+  <windowstyle type="skinned" id="0">
+    <title offset="130,15" font="Regular;40" />
+    <configList entryFont="Regular;28" valueFont="Regular;28" />
+    <scrolllabel scrollbarWidth="8" scrollbarBorderWidth="1" />
+    <listbox scrollbarWidth="8" scrollbarBorderWidth="1" pageSize="0" scrollbarOffset="5" />
+    <color name="Background" color="header" />
+    <color name="LabelForeground" color="white" />
+    <color name="ListboxBackground" color="header" />
+    <color name="ListboxForeground" color="white" />
+    <color name="ListboxSelectedBackground" color="#204176b6" />
+    <color name="ListboxSelectedForeground" color="white" />
+    <color name="ListboxMarkedBackground" color="header" />
+    <color name="ListboxMarkedForeground" color="#ff00" />
+    <color name="ListboxMarkedAndSelectedBackground" color="#204176b6" />
+    <color name="ListboxMarkedAndSelectedForeground" color="#ff00" />
+    <color name="WindowTitleForeground" color="ltbluette" />
+    <color name="WindowTitleBackground" color="bluette" />
+    <!-- screen border png's -->
+    <borderset name="bsWindow">
+      <pixmap pos="bpTopLeft" filename="/usr/share/enigma2/oDreamy-FHD/box/b_tl.png" />
+      <pixmap pos="bpTop" filename="/usr/share/enigma2/oDreamy-FHD/box/b_t.png" />
+      <pixmap pos="bpTopRight" filename="/usr/share/enigma2/oDreamy-FHD/box/b_tr.png" />
+      <pixmap pos="bpLeft" filename="/usr/share/enigma2/oDreamy-FHD/box/b_ll.png" />
+      <pixmap pos="bpRight" filename="/usr/share/enigma2/oDreamy-FHD/box/b_lr.png" />
+      <pixmap pos="bpBottomLeft" filename="/usr/share/enigma2/oDreamy-FHD/box/b_bl.png" />
+      <pixmap pos="bpBottom" filename="/usr/share/enigma2/oDreamy-FHD/box/b_b.png" />
+      <pixmap pos="bpBottomRight" filename="/usr/share/enigma2/oDreamy-FHD/box/b_br.png" />
+    </borderset>
+  </windowstyle>
+  <!-- Main screen colors (id=1 LCD) FHD -->
+  <windowstyle type="skinned" id="1">
+    <color name="Background" color="black" />
+    <color name="LabelForeground" color="white" />
+    <color name="ListboxBackground" color="black" />
+    <color name="ListboxForeground" color="white" />
+    <color name="ListboxSelectedBackground" color="black" />
+    <color name="ListboxSelectedForeground" color="white" />
+    <color name="ListboxMarkedBackground" color="black" />
+    <color name="ListboxMarkedForeground" color="white" />
+    <color name="ListboxMarkedAndSelectedBackground" color="black" />
+    <color name="ListboxMarkedAndSelectedForeground" color="white" />
+    <color name="WindowTitleForeground" color="white" />
+    <color name="WindowTitleBackground" color="black" />
+  </windowstyle>
+  <!-- Main screen colors (id=2 Color OLED (dm800se)) FHD -->
+  <windowstyle type="skinned" id="2">
+    <color name="Background" color="black" />
+    <color name="LabelForeground" color="white" />
+    <color name="ListboxBackground" color="black" />
+    <color name="ListboxForeground" color="white" />
+    <color name="ListboxSelectedBackground" color="black" />
+    <color name="ListboxSelectedForeground" color="white" />
+    <color name="ListboxMarkedBackground" color="black" />
+    <color name="ListboxMarkedForeground" color="white" />
+    <color name="ListboxMarkedAndSelectedBackground" color="black" />
+    <color name="ListboxMarkedAndSelectedForeground" color="white" />
+    <color name="WindowTitleForeground" color="white" />
+    <color name="WindowTitleBackground" color="black" />
+  </windowstyle>
+  <subtitles>
+    <sub name="Subtitle_TTX" font="Regular;45" shadowColor="#40101010" shadowOffset="5,5" borderWidth="3" />
+    <sub name="Subtitle_Regular" font="Regular;45" foregroundColor="#dcdcdc" shadowColor="#40101010" shadowOffset="5,5" borderWidth="3" />
+    <sub name="Subtitle_Bold" font="Replacement;45" foregroundColor="#dcdcdc" shadowColor="#40101010" shadowOffset="5,5" borderWidth="3" />
+    <sub name="Subtitle_Italic" font="Regular;45" foregroundColor="#dcaaaa" shadowColor="#40101010" shadowOffset="5,5" borderWidth="3" />
+  </subtitles>

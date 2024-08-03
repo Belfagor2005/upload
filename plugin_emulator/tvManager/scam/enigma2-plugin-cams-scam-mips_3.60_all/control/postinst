@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "***********************************************************"
+echo "*                      CCCam - Installed                  *"
+echo "*       Restart Enigma-2 GUI to activate the plugins      *"
+echo "***********************************************************"
+exit 0

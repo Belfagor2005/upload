@@ -1,0 +1,12 @@
+Package: gnuchess
+Version: 6.2.9-r0
+Priority: optional
+Section: games
+Depends: libc6 (>= 2.21), libgcc1, libstdc++6, libncurses5, libtinfo5, libreadline6
+Homepage: http://www.gnu.org/software/chess/
+Architecture: armv7ahf-vfp-neon
+Description: Plays a game of chess, either against the user or against itself
+ Gnuchess is an updated version of the GNU chess playing program. It is now
+ based on the fruit chess engine and uses the UCI chess engine protocol. It has
+ a simple alpha-numeric board display, and is also compatible with frontends
+ like xboard, scid and eboard.

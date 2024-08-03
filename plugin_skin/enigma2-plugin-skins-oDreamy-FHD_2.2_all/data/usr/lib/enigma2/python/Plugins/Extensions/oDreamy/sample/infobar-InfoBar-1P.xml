@@ -1,0 +1,11 @@
+<screen name="InfoBar" position="0,0" size="1920,1080" title="InfoBar" backgroundColor="transparent" flags="wfNoBorder">
+  <panel name="InfoBarTemplate" />
+  <widget source="session.Event_Now" render="iPosterX" position="1518,370" cornerRadius="15" size="375,500" alphatest="blend" transparent="1" zPosition="-5" />
+  <widget backgroundColor="transpBlack" foregroundColor="ltbluette" font="Regular; 55" position="6,370" render="Label" size="1300,100" source="session.Event_Now" transparent="1" valign="center" zPosition="1" borderWidth="2" borderColor="black">
+    <convert type="EventName">Name</convert>
+  </widget>
+  <widget backgroundColor="transpBlack" font="Regular; 25" position="6,475" size="1000,300" render="iRunningText" options="movetype=running,direction=top,startpoint=0,startdelay=6000,wrap=1,always=0,repeat=2,oneshot=1" source="session.Event_Now" transparent="1" zPosition="1">
+    <convert type="EventName">ExtendedDescription</convert>
+  </widget>
+  <ePixmap pixmap="oDreamy-FHD/difuse.png" position=",0" size="1920,1080" zPosition="-9" transparent="1" />
+</screen>

@@ -1,0 +1,33 @@
+<skin>                                                                  
+<screen name="FreeServermino" position="center,center" size="1280,720" flags="wfNoBorder" title="Free Server mino60" backgroundColor="#16000000">
+<widget name="config" font="bpmo;33" itemHeight="40" position="188,70" size="886,280" scrollbarMode="showOnDemand" zPosition="3" transparent="1" backgroundColor="#80000000" foregroundColor="#00ffffff" selectionPixmap="/usr/lib/enigma2/python/Plugins/Extensions/FreeServer/Deco/select.png"/>
+<widget name="Box_1" position="420,2" zPosition="3" size="480,50" font="bpmo;32" foregroundColor="#00e5b243" backgroundColor="#80000000" transparent="1" halign="center" valign="center" />
+<!--widget name="Box_2" position="315,215" zPosition="3" size="650,300" font="bpmo;32" foregroundColor="#00ffffff" backgroundColor="#80000000" transparent="1" halign="center" valign="center" /-->
+<widget name="Box_3" position="171,340" zPosition="3" size="489,222" font="bpmo;32" foregroundColor="#00ffffff" backgroundColor="#80000000" transparent="1" halign="center" valign="center" />
+<widget name="Box_33" position="612,340" zPosition="3" size="489,222" font="bpmo;32" foregroundColor="#00ffffff" backgroundColor="#80000000" transparent="1" halign="center" valign="center" />
+<widget name="Box_4" position="250,566" zPosition="3" size="775,50" font="bpmo;28" foregroundColor="#00389416" backgroundColor="#80000000" transparent="1" halign="center" valign="center" />
+<eLabel position="180,705" size="230,10" backgroundColor="#bf0000" zPosition="3" />
+<eLabel position="410,705" size="230,10" backgroundColor="#2a623d" zPosition="3" />
+<eLabel position="640,705" size="230,10" backgroundColor="#ffcf40" zPosition="3" />
+<eLabel position="870,705" size="230,10" backgroundColor="#0000ff" zPosition="3" />                        
+<eLabel text="Exit" zPosition="3" position="220,655" size="150,35" font="bpmo;24" transparent="1" backgroundColor="black" halign="center" valign="center" />
+<eLabel text="Save(ok)" zPosition="3" position="446,655" size="150,35" font="bpmo;24" transparent="1" backgroundColor="black" halign="center" valign="center" />
+<eLabel text="Run Now" zPosition="3" position="676,655" size="150,35" font="bpmo;24" transparent="1" backgroundColor="black" halign="center" valign="center" />
+<eLabel text="Menu" zPosition="3" position="908,655" size="150,35" font="bpmo;28" transparent="1" backgroundColor="black" halign="center" valign="center" />
+<widget source="global.CurrentTime" render="Label" zPosition="3" position="130,2" size="350,50" font="bpmo;28" backgroundColor="#00ffffff" transparent="1" valign="center" halign="left">
+<convert type="ClockToText">Format:%A  %d. %B</convert>
+</widget>
+<widget name="text" position="250,600" size="775,50" font="bpmo; 32" valign="center" halign="center" backgroundColor="#80000000" foregroundColor="#00ffffff" transparent="0" zPosition="5" />
+<widget source="global.CurrentTime" render="Label" position="928,2" size="225,50" zPosition="3" font="bpmo; 30" backgroundColor="#faf0be" transparent="1" valign="center" halign="right">
+<convert type="ClockToText">Format:%H:%M:%S</convert>
+</widget>
+<!--widget name="logo" position="853,364" size="100,40" zPosition="4" alphatest="blend" transparent="0" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FreeServer/Deco/plugin.png" /-->
+<ePixmap position="center,center" size="1280,720" zPosition="2" transparent="1" alphatest="blend" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/FreeServer/Deco/GKTrCvq.png" />
+</screen>
+
+<screen name="CheckFreeServerminooscreen_2" position="0,0" size="1920,1080" title="" flags="wfNoBorder" backgroundColor="#16000000">
+  <widget name="info" render="Pig" position="0,0" size="1280,110" font="Regular;24" halign="left" foregroundColor="#808080" backgroundColor="#df0b1300" zPosition="10" />
+</screen>
+<screen name="FreeServerminoosBackgroundWorkerScreen" position="100,100" size="300,300" title="Mountie Plugin Menu" >
+</screen>
+</skin>

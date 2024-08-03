@@ -1,0 +1,18 @@
+<screen name="ChannelSelection" position="0,0" size="1920,1080" title="Channel Selection" backgroundColor="transparent" flags="wfNoBorder">
+  <panel name="ChannelSelectionTemplate" />
+  <!-- iPosterX Posters */ -->
+  <widget source="ServiceEvent" render="iPosterX" text="CurrentEvent" nexts="0" position="1030,125" cornerRadius="15" size="280,400" zPosition="101" borderWidth="2" borderColor="grey" />
+  <widget source="ServiceEvent" render="iPosterX" text="Event 1" nexts="1" position="1030,740" cornerRadius="15" size="130,200" zPosition="101" borderWidth="2" borderColor="grey" />
+  <widget source="ServiceEvent" render="iPosterX" text="Event 2" nexts="2" position="1180,740" cornerRadius="15" size="130,200" zPosition="101" borderWidth="2" borderColor="grey" />
+  <widget source="ServiceEvent" render="iPosterX" text="Event 3" nexts="3" position="1328,740" cornerRadius="15" size="130,200" zPosition="101" borderWidth="2" borderColor="grey" />
+  <widget source="ServiceEvent" render="iPosterX" text="Event 4" nexts="4" position="1477,740" cornerRadius="15" size="130,200" zPosition="101" borderWidth="2" borderColor="grey" />
+  <widget source="ServiceEvent" render="iPosterX" text="Event 5" nexts="5" position="1625,740" cornerRadius="15" size="130,200" zPosition="101" borderWidth="2" borderColor="grey" />
+  <widget source="ServiceEvent" render="iPosterX" text="Event 5" nexts="6" position="1773,740" cornerRadius="15" size="130,200" zPosition="101" borderWidth="2" borderColor="grey" />
+  <!-- iPosterX Events */ -->
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="1" font="Regular;20" position="1030,548" size="400,25" halign="left" zPosition="5" foregroundColor="yellow" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="2" font="Regular;20" position="1030,577" size="400,25" halign="left" zPosition="5" foregroundColor="#eeeeee" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="3" font="Regular;20" position="1030,606" size="400,25" halign="left" zPosition="5" foregroundColor="#dcdcdc" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="4" font="Regular;20" position="1030,635" size="400,25" halign="left" zPosition="5" foregroundColor="#c4c4c4" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="6" font="Regular;20" position="1030,693" size="400,25" halign="left" zPosition="5" foregroundColor="#818181" backgroundColor="black" transparent="1" />
+  <widget source="ServiceEvent" render="iNxtEvnt" nxtEvents="" snglEvent="5" font="Regular;20" position="1030,664" size="400,25" halign="left" zPosition="5" foregroundColor="#a0a0a0" backgroundColor="black" transparent="1" />
+</screen>

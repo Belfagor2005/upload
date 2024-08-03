@@ -1,0 +1,139 @@
+    
+    
+    <plugins cont="Foreca Country">
+	    <plugin name="Africa">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Africa.ipk</url>
+        </plugin>
+        <plugin name="Albania">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Albania.ipk</url>
+        </plugin>
+        <plugin name="America">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Americas.ipk</url>
+        </plugin>
+        <plugin name="Andorra">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Andorra.ipk</url>
+        </plugin>
+        <plugin name="Austrlia_Oceania">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Australia_Oceania.ipk</url>
+        </plugin>
+        <plugin name="Austria">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Austria.ipk</url>
+        </plugin>
+        <plugin name="Belarus">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Belarus.ipk</url>
+        </plugin>
+        <plugin name="Belgium">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Belgium.ipk</url>
+        </plugin>
+        <plugin name="Bosnia_and_Herzegovina">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Bosnia_and_Herzegovina.ipk</url>
+        </plugin>
+        <plugin name="Bulgaria">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Bulgaria.ipk</url>
+        </plugin>
+        <plugin name="Croatia">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Croatia.ipk</url>
+        </plugin>
+        <plugin name="Cyprus">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Cyprus.ipk</url>
+        </plugin>
+        <plugin name="Czech_Republic">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Czech_Republic.ipk</url>
+        </plugin>
+        <plugin name="Denmark">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Denmark.ipk</url>
+        </plugin>
+        <plugin name="Eire">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Eire.ipk</url>
+        </plugin>
+         <plugin name="Estonia">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Estonia.ipk</url>
+        </plugin>
+        <plugin name="Finland">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Finland.ipk</url>
+        </plugin>
+        <plugin name="France">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/France.ipk</url>
+        </plugin>
+        <plugin name="Germany">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Germany.ipk</url>
+        </plugin>
+        <plugin name="Gibraltar">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Gibraltar.ipk</url>
+        </plugin>
+        <plugin name="Greece">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Greece.ipk</url>
+        </plugin>
+        <plugin name="Grrenland">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Greenland.ipk</url>
+        </plugin>
+        <plugin name="Hungary">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Hungary.ipk</url>
+        </plugin>
+        <plugin name="Iceland">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Iceland.ipk</url>
+        </plugin>
+        <plugin name="Italia">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Italia.ipk</url>
+        </plugin>
+        <plugin name="Latvia">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Latvia.ipk</url>
+        </plugin>
+        <plugin name="Liechtenstein">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Liechtenstein.ipk</url>
+        </plugin>
+        <plugin name="Luxembourg">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Luxembourg.ipk</url>
+        </plugin>
+        <plugin name="Makedonija">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Makedonija.ipk</url>
+        </plugin>
+        <plugin name="Malta">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Malta.ipk</url>
+        </plugin>
+        <plugin name="Monaco">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Monaco.ipk</url>
+        </plugin>
+        <plugin name="Netherlands">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Netherlands.ipk</url>
+        </plugin>
+        <plugin name="Norway">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Norway.ipk</url>
+        </plugin>
+        <plugin name="Poland">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Poland.ipk</url>
+        </plugin>
+        <plugin name="Portugal">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Portugal.ipk</url>
+        </plugin>
+        <plugin name="Russia">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Russia.ipk</url>
+        </plugin>
+        <plugin name="Serbia">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Serbia.ipk</url>
+        </plugin>
+        <plugin name="Slovakia">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Slovakia.ipk</url>
+        </plugin>
+        <plugin name="Slovenia">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Slovenia.ipk</url>
+        </plugin>
+        <plugin name="Spain">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Spain.ipk</url>
+        </plugin>
+        <plugin name="Sweden">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Sweden.ipk</url>
+        </plugin>
+        <plugin name="Switzerland">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Switzerland.ipk</url>
+        </plugin>
+        <plugin name="Turkey">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Turkey.ipk</url>
+        </plugin>
+         <plugin name="Ukraine">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/Ukraine.ipk</url>
+        </plugin>
+        <plugin name="United_Kingdom">
+          <url>http://www.openesi.eu/extra-addons/Foreca%20Country/United_Kingdom.ipk</url>
+        </plugin>
+    </plugins>

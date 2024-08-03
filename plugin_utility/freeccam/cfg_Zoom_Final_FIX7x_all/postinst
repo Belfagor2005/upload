@@ -1,0 +1,45 @@
+#!/bin/sh
+echo "************************************************************"
+echo "*              installed successfully                      *"
+echo "*                                                          *"
+echo "*                                                          *"
+echo "*                                                          *"
+echo "*                                                          *"
+echo "*                                                          *"
+echo "*         Downloader Free servers pro CCcam (cfg)          *"
+echo "*	                                                         *"
+echo "*	               new ....online update!!                   *"
+echo "*                                                          *"
+echo "*                                                          *"
+echo "*	                vytvořil      BextrH                     *"
+echo "*                                                          *"
+echo "***********************************************************"
+chmod -R 755 /usr/script/DEL/
+chmod -R 755 /usr/script/
+chmod -R 755 /usr/script/IPTV/
+chmod -R 755 /usr/script/INFO/
+cd
+rm -rf /CCcam*
+rm -rf /etc/CCcam
+if [ ! -e "/etc/CCcamDATAx.cfg" ]; then
+> /etc/CCcamDATAx.cfg
+else
+echo ''
+fi
+if [ ! -e "/etc/OscamDATAx.cfg" ]; then
+> /etc/OscamDATAx.cfg
+else
+echo ''
+fi
+sleep 2
+rm -rf /tmp/cfg_Zoom_Final_FIX7x_all.ipk
+
+for i in 1 2 3 4 5 6 7 8 9 10
+do
+echo "************STOP THE WAR*************"
+echo "*************in Ukraine**************"
+sleep 2
+done
+killall -9 enigma2
+exit 0
+

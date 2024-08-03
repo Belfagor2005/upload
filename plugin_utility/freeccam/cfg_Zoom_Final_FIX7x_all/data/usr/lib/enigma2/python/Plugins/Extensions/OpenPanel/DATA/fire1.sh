@@ -1,0 +1,1 @@
+curl  -k -Lbk -A -k -m 800 -m 52000 -s -v -d '&addf1=GET YOUR line CCCAM 2 DAy FREE'  -X POST http://firecccam.com/!!! >>/tmp/test/xxx 2>&1 </tmp/test/xxx & 

@@ -1,0 +1,841 @@
+<skin>
+	<!-- iptv  -->
+	<screen name="iptv_png">
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/iptv3.png" position="990,135" size="56,23" alphatest="blend" zPosition="5" transparent="1">
+			<convert type="ServiceInfo">IsStream</convert>
+			<convert type="ConditionalShowHide">
+			</convert>
+		</widget>
+	</screen>
+	<!-- net_on_off_WWW  -->
+	<screen name="net_on_off">
+		<ePixmap pixmap="oDreamy-FHD/icons/netw_off.png" alphatest="blend" zPosition="2" position="1520,1040" size="80,40" transparent="1" />
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/netw_on.png" position="1520,1040" size="80,40" zPosition="4" alphatest="blend" transparent="1">
+			<convert type="CaidInfo2">Net</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+	</screen>
+	<!-- Card / Network / Emu  -->
+	<screen name="Card_Network_Emu">
+		<widget source="session.CurrentService" render="Label" position="1015,100" size="420,35" font="Regular;23" halign="center" foregroundColor="white" backgroundColor="header" zPosition="1">
+			<convert type="EGExtraInfo">E-C-N</convert>
+		</widget>
+		<!-- ECM  -->
+		<widget source="session.CurrentService" render="Label" position="40,135" size="1920,33" font="Regular;23" halign="center" foregroundColor="ltbluette" backgroundColor="header" zPosition="1">
+			<convert type="EGExtraInfo">NetInfo</convert>
+		</widget>
+		<!--<widget source="session.CurrentService" render="Label" position="600,135" size="800,33" font="Regular;23" halign="center" foregroundColor="ltbluette" backgroundColor="header" transparent="1">
+			<convert type="EGCaid">Default</convert>
+		</widget>-->
+		<widget source="session.CurrentService" render="Label" position="860,100" size="320,35" font="Regular;23" halign="center" foregroundColor="ltbluette" backgroundColor="header" zPosition="1">
+			<convert type="EGExtraInfo">CamName</convert>
+		</widget>
+		<!-- nagra/nds/etc -->
+		<widget source="session.CurrentService" render="Label" position="670,100" size="230,26" font="Regular;23" halign="center" foregroundColor="white" backgroundColor="header" zPosition="1">
+			<convert type="CaidInfo2">CryptInfo2</convert>
+		</widget>
+	</screen>
+	<!-- Weather infobar -->
+	<screen name="Weather_infobar">
+		<!-- Weather infobar -->
+		<widget noWrap="1" backgroundColor="header" font="Regular; 50" position="185,24" size="150,60" foregroundColor="ltbluette" zPosition="1" transparent="1" halign="left" render="Label" source="session.OAWeather">
+	    <convert type="OAWeather">temperature_current</convert>
+	  </widget>
+	  <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/OAWeather/Images/temperature_high.png" position="195,120" size="32,32" zPosition="3" transparent="1" alphatest="blend" scale="1" />
+		<widget noWrap="1" font="Regular; 28" position="227,121" size="450,39" backgroundColor="background" zPosition="3" transparent="1" halign="left" render="Label" source="session.OAWeather">
+	    <convert type="OAWeather">temperature_high,current</convert>
+	  </widget>
+		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/OAWeather/Images/temperature_low.png" position="195,85" size="32,32" zPosition="3" transparent="1" alphatest="blend" scale="1" />
+	  <widget noWrap="1" font="Regular; 28" position="227,86" size="450,39" backgroundColor="background" zPosition="3" transparent="1" halign="left" render="Label" source="session.OAWeather">
+	    <convert type="OAWeather">temperature_low,current</convert>
+	  </widget>
+		<widget alphatest="blend" render="OAWeatherPixmap" position="30,20" size="128,128" source="session.OAWeather" transparent="1" zPosition="3" scale="1">
+	    <convert type="OAWeather">weathericon,current,/usr/share/enigma2/oDreamy-FHD/WeatherIcons/,png</convert>
+	  </widget>
+		<!--<widget noWrap="1" backgroundColor="background" font="Regular; 30" position="180,20" size="450,39" foregroundColor="white" zPosition="1" transparent="1" halign="left" render="Label" source="session.OAWeather">
+	    <convert type="OAWeather">temperature_current</convert>
+	  </widget>
+		<widget font="Regular; 32" position="180,60" size="450,69" backgroundColor="background" foregroundColor="white" zPosition="5" transparent="1" halign="left" render="Label" source="session.OAWeather">
+	    <convert type="OAWeather">temperature_text,current</convert>
+	  </widget>
+		<widget font="Regular; 30" position="185,105" size="449,62" backgroundColor="background" foregroundColor="ltbluette" zPosition="5" transparent="1" halign="left" render="Label" source="session.OAWeather">
+	    <convert type="OAWeather">city</convert>
+	  </widget>-->
+	</screen>
+	<!-- wifi/lan -->
+	<screen name="wifi_lan">
+		<!-- icon wifi/lan -->
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/lan2.png" position="1078,23" size="30,30" zPosition="2" alphatest="blend">
+			<convert type="RouteInfo">Lan</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/wifi2.png" position="1078,23" size="30,30" zPosition="2" alphatest="blend">
+			<convert type="RouteInfo">Wifi</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!-- Speed wifi/lan -->
+		<widget source="session.CurrentService" render="Label" position="1015,25" size="336,56" font="Regular;22" halign="center" foregroundColor="yellow" backgroundColor="header" zPosition="2" transparent="1">
+			<convert type="EGNetSpeedInfo">RC_MB</convert>
+		</widget>
+	</screen>
+
+	<!-- FPS9 -->
+	<screen name="fps9">
+		<ePixmap pixmap="oDreamy-FHD/icons/stream-box-blue.png" position="760,1042" size="90,36" alphatest="blend" zPosition="2" />
+		<widget source="session.CurrentService" render="Label" position="740,1043" size="130,30" backgroundColor="header" transparent="1" zPosition="15" font="Regular;22" halign="center" valign="center" noWrap="1">
+			<convert type="EGBaseInfo">Fps</convert>
+		</widget>
+	</screen>
+
+	<!-- resolution9 -->
+	<screen name="resolution9">
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/480.png" position="1125,1040" render="Pixmap" size="80,40" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">VideoWidth</convert>
+			<convert type="ValueRange">0,480</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/sd_on.png" position="1125,1040" render="Pixmap" size="80,40" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">VideoWidth</convert>
+			<convert type="ValueRange">481,576</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/sd_on.png" position="1125,1040" render="Pixmap" size="80,40" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">VideoWidth</convert>
+			<convert type="ValueRange">577,719</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/hd_on.png" position="1125,1040" render="Pixmap" size="80,40" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">VideoWidth</convert>
+			<convert type="ValueRange">720,1279</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/fhd_on.png" position="1125,1040" render="Pixmap" size="80,40" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">VideoWidth</convert>
+			<convert type="ValueRange">1280,1920</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/uhd_on.png" position="1125,1040" render="Pixmap" size="81,45" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">VideoWidth</convert>
+			<convert type="ValueRange">1921,3840</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/format_on.png" position="1200,1040" render="Pixmap" size="80,40" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">IsWidescreen</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/format_off.png" position="1200,1040" render="Pixmap" size="80,40" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">IsSDAndNotWidescreen</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/format_on.png" position="1200,1040" render="Pixmap" size="80,40" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">VideoWidth</convert>
+			<convert type="ValueRange">720,1920</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget alphatest="blend" pixmap="oDreamy-FHD/icons/format_off.png" position="1200,1040" render="Pixmap" size="80,40" source="session.CurrentService" zPosition="2">
+			<convert type="ServiceInfo">VideoWidth</convert>
+			<convert type="ValueRange">0,719</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+	</screen>
+
+	<!-- color curve -->
+	<screen name="colorcurve9">
+		<!-- color curve -->
+		<ePixmap pixmap="oDreamy-FHD/icons/curve_off.png" position="980,1045" size="60,30" zPosition="4" alphatest="blend" transparent="1" />
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/hdr.png" position="980,1045" size="60,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">IsHDR</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/hdr10.png" position="980,1045" size="60,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">IsHDR10</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/sdr.png" position="980,1045" size="60,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">IsSDR</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/hlg.png" position="980,1045" size="60,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">IsHLG</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+	</screen>
+	<!-- codec_info9 -->
+	<screen name="codec_info9">
+		<!-- codec info -->
+		<ePixmap pixmap="oDreamy-FHD/icons/codecs/codec_off.png" position="875,1045" size="84,30" zPosition="4" alphatest="blend" transparent="1" />
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/hevc.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasHEVC</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/avc.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasAVC</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/mpeg2.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasMPEG2</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/vc1.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasVC1</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/h.263.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasH263</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/vp8.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasVP8</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/vp9.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasVP9</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/vp6.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasVP6</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/divx.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasDIVX</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/xvid.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasXVID</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/spark.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasSPARK</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/mpeg1.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasMPEG1</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/mpeg4vc.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasMPEG4VC</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/codecs/avs.png" position="875,1045" size="84,30" zPosition="6" alphatest="blend" transparent="1">
+			<convert type="EGBaseInfo">HasAVS</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+	</screen>
+	<!-- tuner_info9 -->
+	<screen name="tuner_info9" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerA.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">0,0</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!--B-->
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerB.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">1,1</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!--C-->
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerC.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">2,2</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!--D-->
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerD.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">3,3</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!--E-->
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerE.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">4,4</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!--F-->
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerF.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">5,5</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!--G-->
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerG.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">6,6</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!--H-->
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerH.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">7,7</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!--I-->
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerI.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">8,8</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<!--J-->
+		<widget source="session.FrontendInfo" alphatest="blend" pixmap="oDreamy-FHD/icons/tunerG.png" position="1805,75" render="Pixmap" size="58,50" zPosition="4">
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">9,9</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+	</screen>
+	<!-- Menu Template FHD -->
+	<screen name="MenuTemplate" >
+		<panel name="p700_Template_black" />
+		<panel name="MENU_BGY" />
+		<!-- menu list -->
+		<ePixmap position="830,160" size="300,323" pixmap="oDreamy-FHD/menu/teamlogo.png" alphatest="blend" zPosition="1" />
+		<widget name="menuimage" position="860,650" size="0,0" zPosition="2" alphatest="blend" conditional="menuimage" scaleFlags="scaleCenter" transparent="1" />
+		<widget source="description" render="Label" position="1155,955" size="750,95" cornerRadius="10" conditional="description" font="Regular;27" valign="center" halign="center" foregroundColor="ltbluette" backgroundColor="header">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="menu" render="Listbox" position="53,180" size="760,720" scrollbarForegroundColor="ltbluette" scrollbarBorderWidth="1"
+		scrollbarBorderColor="ltbluette" scrollbarWidth="8" scrollbarRadius="5" scrollbarMode="showOnDemand" enableWrapAround="1" zPosition="1" foregroundColor="grey" foregroundColorSelected="white"
+			backgroundColor="header" backgroundColorSelected="bluette" itemCornerRadius="12" selectionZoom="4">
+			<convert type="TemplatedMultiContent">
+				{"templates":
+					{"default": (60,[
+						MultiContentEntryText(pos = (30, 0), size = (650, 60), flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER, text = 0)
+						]),
+					"text": (60,[
+						MultiContentEntryText(pos = (30, 0), size = (650, 60), flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER, text = 3)
+						]),
+					"number": (60,[
+						MultiContentEntryText(pos = (20, 0), size = (40, 60), font = 1, flags = RT_HALIGN_CENTER | RT_VALIGN_CENTER, text = 2),
+						MultiContentEntryText(pos = (80, 0), size = (650, 60), font = 1, flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER, text = 3),
+						]),
+					"image": (60,[
+						MultiContentEntryPixmapAlphaBlend(pos = (25, 2), size = (56, 56), png = 1, flags = BT_SCALE | BT_KEEP_ASPECT_RATIO),
+						MultiContentEntryText(pos = (113, 0), size = (650, 60), font = 1, flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER, text = 3),
+						]),
+					"both": (60,[
+						MultiContentEntryPixmapAlphaBlend(pos = (25, 2), size = (56, 56), png = 1, flags = BT_SCALE | BT_KEEP_ASPECT_RATIO),
+						MultiContentEntryText(pos = (95, 0), size = (40, 60), font = 2, flags = RT_HALIGN_CENTER | RT_VALIGN_CENTER, text = 2),
+						MultiContentEntryText(pos = (150, 0), size = (650, 60), font = 2, flags = RT_HALIGN_LEFT | RT_VALIGN_CENTER, text = 3),
+						])
+					},
+				"fonts": [gFont("Regular", 35),gFont("Regular", 35),gFont("Regular", 35)],
+				"itemHeight": 60,
+				}
+			</convert>
+		</widget>
+		<!--<widget source="key_menu" render="Label" position="838,860" size="140,40" backgroundColor="bluette" font="Regular;20" foregroundColor="white" halign="center" valign="center">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="key_help" render="Label" position="988,860" size="140,40" backgroundColor="bluette" font="Regular;20" foregroundColor="white" halign="center" valign="center">
+			<convert type="ConditionalShowHide" />
+		</widget>-->
+		<widget source="key_menu" render="Label" position="1000,890" size="140,40" backgroundColor="bluette" font="Regular;20" foregroundColor="white" halign="center" valign="center">
+			<convert type="ConditionalShowHide" />
+		</widget>
+	</screen>
+
+	<!-- Button Templates Menu Sort News-->
+	<screen name="menu_sort_bl">
+		<ePixmap position="70,988" pixmap="oDreamy-FHD/buttons/bluepanel.png" size="30,30" alphatest="blend" zPosition="2" />
+		<widget source="key_blue" render="Label" position="110,955" size="250,95" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" transparent="1" />
+		<ePixmap position="370,988" pixmap="oDreamy-FHD/buttons/greenpanel.png" size="30,30" alphatest="blend" zPosition="2" />
+		<widget source="key_green" render="Label" position="410,955" size="250,95" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" transparent="1" />
+		<ePixmap position="670,988" pixmap="oDreamy-FHD/buttons/yellowpanel.png" size="30,30" alphatest="blend" zPosition="2" />
+		<widget source="key_yellow" render="Label" position="710,955" size="250,95" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" transparent="1" />
+	</screen>
+
+	<!-- Button Templates Menu Sort -->
+	<screen name="menu_sort">
+		<widget name="green" position="530,955" size="210,95" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" transparent="1" />
+		<ePixmap position="490,988" pixmap="oDreamy-FHD/buttons/greenpanel.png" size="30,30" alphatest="blend" zPosition="2" />
+		<widget name="yellow" position="800,955" size="210,95" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" transparent="1" />
+		<ePixmap position="760,988" pixmap="oDreamy-FHD/buttons/yellowpanel.png" size="30,30" alphatest="blend" zPosition="2" />
+		<widget name="blue" position="950,955" size="250,95" zPosition="1" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" transparent="1" />
+		<ePixmap position="910,988" pixmap="oDreamy-FHD/buttons/bluepanel.png" size="30,30" alphatest="blend" zPosition="2" />
+	</screen>
+
+	<!-- P700 Template FHD -->
+	<screen name="p700_Template" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- 700p Upper Panel -->
+		<eLabel position="50,30" size="1100,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="52,32" size="1096,91" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<!-- Code -->
+		<ePixmap position="61,45" size="83,65" pixmap="oDreamy-FHD/icons/list.png" alphatest="blend" zPosition="2" />
+		<widget source="Title" render="Label" position="150,30" size="900,95" font="Regular;50" halign="left" valign="center" foregroundColor="ltbluette" backgroundColor="#10000000" transparent="1" zPosition="1" />
+		<!-- Middle -->
+		<eLabel position="50,140" size="1100,800" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="52,142" size="1096,796" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<!-- Footer -->
+		<eLabel position="50,955" size="1100,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="52,957" size="1096,91" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+	</screen>
+
+	<!-- P700 Template FHD -->
+	<screen name="p700_Template_black" position="0,0" title="Menu Information" backgroundColor="transparent" flags="wfNoBorder" >
+		<!-- 700p Upper Panel -->
+		<eLabel position="50,30" size="1100,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-10" transparent="0" />
+		<eLabel position="52,32" size="1096,91" backgroundColor="header" cornerRadius="10" zPosition="-10" transparent="0" />
+		<!-- Code -->
+		<ePixmap position="61,45" size="83,65" pixmap="oDreamy-FHD/icons/list.png" alphatest="blend" zPosition="2" />
+		<widget source="Title" render="Label" position="150,30" size="900,95" font="Regular;42" halign="left" valign="center" foregroundColor="ltbluette" backgroundColor="header" transparent="1" zPosition="1" />
+		<!-- Middle -->
+		<eLabel position="50,140" size="1100,800" backgroundColor="ltbluette" cornerRadius="10" zPosition="-10" transparent="0" />
+		<eLabel position="52,142" size="1096,796" backgroundColor="header" cornerRadius="10" zPosition="-10" transparent="0" />
+		<!-- Footer -->
+		<eLabel position="50,955" size="1100,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-10" transparent="0" />
+		<eLabel position="52,957" size="1096,91" backgroundColor="header" cornerRadius="10" zPosition="-10" transparent="0" />
+	</screen>
+
+	<!-- P700 Logo FHD -->
+	<screen name="p700_Logo" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- Logo -->
+		<ePixmap position="830,160" size="300,323" pixmap="oDreamy-FHD/menu/teamlogo.png" alphatest="blend" zPosition="1" />
+	</screen>
+
+	<!-- P700 Date FHD -->
+	<screen name="p700_Date" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- Date
+		<widget source="global.CurrentTime" render="Label" position="830,30" size="300,95" font="Regular;35" halign="right" valign="center" foregroundColor="#505050" backgroundColor="#101010" transparent="1" zPosition="1" >
+			<convert type="ClockToText">Format %A %d %B </convert>
+		</widget>
+		-->
+	</screen>
+
+	<!-- P800 Template FHD -->
+	<screen name="p800_Template" position="0,0" title="Menu Information" backgroundColor="transparent" flags="wfNoBorder" >
+		<!-- 800p Upper Panel -->
+		<eLabel position="50,30" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,32" size="1196,92" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Code -->
+		<ePixmap position="61,45" size="83,65" pixmap="oDreamy-FHD/icons/list.png" alphatest="blend" zPosition="2" />
+		<widget source="Title" render="Label" position="150,30" size="800,95" font="Regular;40" halign="left" valign="center" foregroundColor="ltbluette" backgroundColor="header" transparent="1" zPosition="1" />
+		<!-- Middle -->
+		<eLabel position="50,140" size="1200,800" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,142" size="1196,796" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Footer -->
+		<eLabel position="50,955" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,957" size="1196,92" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1260,955" size="250,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1262,957" size="246,92" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1520,955" size="350,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1522,957" size="346,92" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Clock %d.%m.%Y - %H:%M:%S -->
+		<ePixmap position="1275,975" size="90,60" pixmap="oDreamy-FHD/icons/select.png" alphatest="blend" zPosition="2" />
+		<widget source="global.CurrentTime" render="Label" position="1570,955" size="250,95" font="Regular;55" halign="center" valign="center" foregroundColor="grey" backgroundColor="#10101010" transparent="1" zPosition="1">
+			<convert type="ClockToText">Default</convert>
+		</widget>
+		<!--<widget source="key_info" render="Label" position="1080,58" conditional="key_info" size="140,40" backgroundColor="bluette" font="Regular;20" foregroundColor="white" halign="center" valign="center">
+			<convert type="ConditionalShowHide" />
+		</widget>-->
+	</screen>
+
+	<!-- P800 Template FHD -->
+	<screen name="p800_Template_notime" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- 800p Upper Panel -->
+		<eLabel position="50,30" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,32" size="1196,92" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Code -->
+		<ePixmap position="61,45" size="83,65" pixmap="oDreamy-FHD/icons/list.png" alphatest="blend" zPosition="2" />
+		<widget source="Title" render="Label" position="150,30" size="800,95" font="Regular;40" halign="left" valign="center" foregroundColor="ltbluette" backgroundColor="#10000000" transparent="1" zPosition="1" />
+		<!-- Middle -->
+		<eLabel position="50,140" size="1200,800" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,142" size="1196,796" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Footer -->
+		<eLabel position="50,955" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,957" size="1196,92" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1260,955" size="250,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1262,957" size="246,92" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Clock %d.%m.%Y - %H:%M:%S -->
+		<widget source="global.CurrentTime" render="Label" position="1200,955" size="250,95" font="Regular;48" halign="right" valign="center" foregroundColor="grey" backgroundColor="header" transparent="1" zPosition="1">
+			<convert type="ClockToText">Default</convert>
+		</widget>
+	</screen>
+
+	<!-- P800 Template FHD -->
+	<screen name="p800_Template_notime_plugin" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- 800p Upper Panel -->
+		<eLabel position="50,30" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,32" size="1196,92" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Code -->
+		<ePixmap position="61,45" size="83,65" pixmap="oDreamy-FHD/icons/list.png" alphatest="blend" zPosition="2" />
+		<widget source="Title" render="Label" position="150,30" size="800,95" font="Regular;40" halign="left" valign="center" foregroundColor="ltbluette" backgroundColor="#10000000" transparent="1" zPosition="1" />
+		<!-- Middle -->
+		<eLabel position="50,140" size="1200,800" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,142" size="1196,796" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Footer -->
+		<eLabel position="50,955" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,957" size="1196,92" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+	</screen>
+
+	<!-- P1800 Template FHD -->
+	<screen name="p1800_Template" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- Footer -->
+		<eLabel position="50,955" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="52,957" size="1198,91" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1260,955" size="250,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1262,957" size="248,91" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1520,955" size="350,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1522,957" size="348,91" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<!-- Clock %d.%m.%Y - %H:%M:%S -->
+		<ePixmap position="1275,975" size="90,60" pixmap="oDreamy-FHD/icons/select.png" alphatest="blend" zPosition="2" />
+		<widget source="global.CurrentTime" render="Label" position="1570,955" size="250,95" font="Regular;55" halign="center" valign="center" foregroundColor="white" backgroundColor="#10101010" transparent="1" zPosition="1">
+			<convert type="ClockToText">Default</convert>
+		</widget>
+	</screen>
+
+	<!-- P8000 Template FHD -->
+	<screen name="p8000_Template" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- 800p Upper Panel -->
+		<eLabel position="50,30" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="52,32" size="1196,91" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<!-- Code -->
+		<ePixmap position="61,45" size="83,65" pixmap="oDreamy-FHD/icons/list.png" alphatest="blend" zPosition="2" />
+		<widget source="Title" render="Label" position="150,30" size="900,95" font="Regular;40" halign="left" valign="center" foregroundColor="ltbluette" backgroundColor="#10000000" transparent="1" zPosition="1" />
+		<!-- Middle -->
+		<eLabel position="50,140" size="1820,800" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="52,142" size="1815,795" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<!-- Footer -->
+		<eLabel position="50,955" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="52,957" size="1195,91" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1260,955" size="250,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1262,957" size="245,91" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1520,955" size="350,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1522,957" size="345,91" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<!-- Clock %d.%m.%Y - %H:%M:%S -->
+		<ePixmap position="1275,975" size="90,60" pixmap="oDreamy-FHD/icons/select.png" alphatest="blend" zPosition="2" />
+		<widget source="global.CurrentTime" render="Label" position="1570,955" size="250,95" font="Regular;55" halign="center" valign="center" foregroundColor="white" backgroundColor="#10101010" transparent="1" zPosition="1">
+			<convert type="ClockToText">Default</convert>
+		</widget>
+	</screen>
+
+	<!-- P800 Template FHD -->
+	<screen name="p800_TemplateSlim" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- 800p Upper Panel -->
+		<eLabel position="50,30" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-2" />
+		<eLabel position="52,32" size="1196,91" backgroundColor="header" cornerRadius="10" zPosition="-2" />
+		<!-- Code -->
+		<ePixmap position="61,45" size="83,65" pixmap="oDreamy-FHD/icons/list.png" alphatest="blend" zPosition="2" />
+		<widget source="Title" render="Label" position="150,30" size="900,95" font="Regular;34" halign="left" valign="center" foregroundColor="ltbluette" backgroundColor="#10000000" transparent="1" zPosition="1" />
+		<!-- Middle -->
+		<eLabel position="50,136" size="860,10" backgroundColor="bluette" cornerRadius="10" zPosition="0" />
+		<eLabel position="50,140" size="1202,800" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<eLabel position="52,142" size="1196,795" backgroundColor="bluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="900,937" size="352,10" backgroundColor="bluette" cornerRadius="10" zPosition="0" />
+		<!-- Footer -->
+		<eLabel position="50,955" size="1200,95" backgroundColor="bluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="52,957" size="1198,93" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1260,955" size="250,95" backgroundColor="bluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1262,957" size="248,93" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1520,955" size="350,95" backgroundColor="bluette" cornerRadius="10" zPosition="-1" />
+		<eLabel position="1522,957" size="348,93" backgroundColor="header" cornerRadius="10" zPosition="-1" />
+		<!-- Clock %d.%m.%Y - %H:%M:%S -->
+		<ePixmap position="1275,975" size="90,60" pixmap="oDreamy-FHD/icons/select.png" alphatest="blend" zPosition="2" />
+		<widget source="global.CurrentTime" render="Label" position="1570,955" size="250,95" font="Regular;55" halign="center" valign="center" foregroundColor="white" backgroundColor="#10101010" transparent="1" zPosition="1">
+			<convert type="ClockToText">Default</convert>
+		</widget>
+	</screen>
+
+	<!-- P800 Extensions FHD -->
+	<screen name="p800_Ext" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<eLabel position="1260,30" size="610,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-10" />
+		<eLabel position="1262,32" size="606,92" backgroundColor="header" cornerRadius="10" zPosition="-10" />
+		<eLabel position="1260,140" size="610,800" backgroundColor="ltbluette" cornerRadius="10" zPosition="-10" />
+		<eLabel position="1262,142" size="606,796" backgroundColor="header" cornerRadius="10" zPosition="-10" />
+	</screen>
+
+	<!-- P800 Extensions FHD -->
+	<screen name="p8001_Ext" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<eLabel position="1260,30" size="610,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-2" />
+		<eLabel position="1262,32" size="606,92" backgroundColor="header" cornerRadius="10" zPosition="-2" />
+	</screen>
+
+	<!-- P800 Extensions FHD -->
+	<screen name="p800_Ext_Bi" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<eLabel position="1260,30" size="610,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-2" />
+		<eLabel position="1262,32" size="606,92" backgroundColor="header" cornerRadius="10" zPosition="-2" />
+		<eLabel position="1260,140" size="610,802" backgroundColor="#10000000" cornerRadius="10" zPosition="-2" />
+		<eLabel position="1260,510" size="610,432" backgroundColor="ltbluette" cornerRadius="10" zPosition="-2" />
+		<eLabel position="1260,510" size="610,10" backgroundColor="#FF000000" cornerRadius="10" zPosition="-1" />
+	</screen>
+
+	<!-- P800 Extensions FHD -->
+	<screen name="p800_Ext_BiN" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<eLabel position="1260,30" size="610,96" backgroundColor="ltbluette" cornerRadius="10" zPosition="-10" />
+		<eLabel position="1262,32" size="606,92" backgroundColor="header" cornerRadius="10" zPosition="-10" />
+		<eLabel position="1260,140" size="610,800" backgroundColor="ltbluette" cornerRadius="10" zPosition="-10" />
+		<eLabel position="1262,142" size="606,796" backgroundColor="header" cornerRadius="10" zPosition="-10" />
+	</screen>
+
+	<!-- P800 Logo FHD -->
+	<screen name="p800_Logo" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- Logo -->
+		<ePixmap position="925,160" size="300,323" pixmap="oDreamy-FHD/menu/teamlogo.png" alphatest="blend" zPosition="1" />
+	</screen>
+
+	<!-- P800 Logo FHD -->
+	<screen name="p800_Logo_Nobar" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- Logo -->
+		<ePixmap position="930,160" size="300,323" pixmap="oDreamy-FHD/menu/teamlogo.png" alphatest="blend" zPosition="1" />
+	</screen>
+
+	<!-- P800 LogoSeparator FHD -->
+	<screen name="p800_LogoSep" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<eLabel position="1260,140" size="610,330" backgroundColor="header" cornerRadius="10" zPosition="2"/>
+		<ePixmap position="1440,175" size="256,256" pixmap="oDreamy-FHD/menu/info_screen.png" alphatest="blend" backgroundColor="header" transparent="1" zPosition="5" />
+		<eLabel position="1260,470" size="620,10" backgroundColor="#FF000000" cornerRadius="10" zPosition="2"/>
+	</screen>
+
+	<!-- P800 DateMid FHD -->
+	<screen name="p800_DateMid" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- Date -->
+		<widget source="global.CurrentTime" render="Label" position="930,30" size="300,95" font="Regular;35" halign="right" valign="center" foregroundColor="grey" backgroundColor="#101010" transparent="1" zPosition="1" >
+			<convert type="ClockToText">Format %A %d %B</convert>
+		</widget>
+	</screen>
+
+	<!-- P800 Date FHD -->
+	<screen name="p800_Date" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- Date -->
+		<widget source="key_help" render="Label" position="1080,58" conditional="key_help" size="140,40" backgroundColor="bluette" font="Regular;20" foregroundColor="white" halign="center" valign="center">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="key_info" render="Label" position="1290,58" conditional="key_info" size="140,40" backgroundColor="bluette" font="Regular;20" foregroundColor="white" halign="center" valign="center">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="global.CurrentTime" render="Label" position="1550,30" size="300,95" font="Regular;35" halign="right" valign="center" foregroundColor="grey" backgroundColor="#101010" transparent="1" zPosition="1" >
+			<convert type="ClockToText">Format %A %d %B</convert>
+		</widget>
+	</screen>
+
+	<screen name="p800_Date_epg" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- Date -->
+		<widget source="key_help" render="Label" position="1290,58" conditional="key_help" size="140,40" backgroundColor="bluette" font="Regular;20" foregroundColor="white" halign="center" valign="center">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="global.CurrentTime" render="Label" position="1550,30" size="300,95" font="Regular;35" halign="right" valign="center" foregroundColor="grey" backgroundColor="#101010" transparent="1" zPosition="1" >
+			<convert type="ClockToText">Format %A %d %B</convert>
+		</widget>
+	</screen>
+
+	<!-- P900 Template FHD -->
+	<screen name="p900_Template" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- 900p Upper Panel -->
+		<eLabel position="50,30" size="1820,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,32" size="1816,91" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Code -->
+		<ePixmap position="61,45" size="83,65" pixmap="oDreamy-FHD/icons/list.png" alphatest="blend" zPosition="2" />
+		<widget source="Title" render="Label" position="150,30" size="900,95" font="Regular;45" halign="left" valign="center" foregroundColor="ltbluette" backgroundColor="#10000000" transparent="1" zPosition="1" />
+		<!-- Middle -->
+		<eLabel position="50,140" size="1820,800" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,142" size="1816,795" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Footer -->
+		<eLabel position="50,955" size="1200,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="52,957" size="1196,91" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1260,955" size="250,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1262,957" size="246,91" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1520,955" size="350,96" backgroundColor="ltbluette" cornerRadius="10" transparent="0" zPosition="-10" />
+		<eLabel position="1522,957" size="346,91" backgroundColor="header" cornerRadius="10" transparent="0" zPosition="-10" />
+		<!-- Clock %d.%m.%Y - %H:%M:%S -->
+		<ePixmap position="1275,975" size="90,60" pixmap="oDreamy-FHD/icons/select.png" alphatest="blend" zPosition="2" />
+		<widget source="global.CurrentTime" render="Label" position="1570,955" size="250,95" font="Regular;55" halign="center" valign="center" foregroundColor="grey" backgroundColor="#10101010" transparent="1" zPosition="1">
+			<convert type="ClockToText">Default</convert>
+		</widget>
+	</screen>
+
+	<!-- P900 Date FHD -->
+	<screen name="p900_Date" position="0,0" title="Menu Information" backgroundColor="#FF000000" flags="wfNoBorder" >
+		<!-- Date -->
+		<widget source="global.CurrentTime" render="Label" position="1550,30" size="300,95" font="Regular;35" halign="right" valign="center" foregroundColor="grey" backgroundColor="#101010" transparent="1" zPosition="1" >
+			<convert type="ClockToText">Format %A %d %B</convert>
+		</widget>
+	</screen>
+
+	<screen name="MENU_BGY">
+		<!-- Button Blue -->
+		<ePixmap position="50,988" pixmap="oDreamy-FHD/buttons/bluepanel.png" size="30,30" alphatest="blend" objectTypes="key_red,Button,Label" transparent="1" zPosition="2" />
+		<widget source="key_blue" render="Pixmap" pixmap="oDreamy-FHD/buttons/bluepanel.png" position="90,988" size="260,95" alphatest="blend" objectTypes="key_blue,StaticText" transparent="1">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget name="key_blue" position="130,955" size="260,95" noWrap="1" zPosition="1" valign="center" font="Regular;30" halign="left" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_blue,Button,Label" transparent="1" />
+		<widget source="key_blue" render="Label" position="130,955" size="260,95" noWrap="1" zPosition="1" valign="center" font="Regular;30" halign="left" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_blue,StaticText" transparent="1" />
+		<!-- Button Green -->
+		<ePixmap position="400,988" pixmap="oDreamy-FHD/buttons/greenpanel.png" size="30,30" alphatest="blend" objectTypes="key_green,Button,Label" transparent="1" zPosition="2" />
+		<widget source="key_green" render="Pixmap" pixmap="oDreamy-FHD/buttons/greenpanel.png" position="440,988" size="330,95" alphatest="blend" objectTypes="key_green,StaticText" transparent="1">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget name="key_green" position="480,955" size="330,95" noWrap="1" zPosition="1" valign="center" font="Regular;30" halign="left" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_green,Button,Label" transparent="1" />
+		<widget source="key_green" render="Label" position="480,955" size="330,95" noWrap="1" zPosition="1" valign="center" font="Regular;30" halign="left" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_green,StaticText" transparent="1" />
+		<!-- Button Yellow -->
+		<ePixmap position="800,988" pixmap="oDreamy-FHD/buttons/yellowpanel.png" size="30,30" alphatest="blend" objectTypes="key_yellow,Button,Label" transparent="1" />
+		<widget source="key_yellow" render="Pixmap" pixmap="oDreamy-FHD/buttons/yellowpanel.png" position="840,988" size="260,95" alphatest="blend" objectTypes="key_yellow,StaticText" transparent="1">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget name="key_yellow" position="880,955" size="260,95" noWrap="1" zPosition="1" valign="center" font="Regular;30" halign="left" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_yellow,Button,Label" transparent="1" />
+		<widget source="key_yellow" render="Label" position="880,955" size="260,95" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" zPosition="1" objectTypes="key_yellow,StaticText" transparent="1" />
+	</screen>
+
+	<screen name="s_RGYB">
+		<!-- Button Red -->
+		<ePixmap position="70,988" pixmap="oDreamy-FHD/buttons/redpanel.png" size="30,30" alphatest="blend" objectTypes="key_red,Button,Label" transparent="1" />
+		<widget source="key_red" render="Pixmap" pixmap="oDreamy-FHD/buttons/redpanel.png" position="70,988" size="30,30" alphatest="blend" objectTypes="key_red,StaticText" transparent="1">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget name="key_red" position="110,955" size="210,95" zPosition="+1" halign="left" valign="center" font="Regular;30" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_red,Button,Label" transparent="1" />
+		<widget source="key_red" render="Label" position="110,955" size="210,95" zPosition="+1" halign="left" valign="center" font="Regular;30" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_red,StaticText" transparent="1" />
+		<!-- Button Green -->
+		<ePixmap position="360,988" pixmap="oDreamy-FHD/buttons/greenpanel.png" size="30,30" alphatest="blend" objectTypes="key_green,Button,Label" transparent="1" />
+		<widget source="key_green" render="Pixmap" pixmap="oDreamy-FHD/buttons/greenpanel.png" position="360,988" size="30,30" alphatest="blend" objectTypes="key_green,StaticText" transparent="1">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget name="key_green" position="400,955" size="210,95" zPosition="+1" halign="left" valign="center" font="Regular;30" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_green,Button,Label" transparent="1" />
+		<widget source="key_green" render="Label" position="400,955" size="210,95" zPosition="+1" halign="left" valign="center" font="Regular;30" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_green,StaticText" transparent="1" />
+		<!-- Button Yellow -->
+		<ePixmap position="640,988" pixmap="oDreamy-FHD/buttons/yellowpanel.png" size="30,30" alphatest="blend" objectTypes="key_yellow,Button,Label" transparent="1" />
+		<widget source="key_yellow" render="Pixmap" pixmap="oDreamy-FHD/buttons/yellowpanel.png" position="640,988" size="30,30" alphatest="blend" objectTypes="key_yellow,StaticText" transparent="1">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget name="key_yellow" position="680,955" size="210,95" zPosition="+1" halign="left" valign="center" font="Regular;30" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_yellow,Button,Label" transparent="1" />
+		<widget source="key_yellow" render="Label" position="680,955" size="210,95" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" zPosition="+1" objectTypes="key_yellow,StaticText" transparent="1" />
+		<!-- Button Blue -->
+		<ePixmap position="910,988" pixmap="oDreamy-FHD/buttons/bluepanel.png" size="30,30" alphatest="blend" objectTypes="key_blue,Button,Label" transparent="1" />
+		<widget source="key_blue" render="Pixmap" pixmap="oDreamy-FHD/buttons/bluepanel.png" position="910,988" size="30,30" alphatest="blend" objectTypes="key_blue,StaticText" transparent="1">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget name="key_blue" position="950,955" size="250,95" zPosition="+1" halign="left" valign="center" font="Regular;30" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_blue,Button,Label" transparent="1" />
+		<widget source="key_blue" position="950,955" size="250,95" zPosition="+1" render="Label" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" objectTypes="key_blue,StaticText" transparent="1" />
+	</screen>
+
+	<screen name="s_RG">
+		<!-- Button Red -->
+		<ePixmap position="70,988" pixmap="oDreamy-FHD/buttons/redpanel.png" size="30,30" alphatest="blend" objectTypes="key_red,Button,Label" transparent="1" />
+		<widget source="key_red" render="Pixmap" pixmap="oDreamy-FHD/buttons/redpanel.png" position="70,988" size="30,30" alphatest="blend" objectTypes="key_red,StaticText" transparent="1">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget name="key_red" position="110,955" size="220,95" noWrap="1" zPosition="+1" valign="center" font="Regular;28" halign="left" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_red,Button,Label" transparent="1" />
+		<widget source="key_red" render="Label" position="110,955" size="220,95" noWrap="1" zPosition="+1" valign="center" font="Regular;28" halign="left" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_red,StaticText" transparent="1" />
+		<!-- Button Green -->
+		<ePixmap position="360,988" pixmap="oDreamy-FHD/buttons/greenpanel.png" size="30,30" alphatest="blend" objectTypes="key_green,Button,Label" />
+		<widget source="key_green" render="Pixmap" pixmap="oDreamy-FHD/buttons/greenpanel.png" position="360,988" size="30,30" alphatest="blend" objectTypes="key_green,StaticText" transparent="1">
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget name="key_green" position="400,955" size="300,95" noWrap="1" zPosition="1" valign="center" font="Regular;28" halign="left" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_green,Button,Label" transparent="1" />
+		<widget source="key_green" render="Label" position="400,955" size="300,95" noWrap="1" zPosition="+1" valign="center" font="Regular;28" halign="left" backgroundColor="header" foregroundColor="#b0b0b0" objectTypes="key_green,StaticText" transparent="1" />
+	</screen>
+
+	<screen name="MI">
+		<!-- Keys Buttons DRE -->
+		<eLabel text="Menu" position="1390,965" size="200,43" font="Regular;32" valign="center" foregroundColor="#b0b0b0" backgroundColor="#101010" transparent="1" zPosition="1" />
+		<eLabel text="Info" position="1390,1002" size="200,43" font="Regular;32" valign="center" foregroundColor="#b0b0b0" backgroundColor="#101010" transparent="1" zPosition="1" />
+	</screen>
+
+	<screen name="ME">
+		<!-- Keys Buttons DRE -->
+		<eLabel text="Menu" position="1390,965" size="200,43" font="Regular;32" valign="center" foregroundColor="#b0b0b0" backgroundColor="#101010" transparent="1" zPosition="1" />
+		<eLabel text="Exit" position="1390,1002" size="200,43" font="Regular;32" valign="center" foregroundColor="#b0b0b0" backgroundColor="#101010" transparent="1" zPosition="1" />
+	</screen>
+
+	<screen name="M">
+		<!-- Keys Buttons DRE -->
+		<eLabel text="Menu" position="1390,940" size="200,95" font="Regular;34" valign="center" foregroundColor="#b0b0b0" backgroundColor="#101010" transparent="1" zPosition="1" />
+	</screen>
+
+	<screen name="Ex">
+		<!-- Keys Buttons DRE -->
+		<eLabel text="Exit" position="1390,940" size="200,95" font="Regular;34" valign="center" foregroundColor="#b0b0b0" backgroundColor="#101010" transparent="1" zPosition="1" />
+	</screen>
+
+	<screen name="I">
+		<!-- Keys Buttons DRE -->
+		<eLabel text="Info" position="1390,940" size="200,95" font="Regular;34" valign="center" foregroundColor="#b0b0b0" backgroundColor="#101010" transparent="1" zPosition="1" />
+	</screen>
+
+	<screen name="fakeExitNoButton">
+		<ePixmap position="80,986" pixmap="oDreamy-FHD/buttons/fake_Exit.png" size="35,30" alphatest="blend" zPosition="2" />
+		<eLabel text="EXIT" position="140,955" size="210,95" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" transparent="1" zPosition="1" />
+	</screen>
+
+	<screen name="fakeExit">
+		<ePixmap position="70,988" pixmap="oDreamy-FHD/buttons/redpanel.png" size="30,30" alphatest="blend" zPosition="2" />
+		<eLabel text="Exit" position="120,955" size="210,95" font="Regular;30" halign="left" valign="center" foregroundColor="#b0b0b0" backgroundColor="header" transparent="1" zPosition="1" />
+	</screen>
+
+	<!-- wizard_rc_templateNew -->
+	<screen name="wizard_rc_templateNew">
+		<widget name="rc" position="1475,250" zPosition="10" size="154,500" alphatest="blend" transparent="0" />
+		<widget alphatest="blend" name="indicatorU0" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU1" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU2" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU3" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU4" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU5" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU6" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU7" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU8" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU9" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU10" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU11" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU12" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU13" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU14" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU15" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL0" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL1" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL2" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL3" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL4" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL5" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL6" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL7" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL8" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL9" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL10" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL11" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL12" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL13" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL14" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL15" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1425,210" offset="11,11" size="23,23" zPosition="11" />
+	</screen>
+	<screen name="wizard_rc_templateNews">
+		<widget name="rc" position="1500,250" zPosition="10" size="154,500" alphatest="blend" transparent="0" />
+		<widget alphatest="blend" name="indicatorU0" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU1" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU2" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU3" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU4" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU5" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU6" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU7" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU8" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU9" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU10" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU11" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU12" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU13" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU14" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorU15" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL0" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL1" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL2" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL3" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL4" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL5" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL6" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL7" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL8" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL9" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL10" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL11" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL12" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL13" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL14" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+		<widget alphatest="blend" name="indicatorL15" pixmap="oDreamy-FHD/skin_default/yellow_circle23x23.png" position="1400,210" offset="11,11" size="23,23" zPosition="11" />
+	</screen>
+	<!-- wizard_rc_template -->
+	<screen name="wizard_rc_template">
+		<widget name="rc" position="1475,250" zPosition="10" size="0,0" alphatest="blend" transparent="0" />
+		<widget name="arrowdown" position="-100,-100" size="37,70" pixmap="oDreamy-FHD/skin_default/arrowdown.png" zPosition="11" alphatest="blend" />
+		<widget name="arrowdown2" position="-100,-100" size="37,70" pixmap="oDreamy-FHD/skin_default/arrowdown.png" zPosition="11" alphatest="blend" />
+		<widget name="arrowup" position="-100,-100" size="37,70" pixmap="oDreamy-FHD/skin_default/arrowup.png" zPosition="11" alphatest="blend" />
+		<widget name="arrowup2" position="-100,-100" size="37,70" pixmap="oDreamy-FHD/skin_default/arrowup.png" zPosition="11" alphatest="blend" />
+	</screen>
+</skin>

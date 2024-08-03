@@ -1,0 +1,11 @@
+Package: enigma2-plugin-cams-ncam-mips
+Version: 14.7
+Section: extra
+Priority: optional
+Architecture: all
+Maintainer: Levi45
+Description: cam
+Depends: *, enigma2
+Source: *
+Homepage: 
+OE: *

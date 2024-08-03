@@ -1,0 +1,14 @@
+[reader]
+label                         = Tivusat
+protocol                      = internal
+device                        = /dev/sci0
+caid                          = 183D
+rsakey                        = A92DA72FEEACF2947B003ED652153B189E4043B0138C368BDF6B9ED77DDAD6C0761A2198AEB3FC97A19C9D01CA769B3FFFE4F6E70FA4E0696A8980E18D8C58E11D817121346E3E66457FDD84CFA72589B25B538EFC304361B54845F39E9EFA52D805E5FD86B595B366C35716ABC91FA3DC159C9F4D8164B5
+detect                        = cd
+nagra_read                    = 1
+mhz                           = 540
+cardmhz                       = 2700
+ident                         = 183D:000000,005411;183E:000000,005411
+group                         = 1
+emmcache                      = 1,3,2,0
+

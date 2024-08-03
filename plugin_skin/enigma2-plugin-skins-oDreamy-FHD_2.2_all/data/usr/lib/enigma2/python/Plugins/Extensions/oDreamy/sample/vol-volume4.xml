@@ -1,0 +1,11 @@
+<screen name="Volume" position="23,283" size="70,320" Title="Volume4" flags="wfNoBorder" backgroundColor="transparent" zPosition="1">
+  <ePixmap position="13,2" size="42,270" zPosition="1" pixmap="oDreamy-FHD/icons/vol_back.png" transparent="0" alphatest="blend" />
+  <widget render="iVolumeText" source="global.CurrentTime" font="Regular;30" position="2,271" size="66,45" backgroundColor="black" halign="center" valign="center" foregroundColor="ltbluette" transparent="1" zPosition="105" />
+  <widget name="Volume" pixmap="oDreamy-FHD/icons/vol.png" position="20,80" zPosition="2" size="30,191" orientation="orBottomToTop" alphatest="blend" />
+  <eLabel position="0,0" size="70,320" zPosition="-10" cornerRadius="10" backgroundColor="ltbluette" />
+  <eLabel position="2,2" size="66,316" zPosition="0" cornerRadius="10" backgroundColor="header" />
+</screen>
+<screen name="Mute" title="Mute" position="30,30" size="150,150" backgroundColor="transparent" zPosition="10" flags="wfNoBorder">
+  <eLabel position="0,0" size="150,150" backgroundColor="ltbluette" cornerRadius="10" zPosition="99" />
+  <ePixmap pixmap="oDreamy-FHD/skin_default/mute.png" position="0,0" size="150,150" transparent="1" alphatest="blend" zPosition="100" />
+</screen>

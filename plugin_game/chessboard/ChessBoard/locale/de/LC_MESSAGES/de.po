@@ -1,0 +1,112 @@
+# ChessBoard locale
+# Copyright (C) 2020 robert.damas@byom.de
+# This file is distributed under the same license as the PACKAGE package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-plugin-extensions-chessboard\n"
+"Report-Msgid-Bugs-To: https://github.com/rdamas/chessboard/issues\n"
+"POT-Creation-Date: 2020-05-02 12:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ChessBoard.py:266
+msgid "Undo move"
+msgstr "Zug zurücknehmen"
+
+#: ChessBoard.py:267
+msgid "Suggest move"
+msgstr "Zug vorschlagen"
+
+#: ChessBoard.py:268
+msgid "Rotate board"
+msgstr "Brett drehen"
+
+#: ChessBoard.py:269 ChessBoard.py:474
+msgid "Play black"
+msgstr "Schwarz spielen"
+
+#: ChessBoard.py:271 ChessBoard.py:467 ChessBoard.py:472
+msgid "Gnuchess"
+msgstr "Gnuchess"
+
+#: ChessBoard.py:272 ChessBoard.py:466 ChessBoard.py:473
+msgid "Player"
+msgstr "Spieler"
+
+#: ChessBoard.py:332 ChessBoard.py:362
+msgid "Game over"
+msgstr "Spielende"
+
+#: ChessBoard.py:333 ChessBoard.py:363
+msgid "Result: "
+msgstr "Ergebnis: "
+
+#: ChessBoard.py:337 ChessBoard.py:366
+msgid "Chess"
+msgstr "Schach"
+
+#: ChessBoard.py:342
+msgid "illegal move"
+msgstr "Illegaler Zug"
+
+#: ChessBoard.py:405
+msgid "Queen"
+msgstr "Dame"
+
+#: ChessBoard.py:406
+msgid "Rock"
+msgstr "Turm"
+
+#: ChessBoard.py:407
+msgid "Knight"
+msgstr "Springer"
+
+#: ChessBoard.py:408
+msgid "Bishop"
+msgstr "Läufer"
+
+#: ChessBoard.py:439
+msgid "Move will be undone"
+msgstr "Zug wird zurückgenommen"
+
+#: ChessBoard.py:449
+#, python-format
+msgid "Sugguested move: %s"
+msgstr "Zug-Vorschlag: %s"
+
+#: ChessBoard.py:451
+msgid "No move suggestion"
+msgstr "Kein Vorschlag vorhanden"
+
+#: ChessBoard.py:468
+msgid "Play white"
+msgstr "Weiß spielen"
+
+#: ChessBoard.py:521 ChessBoard.py:528
+#, python-format
+msgid "New movetime: %d seconds"
+msgstr "Neue Bedenkzeit: %d Sekunden"
+
+#: ChessBoard.py:257
+msgid "Chess engine:"
+msgstr "Schachprogramm"
+
+#: ChessBoard.py:258
+msgid "Use Opening Book:"
+msgstr "Eröffnungsbuch benutzen"
+
+#: ChessBoard.py:259
+msgid "Opening Book"
+msgstr "Eröffnungsbuch wählen"
+
+#: plugin.py
+#, python-format
+msgid "Gnuchess Frontend"
+msgstr "Gnuchess Frontend"

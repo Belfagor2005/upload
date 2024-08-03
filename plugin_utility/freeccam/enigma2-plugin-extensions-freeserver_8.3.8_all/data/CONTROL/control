@@ -1,0 +1,10 @@
+Package: enigma2-plugin-extensions-freeserver
+Version: 8.3.8
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: mino60
+Description: Free Server Online Generator Ncam OScam adddon
+Depends:  
+Homepage: www.tunisia-sat.com
+OE: enigma2

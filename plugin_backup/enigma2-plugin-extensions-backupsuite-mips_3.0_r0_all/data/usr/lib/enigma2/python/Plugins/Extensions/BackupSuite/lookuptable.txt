@@ -1,0 +1,274 @@
+BRAND AND MODEL	MODEL	SHOWNAME	FOLDER	EXTR1	EXTR2	MKUBIFS_ARGS	UBINIZE_ARGS	ROOTNAME	KERNELNAME	ACTION
+ABcom Pulse 4K	pulse4k	ABcom Pulse 4K	/pulse4k	/fullbackup_pulse4k	/pulse4k			rootfs.tar.bz2	uImage	none
+ABcom Pulse4K mini	pulse4kmini	ABcom Pulse4K mini	/pulse4kmini	/fullbackup_pulse4kmini	/pulse4kmini			rootfs.tar.bz2	uImage	none
+Amiko Viper 4K	viper4k	Amiko Viper 4K	/amiko/viper4k	/fullbackup_viper4k	/amiko			rootfs.tar.bz2	kernel.bin	none
+Amiko Viper Combo	vipercombo	Amiko Viper Combo	/vipercombo	/fullbackup_vipercombo		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Amiko Viper Combo HDD	vipercombohdd	Amiko Viper Combo HDD	/vipercombohdd	/fullbackup_vipercombohdd		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Amiko Viper Slim	viperslim	Amiko Viper Slim	/viperslim	/fullbackup_viperslim		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	force
+Amiko Viper T2C	vipert2c	Amiko Viper T2C	/vipert2c	/fullbackup_vipert2c		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Anadol Pro HD5	u42	Anadol Pro HD5	/dinobot/u42	/fullbackup_u42	/dinobot	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Atemio 5200	ini-1000am	Atemio 5200	/atemio/5x00	/fullbackup_5x00	/atemio	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Atemio 6000-HD	atemio6000	Atemio 6000-HD	/atemio/6000	/fullbackup_6000	/atemio	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Atemio 6100-HD	atemio6100	Atemio 6100-HD	/atemio/6100	/fullbackup_6100	/atemio	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Atemio 6200-HD	atemio6200	Atemio 6200-HD	/atemio/6200	/fullbackup_6200	/atemio	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Atemio Nemesis	ini-8000am	Atemio Nemesis	/atemio/8x00	/fullbackup_nemesis	/atemio	-m 4096 -e 1040384 -c 1984	-m 4096 -p 1024KiB	rootfs.bin	kernel.bin	noforce
+AX Triplex	triplex	AX Triplex	/triplex	/fullbackup_triplex		-m 2048 -e 126976 -c 8192 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+AX Ultra	axultra	AX Ultra	/axultra	/fullbackup_axultra		-m 2048 -e 126976 -c 8192 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+AX Ultrabox	ultrabox	AX Ultrabox	/ultrabox	/fullbackup_ultrabox		-m 2048 -e 126976 -c 8192 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+AXAS Class M	en2	AXAS Class M	/en2	/fullbackup_en2		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+AXAS E3HD	e3hd	AXAS E3HD	/e3hd	/fullbackup_e3hd		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+AXAS E4HD	e4hd	AXAS E4HD	/e4hd	/fullbackup_e4hd		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+AXAS E4HD Combo	e4hdcombo	AXAS E4HD Combo	/e4hdcombo	/fullbackup_e4hdcombo		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+AXAS His C 4K	axashisc4k	AXAS His C 4K	/axas/axasc4k	/fullbackup_axashisc4k	/axas			rootfs.tar.bz2	kernel.bin	none
+AXAS His Twin	axashistwin	AXAS His Twin	/axas/axashistwin	/fullbackup_axashistwin	/axas	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Beyonwiz T2	beyonwizt2	Beyonwiz T2	/beyonwiz/hde2	/fullbackup_beyonwizt2	/beyonwiz	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Beyonwiz T3	beyonwizt3	Beyonwiz T3	/beyonwiz/hdx	/fullbackup_beyonwizt3	/beyonwiz	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Beyonwiz T4	beyonwizt4	Beyonwiz T4	/beyonwiz/hdp	/fullbackup_beyonwizt4	/beyonwiz	-m 4096 -e 1040384 -c 1984	-m 4096 -p 1024KiB	rootfs.bin	kernel.bin	noforce
+Beyonwiz U4	beyonwizu4	Beyonwiz U4	/beyonwiz/u4	/fullbackup_beyonwizu4	/beyonwiz			rootfs.tar.bz2	kernel.bin	noforce
+Beyonwiz V2	beyonwizv2	Beyonwiz V2	/beyonwiz/v2	/fullbackup_beyonwizv2	/beyonwiz			rootfs.tar.bz2	kernel.bin	none
+Dreambox DM900	dm900	Dreambox DM900	/dm900	/fullbackup_dm900				rootfs.tar.bz2	kernel.bin	none
+Dreambox DM920	dm920	Dreambox DM920	/dm920	/fullbackup_dm920				rootfs.tar.bz2	kernel.bin	none
+Edision Optimuss OS	optimussos	Edision Optimuss OS	/update/optimussos/cfe	/fullbackup_optimussos	/update/optimussos	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Edision Optimuss OS1	optimussos1	Edision Optimuss OS1	/update/optimussos1/cfe	/fullbackup_optimussos1	/update/optimussos1	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Edision Optimuss OS1 Plus	optimussos1plus	Edision Optimuss OS1 Plus	/update/optimussos1plus/cfe	/fullbackup_optimussos1plus	/update/optimussos1plus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Edision Optimuss OS2	optimussos2	Edision Optimuss OS2	/update/optimussos2/cfe	/fullbackup_optimussos2	/update/optimussos2	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Edision Optimuss OS2 Plus	optimussos2plus	Edision Optimuss OS2 Plus	/update/optimussos2plus/cfe	/fullbackup_optimussos2plus	/update/optimussos2plus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Edision Optimuss OS3 Plus	optimussos3plus	Edision Optimuss OS3 Plus	/update/optimussos3plus/cfe	/fullbackup_optimussos3plus	/update/optimussos3plus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Edision OS mini	osmini	Edision OS mini	/osmini	/fullbackup_osmini		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Edision OS mini4k	osmini4k	Edision OS mini4k	/osmini4k	/fullbackup_osmini4k				rootfs.tar.bz2	kernel.bin	none
+Edision OS mini plus	osminiplus	Edision OS mini plus	/osminiplus	/fullbackup_osminiplus		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Edision OS mega	osmega	Edision OS mega	/osmega	/fullbackup_osmega		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Edision OS mio4k	osmio4k	Edision OS mio4k	/osmio4k	/fullbackup_osmio4k				rootfs.tar.bz2	kernel.bin	none
+Edision OS mio4kplus	osmio4kplus	Edision OS mio4kplus	/osmio4kplus	/fullbackup_osmio4kplus				rootfs.tar.bz2	kernel.bin	none
+Edision OS nino	osnino	Edision OS nino	/osnino	/fullbackup_osnino		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Edision OS ninoplus	osninoplus	Edision OS ninoplus	/osninoplus	/fullbackup_osninoplus		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Edision OS ninopro	osninopro	Edision OS ninopro	/osninopro	/fullbackup_osninopro		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo ENfinity	enfinity	Evo ENfinity	/enfinity	/fullbackup_enfinity		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo ENfinity mini	mini	Evo ENfinity mini	/mini	/fullbackup_mini		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo ENfinity mini+	miniplus	Evo ENfinity mini+	/miniplus	/fullbackup_miniplus		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo ENfinity T2C	t2cable	Evo ENfinity T2C	/t2cable	/fullbackup_t2cable		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo enfinityX 1plus	x1plus	Evo enfinityX 1plus	/x1plus	/fullbackup_x1plus		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo enfinityX 2plus	x2plus	Evo enfinityX 2plus	/x2plus	/fullbackup_x2plus		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo enfinityX combo plus	xcombo	Evo enfinityX combo plus	/xcombo	/fullbackup_xcombo		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo Nova Combo	novacombo	Evo Nova Combo	/novacombo	/fullbackup_novacombo		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo Nova IP	novaip	Evo Nova IP	/novaip	/fullbackup_novaip		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo Nova Twin	novatwin	Evo Nova Twin	/novatwin	/fullbackup_novatwin		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo Slim	evoslim	Evo Slim	/xpeedlxpro	/fullbackup_evoslim		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo Slim SE	evoslimse	Evo Slim SE	/slim	/fullbackup_evoslimse		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Evo Slim T2C	evoslimt2c	Evo Slim T2C	/slimt2c	/fullbackup_evoslimt2c		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Ferguson Ariva ATV Combo	arivacombo	Ferguson Ariva ATV Combo	/ferguson/atvcombo	/fullbackup_arivacombo	/ferguson			rootfs.tar.bz2	kernel.bin	none
+Ferguson Ariva ATV Twin	arivatwin	Ferguson Ariva ATV Twin	/ferguson/atvtt	/fullbackup_arivatwin	/ferguson			rootfs.tar.bz2	kernel.bin	none
+Formuler F1	formuler1	Formuler F1	/formuler1	/fullbackup_formuler1		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Formuler F3	formuler3	Formuler F3	/formuler3	/fullbackup_formuler3		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Formuler F4	formuler4	Formuler F4	/formuler4	/fullbackup_formuler4		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Formuler F4 Turbo	formuler4turbo	Formuler F4 Turbo	/formuler4turbo	/fullbackup_formuler4turbo		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+GI ET7000 Mini	et7000mini	Galaxy Innovations ET7000 mini/et7x00	/fullbackup_et7x00		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+GI ET11000 4k	et11000	GI ET11000	/et1x000	/fullbackup_et1x000				rootfs.tar.bz2	kernel.bin	noforce
+Gigablue 800SE	gb800se	Gigablue 800SE	/gigablue/se	/fullbackup_800se	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue 800SEPlus	gb800seplus	Gigablue 800SEPlus	/gigablue/seplus	/fullbackup_800seplus	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue 800UE	gb800ue	Gigablue 800UE	/gigablue/ue	/fullbackup_800ue	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue 800UEPlus	gb800ueplus	Gigablue 800UEPlus	/gigablue/ueplus	/fullbackup_800ueplus	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue IP 4K	gbip4k	Gigablue IP 4K	/gigablue/ip4k	/fullbackup_ip4k	/gigablue			rootfs.tar.bz2	kernel.bin	none
+Gigablue IPBox	gbipbox	Gigablue IPBox	/gigablue/ipbox	/fullbackup_gbipbox	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue Quad	gbquad	Gigablue Quad	/gigablue/quad	/fullbackup_quad	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue Quad 4K	gbquad4k	Gigablue Quad 4K	/gigablue/quad4k	/fullbackup_quad4k	/gigablue			rootfs.tar.bz2	kernel.bin	force
+Gigablue QuadPlus	gbquadplus	Gigablue QuadPlus	/gigablue/quadplus	/fullbackup_quadplus	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue Trio 4K	gbtrio4k	Gigablue Trio 4K	/gigablue/trio4k	/fullbackup_trio4k	/gigablue			rootfs.tar.bz2	kernel.bin	none
+Gigablue UE 4K	gbue4k	Gigablue UE 4K	/gigablue/ue4k	/fullbackup_ued4k	/gigablue			rootfs.tar.bz2	kernel.bin	force
+Gigablue UltraSE	gbultrase	Gigablue UltraSE	/gigablue/ultrase	/fullbackup_gbultrase	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue UltraUE	gbultraue	Gigablue UltraUE	/gigablue/ultraue	/fullbackup_gbultraue	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue UltraUEH	gbultraueh	Gigablue UltraUEH	/gigablue/ultraueh	/fullbackup_gbultraueh	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue X1	gbx1	Gigablue X1	/gigablue/x1	/fullbackup_gbx1	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue X2	gbx2	Gigablue X2	/gigablue/x2	/fullbackup_gbx2	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue X3	gbx3	Gigablue X3	/gigablue/x3	/fullbackup_gbx3	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Gigablue X3 4K	gbx34k	Gigablue X3 4K	/gigablue/x34k	/fullbackup_gbx34k	/gigablue			rootfs.tar.bz2	kernel.bin	force
+Gigablue X3H	gbx3h	Gigablue X3H	/gigablue/x3h	/fullbackup_gbx3h	/gigablue	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HD 11	hd11	HD 11	/hd11	/fullbackup_hd11		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HD 1100	hd1100	HD 1100	/hd1100	/fullbackup_hd1100		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HD 1200	hd1200	HD 1200	/hd1200	/fullbackup_hd1200		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HD 1265	hd1265	HD 1265	/hd1265	/fullbackup_hd1265		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HD 1500	hd1500	HD 1500	/hd1500	/fullbackup_hd1500		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HD 2400	hd2400	HD 2400	/hd2400	/fullbackup_hd2400		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HD 51	hd51	Mutant HD51	/hd51	/fullbackup_hd51				rootfs.tar.bz2	kernel.bin	none
+HD 500C	hd500c	HD 500c	/hd500c	/fullbackup_hd500c		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HD 530C	hd530c	HD 530c	/hd530c	/fullbackup_hd530c		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HDBox EniBox	enibox	HDBox EniBox	/enibox	/fullbackup_enibox		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+HD 60	hd60	Mutant HD60	/hd60	/fullbackup_hd60				rootfs.tar.bz2	uImage	none
+HD 61	hd61	Mutant HD61	/hd61	/fullbackup_hd61				rootfs.tar.bz2	uImage	none
+HD 66 SE	hd66se	Mutant HD66 SE	/hd66se	/fullbackup_hd66se				rootfs.tar.bz2	uImage	none
+Iqon Force 1	force1	Iqon Force 1	/update/force1/cfe	/fullbackup_force1	/update/force1	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Iqon Force 2	force2	Iqon Force 2	/update/force2solid/cfe	/fullbackup_force2	/update/force2solid	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Iqon Force 2 Nano	force2nano	Iqon Force 2 Nano	/update/force2nano/cfe	/fullbackup_force2nano	/update/force2nano	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Iqon Force 2 Plus	force2plus	Iqon Force 2 Plus	/update/force2plus/cfe	/fullbackup_force2plus	/update/force2plus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Iqon Force 2 Plus HV	force2plushv	Iqon Force 2 Plus HV	/update/force2plushv/cfe	/fullbackup_force2plushv	/update/force2plushv	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Iqon Force 2 SE	force2se	Iqon Force 2 SE	/update/force2se/cfe	/fullbackup_force2se	/update/force2se	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Iqon Force 3 UHD	force3uhd	Iqon Force 3 UHD	/update/force3uhd	/fullbackup_force3uhd	/update			rootfs.tar.bz2	oe_kernel.bin	none
+Iqon Force 3 UHD Plus	force3uhdplus	Iqon Force 3 UHD Plus	/update/force3uhdplus	/fullbackup_force3uhdplus	/update			rootfs.tar.bz2	oe_kernel.bin	none
+Iqon Force 4	force4	Iqon Force 4	/update/force4	/fullbackup_force4	/update			rootfs.tar.bz2	oe_kernel.bin	none
+Iqon IOS-100HD	iqonios100hd	Iqon IOS-100HD	/update/ios100/cfe	/fullbackup_ios100	/update/ios100	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Iqon IOS-200HD	iqonios200hd	Iqon IOS-200HD	/update/ios200/cfe	/fullbackup_ios200	/update/ios200	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Iqon IOS-300HD	iqonios300hd	Iqon IOS-300HD	/update/ios300/cfe	/fullbackup_ios300	/update/ios300	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Iqon IOS-300HDV2	iqonios300hdv2	Iqon IOS-300HDV2	/update/ios300new/cfe	/fullbackup_ios300new	/update/ios300new	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Ixuss One	ixussone	Ixuss One	/medialink/ixussone	/fullbackup_ixussone	/medialink	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Ixuss Zero	ixusszero	Ixuss Zero	/medialink/ixusszero	/fullbackup_ixusszero	/medialink	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+IZIBox X3	iziboxx3	IZIBox X3	/izibox/x3	/fullbackup_iziboxx3	/izibox	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Jepssen MediaBox HD LX	mediabox	Jepssen MediaBox HD LX	/update/mediabox/cfe	/fullbackup_mediabox	/update/mediabox	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Max-Digital XP1000	xp1000	Max-Digital XP1000	/xp1000	/fullbackup_xp1000		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+MaxyTec Multibox	multibox	MaxyTec Multibox	/multibox	/fullbackup_multibox				rootfs.tar.bz2	uImage	none
+MaxyTec Multibox Plus	multiboxplus	MaxyTec Multibox Plus	/plus	/fullbackup_multiboxplus				rootfs.tar.bz2	uImage	none
+MaxyTec Multibox SE	multiboxse	MaxyTec Multibox SE	/multiboxse	/fullbackup_multiboxse				rootfs.tar.bz2	uImage	none
+Miraclebox Hybrid	mbhybrid	Miraclebox Hybrid	/miraclebox/minihybrid	/fullbackup_minihybrid	/miraclebox	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Miraclebox Micro	7000S	Miraclebox Micro	/miraclebox/micro	/fullbackup_mbmico	/miraclebox	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Miraclebox MicroV2	7005S	Miraclebox MicroV2	/miraclebox/microv2	/fullbackup_mbmicov2	/miraclebox	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Miraclebox Mini	ini-1000sv	Miraclebox Mini	/miraclebox/mini	/fullbackup_mbmini	/miraclebox	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Miraclebox Mini Plus	ini-2000sv	Miraclebox MiniPlus 	/miraclebox/miniplus	/fullbackup_mbminiplus	/miraclebox	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Miraclebox Twin	ini-5000sv	Miraclebox Twin	/miraclebox/twin	/fullbackup_mbtwin	/miraclebox	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Miraclebox Twin Plus	g300	Miraclebox Twin Plus	/miraclebox/twinplus	/fullbackup_mbtwinplus	/miraclebox	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Miraclebox Ultra	ini-8000sv	Miraclebox Ultra	/miraclebox/ultra	/fullbackup_mbultra	/miraclebox	-m 4096 -e 1040384 -c 1984	-m 4096 -p 1024KiB	rootfs.bin	kernel.bin	noforce
+MixOS F5	mixosf5	MixOS F5	/ebox/7403	/fullbackup_mixosf5	/ebox	-m 2048 -e 126976 -c 1024 -F	-m 2048 -p 128KiB	root_cfe_auto.bin	kernel_cfe_auto.bin	none
+MixOS F7	mixosf7	MixOS F7	/ebox/7358	/fullbackup_mixosf7	/ebox	-m 2048 -e 126976 -c 1024 -F	-m 2048 -p 128KiB	root_cfe_auto.bin	kernel_cfe_auto.bin	none
+Odin M9	odinm9	Odin M9	/odinm9	/fullbackup_odinm9		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Octagon SF98	sf98	Octagon SF98	/sf98	/fullbackup_sf98		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Octagon SF108	sf108	Octagon SF108	/sf108	/fullbackup_sf108		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Octagon SF128	sf128	Octagon SF128	/sf128	/fullbackup_sf128		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Octagon SF138	sf138	Octagon SF138	/sf138	/fullbackup_sf138		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Octagon SF208	sf208	Octagon SF208	/sf208	/fullbackup_sf208		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Octagon SF228	sf228	Octagon SF228	/sf228	/fullbackup_sf228		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Octagon SF3038	sf3038	Octagon SF3038	/sf3038	/fullbackup_sf3038		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Octagon SF4008	sf4008	Octagon SF4008	/sf4008	/fullbackup_sf4008				rootfs.tar.bz2	kernel.bin	noforce
+Octagon SF5008	sf5008	Octagon SF5008	/sf5008	/fullbackup_sf5008				rootfs.tar.bz2	kernel.bin	noforce
+Octagon SF8008	sf8008	Octagon SF8008	/octagon/sf8008	/fullbackup_sf8008	/octagon			rootfs.tar.bz2	kernel.bin	none
+Octagon SF8008M	sf8008m	Octagon SF8008M	/octagon/sf8008m	/fullbackup_sf8008m	/octagon			rootfs.tar.bz2	kernel.bin	none
+Octagon SFX6008	sfx6008	Octagon SFX6008	/octagon/sfx6008	/fullbackup_sfx6008	/octagon			rootfs.tar.bz2	kernel.bin	none
+Octagon SX888 4K UHD	sx88v2	Octagon SX888 4K UHD	/octagon/sx88v2	/fullbackup_sx88v2	/octagon			rootfs.tar.bz2	kernel.bin	none
+Opticum Odin2 Hybrid	odin2hybrid	Opticum Odin2 Hybrid	/odin2/hybrid	/fullbackup_odin2hybrid	/odin2	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Opticum Odin2 Plus	odinplus	Opticum Odin2 Plus	/odinplus	/fullbackup_odinplus		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Opticum Twin	opticumtt	Opticum Twin	/opticum/tt	/fullbackup_opticumtt	/opticum	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Protek 4K	protek4k	Protek 4K	/protek4k	/fullbackup_protek4k				rootfs.tar.bz2	kernel.bin	noforce
+Protek 4K X1	protek4kx1	Protek 4K X1	/protek/4kx1	/fullbackup_protek4kx1	/protek	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Protek 9900LX	9900lx	Protek 9900LX	/9900lx	/fullbackup_9900lx		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Protek 9910LX	9910lx	Protek 9910LX	/9910lx	/fullbackup_9910lx		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Protek 9911LX	9911lx	Protek 9911LX	/9911lx	/fullbackup_9911lx		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Protek 9920LX	9920lx	Protek 9920LX	/9920lx	/fullbackup_9920lx		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Qviart Lunix	lunix	Qviart Lunix	/update/lunix/cfe	/fullbackup_lunix	/update/lunix	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Qviart Lunix4K	lunix4k	Qviart Lunix4K	/update/lunix4k	/fullbackup_lunix4k	/update			rootfs.tar.bz2	oe_kernel.bin	none
+Qviart Lunix3 4K	lunix3-4k	Qviart Lunix3 4K	/update/lunix3-4k	/fullbackup_lunix34k	/update			rootfs.tar.bz2	oe_kernel.bin	none
+Qviart Lunix Co	lunixco	Qviart Lunix Co	/update/lunixco/cfe	/fullbackup_lunixco	/update/lunixco	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Qviart DUAL 4K	dual	Qviart DUAL 4K	/dual	/fullbackup_dual	/dual			rootfs.tar.bz2	kernel.bin	none
+Red Eagle SingleBox LCD	singleboxlcd	Red Eagle SingleBox LCD	/redeagle/singleboxlcd	/fullbackup_singleboxlcd	/redeagle	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Red Eagle TwinBox LCD	twinboxlcd	Red Eagle TwinBox LCD	/redeagle/twinboxlcd	/fullbackup_twinboxlcd	/redeagle	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Relook Mago	mago	Relook Mago	/mago	/fullbackup_mago		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+SAB Alpha Triple	alphatriplehd	SAB Alpha Triple	/sab_alpha_triple	/fullbackup_sab_alpha_triple		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Sezam 1000-HD	sezam1000hd	Sezam 1000-HD	/hde	/fullbackup_sezam1000hd		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Sezam 5000-HD	sezam5000hd	Sezam 5000-HD	/hdx	/fullbackup_sezam5000hd		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Sezam Marvel	sezammarvel	Sezam Marvel	/hdp	/fullbackup_sezammarvel		-m 4096 -e 1040384 -c 1984	-m 4096 -p 1024KiB	rootfs.bin	kernel.bin	noforce
+Sogno 8800HD	8800hd	Sogno 8800HD	/sogno/8800hd	/fullbackup_8800hd	/sogno	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Space Black Widow-X	bwidowx	Space Black Widow-X	/bwidowx	/fullbackup_bwidowx		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Space Black Widow-X2	bwidowx2	Space Black Widow-X2	/bwidowx2	/fullbackup_bwidowx2		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Spycat	spycat	Spycat	/spycat	/fullbackup_spycat		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Spycat 4K	spycat4k	Spycat 4K	/spycat4k	/fullbackup_spycat4k				rootfs.tar.bz2	kernel.bin	noforce
+Spycat 4K mini	spycat4kmini	Spycat 4K mini	/spycat4kmini	/fullbackup_spycat4kmini				rootfs.tar.bz2	kernel.bin	noforce
+Spycat Mini	spycatmini	Spycat Mini	/spycatmini	/fullbackup_spycatmini		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Spycat Mini Plus	spycatminiplus	Spycat Mini Plus	/spycatminiplus	/fullbackup_spycatminiplus		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Technomate TM-2T-OE	tm2t	Technomate TM-2T-OE	/update/tm2toe/cfe	/fullbackup_tm2t	/update/tm2toe	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM 4K super	tm4ksuper	Technomate TM 4K super	/update/tm4ksuper	/fullbackup_tm4ksuper	/update			rootfs.tar.bz2	oe_kernel.bin	none
+Technomate TM-NANO 2 Super	tmnano2super	Technomate TM-NANO 2 Super	/update/tmnano2super/cfe	/fullbackup_tmnano2super	/update/tmnano2super	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-NANO-2T	tmnano2t	Technomate TM-NANO-2T	/update/tmnano2t/cfe	/fullbackup_tmnano2t	/update/tmnano2t	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-NANO-3T Combo	tmnano3t	Technomate TM-NANO-3T Combo	/update/force1plus/cfe	/fullbackup_tmnano3t	/update/force1plus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-NANO M3	tmnanom3	Technomate TM-NANO M3	/update/tmnanom3/cfe	/fullbackup_tmnanom3	/update/tmnanom3	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-NANO-OE	tmnano	Technomate TM-NANO-OE	/update/tmnanooe/cfe	/fullbackup_tmnano	/update/tmnanooe	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-NANO-SE	tmnanose	Technomate TM-NANO-SE	/update/tmnanose/cfe	/fullbackup_tmnanose	/update/tmnanose	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-NANO-SE Combo	tmnanosecombo	Technomate TM-NANO-SE Combo	/update/tmnanosecombo/cfe	/fullbackup_tmnanosecombo	/update/tmnanosecombo	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-NANO-SE M2	tmnanosem2	Technomate TM-NANO-SE M2	/update/tmnanosem2/cfe	/fullbackup_tmnanosem2	/update/tmnanosem2	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-NANO-SE Plus	tmnanoseplus	Technomate TM-NANO-SE Plus	/update/tmnanoseplus/cfe	/fullbackup_tmnanoseplus	/update/tmnanoseplus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-Single	tmsingle	Technomate TM-Single	/update/tmsingle/cfe	/fullbackup_tmsingle	/update/tmsingle	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Technomate TM-Twin-4K	tmtwin4k	Technomate TM-Twin-4K	/update/tmtwin4k	/fullbackup_tmtwin4k	/update			rootfs.tar.bz2	oe_kernel.bin	none
+Technomate TM-Twin-OE	tmtwin	Technomate TM-Twin-OE	/update/tmtwinoe/cfe	/fullbackup_tmtwin	/update/tmtwinoe	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Tiviar Alpha+	tiviaraplus	Tiviar Alpha+	/tiviaraplus	/fullbackup_tiviaraplus		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Tiviar mini	tiviarmin	Tiviar mini	/tiviarmin	/fullbackup_tiviarmin		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Tripledot Tyrant	tyrant	Tripledot Tyrant	/tyrant	/fullbackup_tyrant		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+UNiBOX HDECOPlus	hde	UNiBOX HDECOPlus	/unibox/hde	/fullbackup_hde	/unibox	-m 2048 -e 126976 -c 8160 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+UNiBOX HD-x	hdx	UNiBOX HD-x	/venton-hdx	/fullbackup_hdx		-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Ustym 4K Pro	ustym4kpro	Ustym 4K Pro	/uclan/ustym4kpro	/fullbackup_ustym4kpro	/uclan			rootfs.tar.bz2	kernel.bin	none
+Ustym 4K S2 OTT X	ustym4ks2ottx	Ustym 4K S2 OTT X	/uclan/ustym4ks2ottx	/fullbackup_ustym4ks2ottx	/uclan			rootfs.tar.bz2	kernel.bin	none
+VALA Linux	valalinux	VALA Linux	/update/valalinux/cfe	/fullbackup_valalinux	/update/valalinux	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Vimastec VS1000	vs1000	Vimastec VS1000	/vs1000	/fullbackup_vs1000		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Vimastec VS1500	vs1500	Vimastec VS1500	/vs1500	/fullbackup_vs1500				rootfs.tar.bz2	kernel.bin	force
+VisionNet Marvel 1	marvel1	VisionNet Marvel 1	/marvel1	/fullbackup_marvel1		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Vivant Dinobot 4K	u5	Vivant Dinobot 4K	/dinobot/u5	/fullbackup_u5	/dinobot			rootfs.tar.bz2	kernel.bin	none
+Vivant Dinobot 4K L	u51	Vivant Dinobot 4K L	/dinobot/u51	/fullbackup_u51	/dinobot			rootfs.tar.bz2	kernel.bin	none
+Vivant Dinobot 4K Mini	u53	Vivant Dinobot 4K Mini	/dinobot/u53	/fullbackup_u53	/dinobot			rootfs.tar.bz2	kernel.bin	none
+Vivant Dinobot 4K Plus	u52	Vivant Dinobot 4K Plus	/dinobot/u52	/fullbackup_u52	/dinobot			rootfs.tar.bz2	kernel.bin	none
+Vivant Dinobot 4K Pro	u54	Vivant Dinobot 4K Pro	/dinobot/u54	/fullbackup_u54	/dinobot			rootfs.tar.bz2	kernel.bin	none
+Vivant Dinobot 4K SE	u5pvr	Vivant Dinobot 4K SE	/dinobot/u5pvr	/fullbackup_u5pvr	/dinobot			rootfs.tar.bz2	kernel.bin	none
+Vivant Dinobot H265	u41	Vivant Dinobot H265	/dinobot/u41	/fullbackup_u41	/dinobot	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Vivant Dinobot U43	u43	Vivant Dinobot U43	/dinobot/u43	/fullbackup_u43	/dinobot	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Vivant Dinobot U55	u55	Vivant Dinobot U55	/dinobot/u55	/fullbackup_u55	/dinobot	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Vu+ Duo	duo	Vu+ Duo	/vuplus/duo	/fullbackup_duo	/vuplus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	root_cfe_auto.jffs2	kernel_cfe_auto.bin	none
+Vu+ Duo 2	duo2	Vu+ Duo 2	/vuplus/duo2	/fullbackup_duo2	/vuplus	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	root_cfe_auto.bin	kernel_cfe_auto.bin	reboot
+Vu+ Duo 4K	duo4k	Vu+ Duo 4K	/vuplus/duo4k	/fullbackup_duo4k	/vuplus			rootfs.tar.bz2	kernel_auto.bin	force
+Vu+ Duo 4K SE	duo4kse	Vu+ Duo 4K SE	/vuplus/duo4kse	/fullbackup_duo4kse	/vuplus			rootfs.tar.bz2	kernel_auto.bin	force
+Vu+ Solo	solo	Vu+ Solo	/vuplus/solo	/fullbackup_solo	/vuplus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	root_cfe_auto.jffs2	kernel_cfe_auto.bin	none
+Vu+ Solo 2	solo2	Vu+ Solo 2	/vuplus/solo2	/fullbackup_solo2	/vuplus	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	root_cfe_auto.bin	kernel_cfe_auto.bin	reboot
+Vu+ Solo 4K	solo4k	Vu+ Solo 4K	/vuplus/solo4k	/fullbackup_solo4k	/vuplus			rootfs.tar.bz2	kernel_auto.bin	reboot
+Vu+ Solo SE	solose	Vu+ Solo SE	/vuplus/solose	/fullbackup_solose	/vuplus	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	root_cfe_auto.bin	kernel_cfe_auto.bin	force
+Vu+ Ultimo	ultimo	Vu+ Ultimo	/vuplus/ultimo	/fullbackup_ultimo	/vuplus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	root_cfe_auto.jffs2	kernel_cfe_auto.bin	reboot
+Vu+ Ultimo 4K	ultimo4k	Vu+ Ultimo 4K	/vuplus/ultimo4k	/fullbackup_ultimo4k	/vuplus			rootfs.tar.bz2	kernel_auto.bin	reboot
+Vu+ Uno	uno	Vu+ Uno	/vuplus/uno	/fullbackup_uno	/vuplus	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	root_cfe_auto.jffs2	kernel_cfe_auto.bin	reboot
+Vu+ Uno 4K	uno4k	Vu+ Uno 4K	/vuplus/uno4k	/fullbackup_uno4k	/vuplus			rootfs.tar.bz2	kernel_auto.bin	force
+Vu+ Uno 4K SE	uno4kse	Vu+ Uno 4K SE	/vuplus/uno4kse	/fullbackup_uno4kse	/vuplus			rootfs.tar.bz2	kernel_auto.bin	force
+Vu+ Zero	zero	Vu+ zero	/vuplus/zero	/fullbackup_zero	/vuplus	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	root_cfe_auto.bin	kernel_cfe_auto.bin	force
+Vu+ Zero 4K	zero4k	Vu+ zero 4K	/vuplus/zero4k	/fullbackup_zero4k	/vuplus			rootfs.tar.bz2	kernel_auto.bin	force
+WWIO BRE2ZE	bre2ze	WWIO BRE2ZE	/bre2ze	/fullbackup_bre2ze		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+WWIO BRE2ZE 4K	bre2ze4k	WWIO BRE2ZE 4K	/bre2ze4k	/fullbackup_bre2ze4k				rootfs.tar.bz2	kernel.bin	force
+WWIO BRE2ZE T2C	bre2zet2c	WWIO BRE2ZE T2C	/bre2ze_t2c	/fullbackup_bre2zet2c		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xpeed LX	ini-1000de	Xpeed LX	/xpeedlx	/fullbackup_xpeed		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xpeed LX3	ini-9000de	Xpeed LX3	/xpeedlx3	/fullbackup_xpeedlx3		-m 4096 -e 1040384 -c 1984	-m 4096 -p 1024KiB 	rootfs.bin	kernel.bin	noforce
+Xpeed LX Class	xpeedlx	GI Xpeed LX Class S2 or C	/xpeedc	/fullbackup_xpeedc		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xsarius Fusion HD	fusionhd	Xsarius Fusion HD	/update/fusionhd/cfe	/fullbackup_fusionhd	/update/fusionhd	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Xsarius Fusion HD SE	fusionhdse	Xsarius Fusion HD SE	/update/fusionhdse/cfe	/fullbackup_fusionhdse	/update/fusionhdse	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Xsarius Galaxy 4K	galaxy4k	Xsarius Galaxy 4K	/update/galaxy4k	/fullbackup_galaxy4k	/update			rootfs.tar.bz2	oe_kernel.bin	force
+Xsarius Pure HD	purehd	Xsarius Pure HD	/update/purehd/cfe	/fullbackup_purehd	/update/purehd	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Xsarius Pure HD SE	purehdse	Xsarius Pure HD SE	/update/purehdse/cfe	/fullbackup_purehdse	/update/purehdse	-m 2048 -e 126976 -c 4096 -F	-m 2048 -p 128KiB	oe_rootfs.bin	oe_kernel.bin	none
+Xsarius Revo 4K	revo4k	Xsarius Revo 4K	/update/revo4k	/fullbackup_revo4k	/update			rootfs.tar.bz2	oe_kernel.bin	force
+Xtrend 10000	et10000	Xtrend ET10000	/et10000	/fullbackup_et10000		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 13000	et13000	Xtrend ET13000	/et13000	/fullbackup_et13000				rootfs.tar.bz2	kernel.bin	noforce
+Xtrend 4000	et4000	Xtrend ET4000	/et4x00	/fullbackup_et4x00		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 5000	et5000	Xtrend ET5000	/et5x00	/fullbackup_et5x00		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 6000	et6000	Xtrend ET6000	/et6x00	/fullbackup_et6x00		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 6500	et6500	Xtrend ET6500	/et6x00	/fullbackup_et6x00		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 7000	et7000	Xtrend ET7000	/et7x00	/fullbackup_et7x00		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 7500	et7500	Xtrend ET7500	/et7x00	/fullbackup_et7x00		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 8000	et8000	Xtrend ET8000	/et8000	/fullbackup_et8000		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 8500	et8500	Xtrend ET8500	/et8500	/fullbackup_et8500		-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 9000	et9000	Xtrend ET9000	/et9x00	/fullbackup_et9x00		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 9200	et9200	Xtrend ET9200	/et9x00	/fullbackup_et9x00		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Xtrend 9500	et9500	Xtrend ET9500	/et9x00	/fullbackup_et9x00		-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Zgemma H3	h3	Zgemma H3	/zgemma/h3	/fullbackup_h3	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Zgemma H4	h4	Zgemma H4	/zgemma/h4	/fullbackup_h4	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Zgemma H5	h5	Zgemma H5	/zgemma/h5	/fullbackup_h5	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Zgemma H6	h6	Zgemma H6	/zgemma/h6	/fullbackup_h6	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Zgemma H7	h7	Zgemma H7	/zgemma/h7	/fullbackup_h7	/zgemma			rootfs.tar.bz2	kernel.bin	none
+Zgemma H8	h8	Zgemma H8	/zgemma/h8	/fullbackup_h8	/zgemma	-m 4096 -e 253952 -c 2048	-m 4096 -p 256KiB	rootfs.ubi	uImage	none
+Zgemma H8.2H	h8.2h	Zgemma H8.2H	/zgemma/h8	/fullbackup_h8	/zgemma	-m 4096 -e 253952 -c 2048	-m 4096 -p 256KiB	rootfs.ubi	uImage	none
+Zgemma H9	h9	Zgemma H9	/zgemma/h9	/fullbackup_h9	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Zgemma H9.S	h9.s	Zgemma H9.S	/zgemma/h9	/fullbackup_h9	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Zgemma H9.T	h9.t	Zgemma H9.T	/zgemma/h9	/fullbackup_h9	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Zgemma H9.2H	h9.2h	Zgemma H9.2H	/zgemma/h9	/fullbackup_h9	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Zgemma H9.2S	h9.2s	Zgemma H9.2S	/zgemma/h9	/fullbackup_h9	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Zgemma H9 Combo	h9combo	Zgemma H9 Combo	/zgemma/h9combo	/fullbackup_h9combo	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma H9 Twin	h9twin	Zgemma H9 Twin	/zgemma/h9combo	/fullbackup_h9combo	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma H9 Combo SE	h9combose	Zgemma H9 Combo SE	/zgemma/h9combose	/fullbackup_h9combose	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma H9 Twin SE	h9twinse	Zgemma H9 Twin SE	/zgemma/h9combose	/fullbackup_h9combo	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma H9(S/2S/2H) SE	h9se	Zgemma H9(S/2S/2H) SE	/zgemma/h9se	/fullbackup_h9se	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma H9.S SE	h9se.s	Zgemma H9.S SE	/zgemma/h9se	/fullbackup_h9se	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma H9.2S SE	h9se.2s	Zgemma H9.2S SE	/zgemma/h9se	/fullbackup_h9se	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma H9.2H SE	h9se.2h	Zgemma H9.2H SE	/zgemma/h9se	/fullbackup_h9se	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma H10	h10	Zgemma H10	/zgemma/h10	/fullbackup_h10	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma H11	h11	Zgemma H11	/zgemma/h11	/fullbackup_h11	/zgemma			rootfs.tar.bz2	uImage	none
+Zgemma HZero	hzero	Zgemma HZero	/zgemma/hzero	/fullbackup_hzero	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Zgemma I55	i55	Zgemma I55	/zgemma/i55	/fullbackup_i55	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Zgemma I55 Plus	i55plus	Zgemma I55 Plus	/zgemma/i55plus	/fullbackup_i55plus	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Zgemma I55 SE	i55se	Zgemma I55 SE	/zgemma/i55se	/fullbackup_i55se	/zgemma	-m 2048 -e 126976 -c 8192	-m 2048 -p 128KiB	rootfs.ubi	uImage	none
+Zgemma LC	lc	Zgemma LC	/zgemma/lc	/fullbackup_lc	/zgemma	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce
+Zgemma SH1	sh1	Zgemma SH1	/zgemma/sh1	/fullbackup_sh1	/zgemma	-m 2048 -e 126976 -c 4096	-m 2048 -p 128KiB	rootfs.bin	kernel.bin	noforce

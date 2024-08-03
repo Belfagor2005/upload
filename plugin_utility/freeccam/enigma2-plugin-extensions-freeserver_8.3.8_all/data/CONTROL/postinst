@@ -1,0 +1,13 @@
+#!/bin/sh
+echo "******************************************************************"
+echo "*             Freeserer installed successfully                   *"
+echo "*                                                                *"
+echo "*                    << mino60 >>                                *"
+echo "*                                                                *"
+echo "*                www.tunisia-sat.com                             *"
+echo "******************************************************************"
+echo ""
+echo ""
+echo ""
+
+exit 0

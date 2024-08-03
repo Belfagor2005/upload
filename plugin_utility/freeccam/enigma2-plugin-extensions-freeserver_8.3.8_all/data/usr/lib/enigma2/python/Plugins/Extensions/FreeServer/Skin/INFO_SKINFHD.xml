@@ -1,0 +1,4 @@
+<screen name="Menu" position="center,center" size="920,600"  backgroundColor="#ffffd4">	
+    <widget name="text" position="40,40" size="720,460" font="bpmo;20" foregroundColor="#000000" transparent="1" zPosition="2" />
+</screen>
+	

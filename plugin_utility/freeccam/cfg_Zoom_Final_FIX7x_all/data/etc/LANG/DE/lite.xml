@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu name="CCcam (cfg) Downloader E2 v1.0 Lite" >
+<entry name="unsichtbarer Download aller Server während der Übertragung" shortcut="red" help="(red) stáhnout z tohoto serveru" >			
+		<usersh name="OK" target="/usr/script/INFO/de.sh" confirmation="true" shortcut="yellow" help="(yellow) stáhnout z tohoto serveru"  exit="yes">
+		</usersh>
+<usersh name="" target="" confirmation="true" shortcut="" help=""  exit="no">
+			</usersh>
+			<usersh name="" target="" confirmation="true" shortcut="" help=""  exit="no">
+			</usersh>
+			<usersh name="" target="" confirmation="true" shortcut="" help=""  exit="no">
+			</usersh>
+			<usersh name="" target="" confirmation="true" shortcut="" help=""  exit="no">
+			</usersh>
+			<usersh name="" target="" confirmation="true" shortcut="" help=""  exit="no">
+			</usersh>
+<usersh name="Zurück zur Zoom-Version" target="/usr/script/Normal.sh" confirmation="true" shortcut="green" help="(green) stáhnout z tohoto serveru"  exit="yes">
+			</usersh>
+			
+         </entry>
+</menu>

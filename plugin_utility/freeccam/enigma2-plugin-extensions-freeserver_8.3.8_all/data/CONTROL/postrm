@@ -1,0 +1,11 @@
+#!/bin/sh
+
+rm -r /usr/lib/enigma2/python/Plugins/Extensions/FreeServer > /dev/null 2>&1
+sed -i '/FreeServerminoo/d' /etc/enigma2/settings > /dev/null 2>&1
+
+echo "************************************************************"
+echo "*                   Removed Successfully                   *"
+echo "*                Enigma2 restart is required               *"
+echo "************************************************************"
+
+exit 0

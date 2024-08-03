@@ -1,0 +1,10 @@
+('head', _('Default')),					Dark		Light
+ ('color1_Blue', _('Blue')),			#0024FF		#3282F6
+ ('color2_Brown', _('Brown')),			#803934		#DE645B
+ ('color3_Green', _('Green')),			#275918		#64E33E
+ ('color4_Grey', _('Grey')),			#595959		#A1A1A1
+ ('color5_Maroon', _('Maroon')),		#780C06		#FF1A0D
+ ('color6_Orange', _('Orange')),		#96240A		#FF3E11
+ ('color7_Pink', _('Pink')),			#8A204B		#FF3B8B
+ ('color8_Purple', _('Purple')),		#673891		#B562FF
+ ('color9_Teal', _('Teal'))])			#276B6B		#4FD9D9

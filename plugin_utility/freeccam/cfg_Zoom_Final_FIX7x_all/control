@@ -1,0 +1,11 @@
+Package: cfg-test
+Version: Zoom_Final_FIX7x-test
+Section: 1
+Priority: standard
+Architecture: all
+Maintainer: 1
+Description: 1
+Source: 1
+Homepage: Home
+OE: 2.x
+License: 1
