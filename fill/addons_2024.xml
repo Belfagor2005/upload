@@ -820,7 +820,7 @@
 		<plugin name="HasBahCa 1.7 all">
 			<url>"http://patbuweb.com/HasBahCa/enigma2-plugin-extensions-hasbahca_1.7_all.ipk"</url>
 		</plugin>
-		<plugin name="Iptv Link 1.1	(for Xc PLugin)all">
+		<plugin name="Iptv Link 1.1 (for Xc PLugin)all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvlink_1.1_all.ipk"</url>
 		</plugin>
 		<plugin name="MerlinMusicPlatyer fixed by Lululla v.7.1 all">
@@ -1661,17 +1661,14 @@
 		<plugin name="Zoom v.1.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/zoom_1.1.2_all.ipk"</url>
 		</plugin>
-                <plugin name="ZoomPanel-py3 2.0.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.0.2_all.ipk"</url>
-		</plugin>
 		<plugin name="Ncam Addon 1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="FreeCccam 1.7 all modded">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk"</url>
 		</plugin>
-		<plugin name="Simple zoom-panel v.2.0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.0.0_all.ipk"</url>
+		<plugin name="Simple zoom-panel v.2.0.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.0.3_all"</url>
 		</plugin>
 		<plugin name="Softcam Key Updater 6.1-12.20 by Pablonero all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.ipk"</url>
@@ -1758,7 +1755,7 @@
 		<plugin name="Streamlink 2.1.1+6.g1baa545 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-streamlink_2.1.1+6.g1baa545_all.ipk"</url>
 		</plugin>
-		<plugin name="Streamlink v.3.3	all">
+		<plugin name="Streamlink v.3.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/enigma2-plugin-extensions-streamlink_v.3.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Streamlink 1.2.0.r0 mod all">
