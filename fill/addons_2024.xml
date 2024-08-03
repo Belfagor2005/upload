@@ -1667,6 +1667,9 @@
 		<plugin name="FreeCccam 1.7 all modded">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk"</url>
 		</plugin>
+		<plugin name="Simple zoom-panel v.2.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.0.0_all.ipk"</url>
+		</plugin>
 		<plugin name="Softcam Key Updater 6.1-12.20 by Pablonero all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.ipk"</url>
 		</plugin>
@@ -2213,8 +2216,8 @@
 		<plugin name="OZETA SKIN ATV 7.4.X V.3.4 SKIN INSTALLER">
 			<url>"http://patbuweb.com/ozeta/enigma2-plugin-skins-ozeta-atv_3.4_all.ipk"</url>
 		</plugin>
-        <plugin name="FHD Aglare OpenPLi v.3.6 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-aglare-fhd-pli_3.6_all.ipk"</url>
+        <plugin name="FHD Aglare OpenPLi v.3.7 all ipk">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-aglare-fhd-pli_3.7_all.ipk"</url>
         </plugin>
         <plugin name="FHD Aglare OATV v.3.8 all ipk">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-aglare-fhd_3.8_all.ipk"</url>
