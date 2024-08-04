@@ -649,6 +649,9 @@
 		<plugin name="Multistalker 1.1 PRO mips all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+git161+e7a638f-r0_mipsel.ipk"</url>
 		</plugin>
+		<plugin name="Multistalker 1.1 r5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+r5_all.ipk"</url>
+		</plugin>		
 		<plugin name="Multistalker 1.5a PY3.10 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalker_1.5a_all.ipk"</url>
 		</plugin>
