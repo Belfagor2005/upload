@@ -1075,11 +1075,11 @@
         <plugin name="cfg Zoom Final FIX7x all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cfg_Zoom_Final_FIX7x_all.deb"</url>
         </plugin>
-        <plugin name="Channel Selection Plus 0.1.0-r2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-channelselectionplus_0.1.0-r2_all.deb"</url>
+        <plugin name="Channel Selection Plus 0.1.1-r4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-channelselectionplus_0.1.1-r4_all.deb"</url>
         </plugin>
-        <plugin name="Chocholousek Picons 5.0.221217 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-chocholousek-picons_5.0.221217_all.deb"</url>
+        <plugin name="Chocholousek-picons 5.0.231225 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-chocholousek-picons_5.0.231225_all.deb"</url>
         </plugin>
         <plugin name="Ciplushelper 5.4-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-ciplushelper_5.4-r0_all.deb"</url>
@@ -1184,6 +1184,9 @@
         <plugin name="Ipaudiopro v.1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4.deb"</url>
         </plugin>
+        <plugin name="Iptosat_1.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptosat_1.8.deb"</url>
+        </plugin>		
         <plugin name="Iptv Archive 2.0.82 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.82_all.deb"</url>
         </plugin>
@@ -1202,6 +1205,16 @@
         <plugin name="Kodilite 9.1r1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1-r1_all.deb"</url>
         </plugin>
+        <plugin name="Lcd4linux 5.1-r1 arm64 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r1_arm64.deb"</url>
+        </plugin>
+        <plugin name="Lcd4linux 5.1-r1 armhf all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r4_armhf.deb"</url>
+        </plugin>
+        <plugin name="Lcd4linux 5.1-r1 mipsel all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r4_mipsel.deb"</url>
+        </plugin>
+
         <plugin name="Levi45 MultiCam Manager v.10.1-r25 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.1-r25_all.deb"</url>
         </plugin>
@@ -1545,6 +1558,7 @@
 		<plugin name="CCcam 2.3.9 r6 OE 2.0 IPK all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_239-r6-RAED_OE2.0_all.ipk"</url>
 		</plugin>
+
 		<plugin name="CCcam 2.3.2-emu-r3-arm+mips IPK all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_2.3.2-emu-r3-arm+mips_all.ipk"</url>
 		</plugin>
@@ -1636,11 +1650,14 @@
 		<plugin name="Oscam for All 1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-oscamforall_1.2_all.deb"</url>
         </plugin>
-        <plugin name="CCcam 2.3.9 r0 arm-mips DEB">
+        <plugin name="CCcam 2.3.9 r0 oe2.0 arm-mips DEB">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_2.3.9-r0-RAED_OE2.0_all.deb"</url>
         </plugin>
-        <plugin name="CCcam 2.3.2 emu r3 arm-mips DEB">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_2.3.2-emu-r3-arm+mips_all.deb"</url>
+        <plugin name="CCcam 2.3.9 r0 oe2.5 arm-mips DEB">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_2.3.9-r0-RAED_OE2.0_all.deb"</url>
+        </plugin>
+        <plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
         </plugin>
 
 		<plugin name="Oscam Icam Path 11814-802 all">
@@ -1716,8 +1733,8 @@
 		<plugin name="FreeCccam 1.7 all modded">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk"</url>
 		</plugin>
-		<plugin name="Simple zoom-panel v.2.0.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.0.3_all.ipk"</url>
+		<plugin name="Simple zoom-panel v.2.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.0.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Softcam Key Updater 6.1-12.20 by Pablonero all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.ipk"</url>
@@ -1804,7 +1821,7 @@
 		<plugin name="Streamlink 2.1.1+6.g1baa545 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-streamlink_2.1.1+6.g1baa545_all.ipk"</url>
 		</plugin>
-		<plugin name="Streamlink v.3.3 all">
+		<plugin name="Streamlink v.3.3	all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/enigma2-plugin-extensions-streamlink_v.3.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Streamlink 1.2.0.r0 mod all">
