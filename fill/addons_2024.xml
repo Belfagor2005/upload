@@ -1400,7 +1400,7 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia_18.3-r1.0_all.deb"</url>
         </plugin>
         <plugin name="Webradiofs 16.24 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia-17-r1_mipsel.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webradiofs_16.24_all.deb"</url>
         </plugin>
         <plugin name="Wettercom 2.0.3-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wettercom_2.0.2-r3_all.deb"</url>
@@ -1475,9 +1475,6 @@
 		</plugin>
 		<plugin name="Kodilite 9.1r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1_r0_all.ipk"</url>
-		</plugin>
-		<plugin name="WebMedia 17 r3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodi/enigma2-plugin-extensions-webmedia_17_r3_all.ipk"</url>
 		</plugin>
 	</plugins>
 
@@ -3212,7 +3209,7 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1_r1_all.ipk"</url>
         </plugin>
         <plugin name="WebMedia 18.2_.r0 all">
-            <url>"http://patbuweb.com/WMupd/enigma2-plugin-extensions-webmedia_18.2_r0_all.ipk"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-webmedia_18.2_r0_all.ipk"</url>
         </plugin>
     </plugins>
 
