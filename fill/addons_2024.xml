@@ -664,6 +664,9 @@
 		<plugin name="Multistalker 1.1 PRO mips all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+git161+e7a638f-r0_mipsel.ipk"</url>
 		</plugin>
+		<plugin name="Multistalker 1.1 r5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+r5_all.ipk"</url>
+		</plugin>		
 		<plugin name="Multistalker 1.5a PY3.10 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalker_1.5a_all.ipk"</url>
 		</plugin>
@@ -1200,10 +1203,10 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-historyzap_1.0.41_all.deb"</url>
         </plugin>
         <plugin name="Ipaudio 6.5 all.deb ">
-            <url>"http://patbuweb.com/uppy/EnigmaOE2.5/varius/enigma2-plugin-extensions-ipaudio_6.5_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudio_6.5_all.deb"</url>
         </plugin> 	
         <plugin name="Ipaudiopro v.1.1+git87+f596293-r0_aarch64">
-            <url>"http://patbuweb.com/uppy/EnigmaOE2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git87+f596293-r0_aarch64.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git87+f596293-r0_aarch64.deb"</url>
         </plugin>
         <plugin name="Ipaudiopro v.1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4.deb"</url>
@@ -1330,7 +1333,6 @@
         <plugin name="Schiffe v.7.1r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-schiffe_7.1r1_all.deb"</url>
         </plugin>
-
         <plugin name="Secondinfobar2 3.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar2_3.6_all.deb"</url>
         </plugin>
@@ -1343,11 +1345,23 @@
         <plugin name="Settings cleaner 0.1.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-settingscleaner_0.1.9_all.deb"</url>
         </plugin>
+        <plugin name="Skyrecorder 2.0.3b all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-skyrecorder_2.0.3b_all.deb"</url>
+        </plugin>
+        <plugin name="Stalkerqtclient_0.7.4-r0.0 arm64">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/stalkerqtclient_0.7.4-r0.0_arm64.deb"</url>
+        </plugin>
+        <plugin name="Streamrelay 1.1-r2.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-streamrelay__all.deb"</url>
+        </plugin>
         <plugin name="SurfShark vpn v.1.0.5">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-surfsharkvpn_1.0.5.deb"</url>
         </plugin>
         <plugin name="Subs Support 1.5.8">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupport_1.5.8_all.deb"</url>
+        </plugin>
+        <plugin name="Subs Support custom">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/subssupport_custom.deb"</url>
         </plugin>
         <plugin name="Sudoku 7.1-r1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-sudoku_7.1r1_all.deb"</url>
@@ -1369,6 +1383,12 @@
         </plugin>
         <plugin name="Tuner Description v.0.1-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tunerdescription_0.1-r1_all.deb"</url>
+        </plugin>
+        <plugin name="Turkvod_13 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-turkvod_13_OE25.deb"</url>
+        </plugin>
+		<plugin name="Tvshows_1.0-r1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvshows_1.0-r1.0_all.deb"</url>
         </plugin>
         <plugin name="Tv Spielfilm 1.8.2-r2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvspielfilm_1.8.2-r2_all.deb"</url>
@@ -1398,7 +1418,7 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia_18.3-r1.0_all.deb"</url>
         </plugin>
         <plugin name="Webradiofs 16.24 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia-17-r1_mipsel.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webradiofs_16.24_all.deb"</url>
         </plugin>
         <plugin name="Wettercom 2.0.3-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wettercom_2.0.2-r3_all.deb"</url>
@@ -1473,9 +1493,6 @@
 		</plugin>
 		<plugin name="Kodilite 9.1r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1_r0_all.ipk"</url>
-		</plugin>
-		<plugin name="WebMedia 17 r3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodi/enigma2-plugin-extensions-webmedia_17_r3_all.ipk"</url>
 		</plugin>
 	</plugins>
 
@@ -2753,6 +2770,9 @@
 		<plugin name="Password Changer Experimental">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-passwordchanger_experimental-cvs20100725-r0_all.ipk"</url>
 		</plugin>
+		<plugin name="Passwordmasker 0.4 beta all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-passwordmasker_0.4-beta_all.ipk"</url>
+		</plugin>
 		<plugin name="Password Set git4897+7278916-r0.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-setpasswd_y-git4897+7278916-r0.0.ipk"</url>
 		</plugin>
@@ -2785,6 +2805,9 @@
 		</plugin>
 		<plugin name="Screennames v.1.05.20240323 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screennames_1.05.20240323_all.ipk"</url>
+		</plugin>
+		<plugin name="Screenresizer 1.1.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screenresizer_1.1.7_all.ipk"</url>
 		</plugin>
 		<plugin name="Scripts 1.0 mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-scripts_1.0_mipsel.ipk"</url>
@@ -3210,7 +3233,7 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1_r1_all.ipk"</url>
         </plugin>
         <plugin name="WebMedia 18.2_.r0 all">
-            <url>"http://patbuweb.com/WMupd/enigma2-plugin-extensions-webmedia_18.2_r0_all.ipk"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-webmedia_18.2_r0_all.ipk"</url>
         </plugin>
     </plugins>
 
