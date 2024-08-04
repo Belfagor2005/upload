@@ -1184,8 +1184,11 @@
         <plugin name="Historyzap 1.0.41 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-historyzap_1.0.41_all.deb"</url>
         </plugin>
+        <plugin name="Ipaudio 6.5 all.deb ">
+            <url>"http://patbuweb.com/uppy/EnigmaOE2.5/varius/enigma2-plugin-extensions-ipaudio_6.5_all.deb"</url>
+        </plugin> 	
         <plugin name="Ipaudiopro v.1.1+git87+f596293-r0_aarch64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git87+f596293-r0_aarch64.deb"</url>
+            <url>"http://patbuweb.com/uppy/EnigmaOE2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git87+f596293-r0_aarch64.deb"</url>
         </plugin>
         <plugin name="Ipaudiopro v.1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4.deb"</url>
@@ -1236,14 +1239,26 @@
         <plugin name="Mediaportal Grey Zone all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mpgz_all.deb"</url>
         </plugin>
+        <plugin name="Mediathekviewdream 1.0-r0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mediathekviewdream_1.0-r0_all.deb"</url>
+        </plugin>		
         <plugin name="Merlinsports 4.28r1+git0+140d40390c-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-merlinsports_4.28r1+git0+140d40390c-r1_all.deb"</url>
+        </plugin>
+        <plugin name="Movietime 1.0-r1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-movietime_1.0-r1.0_all.deb"</url>
         </plugin>
         <plugin name="Multi EPG Vali Mod for DreamOS 18.04.2021 - Version 1.2-r7">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multiepgmv_20210418-1.2-r7_all.deb"</url>
         </plugin>
+        <plugin name="Multistalker_1.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multistalker_1.4_all.deb"</url>
+        </plugin>
         <plugin name="My Quickbutton v.0.1-r8">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-myquickbutton_v0.1-r8_all.deb"</url>
+        </plugin>
+        <plugin name="Neoboot 9.69 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-neoboot_9.69_all.deb"</url>
         </plugin>
         <plugin name="Netatmo 1.7.1 20190308-r337 oe25 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-netatmo_1.7.1-20190308-r337_oe25_all.deb"</url>
@@ -1253,6 +1268,9 @@
         </plugin>
         <plugin name="New Virtual Keyboard 12.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-newvirtualkeyboard_v12.3_all.deb"</url>
+        </plugin>
+		<plugin name="Oeupdatere2 2.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oneupdatere2_2.8_all.deb"</url>
         </plugin>
         <plugin name="Openvpn 2.5.9-r0.0 mipsel">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/openvpn_2.5.9-r0.0__mipsel.deb"</url>
