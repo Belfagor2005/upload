@@ -2788,6 +2788,9 @@
 		<plugin name="Screennames v.1.05.20240323 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screennames_1.05.20240323_all.ipk"</url>
 		</plugin>
+		<plugin name="Screenresizer 1.1.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screenresizer_1.1.7_all.ipk"</url>
+		</plugin>
 		<plugin name="Scripts 1.0 mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-scripts_1.0_mipsel.ipk"</url>
 		</plugin>
