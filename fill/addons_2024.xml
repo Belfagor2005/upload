@@ -1285,6 +1285,9 @@
         <plugin name="Perfectprivacy 1.4.4">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-perfectprivacy_1.4.4.deb"</url>
         </plugin>
+		<plugin name="Plexdream 1.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-plexdream_1.1.1_all.deb"</url>
+        </plugin>
         <plugin name="Pineas v.0.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pineas_0.3_all.deb"</url>
         </plugin>
@@ -1296,6 +1299,12 @@
         </plugin>
         <plugin name="Purevpn 1.1.1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-purevpn_1.1.1_all.deb"</url>
+        </plugin>
+        <plugin name="Quarterpounder 6.2.0.20201122 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quarterpounder_6.2.0.20201122_all.deb"</url>
+        </plugin>
+        <plugin name="S4aupdater 23.04.05.1156 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-s4aupdater_23.04.05.1156_all.deb"</url>
         </plugin>
         <plugin name="Samsung Tv Plus 20231005-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-samsungtvplus_20231005-r1_all.deb"</url>
