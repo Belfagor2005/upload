@@ -2752,6 +2752,9 @@
 		<plugin name="Password Changer Experimental">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-passwordchanger_experimental-cvs20100725-r0_all.ipk"</url>
 		</plugin>
+		<plugin name="Passwordmasker 0.4 beta all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-passwordmasker_0.4-beta_all.ipk"</url>
+		</plugin>
 		<plugin name="Password Set git4897+7278916-r0.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-setpasswd_y-git4897+7278916-r0.0.ipk"</url>
 		</plugin>
