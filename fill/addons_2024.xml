@@ -8,8 +8,23 @@
 		<plugin name="Auto backup 2.0+git77+87cb199-r0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-autobackup_2.0+git77+87cb199-r0_all.ipk"</url>
 		</plugin>
+    <plugin name="Backupandflash_1.0-r0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupandflash_1.0-r0_all.ipk"</url>
+		</plugin>
 		<plugin name="Backupsuite 3.0-r3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_3.0_r3_all.ipk"</url>
+		</plugin>
+    <plugin name="Backupsuite_1.0+git495+48b9906-r0_aarch64_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_aarch64.ipk"</url>
+		</plugin>
+    <plugin name="Backupsuite_1.0+git495+48b9906-r0_armv7ahf-neon_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_armv7ahf-neon.ipk"</url>
+		</plugin>
+    <plugin name="Backupsuite_1.0+git495+48b9906-r0_cortexa15hf-neon-vfpv4_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+    <plugin name="Backupsuite_1.0+git495+48b9906-r0_mips32el_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Backupsuite mips 3.0-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite-mips_3.0_r0_all.ipk"</url>
@@ -1487,8 +1502,8 @@
 		<plugin name="Goldenfeed v.6.8">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-goldenfeed_6.8_all.ipk"</url>
 		</plugin>
-		<plugin name="Levi45 MultiCam Manager v.10.1-r17 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.1-r17_all.ipk"</url>
+		<plugin name="Levi45 MultiCam Manager v.10.1-r25 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.1-r25_all.ipk"</url>
 		</plugin>
 		<plugin name="Levi45 Addon Panel v.10.1-r19 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon-manager_10.1-r19_all.ipk"</url>
