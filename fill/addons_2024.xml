@@ -1185,10 +1185,10 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-historyzap_1.0.41_all.deb"</url>
         </plugin>
         <plugin name="Ipaudio 6.5 all.deb ">
-            <url>"http://patbuweb.com/uppy/EnigmaOE2.5/varius/enigma2-plugin-extensions-ipaudio_6.5_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudio_6.5_all.deb"</url>
         </plugin> 	
         <plugin name="Ipaudiopro v.1.1+git87+f596293-r0_aarch64">
-            <url>"http://patbuweb.com/uppy/EnigmaOE2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git87+f596293-r0_aarch64.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git87+f596293-r0_aarch64.deb"</url>
         </plugin>
         <plugin name="Ipaudiopro v.1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4.deb"</url>
@@ -1315,7 +1315,6 @@
         <plugin name="Schiffe v.7.1r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-schiffe_7.1r1_all.deb"</url>
         </plugin>
-
         <plugin name="Secondinfobar2 3.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar2_3.6_all.deb"</url>
         </plugin>
@@ -1328,11 +1327,23 @@
         <plugin name="Settings cleaner 0.1.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-settingscleaner_0.1.9_all.deb"</url>
         </plugin>
+        <plugin name="Skyrecorder 2.0.3b all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-skyrecorder_2.0.3b_all.deb"</url>
+        </plugin>
+        <plugin name="Stalkerqtclient_0.7.4-r0.0 arm64">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/stalkerqtclient_0.7.4-r0.0_arm64.deb"</url>
+        </plugin>
+        <plugin name="Streamrelay 1.1-r2.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-streamrelay__all.deb"</url>
+        </plugin>
         <plugin name="SurfShark vpn v.1.0.5">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-surfsharkvpn_1.0.5.deb"</url>
         </plugin>
         <plugin name="Subs Support 1.5.8">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupport_1.5.8_all.deb"</url>
+        </plugin>
+        <plugin name="Subs Support custom">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/subssupport_custom.deb"</url>
         </plugin>
         <plugin name="Sudoku 7.1-r1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-sudoku_7.1r1_all.deb"</url>
@@ -1354,6 +1365,12 @@
         </plugin>
         <plugin name="Tuner Description v.0.1-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tunerdescription_0.1-r1_all.deb"</url>
+        </plugin>
+        <plugin name="Turkvod_13 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-turkvod_13_OE25.deb"</url>
+        </plugin>
+		<plugin name="Tvshows_1.0-r1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvshows_1.0-r1.0_all.deb"</url>
         </plugin>
         <plugin name="Tv Spielfilm 1.8.2-r2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvspielfilm_1.8.2-r2_all.deb"</url>
