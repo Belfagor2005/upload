@@ -1588,8 +1588,8 @@
 		<plugin name="Picon Picons Updater 0.3.7.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconsupdater_0.3.7.1_all.ipk"</url>
 		</plugin>
-		<plugin name="Picon Remover 0.1 r0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconremover_0.1-20240805-r0_all.ipk"</url>
+		<plugin name="Picon Remover v.0.1-r1-20240806 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconremover_0.1-r1-20240806_all.ipk"</url>
 		</plugin>
 		<plugin name="Picon Rename to snp 0.1 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-renamepicons_2024_08_04_all.ipk"</url>
