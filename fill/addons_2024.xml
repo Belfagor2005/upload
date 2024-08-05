@@ -1798,6 +1798,9 @@
 		<plugin name="FreeServer 8.3.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-freeserver_8.3.8_all.ipk"</url>
 		</plugin>
+		<plugin name="Zoom Panel v.2.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.1.0_all.ipk"</url>
+		</plugin>		
 		<plugin name="Zoom v.1.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/zoom_1.1.2_all.ipk"</url>
 		</plugin>
@@ -1806,9 +1809,6 @@
 		</plugin>
 		<plugin name="FreeCccam 1.7 all modded">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk"</url>
-		</plugin>
-		<plugin name="Simple zoom-panel v.2.0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.0.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Softcam Key Updater 6.1-12.20 by Pablonero all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.ipk"</url>
