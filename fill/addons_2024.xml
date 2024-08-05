@@ -385,8 +385,8 @@
 		<plugin name="Backs Ncovers v. 0.9-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_0.9-r1_all.ipk"</url>
 		</plugin>
-		<plugin name="Cooltvguide Update fix 7.6.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-cooltvguide_Coolman_V7.6.0_all.ipk"</url>
+		<plugin name="Cooltvguide Coolman_V7.7.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-cooltvguide_Coolman_V7.7.0_all.ipk"</url>
 		</plugin>
 		<plugin name="CrossEpg v. 0.8.6+git483 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-systemplugins-crossepg_0.8.6-20181224_all.ipk "</url>
@@ -394,8 +394,14 @@
 		<plugin name="Epg Cache Selector 1.2 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-systemplugins-epgcacheselector_1.2-r0_all.ipk"</url>
 		</plugin>
+    <plugin name="Epggrabber_22.5_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epggrabber_22.5_all.ipk"</url>
+		</plugin>
 		<plugin name="Epg Export v. 1.0 r6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgexport_1.0-r6_all.ipk"</url>
+		</plugin>
+    <plugin name="EPGImport-mod-dorik1972_1.9.1_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Epg Import dream v. 1.0 Py3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport-py3-dream_1.0_all.ipk"</url>
@@ -430,8 +436,8 @@
 		<plugin name="Jediepgxtream v. 2.09.20230805 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.ipk"</url>
 		</plugin>
-		<plugin name="Myepg v.1.07-20231125 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-myepg_1.07-20231125_all.ipk"</url>
+		<plugin name="Myepg_1.08-20231219_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-myepg_1.08-20231219_all.ipk"</url>
 		</plugin>
 		<plugin name="Movie Browser 3.7 rc2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-openepg_1.4_r5_mips32el.ipk"</url>
