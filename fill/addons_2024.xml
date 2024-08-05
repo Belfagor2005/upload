@@ -569,7 +569,12 @@
 		<plugin name="Ardmediathek v1.5 plus-minitv all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ardmediathek_v1.5-plus-minitv_all.ipk"</url>
 		</plugin>
-
+    <plugin name="Camofs_17.46_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-camofs_17.46_all.ipk"</url>
+		</plugin>
+		<plugin name="Dreamplex_2.1.3_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-dreamplex_2.1.3_all.ipk"</url>
+		</plugin>
 		<plugin name="E2iPlayer Zadmario 2023.04.03.02 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-zadmario_2023.04.03.02_all.ipk"</url>
 		</plugin>
