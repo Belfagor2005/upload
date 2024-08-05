@@ -602,8 +602,8 @@
 		<plugin name="HbbTV Player 0.2-r2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Iptv Archive 2.0.58 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.58_all.ipk"</url>
+		<plugin name="Iptv Archive 2.0.82 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.82_all.ipk"</url>
 		</plugin>
 		<plugin name="Iptv Bouquet 1.0 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvbouquet_1.0_r0_all.ipk"</url>
@@ -638,7 +638,6 @@
 		<plugin name="Justwatch v.1.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-justwatch_1.2.1_all.ipk"</url>
 		</plugin>
-
 		<plugin name="KodiliveTV 1.0 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-kodilivetv_1.0_r0_all.ipk"</url>
 		</plugin>
@@ -662,6 +661,9 @@
 		</plugin>
 		<plugin name="Movie Browser 3.7rc3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_3.7rc3_all.ipk"</url>
+		</plugin>
+    <plugin name="Movietime_1.0_r1_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-movietime_1.0_r1_all.ipk"</url>
 		</plugin>
 		<plugin name="Movie Cut Center v.1.09-20220330 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviecutcenter_1.09-20220330_all.ipk"</url>
