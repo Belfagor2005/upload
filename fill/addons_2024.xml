@@ -569,7 +569,12 @@
 		<plugin name="Ardmediathek v1.5 plus-minitv all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ardmediathek_v1.5-plus-minitv_all.ipk"</url>
 		</plugin>
-
+    <plugin name="Camofs_17.46_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-camofs_17.46_all.ipk"</url>
+		</plugin>
+		<plugin name="Dreamplex_2.1.3_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-dreamplex_2.1.3_all.ipk"</url>
+		</plugin>
 		<plugin name="E2iPlayer Zadmario 2023.04.03.02 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-zadmario_2023.04.03.02_all.ipk"</url>
 		</plugin>
@@ -591,14 +596,14 @@
 		<plugin name="Enhanced Movie Center unofficial 4.1.9.11.186 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-enhancedmoviecenter_unofficial-4.1.9.11.186_all.ipk"</url>
 		</plugin>
-		<plugin name="Enhanced Movie Center 4.0+git1584+20190204">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-enhancedmoviecenter_4.0+git1584+20190204_all.ipk"</url>
+		<plugin name="Enhanced Movie Center 4.0+git1587+20190525_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-enhancedmoviecenter_4.0+git1587+20190525_all.ipk"</url>
 		</plugin>
 		<plugin name="HbbTV Player 0.2-r2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Iptv Archive 2.0.58 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.58_all.ipk"</url>
+		<plugin name="Iptv Archive 2.0.82 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.82_all.ipk"</url>
 		</plugin>
 		<plugin name="Iptv Bouquet 1.0 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvbouquet_1.0_r0_all.ipk"</url>
@@ -633,7 +638,6 @@
 		<plugin name="Justwatch v.1.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-justwatch_1.2.1_all.ipk"</url>
 		</plugin>
-
 		<plugin name="KodiliveTV 1.0 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-kodilivetv_1.0_r0_all.ipk"</url>
 		</plugin>
@@ -657,6 +661,9 @@
 		</plugin>
 		<plugin name="Movie Browser 3.7rc3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_3.7rc3_all.ipk"</url>
+		</plugin>
+    <plugin name="Movietime_1.0_r1_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-movietime_1.0_r1_all.ipk"</url>
 		</plugin>
 		<plugin name="Movie Cut Center v.1.09-20220330 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviecutcenter_1.09-20220330_all.ipk"</url>
@@ -682,6 +689,9 @@
 		<plugin name="Multistalker 1.0 PY3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py3_v1.0_all.ipk"</url>
 		</plugin>
+    <plugin name="Multistalker 1.0 PY2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py2_v1.0_all.ipk"</url>
+		</plugin>
 		<plugin name="Multistalker 1.0 git17+3e81926-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.0+git17+3e81926-r0_all.ipk"</url>
 		</plugin>
@@ -697,11 +707,14 @@
 		<plugin name="Playstream v.0.9c FHD all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-playstream_0.9c_all.ipk"</url>
 		</plugin>
-		<plugin name="Pluto TV 20231210 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20231210_all.ipk"</url>
+		<plugin name="Pluto TV 20240220 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240220_all.ipk"</url>
 		</plugin>
-		<plugin name="Pluto TV 20220307 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20220307_all.ipk"</url>
+    <plugin name="Pictureplayer2_1.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
+		</plugin>
+    <plugin name="Pictureplayer2_1.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Rakuten TV 20240324 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-rakutentv_20240324_all.ipk"</url>
@@ -724,8 +737,14 @@
 		<plugin name="SkyRecorder v. 2.1.3 py2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-skyrecorder_2.1.3-py2_all.ipk"</url>
 		</plugin>
+    <plugin name="Sportstv_1.3_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-sportstv_1.3_all.ipk"</url>
+		</plugin>
 		<plugin name="StreamLink v.3.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlink_v.3.3_all.ipk"</url>
+		</plugin>
+    <plugin name="Streamlinkwrapper_1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Torrent Player v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-torrentplayer_1.1_all.ipk"</url>
@@ -733,10 +752,8 @@
 		<plugin name="Vlc Player 3.999 git5056+e504cee-r2 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-vlcplayer_3.999+git5056+e504cee-r2_mips32el.ipk"</url>
 		</plugin>
-
-	</plugins>
-
-		<!-- KIDDAC -->
+</plugins>
+<!-- KIDDAC -->
 	<plugins cont="Kiddac Zone Oe2.0 ">
 		<plugin name="Bouquet Maker Xtream 1.17.20240529 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.17.20240529_all.ipk"</url>
@@ -1572,8 +1589,7 @@
 		<plugin name="Chocholousek Picons 5.0.221217 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-chocholousek-picons_5.0.221217_all.ipk"</url>
 		</plugin>
-
-		<plugin name="Picon Buddy v.0.0.4 beta all">
+    <plugin name="Picon Buddy v.0.0.4 beta all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_0.0.4-Beta_all.ipk"</url>
 		</plugin>
 		<plugin name="Missing Picons 2017.08.28 all">
@@ -2716,8 +2732,11 @@
 		<plugin name="Flash Expander v.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-image-flashexpander_1.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Fritzdect v.2.0.4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-fritzdect_v2.0.4_all.ipk"</url>
+		<plugin name="Fritzcall_20220508-rev1620_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-fritzcall_20220508-rev1620_all.ipk"</url>
+		</plugin>
+    <plugin name="Fritzdect v.2.0.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-fritzdect_v2.0.8_all.ipk"</url>
 		</plugin>
 		<plugin name="Glass Utility 11.11">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-glasssysutil_11.11_all.ipk"</url>
