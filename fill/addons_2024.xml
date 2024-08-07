@@ -468,71 +468,74 @@
 	<!-- FEEDS-OE2.0 -->
 	<plugins cont="Feeds Oe2.0 ">
 		<plugin name="OpenATV Softcam feed 9.0-r0 all IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/OpenATV_softcam_feed_v9.0.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/OpenATV_softcam_feed_v9.0.ipk"</url>
 		</plugin>
 		<plugin name="OpenATV Softcam feed 8.0-r0 all IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/OpenATV_softcam_feed_v8.0.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/OpenATV_softcam_feed_v8.0.ipk"</url>
 		</plugin>
 		<plugin name="Universal Softcam feed 7.0-r0 all IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/softcam-feed-universal_7.0-r0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/softcam-feed-universal_7.0-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Universal Softcam feed 4.7-r0 all IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/softcam-feed-universal_4.7-r0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/softcam-feed-universal_4.7-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Universal Softcam feed 4.5-r0 all IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/softcam-feed-universal_4.5-r0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/softcam-feed-universal_4.5-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="AHF Softcam feed 1.1 arm v7 ahf-vfp neon IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/softcam-feed-arm-ahf_1.1_armv7ahf-vfp-neon.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/softcam-feed-arm-ahf_1.1_armv7ahf-vfp-neon.ipk"</url>
 		</plugin>
 		<plugin name="Pure e2 feed arm 2.1 all IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/enigma2-plugin-external-extra-feed_2.1_arm.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/enigma2-plugin-external-extra-feed_2.1_arm.ipk"</url>
 		</plugin>
 		<plugin name="Pure e2 feed mips 2.1 all IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/enigma2-plugin-external-extra-feed_2.1_mipsel.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/enigma2-plugin-external-extra-feed_2.1_mipsel.ipk"</url>
 		</plugin>
 		<plugin name="OpenEight Softcam feed arm v7 1.0 IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/softcamfeed-openeight-armv7_1.0.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/softcamfeed-openeight-armv7_1.0.ipk"</url>
 		</plugin>
 		<plugin name="Opendroid Extra ARM r0 IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/enigma2-plugin-extra_opendroid_ARM_r0.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/enigma2-plugin-extra_opendroid_ARM_r0.ipk"</url>
 		</plugin>
 		<plugin name="Opendroid 7 Extra mipsel IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/softcam-feed-opd_7.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/softcam-feed-opd_7.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Opendroid Extra mipsel IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/enigma2-plugin-softcams_extra_mipsel_Opendroid.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/enigma2-plugin-softcams_extra_mipsel_Opendroid.ipk"</url>
 		</plugin>
 	</plugins>
 
 	<!-- FEEDS-OE2.2-2.5 -->
     <plugins cont="Feeds Oe2.5/2.6 ">
+        <plugin name="FEEDS Dream-Arabia all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dreamarabia-addons-feed.deb"</url>
+        </plugin>	
         <plugin name="FEEDS Dream-Elite extra_arm64-dmone-dmtwo all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/dream-elite-extra_arm64-dmone-dmtwo.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64-dmone-dmtwo.deb"</url>
         </plugin>
         <plugin name="FEEDS Dream-Elite 7.1 DEP all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/dream-elite-panel-installer_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-panel-installer_all.deb"</url>
         </plugin>
         <plugin name="FEEDS Dream-Elite 7.1 EXTRA ARM64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/dream-elite-extra_arm64.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64.deb"</url>
         </plugin>
         <plugin name="FEEDS Dream-Elite 7.1 EXTRA ARMHF">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/dream-elite-extra_armhf.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_armhf.deb"</url>
         </plugin>
         <plugin name="FEEDS Dream-Elite 7.1 EXTRA MIPSEL">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/dream-elite-extra_mipsel.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_mipsel.deb"</url>
         </plugin>
         <plugin name="FEEDS GP OE2.6 Gemini locale all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/geminilocale_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/geminilocale_all.deb"</url>
         </plugin>
         <plugin name="FEEDS GP 4.1 2.0-r4 FEEDS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/gp4-cam-feed-configs_2.0-r4_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/gp4-cam-feed-configs_2.0-r4_all.deb"</url>
         </plugin>
         <plugin name="FEEDS GP 4.1 1.0-r2 FEEDS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/gp4-cam-feed-configs_1.0-r12_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/gp4-cam-feed-configs_1.0-r12_all.deb"</url>
         </plugin>
         <plugin name="FEEDS Opendreambox Mirror">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/feed/enigma2-plugin-extensions-opendreambox-mirror-feed_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/enigma2-plugin-extensions-opendreambox-mirror-feed_all.deb"</url>
         </plugin>
     </plugins>
 
