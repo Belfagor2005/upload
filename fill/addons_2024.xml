@@ -433,9 +433,6 @@
 		<plugin name="IMDb plugin by Franc arch64">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-imdb-fnc_3.1-r1_aarch64.ipk"</url>
 		</plugin>
-		<plugin name="Jediepgxtream v. 2.09.20230805 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.ipk"</url>
-		</plugin>
 		<plugin name="Myepg_1.08-20231219_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-myepg_1.08-20231219_all.ipk"</url>
 		</plugin>
@@ -755,18 +752,18 @@
 		<plugin name="Vlc Player 3.999 git5056+e504cee-r2 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-vlcplayer_3.999+git5056+e504cee-r2_mips32el.ipk"</url>
 		</plugin>
-</plugins>
-<!-- KIDDAC -->
-	<plugins cont="Kiddac Zone Oe2.0 ">
-		<plugin name="Bouquet Maker Xtream 1.17.20240529 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.17.20240529_all.ipk"</url>
+	</plugins>
+	<!-- KIDDAC -->
+		<plugins cont="Kiddac Zone Oe2.0 ">
+			<plugin name="Bouquet Maker Xtream 1.17.20240529 all">
+				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.17.20240529_all.ipk"</url>
+			</plugin>
+		<plugin name="Jedimakerxtream_6.37.20240530_all">
+		  <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk"</url>
 		</plugin>
-    <plugin name="Jedimakerxtream_6.37.20240530_all">
-      <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk"</url>
-    </plugin>
-    <plugin name="Jedi EPG Xtream 2.09.20230805 all">
-      <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.ipk"</url>
-    </plugin>
+		<plugin name="Jedi EPG Xtream 2.09.20230805 all">
+		  <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.ipk"</url>
+		</plugin>
 		<plugin name="Movie Planner Mod v.4.02.20211228 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-movieplannermod_4.02.20211228_all.ipk"</url>
 		</plugin>
@@ -3146,7 +3143,7 @@
 	<!-- WEBCAM -->
 	<plugins cont="Webcam ">
 		<plugin name="Camofs 17.37 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-camofs_17.37_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_webcam/enigma2-plugin-extensions-camofs_17.37_all.ipk"</url>
 		</plugin>
 		<plugin name="World Cam 4.4 all">
 			<url>"http://patbuweb.com/worldcam/enigma2-plugin-extensions-worldcam_4.4_all.ipk"</url>
