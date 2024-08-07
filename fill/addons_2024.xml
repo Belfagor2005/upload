@@ -370,10 +370,10 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-usbtuner_0.7.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Wifi Ralink firmware 1.0 DM800HDse">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/ralink-wifi-firmwares_1.0_dm800se.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/ralink-wifi-firmwares_1.0_dm800se.ipk"</url>
 		</plugin>
 		<plugin name="Wirelesslan 1.0 fix">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk"</url>
 		</plugin>
 	</plugins>
 
@@ -1809,34 +1809,34 @@
 	<!-- SOFTCAMS TOOLS 2.0 -->
 	<plugins cont="SoftCam-Tools2.0 ">
 		<plugin name="Bissfeed autokey 20201016 V2.8 By momi133-OE2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk"</url>
 		</plugin>
 		<plugin name="Softcam Key Updater v.6.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1_all.ipk"</url>
 		</plugin>
 		<plugin name="CCcam Finder 06.04.19 1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-cccam-finder_06-04-19_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-cccam-finder_06-04-19_all.ipk"</url>
 		</plugin>
 		<plugin name="FreeServer 8.3.8 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-freeserver_8.3.8_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-freeserver_8.3.8_all.ipk"</url>
 		</plugin>
 		<plugin name="Zoom Panel v.2.1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.1.0_all.ipk"</url>
 		</plugin>		
 		<plugin name="Zoom v.1.1.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/zoom_1.1.2_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/zoom_1.1.2_all.ipk"</url>
 		</plugin>
 		<plugin name="Ncam Addon 1.4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="FreeCccam 1.7 all modded">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk"</url>
 		</plugin>
 		<plugin name="Softcam Key Updater 6.1-12.20 by Pablonero all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.ipk"</url>
 		</plugin>
 		<plugin name="Zoom Final FIX7x all ">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/freeccam/cfg_Zoom_Final_FIX7x_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/cfg_Zoom_Final_FIX7x_all.ipk"</url>
 		</plugin>
 		<plugin name="CCcam Info 1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.7_all.ipk"</url>
@@ -1857,7 +1857,7 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_svn-3385-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="DOscam Status 1.0 by Lululla Modded all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin%20emulator/plugin%20emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/plugin%20emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Gcam Status 1.0 by Lululla Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
@@ -2899,28 +2899,28 @@
 	<!-- VPN -->
 	<plugins cont="Vpn-Oe2.0 ">
 		<plugin name="Open VpnNord Setup 0.6 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/vpn/enigma2-plugin-extensions-openvpnsetupnord_0.6_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-openvpnsetupnord_0.6_all.ipk"</url>
 		</plugin>
 		<plugin name="Perfect Privacy 1.4.4 PY2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/vpn/enigma2-plugin-extensions-perfectprivacy_1.4.4_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-perfectprivacy_1.4.4_all.ipk"</url>
 		</plugin>
 		<plugin name="Perfect Privacy 1.4.4 PY3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/vpn/enigma2-plugin-extensions-perfectprivacy_1.4.4-py3_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-perfectprivacy_1.4.4-py3_all.ipk"</url>
 		</plugin>
 		<plugin name="Pure Vpn 1.1.0 PY3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/vpn/enigma2-plugin-extensions-purevpn_1.1.0-py3_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-purevpn_1.1.0-py3_all.ipk"</url>
 		</plugin>
 		<plugin name="Pure Vpn 1.0.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/vpn/enigma2-plugin-extensions-purevpn_1.0.9_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-purevpn_1.0.9_all.ipk"</url>
 		</plugin>
 		<plugin name="Surf Shark vpn 1.0.5-py3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/vpn/enigma2-plugin-extensions-surfsharkvpn_1.0.5-py3_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-surfsharkvpn_1.0.5-py3_all.ipk"</url>
 		</plugin>
 		<plugin name="Vpn Manager 1.1.7 PY3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 		</plugin>
 		<plugin name="Wireguard Vpn 8.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/vpn/enigma2-plugin-extensions-wireguard-vpn_8.5_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_8.5_all.ipk"</url>
 		</plugin>
 	</plugins>
 
