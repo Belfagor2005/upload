@@ -1453,6 +1453,9 @@
 		<plugin name="Multiboot Flashonline v.7.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-multiboot-flashonline_7.1_all.ipk"</url>
 		</plugin>
+		<plugin name="Neoboot 9.65 vip all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot-v9.65-VIP_all.ipk"</url>
+		</plugin>		
 		<plugin name="Neoboot 8.05 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot_8.05_all.ipk"</url>
 		</plugin>
