@@ -737,6 +737,9 @@
 		<plugin name="Torrent Player v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-torrentplayer_1.1_all.ipk"</url>
 		</plugin>
+    <plugin name="Tvshows_1.0_r0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-tvshows_1.0_r0_all.ipk"</url>
+		</plugin>
 		<plugin name="Vlc Player 3.999 git5056+e504cee-r2 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-vlcplayer_3.999+git5056+e504cee-r2_mips32el.ipk"</url>
 		</plugin>
@@ -764,8 +767,8 @@
 		<plugin name="XKlass v.1.10.20240726 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.10.20240726_all.ipk"</url>
 		</plugin>
-		<plugin name="XStreamity 4.53_20240609 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.54.20240716_all.ipk"</url>
+		<plugin name="XStreamity 4.55.20240723_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.55.20240723_all.ipk"</url>
 		</plugin>
 		<plugin name="E2Piconizer 1.25.20231110 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk"</url>
@@ -790,8 +793,8 @@
         <plugin name="xKlass v.1.10.20240726 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-xklass_1.10_20240726_all.deb"</url>
 		</plugin>
-		<plugin name="XStreamity 4.53_20240609 DREAMOS">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.54_20240716_all.deb"</url>
+		<plugin name="XStreamity 4.55_20240723 DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.55_20240723_all.deb"</url>
 		</plugin>
         <plugin name="Screen Names v.1.05.20240323 DREAMOS">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.05.20240323_all.deb"</url>
@@ -896,8 +899,8 @@
 		<plugin name="S.T.V.C.L. by Lululla v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stvcl_1.4_all.ipk"</url>
 		</plugin>
-		<plugin name="Tv Rai Preview v.1.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.3_all.ipk"</url>
+		<plugin name="Tv Rai Preview v.1.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.4_all.ipk"</url>
 		</plugin>
 		<plugin name="TvDream V.1.4 All ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.ipk"</url>
@@ -1009,9 +1012,6 @@
 		</plugin>
 		<plugin name="TvDream v.1.4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.deb"</url>
-		</plugin>
-		<plugin name="Tv Rai Preview 1.2">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.2_all.deb"</url>
 		</plugin>
 		<plugin name="Tv Settings Maintener v.1.8">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvsettings_1.8_all.deb"</url>
