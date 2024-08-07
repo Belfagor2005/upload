@@ -929,8 +929,9 @@
 		<plugin name="Xc Plugin Forever v.3.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_3.0_all.ipk"</url>
 		</plugin>
-
-
+		<plugin name="Xcplugin-iptv-mod-lululla_6.7_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-iptv-mod-lululla_6.7_all.ipk"</url>
+		</plugin>
 		<plugin name="DOscam Status 1.0 Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url>
 		</plugin>
