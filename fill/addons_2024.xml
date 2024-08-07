@@ -44,9 +44,6 @@
 		<plugin name="Expand Memory 3.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-expand-memorey_3.0_all.ipk"</url>
 		</plugin>
-		<plugin name="FlashBackupTo_1.5">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-systemplugins-flashbackupto_1.5_all.ipk"</url>
-		</plugin>
 		<plugin name="FlashBackup 6.2 oe 1.6-2.0 ITA">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-flashbackup-ita_6.2-RAED-For-OE1.6-2.0-it_all.ipk"</url>
 		</plugin>
@@ -454,9 +451,6 @@
 		<plugin name="TMDB TheMovieDb 8.6-r0 by-Dima73-Mod-RAED all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmbd_8.6-r0-by-Dima73-Mod-RAED_all.ipk"</url>
 		</plugin>
-		<plugin name="TMDB TheMovieDb 1.0-r1 edit by Lululla all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb_v1.0r1_all.ipk"</url>
-		</plugin>
 		<plugin name="TMDB TheMovieDb 0.9-r8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb_0.9-r8_all.ipk"</url>
 		</plugin>
@@ -559,9 +553,6 @@
 	<plugins cont="Iptv ">
 		<plugin name="Albatros 7.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-albatros_7.1.2_all.ipk"</url>
-		</plugin>
-		<plugin name="Alta Definizione 01 1.1.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-altadefinizione01_1.1.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Ardmediathek v1.5 plus-minitv all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ardmediathek_v1.5-plus-minitv_all.ipk"</url>
@@ -737,9 +728,6 @@
 		<plugin name="SkyRecorder v. 2.1.3 py2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-skyrecorder_2.1.3-py2_all.ipk"</url>
 		</plugin>
-    <plugin name="Sportstv_1.3_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-sportstv_1.3_all.ipk"</url>
-		</plugin>
 		<plugin name="StreamLink v.3.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlink_v.3.3_all.ipk"</url>
 		</plugin>
@@ -815,35 +803,133 @@
 
 	<!-- LULULLA ZONE OE2 -->
 	<plugins cont="Lululla Zone Oe2.0 ">
+
 		<plugin name="Addon Panel V.2.1.5 All ">
-			<url>"http://patbuweb.com/tvPanelxxx/enigma2-plugin-extensions-tvaddon_2.1.5_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvaddon_2.1.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Softcam Manager V.2.1  OE2">
-			<url>"http://patbuweb.com/tvManager/enigma2-plugin-extensions-tvmanager_2.1_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_2.1_all.ipk"</url>
 		</plugin>
+
 		<plugin name="Add IPTV Stream 1.2 Modded all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-addiptv-modded_v.1.2_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-addiptv-modded_v.1.2_all.ipk"</url>
 		</plugin>
 		<plugin name="Alta Definizione 01 1.1.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-altadefinizione01_1.1.3_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-altadefinizione01_1.1.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Apsat TV 1.2 all">
-			<url>"http://patbuweb.com/apsattv/enigma2-plugin-extensions-apsattv_1.2_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.2_all.ipk"</url>
 		</plugin>
-		<plugin name="Clear MEM 1.10 ITA OFF Modded Lululla all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-clearmem-it-off_1.10_all.ipk"</url>
+
+		<plugin name="Clear MEM 1.11 Modded Lululla all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-clearmem_1.11_all.ipk"</url>
+		</plugin>
+		<plugin name="Crash Log Viewer 1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.2_all.ipk"</url>
 		</plugin>
 		<plugin name="DD RSS FEEDS v.0.6 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ddrssreader_0.6_all.ipk"</url>
-		</plugin>
-		<plugin name="DOscam Status 1.0 Modded all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin%20emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_0.6_all.ipk"</url>
 		</plugin>
 		<plugin name="FilmOn v.2.0 all">
-			<url>"http://patbuweb.com/filmon/enigma2-plugin-extensions-filmon_2.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FilmXY v.1.4 all">
-			<url>"http://patbuweb.com/filmxy/enigma2-plugin-extensions-filmxy_1.4_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmxy_1.4_all.ipk"</url>
+		</plugin>
+		<plugin name="Freearhey v. 2.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_2.9_all.ipk"</url>
+		</plugin>
+		<plugin name="Grifo Update Modded 1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-grifo-update_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="HasBahCa 1.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_1.7_all.ipk"</url>
+		</plugin>
+		<plugin name="M2B m3u to bouquet 0.4 ITA Modded ">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m2b-it_0.4-r0-modded_all.ipk"</url>
+		</plugin>
+		<plugin name="M3U Iptv v.1.1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m3uiptv_1.1_all.ipk"</url>
+		</plugin>
+		<plugin name="M7Live v.1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m7live_1.2_all.ipk"</url>
+		</plugin>
+		<plugin name="MerlinMusicPlatyer fixed by Lululla v.7.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-merlinmusicplayer_7.1_all.ipk"</url>
+		</plugin>
+		<plugin name="mmPicons v.1.4 mMark all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mmpicons_1.4_all.ipk"</url>
+		</plugin>
+		<plugin name="OaWeather 3.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-oaweather_3.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Parsa TV v.1.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.7_all.ipk"</url>
+		</plugin>
+		<plugin name="Plugins Panels Show Plugin v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pluginspanel_1.1_all.ipk"</url>
+		</plugin>
+		<plugin name="RadioM v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.1_all.ipk"</url>
+		</plugin>
+		<plugin name="RSS Reader v.1.13 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.13_all.ipk"</url>
+		</plugin>
+		<plugin name="Scriptexecuter boot h9 1.0r4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scriptexecuter-boot-h9_1.0r4_all.ipk"</url>
+		</plugin>
+		<plugin name="Solo Anni 80 v.1.0 r3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-soloanni80_1.0_r3_all.ipk"</url>
+		</plugin>
+		<plugin name="Spinner Selector +300 V. 3.1 all Modded">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-spinner-selector-mod_3.1_all.ipk"</url>
+		</plugin>
+		<plugin name="Sports Schedule 1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-sportsschedule_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Sportstv_1.3_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-sportstv_1.3_all.ipk"</url>
+		</plugin>
+		<plugin name="Sport365 1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-sport365_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="S.T.V.C.L. by Lululla v.1.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stvcl_1.4_all.ipk"</url>
+		</plugin>
+		<plugin name="Tv Rai Preview v.1.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.3_all.ipk"</url>
+		</plugin>
+		<plugin name="TvDream V.1.4 All ">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.ipk"</url>
+		</plugin>
+		<plugin name="Tv Settings Maintener v.1.8">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvsettings_1.8_all.ipk"</url>
+		</plugin>
+		<plugin name="tvStream PRO REVOLUTION v.1.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro_1.9_all.ipk"</url>
+		</plugin>
+		<plugin name="tvStream PRO REVOLUTION LITE v.1.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-lite_1.9_all.ipk"</url>
+		</plugin>
+		<plugin name="TvtoM3U v.2.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvtom3upanel_2.0_all.ipk"</url>
+		</plugin>
+        <plugin name="Uninstaller 1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-uninstaller_1.0_all.ipk"</url>
+        </plugin>
+		<plugin name="Vavoo Stream online v.1.24 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.24_all.ipk"</url>
+		</plugin>
+		<plugin name="World Cam 4.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.5_all.ipk"</url>
+		</plugin>
+		<plugin name="Xc Plugin Forever v.3.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_3.0_all.ipk"</url>
+		</plugin>
+
+
+		<plugin name="DOscam Status 1.0 Modded all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Flash Expander it openpli4 mod Lululla">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-flashexpander-it-openpli4_0.33-r0_all.ipk"</url>
@@ -851,220 +937,111 @@
 		<plugin name="FlashBackupTo_1.5">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-systemplugins-flashbackupto_1.5_all.ipk"</url>
 		</plugin>
-		<plugin name="Freearhey v. 2.9 all">
-			<url>"http://patbuweb.com/freearhey/enigma2-plugin-extensions-freearhey_2.9_all.ipk"</url>
-		</plugin>
 		<plugin name="Gcam Status 1.0 Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Grifo Update Modded 1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-grifo-update_1.0_all.ipk"</url>
-		</plugin>
-		<plugin name="HasBahCa 1.7 all">
-			<url>"http://patbuweb.com/HasBahCa/enigma2-plugin-extensions-hasbahca_1.7_all.ipk"</url>
-		</plugin>
-		<plugin name="Iptv Link 1.1 (for Xc PLugin)all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvlink_1.1_all.ipk"</url>
-		</plugin>
-		<plugin name="MerlinMusicPlatyer fixed by Lululla v.7.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-merlinmusicplayer_7.1_all.ipk"</url>
-		</plugin>
-		<plugin name="M2B m3u to bouquet 0.4 ITA Modded ">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-m2b-it_0.4-r0-modded_all.ipk"</url>
-		</plugin>
-		<plugin name="M3U Iptv v.1.1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-m3uiptv_1.1_all.ipk"</url>
-		</plugin>
-		<plugin name="M7Live v.1.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-m7live_1.2_all.ipk"</url>
-		</plugin>
-		<plugin name="mmPicons v.1.4 mMark all">
-			<url>"http://patbuweb.com/mmpicons/enigma2-plugin-extensions-mmpicons_1.4_all.ipk"</url>
-		</plugin>
+
 		<plugin name="NoIp DynDns Exp.+conf v.1.30 modded Lululla">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-noipdyndns-modded_experimental-r1.30_all.ipk"</url>
 		</plugin>
-		<plugin name="Parsa TV v.1.7 all">
-			<url>"http://patbuweb.com/parsatv/enigma2-plugin-extensions-parsatv_1.7_all.ipk"</url>
-		</plugin>
-		<plugin name="Plugins Panels Show Plugin v.1.1 all">
-			<url>"http://patbuweb.com/PluginsPanel/enigma2-plugin-extensions-pluginspanel_1.1_all.ipk"</url>
-		</plugin>
-		<plugin name="RadioM v.1.1 all">
-			<url>"http://patbuweb.com/soloradio/enigma2-plugin-extensions-radiom_1.1_all.ipk"</url>
-		</plugin>
-		<plugin name="Rai Preview v.1.3 all">
-			<url>"http://patbuweb.com/revolutionlite/enigma2-plugin-extensions-tvraipreview_1.3_all.ipk"</url>
-		</plugin>
-		<plugin name="RSS Reader v.1.13 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-rssreader_1.13_all.ipk"</url>
-		</plugin>
-		<plugin name="Solo Anni 80 v.1.0 r3 all">
-			<url>"http://patbuweb.com/soloradio/enigma2-plugin-extensions-soloanni80_1.0_r3_all.ipk"</url>
-		</plugin>
-		<plugin name="Spinner Selector +300 V. 3.1 all Modded">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-spinner-selector-mod_3.1_all.ipk"</url>
-		</plugin>
-		<plugin name="Sports Tv v.1.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-serienrecorder_4.1.0_all.ipk"</url>
-		</plugin>
-		<plugin name="Sport365 1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-sport365_1.0_all.ipk"</url>
-		</plugin>
-		<plugin name="Sports Schedule 1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-sportsschedule_1.0_all.ipk"</url>
-		</plugin>
-		<plugin name="S.T.V.C.L. by Lululla v.1.4 all">
-			<url>"http://patbuweb.com/stvcl/enigma2-plugin-extensions-stvcl_1.4_all.ipk"</url>
-		</plugin>
-		<plugin name="Schiffe 7.1 FHD/HD All">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-schiffe_7.1r0_all.ipk"</url>
-		</plugin>
-		<plugin name="Sudoku 7.1r0 FHD/HD All">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-sudoku_7.1r0_all.ipk"</url>
-		</plugin>
-		<plugin name="Tetris 7.1r0 All ">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-tetris_7.1r0_all.ipk"</url>
-		</plugin>
-		<plugin name="TMDB TheMovieDb 1.0-r1 edit by Lululla all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb_v1.0r1_all.ipk"</url>
-		</plugin>
-		<plugin name="TvDream V.1.3 All ">
-			<url>"http://patbuweb.com/tivudream/enigma2-plugin-extensions-tvdream_1.3_all.ipk"</url>
-		</plugin>
-		<plugin name="tvRai Preview v.1.4 all">
-			<url>"http://patbuweb.com/tvraipreview/enigma2-plugin-extensions-tvraipreview_1.4_all.ipk"</url>
-		</plugin>
-		<plugin name="tvStream PRO REVOLUTION v.1.9 all">
-			<url>"http://patbuweb.com/revolutionlite/enigma2-plugin-extensions-tvspro_1.9_all.ipk"</url>
-		</plugin>
-		<plugin name="tvStream PRO REVOLUTION LITE v.1.9 all">
-			<url>"http://patbuweb.com/revolutionlite/enigma2-plugin-extensions-tvspro-lite_1.9_all.ipk"</url>
-		</plugin>
-		<plugin name="tvStream PRO REVOLUTION XXX v.1.5 all">
-			<url>"http://patbuweb.com/revolutionlite/enigma2-plugin-extensions-tvspro-xxx_1.5_all.ipk"</url>
-		</plugin>
-		<plugin name="tvStream Settings Maintener 1.8 all">
-			<url>"http://patbuweb.com/tvSettings/enigma2-plugin-extensions-tvsettings_1.8_all.ipk"</url>
-		</plugin>
-		<plugin name="TvtoM3U v.2.0 all">
-			<url>"http://patbuweb.com/tvtom3u/enigma2-plugin-extensions-tvtom3upanel_2.0_all.ipk"</url>
-		</plugin>
-		<plugin name="Vavoo Stream online v.1.20 all">
-			<url>"http://patbuweb.com/vavoo/enigma2-plugin-extensions-vavoo_1.20_all.ipk"</url>
-		</plugin>
-		<plugin name="World Cam 4.5 all">
-			<url>"http://patbuweb.com/worldcam/enigma2-plugin-extensions-worldcam_4.5_all.ipk"</url>
-		</plugin>
-		<plugin name="Xc Plugin Forever v.3.0 all">
-			<url>"http://patbuweb.com/xcplugin/enigma2-plugin-extensions-xcplugin-forever_3.0_all.ipk"</url>
-		</plugin>
-		<plugin name="Xc Plugin Lite v.2.9 all">
-			<url>"http://patbuweb.com/xcplugin/enigma2-plugin-extensions-xcplugin-lite_2.9_all.ipk"</url>
-		</plugin>
-		<plugin name="Xc Plugin Passion v.3.4 Skin Kiddac all">
-			<url>"http://patbuweb.com/xcplugin/enigma2-plugin-extensions-xcplugin-lite-passion_3.4_all.ipk"</url>
-		</plugin>
+
+
 	</plugins>
 
 	<!-- LULULLA ZONE OE2.5-2.6 -->
 	<plugins cont="Lululla Zone Oe2.5/2.6 ">
 		<plugin name="Addon Panel V.2.1.5">
-			<url>"http://patbuweb.com/tvPanelxxx/enigma2-plugin-extensions-tvaddon_2.1.5_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvaddon_2.1.5_all.deb"</url>
 		</plugin>
 		<plugin name="Softcam Manager V.2.1">
-			<url>"http://patbuweb.com/tvManager/enigma2-plugin-extensions-tvmanager_2.1_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_2.1_all.deb"</url>
 		</plugin>
 		<plugin name="Apsat TV 1.2">
-			<url>"http://patbuweb.com/apsattv/enigma2-plugin-extensions-apsattv_1.2_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.2_all.deb"</url>
 		</plugin>
+        <plugin name="CrashLogViewer 1.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.2_all.deb"</url>
+        </plugin>
   		<plugin name="DD RSS FEEDS v.0.6 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ddrssreader_0.6_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_0.6_all.deb"</url>
 		</plugin>
 		<plugin name="FilmOn v.2.0">
-			<url>"http://patbuweb.com/filmon/enigma2-plugin-extensions-filmon_2.0_all.deb"</url>
-		</plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.0_all.deb"</url>
+		</plugin>		
 		<plugin name="FilmXY v.1.4">
-			<url>"http://patbuweb.com/filmxy/enigma2-plugin-extensions-filmxy_1.4_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmxy_1.4_all.deb"</url>
 		</plugin>
 		<plugin name="Freearhey 2.9">
-			<url>"http://patbuweb.com/freearhey/enigma2-plugin-extensions-freearhey_2.9_all.deb"</url>
-		</plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_2.9_all.deb"</url>
+		</plugin>		
 		<plugin name="HasBahCa 1.7">
-			<url>"http://patbuweb.com/HasBahCa/enigma2-plugin-extensions-hasbahca_1.7_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_1.7_all.deb"</url>
 		</plugin>
-		<plugin name="M3U Iptv">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-m3uiptv_1.1_all.deb"</url>
-		</plugin>
-		<plugin name="M7live all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-m7live_1.2_all.deb"</url>
+		<plugin name="M3U Iptv v.1.1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m3uiptv_1.1_all.deb"</url>
+		</plugin>		
+		<plugin name="M7Live v.1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m7live_1.2_all.deb"</url>
 		</plugin>
 		<plugin name="mmPicons v.1.4 mMark">
-			<url>"http://patbuweb.com/mmpicons/enigma2-plugin-extensions-mmpicons_1.4_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mmpicons_1.4_all.deb"</url>
 		</plugin>
 		<plugin name="Parsa TV 1.7">
-			<url>"http://patbuweb.com/parsatv/enigma2-plugin-extensions-parsatv_1.7_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.7_all.deb"</url>
 		</plugin>
 		<plugin name="RadioM v.1.1 all">
-			<url>"http://patbuweb.com/soloradio/enigma2-plugin-extensions-radiom_1.1_all.deb"</url>
-		</plugin>
-		<plugin name="Rai Preview 1.2">
-			<url>"http://patbuweb.com/tvraipreview/enigma2-plugin-extensions-tvraipreview_1.2_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.1_all.deb"</url>
 		</plugin>
   		<plugin name="RSS Reader v.1.13 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-rssreader_1.13_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.13_all.deb"</url>
 		</plugin>
 		<plugin name="Softcam Key Updater 6.1-12.20 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.deb"</url>
 		</plugin>
 		<plugin name="Solo Anni 80 v.1.0 r3 all">
-			<url>"http://patbuweb.com/soloradio/enigma2-plugin-extensions-soloanni80_1.0_r3_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-soloanni80_1.0_r3_all.deb"</url>
 		</plugin>
 		<plugin name="Sports Tv v. 1.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-sportstv_1.3_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-sportstv_1.3_all.deb"</url>
 		</plugin>
 		<plugin name="S.T.V.C.L. by Lululla v.1.4 all">
-			<url>"http://patbuweb.com/stvcl/enigma2-plugin-extensions-stvcl_1.4_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stvcl_1.4_all.deb"</url>
 		</plugin>
-		<plugin name="TvDream v.1.3">
-			<url>"http://patbuweb.com/tivudream/enigma2-plugin-extensions-tvdream_1.3_all.deb"</url>
+		<plugin name="TvDream v.1.4">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.deb"</url>
+		</plugin>
+		<plugin name="Tv Rai Preview 1.2">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.2_all.deb"</url>
+		</plugin>
+		<plugin name="Tv Settings Maintener v.1.8">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvsettings_1.8_all.deb"</url>
 		</plugin>
 		<plugin name="tvRai Preview v.1.4 all">
-			<url>"http://patbuweb.com/tvraipreview/enigma2-plugin-extensions-tvraipreview_1.4_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.4_all.deb"</url>
 		</plugin>
 		<plugin name="tvStream PRO REVOLUTION v.1.9 all">
-			<url>"http://patbuweb.com/revolutionlite/enigma2-plugin-extensions-tvspro_1.9_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro_1.9_all.deb"</url>
 		</plugin>
 		<plugin name="tvStream PRO REVOLUTION LITE v.1.9 all">
-			<url>"http://patbuweb.com/revolutionlite/enigma2-plugin-extensions-tvspro-lite_1.9_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-lite_1.9_all.deb"</url>
 		</plugin>
-		<plugin name="tvStream PRO REVOLUTION XXX v.1.5 all">
-			<url>"http://patbuweb.com/revolutionlite/enigma2-plugin-extensions-tvspro-xxx_1.5_all.deb"</url>
-		</plugin>
-		<plugin name="tvStream Settings Maintener v.1.8">
-			<url>"http://patbuweb.com/tvSettings/enigma2-plugin-extensions-tvsettings_1.8_all.deb"</url>
-		</plugin>
+
 		<plugin name="TvToM3U Convert 2.0">
-			<url>"http://patbuweb.com/tvtom3u/enigma2-plugin-extensions-tvtom3upanel_2.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvtom3upanel_2.0_all.deb"</url>
 		</plugin>
         <plugin name="Uninstaller 1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-uninstaller_1.0_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-uninstaller_1.0_all.deb"</url>
         </plugin>
-		<plugin name="Vavoo Stream online v.1.20 all">
-			<url>"http://patbuweb.com/vavoo/enigma2-plugin-extensions-vavoo_1.20_all.deb"</url>
+		<plugin name="Vavoo Stream online v.1.24 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.24_all.deb"</url>
 		</plugin>
 		<plugin name="World Cam 4.5">
-			<url>"http://patbuweb.com/worldcam/enigma2-plugin-extensions-worldcam_4.5_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.5_all.deb"</url>
 		</plugin>
 		<plugin name="Xc Plugin Forever v.3.0">
-			<url>"http://patbuweb.com/xcplugin/enigma2-plugin-extensions-xcplugin-forever_3.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_3.0_all.deb"</url>
 		</plugin>
-		<plugin name="Xc Plugin Lite v.2.9">
-			<url>"http://patbuweb.com/xcplugin/enigma2-plugin-extensions-xcplugin-lite_2.9_all.deb"</url>
-		</plugin>
-		<plugin name="Xc Plugin Passion v.3.4 Skin Kiddac all">
-			<url>"http://patbuweb.com/xcplugin/enigma2-plugin-extensions-xcplugin-lite-passion_3.4_all.deb"</url>
-		</plugin>
+
 	</plugins>
 
 		<!-- OE2.2 PLUGINS-->
@@ -1127,14 +1104,8 @@
         <plugin name="Ciplushelper 5.4-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-ciplushelper_5.4-r0_all.deb"</url>
         </plugin>
-        <plugin name="ClearMem v.1.11 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-clearmem_1.11_all.deb"</url>
-        </plugin>
         <plugin name="Cooltvguide Coolman V7.7.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cooltvguide-Coolman-V7.7.0-all.deb"</url>
-        </plugin>
-        <plugin name="CrashLogViewer 1.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-crashlogviewer_1.2_all.deb"</url>
         </plugin>
         <plugin name="Customsubchannel 2.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-customsubchannel_2.0_all.deb"</url>
@@ -1575,13 +1546,10 @@
 
 	<!-- PICONS TOOLS -->
 	<plugins cont="Picons-Tools ">
-		<plugin name="mmPicons v.1.2 by Lululla mMark all">
-			<url>"http://patbuweb.com/mmpicons/enigma2-plugin-extensions-mmpicons_1.2_all.ipk"</url>
-		</plugin>
 		<plugin name="Chocholousek Picons 5.0.221217 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-chocholousek-picons_5.0.221217_all.ipk"</url>
 		</plugin>
-    <plugin name="Picon Buddy v.0.0.4 beta all">
+		<plugin name="Picon Buddy v.0.0.4 beta all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_0.0.4-Beta_all.ipk"</url>
 		</plugin>
 		<plugin name="Missing Picons 2017.08.28 all">
@@ -1646,7 +1614,7 @@
 		</plugin>
 
 		<plugin name="Ncam 15 r0 ARM-RCH-MIPS 64">
-			<url>"https://patbuweb.com/uppy/EnigmaOE2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam_V15.0-r0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam_V15.0-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Ncam official-all-images 69-r4 arm+mips all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-ncam-official-all-images_69-r4-arm+mips_all.ipk"</url>
@@ -1814,12 +1782,6 @@
 		</plugin>
 		<plugin name="Ncam Addon 1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk"</url>
-		</plugin>
-		<plugin name="FreeCccam 1.7 all modded">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk"</url>
-		</plugin>
-		<plugin name="Softcam Key Updater 6.1-12.20 by Pablonero all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.ipk"</url>
 		</plugin>
 		<plugin name="Zoom Final FIX7x all ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/cfg_Zoom_Final_FIX7x_all.ipk"</url>
@@ -2358,12 +2320,6 @@
 
 	<!-- SKIN FHD 2.0 -->
 	<plugins cont="Skins | FHD ">
-		<plugin name="OZETA PLUGIN ZSETUP OZETA-3 V.3.4 SKIN INSTALLER">
-			<url>"http://patbuweb.com/ozeta/enigma2-plugin-skins-ozeta-setup_3.4_all.ipk"</url>
-		</plugin>
-		<plugin name="OZETA SKIN ATV 7.4.X V.3.4 SKIN INSTALLER">
-			<url>"http://patbuweb.com/ozeta/enigma2-plugin-skins-ozeta-atv_3.4_all.ipk"</url>
-		</plugin>
         <plugin name="FHD Aglare OpenPLi v.3.7 all ipk">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-aglare-fhd-pli_3.7_all.ipk"</url>
         </plugin>
@@ -2533,6 +2489,7 @@
         <plugin name="WQHD zSkin by MMark v.2.6 for DreamOS">
             <url>"http://patbuweb.com/zskin/enigma2-plugin-skins-zskin-wqhd.deb"</url>
         </plugin>
+
         <plugin name="FHD Gp4 Shadow WQHD arm64 all for DreamOS">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-gp4-shadow-wqhd_arm64.deb"</url>
         </plugin>
@@ -2679,12 +2636,7 @@
 		<plugin name="Ciplus helper openbh-openvix_5.x all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper-openbh-openvix_5.x_all.ipk"</url>
 		</plugin>
-		<plugin name="Clear MEM v.1.11">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-clearmem_1.11_all.ipk"</url>
-		</plugin>
-		<plugin name="Crash Log Viewer 1.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-crashlogviewer_1.2_all.ipk"</url>
-		</plugin>
+
 		<plugin name="Cronmanager 2.3 all all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cronmanager_2.3_all.ipk"</url>
 		</plugin>
@@ -2813,9 +2765,6 @@
 		</plugin>
 		<plugin name="PositionerSetup 1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-positioner-setup_1.1_all.ipk"</url>
-		</plugin>
-		<plugin name="RSS Reader v.1.10 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-rssreader_1.10_all.ipk"</url>
 		</plugin>
 		<plugin name="Quarter Pounder 6.2.0m all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-quarterpounder-6.2.0m.ipk"</url>
@@ -3135,7 +3084,7 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_webcam/enigma2-plugin-extensions-camofs_17.37_all.ipk"</url>
 		</plugin>
 		<plugin name="World Cam 4.4 all">
-			<url>"http://patbuweb.com/worldcam/enigma2-plugin-extensions-worldcam_4.4_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.4_all.ipk"</url>
 		</plugin>
 	</plugins>
 
@@ -3143,107 +3092,128 @@
 	<!-- ADULTS 2.0 -->
 	<plugins cont="Adult Oe2.0 ">
 		<plugin name="Adult Live v.1.3 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-adulttvlive_1.3_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-adulttvlive_1.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Alphaporno v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-alphaporno_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-alphaporno_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Born2Tease v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-born2tease_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-born2tease_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FameFun v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-famefun_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-famefun_1.0_all.ipk"</url>
 		</plugin>
+		<plugin name="Heavyr v.1.0 +18 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-heavyr_1.0_all.ipk"</url>
+		</plugin>		
 		<plugin name="Hypnotube v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-hypnotube_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hypnotube_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Luxuretv v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-luxuretv_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-luxuretv_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="ManPorn v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-manporn_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-manporn_1.0_all.ipk"</url>
 		</plugin>
+		
 		<plugin name="Mediaportal GreyZone Update all">
 		  <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodi/enigma2-plugin-extensions-mpgz_all.ipk"</url>
 		</plugin>
+		
 		<plugin name="Motherless v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-motherless_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-motherless_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Mylust v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-mylust_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mylust_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Pornbimbo v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-pornbimbo_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pornbimbo_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Pornheed v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-pornheed_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pornheed_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Pornstars v.1.0 +18 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pornstars_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Specialtube v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-specialtube_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-specialtube_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Thumbzilla v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-thumbzilla_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-thumbzilla_1.0_all.ipk"</url>
 		</plugin>
+		<plugin name="tvStream PRO REVOLUTION XXX v.1.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.5_all.ipk"</url>
+		</plugin>
+
 		<plugin name="Xhamster v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-xhamster_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xhamster_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Xvideos18plus v.1.0 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-xvideos18plus_1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xvideos18plus_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="XXXplugin v.1.2 +18 all">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-xxxplugin_1.2_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xxxplugin_1.2_all.ipk"</url>
 		</plugin>
 	</plugins>
 
 	<!-- ADULTS 2.2 -->
 	<plugins cont="Adult Oe2.5/2.6 ">
 		<plugin name="Adult Live v.1.3 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-adulttvlive_1.3_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-adulttvlive_1.3_all.deb"</url>
 		</plugin>
 		<plugin name="Alphaporno v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-alphaporno_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-alphaporno_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Born2Tease v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-born2tease_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-born2tease_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="FameFun v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-famefun_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-famefun_1.0_all.deb"</url>
+		</plugin>
+		<plugin name="Heavyr v.1.0 +18">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-heavyr_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Hypnotube v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-hypnotube_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hypnotube_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Luxuretv v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-luxuretv_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-luxuretv_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="ManPorn v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-manporn_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-manporn_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Motherless v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-motherless_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-motherless_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="MyLust v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-mylust_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mylust_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Pornbimbo v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-pornbimbo_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pornbimbo_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Pornheed v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-pornheed_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pornheed_1.0_all.deb"</url>
+		</plugin>
+		<plugin name="Pornstars v.1.0 +18">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pornstars_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Specialtube v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-specialtube_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-specialtube_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Thumbzilla v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-thumbzilla_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-thumbzilla_1.0_all.deb"</url>
+		</plugin>
+		<plugin name="tvStream PRO REVOLUTION XXX v.1.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.5_all.deb"</url>
 		</plugin>
 		<plugin name="Xhamster v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-xhamster_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xhamster_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Xvideos18plus v.1.0 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-xvideos18plus_1.0_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xvideos18plus_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="XXXplugin v.1.2 +18">
-			<url>"http://patbuweb.com/adulttvlive/enigma2-plugin-extensions-xxxplugin_1.2_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xxxplugin_1.2_all.deb"</url>
 		</plugin>
 	</plugins>
 
