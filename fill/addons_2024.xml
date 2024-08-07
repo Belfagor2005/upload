@@ -44,9 +44,6 @@
 		<plugin name="Expand Memory 3.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-expand-memorey_3.0_all.ipk"</url>
 		</plugin>
-		<plugin name="FlashBackupTo_1.5">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-systemplugins-flashbackupto_1.5_all.ipk"</url>
-		</plugin>
 		<plugin name="FlashBackup 6.2 oe 1.6-2.0 ITA">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-flashbackup-ita_6.2-RAED-For-OE1.6-2.0-it_all.ipk"</url>
 		</plugin>
@@ -1815,9 +1812,6 @@
 		</plugin>
 		<plugin name="Ncam Addon 1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk"</url>
-		</plugin>
-		<plugin name="FreeCccam 1.7 all modded">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk"</url>
 		</plugin>
 		<plugin name="Softcam Key Updater 6.1-12.20 by Pablonero all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.ipk"</url>
