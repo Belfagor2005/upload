@@ -301,73 +301,73 @@
 	<!-- DB-USB -->
 	<plugins cont="Dvb-Usb ">
 		<plugin name="TrialTuner 2.0.0b DM800HDse">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/TrialTuner_2.0.0b_DM800se_oe_2.0.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/TrialTuner_2.0.0b_DM800se_oe_2.0.ipk"</url>
 		</plugin>
 		<plugin name="TripleTuner OpenPLi 4.0 DM800HDse">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dm800se-tripletuner_2.0b_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dm800se-tripletuner_2.0b_all.ipk"</url>
 		</plugin>
 		<plugin name="TripleTuner OpenPLi 4.0 DM800HDse V2">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dm800seV2-tripletuner_2.0b_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dm800seV2-tripletuner_2.0b_all.ipk"</url>
 		</plugin>
 		<plugin name="Kernel-module-dvb-usb-a867_3.1.1-r4.16_vuduo">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/kernel-module-dvb-usb-a867_3.1.1-r4.16_vuduo.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/kernel-module-dvb-usb-a867_3.1.1-r4.16_vuduo.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-a867_1.0-r2">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-a867_1.0-r2_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-a867_1.0-r2_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-af9015_1.0-r6">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/ enigma2-plugin-drivers-dvb-usb-af9015_1.0-r6_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/ enigma2-plugin-drivers-dvb-usb-af9015_1.0-r6_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-af9035_1.0-r4">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-af9035_1.0-r4_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-af9035_1.0-r4_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-as102_1.0-r1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-as102_1.0-r1_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-as102_1.0-r1_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-atsc hauppauge 1.0 r0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-atsc-usb-hauppauge_1.0-r0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-atsc-usb-hauppauge_1.0-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Firmware-dvb-usb-dib0700 1.20 1.0 r0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/firmware-dvb-usb-dib0700-1.20_1.0-r0_all"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/firmware-dvb-usb-dib0700-1.20_1.0-r0_all"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-dib0700_1.0-OpenPLi40 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-install-dvbt-dib0700_1.0_openpli40_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-install-dvbt-dib0700_1.0_openpli40_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-dib0700_1.0-r3 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-dib0700_1.0-r3_mips32el.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dib0700_1.0-r3_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-dib0700_1.0-r8">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-dib0700_1.0-r8_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dib0700_1.0-r8_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-dib0700-dm800 07-2011-2.6.18-7.4 mipsel">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/dvbt-dib0700_dm800_07-2011-2.6.18-7.4_mipsel.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/dvbt-dib0700_dm800_07-2011-2.6.18-7.4_mipsel.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-dtt200u_1.0-r1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-dtt200u_1.0-r1_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dtt200u_1.0-r1_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-dvbsky_2.0-r4">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-dvbsky_2.0-r4_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dvbsky_2.0-r4_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-it913x_1.0-r2">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-it913x_1.0-r2_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-it913x_1.0-r2_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-pctv452e_1.0-r1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-pctv452e_1.0-r1_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-pctv452e_1.0-r1_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-rtl2832_1.0-r2">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-rtl2832_1.0-r2_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-rtl2832_1.0-r2_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-siano_1.0-r8">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-siano_1.0-r8_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-siano_1.0-r8_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-tbs 1.1 r0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-tbs_1.1-r0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-tbs_1.1-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Drivers-dvb-usb-dw2102_1 1.1 r0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-drivers-dvb-usb-dw2102_1.1-r0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dw2102_1.1-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Usb Tuner 0.7.3">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/usb_dgtv/enigma2-plugin-usbtuner_0.7.3_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-usbtuner_0.7.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Wifi Ralink firmware 1.0 DM800HDse">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/ralink-wifi-firmwares_1.0_dm800se.ipk"</url>
