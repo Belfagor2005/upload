@@ -1415,9 +1415,6 @@
         <plugin name="Tv Spielfilm 1.8.2-r2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvspielfilm_1.8.2-r2_all.deb"</url>
         </plugin>
-        <plugin name="Uninstaller by Lululla 1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-uninstaller_1.0_all.deb"</url>
-        </plugin>
         <plugin name="Userscripts 7.2-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-userscripts_7.2-r1_all.deb"</url>
         </plugin>
@@ -1462,16 +1459,13 @@
 	<!-- MEDIAPORTAL - YOUTUBE -->
 	<plugins cont="MP-YT ">
 		<plugin name="Mediaportal Update 31.05.2020 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-mediaportal_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-mediaportal_all.ipk"</url>
 		</plugin>
 		<plugin name="YouTube py3-git1193-aa1d1ad-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-youtube_py3-git1193-aa1d1ad-r0.0.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_py3-git1193-aa1d1ad-r0.0.ipk"</url>
 		</plugin>
 		<plugin name="YouTube h1-git1193-aa1d1ad-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-youtube_h1-git1193-aa1d1ad-r0.0.ipk"</url>
-		</plugin>
-		<plugin name="YouTube h1+git577+b2f2fd7-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodi/enigma2-plugin-extensions-youtube_h1+git577+b2f2fd7-r0.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1193-aa1d1ad-r0.0.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- MULTIBOOT -->
