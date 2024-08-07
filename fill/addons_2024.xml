@@ -2322,6 +2322,9 @@
 		</plugin>
 	</plugins>
 
+
+
+
 	<!-- SKIN FHD 2.0 -->
 	<plugins cont="Skins | FHD ">
         <plugin name="FHD Aglare OpenPLi v.3.7 all ipk">
@@ -2330,6 +2333,13 @@
         <plugin name="FHD Aglare OATV v.3.8 all ipk">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-aglare-fhd_3.8_all.ipk"</url>
         </plugin>
+        <plugin name="FHD Cobalt OpenPli 05.06.2024 all ipk">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Enigma2-plugin-skins-cobaltfhd_OpenPli.05.06.2024_all.ipk"</url>
+        </plugin>
+        <plugin name="FHD Darkos 0.9.9.9 all ipk">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-e2-darkos_0.9.9.9_all.ipk"</url>
+        </plugin>
+
         <plugin name="FHD oDreamy Mod v2.1 all ipk">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-oDreamy-FHD_2.1_all.ipk"</url>
         </plugin>
