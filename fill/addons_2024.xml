@@ -1912,73 +1912,73 @@
 	<!-- STREAMLINK -->
 	<plugins cont="Streamlink ">
 		<plugin name="Streamlink proxy 6.7.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/enigma2-plugin-extensions-streamlinkproxy_6.7.3_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlinkproxy_6.7.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Streamlink 2.1.1+6.g1baa545 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-streamlink_2.1.1+6.g1baa545_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-streamlink_2.1.1+6.g1baa545_all.ipk"</url>
 		</plugin>
 		<plugin name="Streamlink v.3.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/enigma2-plugin-extensions-streamlink_v.3.3_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlink_v.3.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Streamlink 1.2.0.r0 mod all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-streamlink_1.2.0.r0_mod_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-streamlink_1.2.0.r0_mod_all.ipk"</url>
 		</plugin>
 		<plugin name="Streamlink 1.1.1.r0 mod all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-streamlink_1.1.1.r0_mod_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-streamlink_1.1.1.r0_mod_all.ipk"</url>
 		</plugin>
 		<plugin name="Streamlinksrv 1.1.0 all all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/streamlinksrv_1.1.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlinksrv_1.1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Serviceapp 0.5+git106+e2e47a2-r6_cortexa15hf neon vfpv4">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/arm/enigma2-plugin-systemplugins-serviceapp_0.5+git106+e2e47a2-r6_cortexa15hf-neon-vfpv4.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/arm/enigma2-plugin-systemplugins-serviceapp_0.5+git106+e2e47a2-r6_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
 		<plugin name="Serviceapp 0.5+git106+e2e47a2-r0 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/enigma2-plugin-systemplugins-serviceapp_0.5+git106+e2e47a2-r0_mips32el.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-systemplugins-serviceapp_0.5+git106+e2e47a2-r0_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Python Futures 3.0.3-r0 armv7ahf-neon">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/arm/python-futures_3.0.3-r0_armv7ahf-neon.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/arm/python-futures_3.0.3-r0_armv7ahf-neon.ipk"</url>
 		</plugin>
 		<plugin name="Python Futures 3.0.3-r0 cortexa15hf-neon-vfpv4">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/arm/python-futures_3.0.3-r0_cortexa15hf-neon-vfpv4.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/arm/python-futures_3.0.3-r0_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
 		<plugin name="Python Futures 3.0.3-r0 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-futures_3.0.3-r0_mips32el.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-futures_3.0.3-r0_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Singledispatch 3.4.0.3 r0 armv7ahf-neon">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/arm/python-singledispatch_3.4.0.3-r0_armv7ahf-neon.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/arm/python-singledispatch_3.4.0.3-r0_armv7ahf-neon.ipk"</url>
 		</plugin>
 		<plugin name="Singledispatch 3.4.0.3 r0 cortexa15hf-neon-vfpv4">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/arm/python-singledispatch_3.4.0.3-r0_cortexa15hf-neon-vfpv4.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/arm/python-singledispatch_3.4.0.3-r0_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
 		<plugin name="Libc6 2.26-r0 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/libc6_2.26-r0_mips32el.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/libc6_2.26-r0_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Python iso639 0.4.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-iso639_0.4.5_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-iso639_0.4.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Python iso3166 0.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-iso3166_0.9_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-iso3166_0.9_all.ipk"</url>
 		</plugin>
 		<plugin name="Python isodate 0.6.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-isodate_0.6.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-isodate_0.6.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Python pycrypto 2.5-r6 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-pycrypto_2.5-r6_mips32el.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-pycrypto_2.5-r6_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Python Requests 2.11.1+git0+58d855e193 r1.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-requests_2.11.1+git0+58d855e193-r1.1_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-requests_2.11.1+git0+58d855e193-r1.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Python Urllib3 1.22-1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-urllib3_1.22-1_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-urllib3_1.22-1_all.ipk"</url>
 		</plugin>
 		<plugin name="Python Websocket 0.48.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/python-websocket_0.48.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-websocket_0.48.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Rtmpdump 2.48+git504+ad70c64 r6 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/rtmpdump_2.48+git504+ad70c64-r6_mips32el.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/rtmpdump_2.48+git504+ad70c64-r6_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Singledispatch 3.4.0.3 r0">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/streamlink/singledispatch-3.4.0.3-r0.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/singledispatch-3.4.0.3-r0.ipk"</url>
 		</plugin>
 	</plugins>
 
