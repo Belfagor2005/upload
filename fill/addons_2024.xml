@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xml>
-	<!-- RADIO TOOLS -->
+	<!-- BACKUP TOOLS -->
 	<plugins cont="Backup-Tools ">
 		<plugin name="Automatic Fullbackup 7.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-automatic-fullbackup_7.0_all.ipk"</url>
@@ -73,8 +73,11 @@
 		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.0  IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.0.ipk"</url>
 		</plugin>
-		<plugin name="Autobouquets Maker v. 3.1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-autobouquetsmaker_3.1+git518+9dc7ba5-r0_mips32el.ipk"</url>
+		<plugin name="Autobouquets Maker v.3.3+git913+abf72e8-r0_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-autobouquetsmaker_3.3+git913+abf72e8-r0_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+		<plugin name="Autobouquets Maker v.3.3+git913+abf72e8-r0_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-autobouquetsmaker_3.3+git913+abf72e8-r0_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Feeds finder 20191220 V1.0 momi133 OE 2.0 All mips ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/feeds-finder_20191220-V1.0-momi133-OE2_all.ipk"</url>
@@ -93,6 +96,9 @@
 		</plugin>
 		<plugin name="Setloader v. 1.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-satvenus-settings_4.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Servicescanupdates v.1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.ipk"</url>
 		</plugin>
 		<plugin name="Settings Maker v.2.2 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-settingsmaker_2.2_mips32el.ipk"</url>
@@ -1584,33 +1590,50 @@
 
 	<!-- RADIO TOOLS -->
 	<plugins cont="Radio-Tools ">
+		<plugin name="Hdf Radio 2.9.3_py3_3.12_cortexa7hf-vfp all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py3_3.12_cortexa7hf-vfp.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py3_3.12_cortexa9hf-neon all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py3_3.12_cortexa9hf-neon.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py3_3.12_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py3_3.12_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py3_3.12_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py3_3.12_mips32el.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3 py2 mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py2_mips32el.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py3_3.11.2_cortexa7hf-vfp all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py3_3.11.2_cortexa7hf-vfp.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py3_3.11.2_cortexa9hf-neon all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py3_3.11.2_cortexa9hf-neon.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py3_3.11.2_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py3_3.11.2_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py3_3.11.2_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py3_3.11.2_mips32el.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py2_cortexa7hf-vfp all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py2_cortexa7hf-vfp.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py2_cortexa9hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py2_cortexa9hf-neon-vfpv4.ipk"</url>
+		</plugin>
+		<plugin name="Hdf Radio 2.9.3_py2_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py2_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+
 		<plugin name="TuneIn Radio 1.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-tuneinradio_1.3_all.ipk"</url>
-		</plugin>
-		<plugin name="Hdf Radio 2.6.2 py3 3.11.2 cortexa9hf-neon all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.6.2_py3_3.11.2_cortexa9hf-neon.ipk"</url>
-		</plugin>
-		<plugin name="Hdf Radio 2.6.2 py3 3.11.2 mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.6.2_py3_3.11.2_mips32el.ipk"</url>
-		</plugin>
-		<plugin name="Hdf Radio 2.6.2 py3 3.11.2 cortexa7hf-vfp all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.6.2_py3_3.11.2_cortexa15hf-neon-vfpv4.ipk"</url>
-		</plugin>
-		<plugin name="Hdf Radio 2.6.2 py3 3.11.2 mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.6.2_py3_3.11.2_cortexa7hf-vfp.ipk"</url>
-		</plugin>
-		<plugin name="Hdf Radio 2.6.2 py2 cortexa15hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.6.2_py2_cortexa15hf-neon-vfpv4.ipk"</url>
-		</plugin>
-		<plugin name="Hdf Radio 2.6.2 py2 cortexa9hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.6.2_py2_cortexa9hf-neon-vfpv4.ipk"</url>
-		</plugin>
-		<plugin name="Hdf Radio 2.6.2 py2 mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.6.2_py2_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Web Radio FS 19.23 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-webradiofs_19.23_all.ipk"</url>
 		</plugin>
+
 	</plugins>
 
 	<!-- SOFTCAMS OE2.0 -->
@@ -1772,7 +1795,13 @@
 
 	<!-- SOFTCAMS TOOLS 2.0 -->
 	<plugins cont="SoftCam-Tools2.0 ">
-		<plugin name="Bissfeed autokey 20201016 V2.8 By momi133-OE2 all">
+		<plugin name="Addkey 8.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-addkey_8.2_all.ipk"</url>
+		</plugin>		
+		<plugin name="Bissfeed autokey py3 2.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-bissfeed-autokey-py3_2.8_all.ipk"</url>
+		</plugin>	
+		<plugin name="Bissfeed autokey py2 V2.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk"</url>
 		</plugin>
 		<plugin name="Softcam Key Updater v.6.1 all">
@@ -2565,14 +2594,14 @@
 		<plugin name="Eurojackpot 201011 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-eurojackpot_201011_all.ipk"</url>
 		</plugin>
-		<plugin name="Footonsat 1.8-r5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-footonsat_1.8-r5_all.ipk"</url>
+		<plugin name="Footonsat 1.9-r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-footonsat_1.9-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Formel1 1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-formel1_1.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Live Football 7.5 update all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-livefootball_7.5_all.ipk"</url>
+		<plugin name="Live Football 8.6 update all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-livefootball_8.6_all.ipk"</url>
 		</plugin>
 		<plugin name="Live On Sat 1.0 arm ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-liveonsat_1.0_arm.ipk"</url>
@@ -2586,11 +2615,17 @@
 		<plugin name="Lottoextended 201011 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-lottoextended_201011_all.ipk"</url>
 		</plugin>
+		<plugin name="Myfpl v.1.0.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-myfpl_1.0.1_all.ipk"</url>
+		</plugin>
 		<plugin name="Kicker 3.6 rc5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-kicker_3.6rc5_all.ipk"</url>
 		</plugin>
 		<plugin name="Sofascore 1.0+git5+fe8ae61-r0 cortexa15hf-neon-vfpv4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-sofascore_1.0+git5+fe8ae61-r0_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+		<plugin name="Sport 1.5.03 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/livesoccer-plugin-sport_1.5.03_all.ipk"</url>
 		</plugin>
 		<plugin name="Sport1 Ticker 1.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-sport1ticker_1.3_all.ipk"</url>
@@ -2598,9 +2633,9 @@
 		<plugin name="Sportspub 1.0.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-sportspub_1.0.3_all.ipk"</url>
 		</plugin>
-		<plugin name="Tetris 0.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-tetris_0.1_all.ipk"</url>
-		</plugin>
+		<plugin name="Telekomsport 2.0+git93+b0dca2f-r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.ipk"</url>
+		</plugin>		
 		<plugin name="Wazzup fnc 1.5 r0 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-wazzup-fnc_1.5-r0_mips32el.ipk"</url>
 		</plugin>
@@ -2613,6 +2648,9 @@
 		</plugin>
 		<plugin name="Acherone Script Executor v.1.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-acherone_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Automaticcleanup 10.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-automaticcleanup_10.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Autocut 3.11 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-autocut_3.11_all.ipk"</url>
@@ -2683,6 +2721,10 @@
 		<plugin name="Dyn Dns auto login v.0.2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dyndnsautologin_0.2-r1_all.ipk"</url>
 		</plugin>
+		<plugin name="Eparted_0.13-r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/eparted_0.13-r1_all.ipk"</url>
+		</plugin>
+
 		<plugin name="Exteplayer3 script install">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-exteplayer3_1.0_all.ipk"</url>
 		</plugin>
@@ -2719,6 +2761,9 @@
 		</plugin>
 		<plugin name="Historyzap 1.0.40">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-historyzap_1.0.40_all.ipk"</url>
+		</plugin>
+		<plugin name="Kiosk v.1.1.3-B all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-kiosk_1.1.3-B_all.ipk"</url>
 		</plugin>
 		<plugin name="Internet SpeedTest v.1.7">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-internet-speedtest_1.7_all.ipk"</url>
@@ -2832,6 +2877,9 @@
 		<plugin name="Shoot your screen -mod- r3.1_0.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-shootyourscreen-mod-r3.1_0.2_all.ipk"</url>
 		</plugin>
+		<plugin name="Signalfinder v.2.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-signalfinder_2.4_all.ipk"</url>
+		</plugin>
 		<plugin name="Smart Shell v. 1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-smartshell_1.0_all.ipk"</url>
 		</plugin>
@@ -2865,11 +2913,23 @@
 		<plugin name="VFD Control 2.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-vfdcontrol_2.0_all.ipk"</url>
 		</plugin>
+		<plugin name="Vticonfig explorer v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vticonfigexplorer_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Vticonfig helper v.1.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vticonfighelper_1.4_all.ipk"</url>
+		</plugin>
 		<plugin name="Wirelesslan 6.2 fix">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-wirelesslan_6.2+git26804+c76e6a3-r0_all.ipk"</url>
 		</plugin>		
 		<plugin name="Wirelesslan 1.0 dm800 fix">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk"</url>
+		</plugin>
+		<plugin name="Zerotier v.1.4.6-r0 armv7ahf-neon fix">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/zerotier_1.4.6-r0_armv7ahf-neon.ipk"</url>
+		</plugin>
+		<plugin name="Zerotier v.1.4.6-r0 mips32el fix">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/zerotier_1.4.6-r0_mips32el.ipk"</url>
 		</plugin>
 	</plugins>
 
