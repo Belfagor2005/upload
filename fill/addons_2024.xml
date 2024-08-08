@@ -2650,9 +2650,6 @@
 		<plugin name="Change Mac Address e2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/Change-mac-address_e2_all.ipk"</url>
 		</plugin>
-		<plugin name="Ciplus helper 5.4-r0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-ciplushelper_5.4-r0_all.ipk"</url>
-		</plugin>
 		<plugin name="Ciplus helper 5.8-r2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-ciplushelper_5.8-r2_all.ipk"</url>
 		</plugin>
@@ -2865,10 +2862,16 @@
 		<plugin name="Updateuser 1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-updateuser_1.7_all.ipk"</url>
 		</plugin>
+		<plugin name="Utility 0.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/utility_0.1_all.ipk"</url>
+		</plugin>
 		<plugin name="VFD Control 2.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-vfdcontrol_2.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Wirelesslan 1.0 fix">
+		<plugin name="Wirelesslan 6.2 fix">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-wirelesslan_6.2+git26804+c76e6a3-r0_all.ipk"</url>
+		</plugin>		
+		<plugin name="Wirelesslan 1.0 dm800 fix">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk"</url>
 		</plugin>
 	</plugins>
