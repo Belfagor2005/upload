@@ -116,8 +116,14 @@
 	</plugins>
 	<!-- LIBRARY -->
 	<plugins cont="Python Library ">
-		<plugin name="beautifulsoup 4-4.8.0 all">
+		<plugin name="Beautifulsoup 4-4.8.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-beautifulsoup_4-4.8.0_all.ipk"</url>
+		</plugin>
+    <plugin name="Boxbranding-arm_1.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/enigma2-plugin-extensions-boxbranding-arm_1.0_all.ipk"</url>
+		</plugin>
+    <plugin name="Boxbranding-mips_1.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/enigma2-plugin-extensions-boxbranding-mips_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="liblzma5 5.2.2-r0 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/liblzma5_5.2.2-r0_mips32el.ipk"</url>
@@ -136,6 +142,33 @@
 		</plugin>
 		<plugin name="Libcrypto0.9.8_0.9.8y-r15.1_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libcrypto0.9.8_0.9.8y-r15.1_mips32el.ipk"</url>
+		</plugin>
+    <plugin name="Libcrypto0.9.8_0.9.8x-r0_armv7ahf-vfp-neon">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libcrypto0.9.8_0.9.8x-r0_armv7ahf-vfp-neon.ipk"</url>
+		</plugin>
+    <plugin name="Libcrypto0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libcrypto0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+    <plugin name="Libcrypto1.0.0_1.0.2_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libcrypto1.0.0_1.0.2_all.ipk"</url>
+		</plugin>
+    <plugin name="Libdvbcsa1_1.1.0-r0_sh4">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libdvbcsa1_1.1.0-r0_sh4.ipk"</url>
+		</plugin>
+    <plugin name="Libssl0.9.8_0.9.8x-r0_armv7ahf-vfp-neon">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl0.9.8_0.9.8x-r0_armv7ahf-vfp-neon.ipk"</url>
+		</plugin>
+    <plugin name="Libssl0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+    <plugin name="Libssl0.9.8_0.9.8x-r15.0.2_mips32el">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl0.9.8_0.9.8x-r15.0.2_mips32el.ipk"</url>
+		</plugin>
+    <plugin name="Libssl1.0.0_1.0.1g-r0_mips32el">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl1.0.0_1.0.1g-r0_mips32el.ipk"</url>
+		</plugin>
+    <plugin name="Libssl1.0.0_1.0.2_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl1.0.0_1.0.2_all.ipk"</url>
 		</plugin>
 		<plugin name="Libgnutls26_2.12.17-r6.0_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libgnutls26_2.12.17-r6.0_mips32el.ipk"</url>
@@ -206,6 +239,24 @@
 		<plugin name="Python Futures 2.1.6-r0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/futures-2.1.6-r0__all.ipk"</url>
 		</plugin>
+    <plugin name="Python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon.ipk"</url>
+		</plugin>
+    <plugin name="Python3-fuzzywuzzy_0.18.0-r0_mips32el">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-fuzzywuzzy_0.18.0-r0_mips32el.ipk"</url>
+		</plugin>
+    <plugin name="Python3-levenshtein_0.12.0-r0_armv7ahf-neon">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-levenshtein_0.12.0-r0_armv7ahf-neon.ipk"</url>
+		</plugin>
+    <plugin name="Python3-levenshtein_0.12.0-r0_mips32el">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-levenshtein_0.12.0-r0_mips32el.ipk"</url>
+		</plugin>
+    <plugin name="Python3-rarfile_4.1-r0_armv7ahf-neo">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-rarfile_4.1-r0_armv7ahf-neon.ipk"</url>
+		</plugin>
+    <plugin name="Python3-rarfile_4.1-r0_mips32el">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-rarfile_4.1-r0_mips32el.ipk"</url>
+		</plugin>
 		<plugin name="Python-html_2.7.2-r2.17_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-html_2.7.2-r2.17_mips32el.ipk"</url>
 		</plugin>
@@ -249,13 +300,19 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-pycrypto_2.5-r6_all.ipk"</url>
 		</plugin>
 		<plugin name="Python-pyexecjs_1.4.0-r0.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/python-pyexecjs_1.4.0-r0.2_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-pyexecjs_1.4.0-r0.2_all.ipk"</url>
 		</plugin>
 		<plugin name="Python-requests 2.11.1 r0.1 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/python-requests_2.11.1-r0.1_mips32el.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-requests_2.11.1-r0.1_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Python-requests 2.11.1 git0 r1.1 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/python-requests_2.11.1_git0_58d855e193-r1.1_mips32el.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-requests_2.11.1_git0_58d855e193-r1.1_mips32el.ipk"</url>
+		</plugin>
+    <plugin name="Python-requests_2.23.0-r0_armv7ahf-neon">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-requests_2.23.0-r0_armv7ahf-neon.ipk"</url>
+		</plugin>
+		<plugin name="Python-requests_2.23.0-r0_mips32el">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-requests_2.23.0-r0_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Python-robotparser_2.7.2-r7.17_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-robotparser_2.7.2-r7.17_mips32el.ipk"</url>
@@ -287,8 +344,17 @@
 		<plugin name="Python-textutils_2.7.3-r0.3.2_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-textutils_2.7.3-r0.3.2_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Python youtube-dl 2021.06.06-r0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-youtube-dl_2021.06.06-r0_all.ipk"</url>
+    <plugin name="Python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_armv7ahf-neon">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_armv7ahf-neon.ipk"</url>
+		</plugin>
+    <plugin name="Python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_cortexa15hf-neon-vfpv4">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+    <plugin name="Python-youtube-dl_2020.05.08+git17681+8f841fa-r0.0_mips32el-nf">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-youtube-dl_2020.05.08+git17681+8f841fa-r0.0_mips32el-nf.ipk"</url>
+		</plugin>
+    <plugin name="Python-youtube-dl_git2022.10.11-r0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-youtube-dl_git2022.10.11-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Python-xmlrpc_2.7.2-r7.17_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-xmlrpc_2.7.2-r7.17_mips32el.ipk"</url>
