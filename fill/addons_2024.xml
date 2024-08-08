@@ -587,8 +587,8 @@
 		<plugin name="E2iStream 20191129_r01 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2istream_20191129_r01_all.ipk"</url>
 		</plugin>
-		<plugin name="E2m3u2bouquet 1.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.7_all.ipk"</url>
+		<plugin name="E2m3u2bouquet 1.7.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.7.6_all.ipk"</url>
 		</plugin>
 		<plugin name="Exodus V 7.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-exodus_7.0_r0_all.ipk"</url>
@@ -734,8 +734,8 @@
 		<plugin name="Series Plugin 5.9.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-seriesplugin_5.9.4_all.ipk"</url>
 		</plugin>
-		<plugin name="SerienRecorder 4.7.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-serienrecorder_4.7.0_all.ipk"</url>
+		<plugin name="SerienRecorder 4.7.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-serienrecorder_4.7.1_all.ipk"</url>
 		</plugin>
 		<plugin name="SkyRecorder v. 2.1.3 py2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-skyrecorder_2.1.3-py2_all.ipk"</url>
@@ -1485,8 +1485,8 @@
 	</plugins>
 	<!-- MULTIMEDIA -->
 	<plugins cont="Multimedia ">
-		<plugin name="TSmedia 15.4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-tsmedia_15.4_all.ipk"</url>
+		<plugin name="TSmedia 17.2.29.07.21 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-tsmedia_17.2.29.07.21_all.ipk"</url>
 		</plugin>
 		<plugin name="DreamPlex 2.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-dreamplex_2.1.4_all.ipk"</url>
@@ -2739,6 +2739,9 @@
 		<plugin name="Historyzap 1.0.41">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-historyzap_1.0.41_all.ipk"</url>
 		</plugin>
+		<plugin name="Keyboardhistory_0.1-Beta all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-keyboardhistory_0.1-Beta_all.ipk"</url>
+		</plugin>
 		<plugin name="Kiosk v.1.1.4-C-Experimental all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-kiosk_1.1.4-C-Experimental_all.ipk"</url>
 		</plugin>
@@ -2788,6 +2791,9 @@
 		<plugin name="Net Speed Test v.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-netspeedtest_1.0_all.ipk"</url>
 		</plugin>
+		<plugin name="New Permanentclock 1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-newpermanentclock_1.0_all.ipk"</url>
+		</plugin>
 		<plugin name="New Virtual Keyboard 12.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-newvirtualkeyboard_v12.3_all.ipk"</url>
 		</plugin>
@@ -2811,6 +2817,9 @@
 		</plugin>
 		<plugin name="Password Set git4897+7278916-r0.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-setpasswd_y-git4897+7278916-r0.0.ipk"</url>
+		</plugin>
+		<plugin name="Permanent Clock v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-permanentclock-1.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Permanent Test v.5.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-permanenttest_5.0_all.ipk"</url>
@@ -2911,6 +2920,9 @@
 		<plugin name="Vtifccextender v.0.3 Beta all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vti-fccextender_0.3-Beta_all.ipk"</url>
 		</plugin>
+		<plugin name="Vtifilebrowser v.1.9.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filebrowservti_1.9.1_all.ipk"</url>
+		</plugin>
 		<plugin name="Vtiscreenshot helper v.0.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vtiscreenshot_0.4-beta_all.ipk"</url>
 		</plugin>
@@ -2992,8 +3004,14 @@
 		<plugin name="Infobar Weather 0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-infobarweather_all.ipk"</url>
 		</plugin>
+		<plugin name="Netatmo v.1.7.3 20230530-r345 py3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-netatmo_1.7.3-20230530-r345_py3branch_all.ipk"</url>
+		</plugin>
 		<plugin name="OaWeather 3.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_3.0_all.ipk"</url>
+		</plugin>
+		<plugin name="OaWeather 3.0+0.0-50-g17b80070+17b8007634-r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_3.0+0.0-50-g17b80070+17b8007634-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="The Weather py2-py3 v.2.4_r3">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweather-py2-py3_2.4_r3_all.ipk"</url>
@@ -3004,8 +3022,11 @@
 		<plugin name="VWeather 3.1.0 r61 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_1.0r61_all.ipk"</url>
 		</plugin>
-		<plugin name="Weather Plugin v.2.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin_2.10_all.ipk"</url>
+		<plugin name="Weather Plugin py3 v.7.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin-py3_7.0_all.ipk"</url>
+		</plugin>		
+		<plugin name="Weather Plugin v.2.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin_2.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Weather b1.3 py_3.9.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-weather_b1.3_py_3.9.9_all.ipk"</url>
@@ -3045,9 +3066,6 @@
 		</plugin>
 		<plugin name="Weather Forecast 1.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weather-forecast_1.0_mipsel.ipk"</url>
-		</plugin>
-		<plugin name="Weather Netatmo 1.6.5 20180921-r322 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-netatmo_1.6.5-20180921-r322_all.ipk"</url>
 		</plugin>
 		<plugin name="Weather Yahoo 1280-1920 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-yahoo.weather_1280-1920_OE20_all.ipk"</url>
