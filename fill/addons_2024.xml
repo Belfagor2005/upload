@@ -3266,4 +3266,56 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/lib32-dreamwidevine_1.0-r0.2_armhf.deb"</url>
 		</plugin>
 	</plugins>
+
+
+
+
+	<!-- SKINS ALL -->
+	<plugins cont="Skins_All ">
+		<plugin name="XXXXXXXXXXXXXXXXXXXXXXXXXXX">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/"</url>
+		</plugin>
+	</plugins>
+	<!-- Skins_OpenAtv -->
+	<plugins cont="Skins_OpenAtv ">
+		<plugin name="xxxxxxxxxxxxxxxxx">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/"</url>
+		</plugin>
+	</plugins>
+	<!-- Skins_OpenPli -->
+	<plugins cont="Skins_OpenPli ">
+		<plugin name="Beautifulsoup 4-4.8.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/"</url>
+		</plugin>
+ 	</plugins>
+	<!-- Skins_Vti -->
+	<plugins cont="Skins_Vti ">
+		<plugin name="yyyyyyyyyyyyyyyyyyyyyyyyyyyy">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Vti/"</url>
+		</plugin>
+	</plugins>
+	<!-- Skins_Egami -->
+	<plugins cont="Skins_Egami ">
+		<plugin name="zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/"</url>
+		</plugin>
+	</plugins>
+	<!-- Skins_HDF -->
+	<plugins cont="Skins_HDF ">
+		<plugin name="zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_HDF/"</url>
+		</plugin>
+	</plugins>
+	<!-- Skins_OBH -->
+	<plugins cont="Skins_OBH ">
+		<plugin name="FEEDS Dream-Arabia all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/"</url>
+		</plugin>
+	</plugins>
+	<!-- Skins_OpenSpa -->
+	<plugins cont="Skins_OpenSpa ">
+		<plugin name="vvvvvvvvvvvvvvvvvvvvvvvvv">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenSpa/"</url>
+		</plugin>
+	</plugins>
 </xml>
