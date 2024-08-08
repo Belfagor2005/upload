@@ -1500,8 +1500,8 @@
 
 	<!-- PANELS ADDONS -->
 	<plugins cont="Panels Addons ">
-		<plugin name="Ajpanel v.9.3.1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-ajpanel_v9.3.1_all.ipk"</url>
+		<plugin name="Ajpanel v.9.4.0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-ajpanel_v9.4.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Alternative Softcam Manager 2-git46-a25a9b3-r0.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_2-git46-a25a9b3-r0.0_all.ipk"</url>
@@ -1627,13 +1627,15 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py2_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
 
-		<plugin name="TuneIn Radio 1.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-tuneinradio_1.3_all.ipk"</url>
+		<plugin name="TuneIn Radio 3.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-tuneinradio_3.9_all.ipk"</url>
 		</plugin>
-		<plugin name="Web Radio FS 19.23 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-webradiofs_19.23_all.ipk"</url>
+		<plugin name="Web Radio FS 21.03 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-webradiofs_21.03_all.ipk"</url>
 		</plugin>
-
+		<plugin name="Yampmusicplayer v.3.3.0-T5 2021-05-02 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-yampmusicplayer_3.3.0-T5_2021-05-02_all.ipk"</url>
+		</plugin>
 	</plugins>
 
 	<!-- SOFTCAMS OE2.0 -->
