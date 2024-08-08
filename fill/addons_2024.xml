@@ -2916,6 +2916,9 @@
 	</plugins>
 	<!-- VPN -->
 	<plugins cont="Vpn-Oe2.0 ">
+		<plugin name="Nord vpn connector v.0.3-r3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.3-r3_all.ipk"</url>
+		</plugin>
 		<plugin name="Open VpnNord Setup 0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-openvpnsetupnord_0.6_all.ipk"</url>
 		</plugin>
