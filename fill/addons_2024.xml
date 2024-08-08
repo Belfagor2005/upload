@@ -8,22 +8,22 @@
 		<plugin name="Auto backup 2.0+git77+87cb199-r0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-autobackup_2.0+git77+87cb199-r0_all.ipk"</url>
 		</plugin>
-    <plugin name="Backupandflash_1.0-r0_all">
+		<plugin name="Backupandflash_1.0-r0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupandflash_1.0-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Backupsuite 3.0-r3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_3.0_r3_all.ipk"</url>
 		</plugin>
-    <plugin name="Backupsuite_1.0+git495+48b9906-r0_aarch64_all">
+		<plugin name="Backupsuite_1.0+git495+48b9906-r0_aarch64_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_aarch64.ipk"</url>
 		</plugin>
-    <plugin name="Backupsuite_1.0+git495+48b9906-r0_armv7ahf-neon_all">
+		<plugin name="Backupsuite_1.0+git495+48b9906-r0_armv7ahf-neon_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_armv7ahf-neon.ipk"</url>
 		</plugin>
-    <plugin name="Backupsuite_1.0+git495+48b9906-r0_cortexa15hf-neon-vfpv4_all">
+		<plugin name="Backupsuite_1.0+git495+48b9906-r0_cortexa15hf-neon-vfpv4_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-    <plugin name="Backupsuite_1.0+git495+48b9906-r0_mips32el_all">
+		<plugin name="Backupsuite_1.0+git495+48b9906-r0_mips32el_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Backupsuite mips 3.0-r0 all">
@@ -63,8 +63,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginskinmover_0.6_all.ipk"</url>
 		</plugin>
 	</plugins>
-
-
 	<!-- BOUQUETS -->
 	<plugins cont="Bouquets ">
 		<plugin name="iSetting START V.1.1  IPK">
@@ -113,7 +111,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ngsetting_1.5_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- LIBRARY -->
 	<plugins cont="Python Library ">
 		<plugin name="beautifulsoup 4-4.8.0 all ">
@@ -300,7 +297,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/xmltvimport-library_1.0+git91+f9a1444-r28_mips32el.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- DB-USB -->
 	<plugins cont="Dvb-Usb ">
 		<plugin name="TrialTuner 2.0.0b DM800HDse">
@@ -379,7 +375,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- EPG TOOLS -->
 	<plugins cont="Epg-Tools ">
 		<plugin name="Advancedevent library v. 1.0r64 all">
@@ -470,7 +465,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xtraevent_v5.2_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- FEEDS-OE2.0 -->
 	<plugins cont="Feeds Oe2.0 ">
 		<plugin name="Feed emil nabil v1.0 all IPK">
@@ -513,41 +507,39 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/enigma2-plugin-softcams_extra_mipsel_Opendroid.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- FEEDS-OE2.2-2.5 -->
-    <plugins cont="Feeds Oe2.5/2.6 ">
-        <plugin name="FEEDS Dream-Arabia all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dreamarabia-addons-feed.deb"</url>
-        </plugin>	
-        <plugin name="FEEDS Dream-Elite extra_arm64-dmone-dmtwo all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64-dmone-dmtwo.deb"</url>
-        </plugin>
-        <plugin name="FEEDS Dream-Elite 7.1 DEP all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-panel-installer_all.deb"</url>
-        </plugin>
-        <plugin name="FEEDS Dream-Elite 7.1 EXTRA ARM64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64.deb"</url>
-        </plugin>
-        <plugin name="FEEDS Dream-Elite 7.1 EXTRA ARMHF">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_armhf.deb"</url>
-        </plugin>
-        <plugin name="FEEDS Dream-Elite 7.1 EXTRA MIPSEL">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_mipsel.deb"</url>
-        </plugin>
-        <plugin name="FEEDS GP OE2.6 Gemini locale all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/geminilocale_all.deb"</url>
-        </plugin>
-        <plugin name="FEEDS GP 4.1 2.0-r4 FEEDS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/gp4-cam-feed-configs_2.0-r4_all.deb"</url>
-        </plugin>
-        <plugin name="FEEDS GP 4.1 1.0-r2 FEEDS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/gp4-cam-feed-configs_1.0-r12_all.deb"</url>
-        </plugin>
-        <plugin name="FEEDS Opendreambox Mirror">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/enigma2-plugin-extensions-opendreambox-mirror-feed_all.deb"</url>
-        </plugin>
-    </plugins>
-
+	<plugins cont="Feeds Oe2.5/2.6 ">
+		<plugin name="FEEDS Dream-Arabia all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dreamarabia-addons-feed.deb"</url>
+		</plugin>
+		<plugin name="FEEDS Dream-Elite extra_arm64-dmone-dmtwo all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64-dmone-dmtwo.deb"</url>
+		</plugin>
+		<plugin name="FEEDS Dream-Elite 7.1 DEP all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-panel-installer_all.deb"</url>
+		</plugin>
+		<plugin name="FEEDS Dream-Elite 7.1 EXTRA ARM64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64.deb"</url>
+		</plugin>
+		<plugin name="FEEDS Dream-Elite 7.1 EXTRA ARMHF">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_armhf.deb"</url>
+		</plugin>
+		<plugin name="FEEDS Dream-Elite 7.1 EXTRA MIPSEL">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_mipsel.deb"</url>
+		</plugin>
+		<plugin name="FEEDS GP OE2.6 Gemini locale all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/geminilocale_all.deb"</url>
+		</plugin>
+		<plugin name="FEEDS GP 4.1 2.0-r4 FEEDS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/gp4-cam-feed-configs_2.0-r4_all.deb"</url>
+		</plugin>
+		<plugin name="FEEDS GP 4.1 1.0-r2 FEEDS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/gp4-cam-feed-configs_1.0-r12_all.deb"</url>
+		</plugin>
+		<plugin name="FEEDS Opendreambox Mirror">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/enigma2-plugin-extensions-opendreambox-mirror-feed_all.deb"</url>
+		</plugin>
+	</plugins>
 	<!-- GAMES -->
 	<plugins cont="Games ">
 		<plugin name="Schiffe 7.1r1 FHD/HD All ">
@@ -560,7 +552,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-tetris_7.1r0_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- IPTV -->
 	<plugins cont="Iptv ">
 		<plugin name="Albatros 7.1.2 all">
@@ -569,7 +560,7 @@
 		<plugin name="Ardmediathek v1.5 plus-minitv all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ardmediathek_v1.5-plus-minitv_all.ipk"</url>
 		</plugin>
-    <plugin name="Camofs_17.46_all">
+		<plugin name="Camofs_17.46_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-camofs_17.46_all.ipk"</url>
 		</plugin>
 		<plugin name="Dreamplex_2.1.3_all">
@@ -632,7 +623,7 @@
 		<plugin name="Iptv World V 6.0 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvworld_6.0_r0_all.ipk"</url>
 		</plugin>
-    <plugin name="Italysmart-240510.1_mipsel">
+		<plugin name="Italysmart-240510.1_mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-italysmart-240510.1_mipsel.ipk"</url>
 		</plugin>
 		<plugin name="JournalSAT_IPTV v.1.0 PY3 all">
@@ -665,7 +656,7 @@
 		<plugin name="Movie Browser 3.7rc3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_3.7rc3_all.ipk"</url>
 		</plugin>
-    <plugin name="Movietime_1.0_r1_all">
+		<plugin name="Movietime_1.0_r1_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-movietime_1.0_r1_all.ipk"</url>
 		</plugin>
 		<plugin name="Movie Cut Center v.1.09-20220330 all">
@@ -682,7 +673,7 @@
 		</plugin>
 		<plugin name="Multistalker 1.1 r5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+r5_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Multistalker 1.5a PY3.10 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalker_1.5a_all.ipk"</url>
 		</plugin>
@@ -692,7 +683,7 @@
 		<plugin name="Multistalker 1.0 PY3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py3_v1.0_all.ipk"</url>
 		</plugin>
-    <plugin name="Multistalker 1.0 PY2 all">
+		<plugin name="Multistalker 1.0 PY2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py2_v1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Multistalker 1.0 git17+3e81926-r0 all">
@@ -713,10 +704,10 @@
 		<plugin name="Pluto TV 20240220 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240220_all.ipk"</url>
 		</plugin>
-    <plugin name="Pictureplayer2_1.0_all">
+		<plugin name="Pictureplayer2_1.0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
 		</plugin>
-    <plugin name="Pictureplayer2_1.0_all">
+		<plugin name="Pictureplayer2_1.0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Rakuten TV 20240324 all">
@@ -743,13 +734,13 @@
 		<plugin name="StreamLink v.3.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlink_v.3.3_all.ipk"</url>
 		</plugin>
-    <plugin name="Streamlinkwrapper_1.1 all">
+		<plugin name="Streamlinkwrapper_1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Torrent Player v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-torrentplayer_1.1_all.ipk"</url>
 		</plugin>
-    <plugin name="Tvshows_1.0_r0_all">
+		<plugin name="Tvshows_1.0_r0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-tvshows_1.0_r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Vlc Player 3.999 git5056+e504cee-r2 mips32el">
@@ -757,15 +748,15 @@
 		</plugin>
 	</plugins>
 	<!-- KIDDAC -->
-		<plugins cont="Kiddac Zone Oe2.0 ">
-			<plugin name="Bouquet Maker Xtream 1.17.20240529 all">
-				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.17.20240529_all.ipk"</url>
-			</plugin>
+	<plugins cont="Kiddac Zone Oe2.0 ">
+		<plugin name="Bouquet Maker Xtream 1.17.20240529 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.17.20240529_all.ipk"</url>
+		</plugin>
 		<plugin name="Jedimakerxtream_6.37.20240530_all">
-		  <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk"</url>
 		</plugin>
 		<plugin name="Jedi EPG Xtream 2.09.20230805 all">
-		  <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.ipk"</url>
 		</plugin>
 		<plugin name="Movie Planner Mod v.4.02.20211228 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-movieplannermod_4.02.20211228_all.ipk"</url>
@@ -785,47 +776,43 @@
 		<plugin name="E2Piconizer 1.25.20231110 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Visual Weather 1.09.20240205 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.09.20240205_all.ipk"</url>
-        </plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.09.20240205_all.ipk"</url>
+		</plugin>
 	</plugins>
-		<!-- KIDDAC -->
+	<!-- KIDDAC -->
 	<plugins cont="Kiddac Zone Oe2.5/2.6 ">
-        <!-- debian -->
-        <plugin name="Bouquet Maker Xtream 1.18_20240723_all DREAMOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.18_20240723_all.deb"</url>
-        </plugin>
-        <plugin name="Jedimakerxtream_6.37_20240530_all DREAMOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb"</url>
-        </plugin>
-        <plugin name="Jedi EPG Xtream 2.09.20230805 DREAMOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.deb"</url>
-        </plugin>
-        <plugin name="xKlass v.1.10.20240726 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-xklass_1.10_20240726_all.deb"</url>
+		<!-- debian -->
+		<plugin name="Bouquet Maker Xtream 1.18_20240723_all DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.18_20240723_all.deb"</url>
+		</plugin>
+		<plugin name="Jedimakerxtream_6.37_20240530_all DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb"</url>
+		</plugin>
+		<plugin name="Jedi EPG Xtream 2.09.20230805 DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.deb"</url>
+		</plugin>
+		<plugin name="xKlass v.1.10.20240726 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-xklass_1.10_20240726_all.deb"</url>
 		</plugin>
 		<plugin name="XStreamity 4.55_20240723 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.55_20240723_all.deb"</url>
 		</plugin>
-        <plugin name="Screen Names v.1.05.20240323 DREAMOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.05.20240323_all.deb"</url>
-        </plugin>
-        <plugin name="Visual Weather 1.09.20240205 DREAMOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.09_20240205_all.deb"</url>
-        </plugin>
+		<plugin name="Screen Names v.1.05.20240323 DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.05.20240323_all.deb"</url>
+		</plugin>
+		<plugin name="Visual Weather 1.09.20240205 DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.09_20240205_all.deb"</url>
+		</plugin>
 	</plugins>
-
 	<!-- LULULLA ZONE OE2 -->
 	<plugins cont="Lululla Zone Oe2.0 ">
-
 		<plugin name="Addon Panel V.2.1.5 All ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvaddon_2.1.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Softcam Manager V.2.1  OE2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_2.1_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Add IPTV Stream 1.2 Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-addiptv-modded_v.1.2_all.ipk"</url>
 		</plugin>
@@ -835,7 +822,6 @@
 		<plugin name="Apsat TV 1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.2_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Clear MEM 1.11 Modded Lululla all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-clearmem_1.11_all.ipk"</url>
 		</plugin>
@@ -929,9 +915,9 @@
 		<plugin name="TvtoM3U v.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvtom3upanel_2.0_all.ipk"</url>
 		</plugin>
-        <plugin name="Uninstaller 1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-uninstaller_1.0_all.ipk"</url>
-        </plugin>
+		<plugin name="Uninstaller 1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-uninstaller_1.0_all.ipk"</url>
+		</plugin>
 		<plugin name="Vavoo Stream online v.1.24 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.24_all.ipk"</url>
 		</plugin>
@@ -956,14 +942,10 @@
 		<plugin name="Gcam Status 1.0 Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
 		</plugin>
-
 		<plugin name="NoIp DynDns Exp.+conf v.1.30 modded Lululla">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-noipdyndns-modded_experimental-r1.30_all.ipk"</url>
 		</plugin>
-
-
 	</plugins>
-
 	<!-- LULULLA ZONE OE2.5-2.6 -->
 	<plugins cont="Lululla Zone Oe2.5/2.6 ">
 		<plugin name="Addon Panel V.2.1.5">
@@ -975,27 +957,27 @@
 		<plugin name="Apsat TV 1.2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.2_all.deb"</url>
 		</plugin>
-        <plugin name="CrashLogViewer 1.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.2_all.deb"</url>
-        </plugin>
-  		<plugin name="DD RSS FEEDS v.0.6 all">
+		<plugin name="CrashLogViewer 1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.2_all.deb"</url>
+		</plugin>
+		<plugin name="DD RSS FEEDS v.0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_0.6_all.deb"</url>
 		</plugin>
 		<plugin name="FilmOn v.2.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.0_all.deb"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="FilmXY v.1.4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmxy_1.4_all.deb"</url>
 		</plugin>
 		<plugin name="Freearhey 2.9">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_2.9_all.deb"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="HasBahCa 1.7">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_1.7_all.deb"</url>
 		</plugin>
 		<plugin name="M3U Iptv v.1.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m3uiptv_1.1_all.deb"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="M7Live v.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m7live_1.2_all.deb"</url>
 		</plugin>
@@ -1008,7 +990,7 @@
 		<plugin name="RadioM v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.1_all.deb"</url>
 		</plugin>
-  		<plugin name="RSS Reader v.1.13 all">
+		<plugin name="RSS Reader v.1.13 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.13_all.deb"</url>
 		</plugin>
 		<plugin name="Softcam Key Updater 6.1-12.20 all">
@@ -1038,13 +1020,12 @@
 		<plugin name="tvStream PRO REVOLUTION LITE v.1.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-lite_1.9_all.deb"</url>
 		</plugin>
-
 		<plugin name="TvToM3U Convert 2.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvtom3upanel_2.0_all.deb"</url>
 		</plugin>
-        <plugin name="Uninstaller 1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-uninstaller_1.0_all.deb"</url>
-        </plugin>
+		<plugin name="Uninstaller 1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-uninstaller_1.0_all.deb"</url>
+		</plugin>
 		<plugin name="Vavoo Stream online v.1.24 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.24_all.deb"</url>
 		</plugin>
@@ -1054,391 +1035,385 @@
 		<plugin name="Xc Plugin Forever v.3.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_3.0_all.deb"</url>
 		</plugin>
-
 	</plugins>
-
-		<!-- OE2.2 PLUGINS-->
-    <plugins cont="Oe2.5/2.6 Plugins ">
-        <plugin name="Accu Weather v.1.2.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-accuweather_1.2.1_all.deb"</url>
-        </plugin>
-        <plugin name="Addkeys v.8.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius//enigma2-plugin-extensions-addkey_8.2_all.deb"</url>
-        </plugin>
-        <plugin name="AdvancedMovieSelection v.5.6.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-advancedmovieselection_5.6.2_all.deb"</url>
-        </plugin>
-        <plugin name="Ajpanel v.9.4.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ajpanel_v9.4.0_all.deb"</url>
-        </plugin>
-        <plugin name="Alternative Softcammanager 4.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.deb"</url>
-        </plugin>
-        <plugin name="Backupandflash 1.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupandflash_1.4_all.deb"</url>
-        </plugin>
-        <plugin name="Barryallen 12.89 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-barryallen_12.89_all.deb"</url>
-        </plugin>
-        <plugin name="BissFeedAutoKey Plugin 2.8.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"</url>
-        </plugin>
+	<!-- OE2.2 PLUGINS-->
+	<plugins cont="Oe2.5/2.6 Plugins ">
+		<plugin name="Accu Weather v.1.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-accuweather_1.2.1_all.deb"</url>
+		</plugin>
+		<plugin name="Addkeys v.8.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius//enigma2-plugin-extensions-addkey_8.2_all.deb"</url>
+		</plugin>
+		<plugin name="AdvancedMovieSelection v.5.6.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-advancedmovieselection_5.6.2_all.deb"</url>
+		</plugin>
+		<plugin name="Ajpanel v.9.4.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ajpanel_v9.4.0_all.deb"</url>
+		</plugin>
+		<plugin name="Alternative Softcammanager 4.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.deb"</url>
+		</plugin>
+		<plugin name="Backupandflash 1.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupandflash_1.4_all.deb"</url>
+		</plugin>
+		<plugin name="Barryallen 12.89 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-barryallen_12.89_all.deb"</url>
+		</plugin>
+		<plugin name="BissFeedAutoKey Plugin 2.8.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"</url>
+		</plugin>
 		<plugin name="Boxpirate panel 1.9.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-boxpiratespanel_1.9.3-r0_all.deb"</url>
-        </plugin>
-
-        <plugin name="CacheFlush 2.0 r4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cacheflush_2.0_r4_all.deb"</url>
-        </plugin>
-        <plugin name="Camofs 17.46 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-camofs_17.46_all.deb"</url>
-        </plugin>
-        <plugin name="Cams tunisiasat active-code v2.2F all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cams-tunisia-sat-active-code_v2.2F-dreamos.deb"</url>
-        </plugin>
-        <plugin name="Cammanager Oscamicam all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius//enigma2-plugin-extensions-cammanager_Oscamicam-11.718-emu-r798_all.deb"</url>
-        </plugin>
-        <plugin name="Cccam Info 1.4 armhf">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cccaminfo_1.4_armhf.deb"</url>
-        </plugin>
-        <plugin name="Cccam Info mipsel">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cccaminfo_mipsel.deb"</url>
-        </plugin>
-        <plugin name="cfg Zoom Final FIX7x all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cfg_Zoom_Final_FIX7x_all.deb"</url>
-        </plugin>
-        <plugin name="Channel Selection Plus 0.1.1-r4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-channelselectionplus_0.1.1-r4_all.deb"</url>
-        </plugin>
-        <plugin name="Chocholousek-picons 5.0.231225 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-chocholousek-picons_5.0.231225_all.deb"</url>
-        </plugin>
-        <plugin name="Ciplushelper 5.4-r0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-ciplushelper_5.4-r0_all.deb"</url>
-        </plugin>
-        <plugin name="Cooltvguide Coolman V7.7.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cooltvguide-Coolman-V7.7.0-all.deb"</url>
-        </plugin>
-        <plugin name="Customsubchannel 2.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-customsubchannel_2.0_all.deb"</url>
-        </plugin>
-        <plugin name="Dbackup 2.9 r0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dbackup_2.9-r0_all.deb"</url>
-        </plugin>
-        <plugin name="Disney Dream 1.2.7 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-disneydream_1.2.7_arm64.deb"</url>
-        </plugin>
-        <plugin name="Disney Plus Vod 0.2-r1.0 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-disneyplusvod_0.2-r1.0_arm64.deb"</url>
-        </plugin>
-        <plugin name="Dreamflash 4.5-r5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-dreamflash_4.5-r5_all.deb"</url>
-        </plugin>
-        <plugin name="Dreamplex with depends 2.1.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamplex-OE25-with-depends_2.1.5_all.deb"</url>
-        </plugin>
-        <plugin name="Dreamciplus v.10.32 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/dreamciplus_10.32_all.deb"</url>
-        </plugin>
-        <plugin name="Dream Screen  1.4 r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-dreamsaver_1.0-r6_all.deb"</url>
-        </plugin>
-        <plugin name="Dreamsat Panel  1.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamsatpanel_1.6_all.deb"</url>
-        </plugin>
-        <plugin name="Dream Xtream 0.3-r8.0 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamxtream_0.3-r8.0_arm64.deb"</url>
-        </plugin>
-        <plugin name="Dream Xtream 0.3-r8.0 armhf">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamxtream_0.3-r8.0_armhf.deb"</url>
-        </plugin>
-        <plugin name="Dream Xtream 0.3-r8.0 mipsel">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamxtream_0.3-r8.0_mipsel.deb"</url>
-        </plugin>
-        <plugin name="E2iplayer h1+git3988+7977fec-r4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"</url>
-        </plugin>
-        <plugin name="E2m3u2bouquet 1.7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.7_all.deb"</url>
-        </plugin>
-        <plugin name="EpgGrabber 22.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epggrabber_22.5_all.deb"</url>
-        </plugin>	
-        <plugin name="EPGImport 2.22.20210523 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
-        </plugin>	
-        <plugin name="EPGImport 2.0-r219 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.0-r219_all.deb"</url>
-        </plugin>
-        <plugin name="EPGImport-mod-dorik1972 1.9.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
-        </plugin>
-        <plugin name="Epgimport dreamos 1.0">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport-dreamos-1.0.deb"</url>
-        </plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-boxpiratespanel_1.9.3-r0_all.deb"</url>
+		</plugin>
+		<plugin name="CacheFlush 2.0 r4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cacheflush_2.0_r4_all.deb"</url>
+		</plugin>
+		<plugin name="Camofs 17.46 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-camofs_17.46_all.deb"</url>
+		</plugin>
+		<plugin name="Cams tunisiasat active-code v2.2F all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cams-tunisia-sat-active-code_v2.2F-dreamos.deb"</url>
+		</plugin>
+		<plugin name="Cammanager Oscamicam all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius//enigma2-plugin-extensions-cammanager_Oscamicam-11.718-emu-r798_all.deb"</url>
+		</plugin>
+		<plugin name="Cccam Info 1.4 armhf">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cccaminfo_1.4_armhf.deb"</url>
+		</plugin>
+		<plugin name="Cccam Info mipsel">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cccaminfo_mipsel.deb"</url>
+		</plugin>
+		<plugin name="cfg Zoom Final FIX7x all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cfg_Zoom_Final_FIX7x_all.deb"</url>
+		</plugin>
+		<plugin name="Channel Selection Plus 0.1.1-r4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-channelselectionplus_0.1.1-r4_all.deb"</url>
+		</plugin>
+		<plugin name="Chocholousek-picons 5.0.231225 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-chocholousek-picons_5.0.231225_all.deb"</url>
+		</plugin>
+		<plugin name="Ciplushelper 5.4-r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-ciplushelper_5.4-r0_all.deb"</url>
+		</plugin>
+		<plugin name="Cooltvguide Coolman V7.7.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cooltvguide-Coolman-V7.7.0-all.deb"</url>
+		</plugin>
+		<plugin name="Customsubchannel 2.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-customsubchannel_2.0_all.deb"</url>
+		</plugin>
+		<plugin name="Dbackup 2.9 r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dbackup_2.9-r0_all.deb"</url>
+		</plugin>
+		<plugin name="Disney Dream 1.2.7 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-disneydream_1.2.7_arm64.deb"</url>
+		</plugin>
+		<plugin name="Disney Plus Vod 0.2-r1.0 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-disneyplusvod_0.2-r1.0_arm64.deb"</url>
+		</plugin>
+		<plugin name="Dreamflash 4.5-r5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-dreamflash_4.5-r5_all.deb"</url>
+		</plugin>
+		<plugin name="Dreamplex with depends 2.1.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamplex-OE25-with-depends_2.1.5_all.deb"</url>
+		</plugin>
+		<plugin name="Dreamciplus v.10.32 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/dreamciplus_10.32_all.deb"</url>
+		</plugin>
+		<plugin name="Dream Screen  1.4 r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-dreamsaver_1.0-r6_all.deb"</url>
+		</plugin>
+		<plugin name="Dreamsat Panel  1.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamsatpanel_1.6_all.deb"</url>
+		</plugin>
+		<plugin name="Dream Xtream 0.3-r8.0 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamxtream_0.3-r8.0_arm64.deb"</url>
+		</plugin>
+		<plugin name="Dream Xtream 0.3-r8.0 armhf">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamxtream_0.3-r8.0_armhf.deb"</url>
+		</plugin>
+		<plugin name="Dream Xtream 0.3-r8.0 mipsel">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamxtream_0.3-r8.0_mipsel.deb"</url>
+		</plugin>
+		<plugin name="E2iplayer h1+git3988+7977fec-r4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"</url>
+		</plugin>
+		<plugin name="E2m3u2bouquet 1.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.7_all.deb"</url>
+		</plugin>
+		<plugin name="EpgGrabber 22.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epggrabber_22.5_all.deb"</url>
+		</plugin>
+		<plugin name="EPGImport 2.22.20210523 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
+		</plugin>
+		<plugin name="EPGImport 2.0-r219 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.0-r219_all.deb"</url>
+		</plugin>
+		<plugin name="EPGImport-mod-dorik1972 1.9.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
+		</plugin>
+		<plugin name="Epgimport dreamos 1.0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport-dreamos-1.0.deb"</url>
+		</plugin>
 		<plugin name="Eurojackpot_240202">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eurojackpot_240202_all.deb"</url>
 		</plugin>
-        <plugin name="Event data manager v.1.0-r20 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all_v1.0-r20_.deb"</url>
-        </plugin>
-        <plugin name="Feeds Finder 20201016 V1.6 momi133 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/feeds-finder_20201016_V1.6_momi133-OE2.5.deb"</url>
-        </plugin>
-        <plugin name="Footonsat 1.9-r0">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-footonsat_1.9-r0_all.deb"</url>
-        </plugin>
-        <plugin name="Foreca 4.0.8">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-foreca_4.0.8_all.deb"</url>
-        </plugin>
-        <plugin name="Freeserver 8.3.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-freeserver_8.3.8_all.deb"</url>
-        </plugin>
-
-        <plugin name="Gpt Plugin v.0.1-r28 arm64 One/Two">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-gpt-plugin_0.1-r28_arm64.deb"</url>
-        </plugin>
-        <plugin name="Gutemine 2.9-r23 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-gutemine_2.9-r23_all.deb"</url>
-        </plugin>
-        <plugin name="Historyzap 1.0.41 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-historyzap_1.0.41_all.deb"</url>
-        </plugin>
-        <plugin name="Ipaudio 6.5 all.deb ">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudio_6.5_all.deb"</url>
-        </plugin> 	
-        <plugin name="Ipaudiopro v.1.1+git87+f596293-r0_aarch64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git87+f596293-r0_aarch64.deb"</url>
-        </plugin>
-        <plugin name="Ipaudiopro v.1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4.deb"</url>
-        </plugin>
-        <plugin name="Iptosat_1.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptosat_1.8.deb"</url>
-        </plugin>		
-        <plugin name="Iptv Archive 2.0.82 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.82_all.deb"</url>
-        </plugin>
-        <plugin name="Iptv Remote 1.0.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvremote_1.0.5.deb"</url>
-        </plugin>
-        <plugin name="iSetting START V.1.1">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-start-1.1.deb"</url>
-        </plugin>
-        <plugin name="iSetting AUTOEXEC PRE INSTALL V.3.0">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.0.deb"</url>
-        </plugin>
-        <plugin name="Justwatch 1.2.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-justwatch_1.2.1_all.deb"</url>
-        </plugin>
-        <plugin name="Kodilite 9.1r1">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1-r1_all.deb"</url>
-        </plugin>
-        <plugin name="Lcd4linux 5.1-r1 arm64 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r1_arm64.deb"</url>
-        </plugin>
-        <plugin name="Lcd4linux 5.1-r1 armhf all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r4_armhf.deb"</url>
-        </plugin>
-        <plugin name="Lcd4linux 5.1-r1 mipsel all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r4_mipsel.deb"</url>
-        </plugin>
-       <plugin name="Levi45 MultiCam Manager v.10.1-r26 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.1-r26_all.deb"</url>
-        </plugin>
-      <plugin name="Levi45 Addon Panel v.10.1-r19 all">
-          <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon-manager_10.1-r19_all.deb"</url>
-      </plugin>
-      <plugin name="Linuxsat-Panel v.2.0 all">
+		<plugin name="Event data manager v.1.0-r20 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all_v1.0-r20_.deb"</url>
+		</plugin>
+		<plugin name="Feeds Finder 20201016 V1.6 momi133 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/feeds-finder_20201016_V1.6_momi133-OE2.5.deb"</url>
+		</plugin>
+		<plugin name="Footonsat 1.9-r0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-footonsat_1.9-r0_all.deb"</url>
+		</plugin>
+		<plugin name="Foreca 4.0.8">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-foreca_4.0.8_all.deb"</url>
+		</plugin>
+		<plugin name="Freeserver 8.3.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-freeserver_8.3.8_all.deb"</url>
+		</plugin>
+		<plugin name="Gpt Plugin v.0.1-r28 arm64 One/Two">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-gpt-plugin_0.1-r28_arm64.deb"</url>
+		</plugin>
+		<plugin name="Gutemine 2.9-r23 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-gutemine_2.9-r23_all.deb"</url>
+		</plugin>
+		<plugin name="Historyzap 1.0.41 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-historyzap_1.0.41_all.deb"</url>
+		</plugin>
+		<plugin name="Ipaudio 6.5 all.deb ">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudio_6.5_all.deb"</url>
+		</plugin>
+		<plugin name="Ipaudiopro v.1.1+git87+f596293-r0_aarch64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git87+f596293-r0_aarch64.deb"</url>
+		</plugin>
+		<plugin name="Ipaudiopro v.1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudiopro_1.1+git86+af6fca3-r0_cortexa15hf-neon-vfpv4.deb"</url>
+		</plugin>
+		<plugin name="Iptosat_1.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptosat_1.8.deb"</url>
+		</plugin>
+		<plugin name="Iptv Archive 2.0.82 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.82_all.deb"</url>
+		</plugin>
+		<plugin name="Iptv Remote 1.0.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvremote_1.0.5.deb"</url>
+		</plugin>
+		<plugin name="iSetting START V.1.1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-start-1.1.deb"</url>
+		</plugin>
+		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.0.deb"</url>
+		</plugin>
+		<plugin name="Justwatch 1.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-justwatch_1.2.1_all.deb"</url>
+		</plugin>
+		<plugin name="Kodilite 9.1r1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1-r1_all.deb"</url>
+		</plugin>
+		<plugin name="Lcd4linux 5.1-r1 arm64 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r1_arm64.deb"</url>
+		</plugin>
+		<plugin name="Lcd4linux 5.1-r1 armhf all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r4_armhf.deb"</url>
+		</plugin>
+		<plugin name="Lcd4linux 5.1-r1 mipsel all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r4_mipsel.deb"</url>
+		</plugin>
+		<plugin name="Levi45 MultiCam Manager v.10.1-r26 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.1-r26_all.deb"</url>
+		</plugin>
+		<plugin name="Levi45 Addon Panel v.10.1-r19 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon-manager_10.1-r19_all.deb"</url>
+		</plugin>
+		<plugin name="Linuxsat-Panel v.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_2.0_all.deb"</url>
 		</plugin>
-        <plugin name="LiveFootBall 8.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-livefootball_8.6_all.deb"</url>
-        </plugin>
-        <plugin name="Mediaportal 19.04.2021 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mediaportal_all.deb"</url>
-        </plugin>
-        <plugin name="Mediaportal Grey Zone all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mpgz_all.deb"</url>
-        </plugin>
-        <plugin name="Mediathekviewdream 1.0-r0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mediathekviewdream_1.0-r0_all.deb"</url>
-        </plugin>		
-        <plugin name="Merlinsports 4.28r1+git0+140d40390c-r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-merlinsports_4.28r1+git0+140d40390c-r1_all.deb"</url>
-        </plugin>
-        <plugin name="Movietime 1.0-r1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-movietime_1.0-r1.0_all.deb"</url>
-        </plugin>
-        <plugin name="Multi EPG Vali Mod for DreamOS 18.04.2021 - Version 1.2-r7">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multiepgmv_20210418-1.2-r7_all.deb"</url>
-        </plugin>
-        <plugin name="Multistalker_1.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multistalker_1.4_all.deb"</url>
-        </plugin>
-        <plugin name="My Quickbutton v.0.1-r8">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-myquickbutton_v0.1-r8_all.deb"</url>
-        </plugin>
-        <plugin name="Neoboot 9.69 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-neoboot_9.69_all.deb"</url>
-        </plugin>
-        <plugin name="Netatmo 1.7.1 20190308-r337 oe25 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-netatmo_1.7.1-20190308-r337_oe25_all.deb"</url>
-        </plugin>
-        <plugin name="Netnetflix Dream v.1.4.2 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-netflixdream_1.4.2_arm64.deb"</url>
-        </plugin>
-        <plugin name="New Virtual Keyboard 12.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-newvirtualkeyboard_v12.3_all.deb"</url>
-        </plugin>
+		<plugin name="LiveFootBall 8.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-livefootball_8.6_all.deb"</url>
+		</plugin>
+		<plugin name="Mediaportal 19.04.2021 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mediaportal_all.deb"</url>
+		</plugin>
+		<plugin name="Mediaportal Grey Zone all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mpgz_all.deb"</url>
+		</plugin>
+		<plugin name="Mediathekviewdream 1.0-r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mediathekviewdream_1.0-r0_all.deb"</url>
+		</plugin>
+		<plugin name="Merlinsports 4.28r1+git0+140d40390c-r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-merlinsports_4.28r1+git0+140d40390c-r1_all.deb"</url>
+		</plugin>
+		<plugin name="Movietime 1.0-r1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-movietime_1.0-r1.0_all.deb"</url>
+		</plugin>
+		<plugin name="Multi EPG Vali Mod for DreamOS 18.04.2021 - Version 1.2-r7">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multiepgmv_20210418-1.2-r7_all.deb"</url>
+		</plugin>
+		<plugin name="Multistalker_1.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multistalker_1.4_all.deb"</url>
+		</plugin>
+		<plugin name="My Quickbutton v.0.1-r8">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-myquickbutton_v0.1-r8_all.deb"</url>
+		</plugin>
+		<plugin name="Neoboot 9.69 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-neoboot_9.69_all.deb"</url>
+		</plugin>
+		<plugin name="Netatmo 1.7.1 20190308-r337 oe25 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-netatmo_1.7.1-20190308-r337_oe25_all.deb"</url>
+		</plugin>
+		<plugin name="Netnetflix Dream v.1.4.2 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-netflixdream_1.4.2_arm64.deb"</url>
+		</plugin>
+		<plugin name="New Virtual Keyboard 12.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-newvirtualkeyboard_v12.3_all.deb"</url>
+		</plugin>
 		<plugin name="Oeupdatere2 2.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oneupdatere2_2.8_all.deb"</url>
-        </plugin>
-        <plugin name="Openvpn 2.5.9-r0.0 mipsel">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/openvpn_2.5.9-r0.0__mipsel.deb"</url>
-        </plugin>		
-        <plugin name="Openvpn 2.5.9-r0.0 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/openvpn_2.5.9-r0.0_-arm64.deb"</url>
-        </plugin>		
-		
-        <plugin name="Openwebif latest 20231224 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-openwebif_latest_all.deb"</url>
-        </plugin>
-        <plugin name="Perfectprivacy 1.4.4">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-perfectprivacy_1.4.4.deb"</url>
-        </plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oneupdatere2_2.8_all.deb"</url>
+		</plugin>
+		<plugin name="Openvpn 2.5.9-r0.0 mipsel">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/openvpn_2.5.9-r0.0__mipsel.deb"</url>
+		</plugin>
+		<plugin name="Openvpn 2.5.9-r0.0 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/openvpn_2.5.9-r0.0_-arm64.deb"</url>
+		</plugin>
+		<plugin name="Openwebif latest 20231224 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-openwebif_latest_all.deb"</url>
+		</plugin>
+		<plugin name="Perfectprivacy 1.4.4">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-perfectprivacy_1.4.4.deb"</url>
+		</plugin>
 		<plugin name="Plexdream 1.1.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-plexdream_1.1.1_all.deb"</url>
-        </plugin>
-        <plugin name="Pineas v.0.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pineas_0.3_all.deb"</url>
-        </plugin>
-        <plugin name="Pluginbrowsericons 0.13">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginbrowsericons_0.13_all.deb"</url>
-        </plugin>
-        <plugin name="Plutotv 1.0-r7">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-plutotv_1.0-r7_all.deb"</url>
-        </plugin>
-        <plugin name="Purevpn 1.1.1">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-purevpn_1.1.1_all.deb"</url>
-        </plugin>
-        <plugin name="Quarterpounder 6.2.0.20201122 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quarterpounder_6.2.0.20201122_all.deb"</url>
-        </plugin>
-        <plugin name="S4aupdater 23.04.05.1156 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-s4aupdater_23.04.05.1156_all.deb"</url>
-        </plugin>
-        <plugin name="Samsung Tv Plus 20231005-r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-samsungtvplus_20231005-r1_all.deb"</url>
-        </plugin>
-        <plugin name="Satvenus Panel 7.0.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-satvenus-panel_7.0.0_all.deb"</url>
-        </plugin>
-        <plugin name="Schiffe v.7.1r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-schiffe_7.1r1_all.deb"</url>
-        </plugin>
-        <plugin name="Secondinfobar2 3.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar2_3.6_all.deb"</url>
-        </plugin>
-        <plugin name="Serienrecorder 4.7.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-serienrecorder_4.7.0_all.deb"</url>
-        </plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-plexdream_1.1.1_all.deb"</url>
+		</plugin>
+		<plugin name="Pineas v.0.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pineas_0.3_all.deb"</url>
+		</plugin>
+		<plugin name="Pluginbrowsericons 0.13">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginbrowsericons_0.13_all.deb"</url>
+		</plugin>
+		<plugin name="Plutotv 1.0-r7">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-plutotv_1.0-r7_all.deb"</url>
+		</plugin>
+		<plugin name="Purevpn 1.1.1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-purevpn_1.1.1_all.deb"</url>
+		</plugin>
+		<plugin name="Quarterpounder 6.2.0.20201122 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quarterpounder_6.2.0.20201122_all.deb"</url>
+		</plugin>
+		<plugin name="S4aupdater 23.04.05.1156 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-s4aupdater_23.04.05.1156_all.deb"</url>
+		</plugin>
+		<plugin name="Samsung Tv Plus 20231005-r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-samsungtvplus_20231005-r1_all.deb"</url>
+		</plugin>
+		<plugin name="Satvenus Panel 7.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-satvenus-panel_7.0.0_all.deb"</url>
+		</plugin>
+		<plugin name="Schiffe v.7.1r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-schiffe_7.1r1_all.deb"</url>
+		</plugin>
+		<plugin name="Secondinfobar2 3.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar2_3.6_all.deb"</url>
+		</plugin>
+		<plugin name="Serienrecorder 4.7.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-serienrecorder_4.7.0_all.deb"</url>
+		</plugin>
 		<plugin name="Servicescan update 1.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.deb"</url>
-        </plugin>
-        <plugin name="Settings cleaner 0.1.9 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-settingscleaner_0.1.9_all.deb"</url>
-        </plugin>
-        <plugin name="Skyrecorder 2.0.3b all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-skyrecorder_2.0.3b_all.deb"</url>
-        </plugin>
-        <plugin name="Stalkerqtclient_0.7.4-r0.0 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/stalkerqtclient_0.7.4-r0.0_arm64.deb"</url>
-        </plugin>
-        <plugin name="Streamrelay 1.1-r2.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-streamrelay__all.deb"</url>
-        </plugin>
-        <plugin name="SurfShark vpn v.1.0.5">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-surfsharkvpn_1.0.5.deb"</url>
-        </plugin>
-        <plugin name="Subs Support 1.5.8">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupport_1.5.8_all.deb"</url>
-        </plugin>
-        <plugin name="Subs Support custom">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/subssupport_custom.deb"</url>
-        </plugin>
-        <plugin name="Sudoku 7.1-r1">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-sudoku_7.1r1_all.deb"</url>
-        </plugin>
-        <plugin name="Svenh feed plugin 0.1-r14">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-svenhfeedplugin_0.1-r14_all.deb"</url>
-        </plugin>
-        <plugin name="Telekomsport 2.0+git93+b0dca2f-r0">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.deb"</url>
-        </plugin>
-        <plugin name="The Weather py2-py3 v.2.4_r1">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather-v2.4r1-py2-py3.deb"</url>
-        </plugin>
-        <plugin name="TMBD_8.6-r5-by-Dima73-Mod-RAED">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/TMBD_8.6-r5-by-Dima73-Mod-RAED_DreamOS.deb"</url>
-        </plugin>
-        <plugin name="Tmbd DreamOS 8.6-r1 Dima73 Mod-RAED">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tmbd_8.6-r1-by-Dima73-Mod-RAED_all.deb"</url>
-        </plugin>
-        <plugin name="Tuner Description v.0.1-r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tunerdescription_0.1-r1_all.deb"</url>
-        </plugin>
-        <plugin name="Turkvod_13 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-turkvod_13_OE25.deb"</url>
-        </plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.deb"</url>
+		</plugin>
+		<plugin name="Settings cleaner 0.1.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-settingscleaner_0.1.9_all.deb"</url>
+		</plugin>
+		<plugin name="Skyrecorder 2.0.3b all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-skyrecorder_2.0.3b_all.deb"</url>
+		</plugin>
+		<plugin name="Stalkerqtclient_0.7.4-r0.0 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/stalkerqtclient_0.7.4-r0.0_arm64.deb"</url>
+		</plugin>
+		<plugin name="Streamrelay 1.1-r2.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-streamrelay__all.deb"</url>
+		</plugin>
+		<plugin name="SurfShark vpn v.1.0.5">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-surfsharkvpn_1.0.5.deb"</url>
+		</plugin>
+		<plugin name="Subs Support 1.5.8">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupport_1.5.8_all.deb"</url>
+		</plugin>
+		<plugin name="Subs Support custom">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/subssupport_custom.deb"</url>
+		</plugin>
+		<plugin name="Sudoku 7.1-r1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-sudoku_7.1r1_all.deb"</url>
+		</plugin>
+		<plugin name="Svenh feed plugin 0.1-r14">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-svenhfeedplugin_0.1-r14_all.deb"</url>
+		</plugin>
+		<plugin name="Telekomsport 2.0+git93+b0dca2f-r0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.deb"</url>
+		</plugin>
+		<plugin name="The Weather py2-py3 v.2.4_r1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather-v2.4r1-py2-py3.deb"</url>
+		</plugin>
+		<plugin name="TMBD_8.6-r5-by-Dima73-Mod-RAED">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/TMBD_8.6-r5-by-Dima73-Mod-RAED_DreamOS.deb"</url>
+		</plugin>
+		<plugin name="Tmbd DreamOS 8.6-r1 Dima73 Mod-RAED">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tmbd_8.6-r1-by-Dima73-Mod-RAED_all.deb"</url>
+		</plugin>
+		<plugin name="Tuner Description v.0.1-r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tunerdescription_0.1-r1_all.deb"</url>
+		</plugin>
+		<plugin name="Turkvod_13 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-turkvod_13_OE25.deb"</url>
+		</plugin>
 		<plugin name="Tvshows_1.0-r1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvshows_1.0-r1.0_all.deb"</url>
-        </plugin>
-        <plugin name="Tv Spielfilm 1.8.2-r2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvspielfilm_1.8.2-r2_all.deb"</url>
-        </plugin>
-        <plugin name="Userscripts 7.2-r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-userscripts_7.2-r1_all.deb"</url>
-        </plugin>
-        <plugin name="Vavoo Stream Live v.1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-vavoo_1.0_all.deb"</url>
-        </plugin>
-        <plugin name="Vpn Manager 1.2.0">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-vpnmanager_1.2.0.deb"</url>
-        </plugin>
-        <plugin name="Warnmeldungen 1.0.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-warnmeldungen_1.0.4_all.deb"</url>
-        </plugin>
-        <plugin name="Weather py3.9.9-b_1.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-weather-py3.9.9-b_1.2_all.deb"</url>
-        </plugin>
-        <plugin name="Weatherplugin v.2.0 mod lululla all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-weatherplugin_2.0_all.deb"</url>
-        </plugin>
-        <plugin name="Webmedia by PCD 18.3-r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia_18.3-r1.0_all.deb"</url>
-        </plugin>
-        <plugin name="Webradiofs 16.24 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webradiofs_16.24_all.deb"</url>
-        </plugin>
-        <plugin name="Wettercom 2.0.3-r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wettercom_2.0.2-r3_all.deb"</url>
-        </plugin>
-        <plugin name="Wireguardmanager 1.0.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wireguardmanager_1.0.6_all.deb"</url>
-        </plugin>
-        <plugin name="Youtube h1+git1078+adb94bf-r0 Mod-RAED">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-youtube_1+git1078+adb94bf-r0-Mod-RAED.deb"</url>
-        </plugin>
-        <plugin name="Youtube DreamOS-plus-minitv-git1172-r0.0-Mod-Petry all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-youtube_DreamOS-plus-minitv-git1172-r0.0-Mod-Petry_all.deb"</url>
-        </plugin>
-        <plugin name="Youtube dreamOS-v1-beta-2023.06.19 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-youtube_dreamOS-v1-beta-2023.06.19_all.deb"</url>
-        </plugin>
-    </plugins>
-
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvshows_1.0-r1.0_all.deb"</url>
+		</plugin>
+		<plugin name="Tv Spielfilm 1.8.2-r2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvspielfilm_1.8.2-r2_all.deb"</url>
+		</plugin>
+		<plugin name="Userscripts 7.2-r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-userscripts_7.2-r1_all.deb"</url>
+		</plugin>
+		<plugin name="Vavoo Stream Live v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-vavoo_1.0_all.deb"</url>
+		</plugin>
+		<plugin name="Vpn Manager 1.2.0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-vpnmanager_1.2.0.deb"</url>
+		</plugin>
+		<plugin name="Warnmeldungen 1.0.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-warnmeldungen_1.0.4_all.deb"</url>
+		</plugin>
+		<plugin name="Weather py3.9.9-b_1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-weather-py3.9.9-b_1.2_all.deb"</url>
+		</plugin>
+		<plugin name="Weatherplugin v.2.0 mod lululla all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-weatherplugin_2.0_all.deb"</url>
+		</plugin>
+		<plugin name="Webmedia by PCD 18.3-r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia_18.3-r1.0_all.deb"</url>
+		</plugin>
+		<plugin name="Webradiofs 16.24 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webradiofs_16.24_all.deb"</url>
+		</plugin>
+		<plugin name="Wettercom 2.0.3-r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wettercom_2.0.2-r3_all.deb"</url>
+		</plugin>
+		<plugin name="Wireguardmanager 1.0.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wireguardmanager_1.0.6_all.deb"</url>
+		</plugin>
+		<plugin name="Youtube h1+git1078+adb94bf-r0 Mod-RAED">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-youtube_1+git1078+adb94bf-r0-Mod-RAED.deb"</url>
+		</plugin>
+		<plugin name="Youtube DreamOS-plus-minitv-git1172-r0.0-Mod-Petry all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-youtube_DreamOS-plus-minitv-git1172-r0.0-Mod-Petry_all.deb"</url>
+		</plugin>
+		<plugin name="Youtube dreamOS-v1-beta-2023.06.19 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-youtube_dreamOS-v1-beta-2023.06.19_all.deb"</url>
+		</plugin>
+	</plugins>
 	<!-- MEDIAPORTAL - YOUTUBE -->
 	<plugins cont="MP-YT ">
 		<plugin name="Mediaportal Update 31.05.2020 all">
@@ -1467,7 +1442,7 @@
 		</plugin>
 		<plugin name="Neoboot 9.65 vip all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot-v9.65-VIP_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Neoboot 8.05 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot_8.05_all.ipk"</url>
 		</plugin>
@@ -1484,7 +1459,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-scriptexecuter-boot-h9_1.0r4_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- MULTIMEDIA -->
 	<plugins cont="Multimedia ">
 		<plugin name="TSmedia 15.4 all">
@@ -1497,7 +1471,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1_r0_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- PANELS ADDONS -->
 	<plugins cont="Panels Addons ">
 		<plugin name="Ajpanel v.9.4.0">
@@ -1506,20 +1479,38 @@
 		<plugin name="Alternative Softcam Manager 2-git46-a25a9b3-r0.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_2-git46-a25a9b3-r0.0_all.ipk"</url>
 		</plugin>
+		<plugin name="Alternative Softcam Manager 4.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.ipk"</url>
+		</plugin>
 		<plugin name="Autocamsetup v.0.6">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-systemplugins-autocamsetup_0.6_all.ipk"</url>
 		</plugin>
 		<plugin name="Boxpirates Cammanager 1.9.6-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-boxpirates-cammanager_1.9.6-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="Dream Sat Panel v.1.3">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-dreamsatpanel_1.3_all.ipk"</url>
+		<plugin name="Camcenter v.3.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-camcenter_3.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Cammanager v.1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-cammanger_1.2_all.ipk"</url>
+		</plugin>
+		<plugin name="Dream Sat Panel v.1.6">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-dreamsatpanel_1.6_all.ipk"</url>
+		</plugin>
+		<plugin name="Dream Sat Panel py-3.10.4_1.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-dreamsatpanel-py-3.10.4_1.4_all.ipk"</url>
 		</plugin>
 		<plugin name="Epanel v.5.8-r2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-epanel-5.8-r2.ipk"</url>
 		</plugin>
 		<plugin name="Goldenfeed v.6.8">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-goldenfeed_6.8_all.ipk"</url>
+		</plugin>
+		<plugin name="JapharAddons-Manager v.5.4 oe20 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/japhar-addons-manager_5.4_DM_oe20_all.ipk"</url>
+		</plugin>
+		<plugin name="Image Downloader V.2.0 All ">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Levi45 MultiCam Manager v.10.1-r26 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.1-r26_all.ipk"</url>
@@ -1529,6 +1520,9 @@
 		</plugin>
 		<plugin name="Linuxsat-Panel v.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_2.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Luxsat-menu 12.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-luxsat-menu_12.9_all.ipk"</url>
 		</plugin>
 		<plugin name="NewMenu OE-2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-newmenu-OE-2.v0.all.ipk"</url>
@@ -1551,15 +1545,10 @@
 		<plugin name="Tunisiasat-Addons-Manager v.3.0 mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-tunisiasat-addons-manager_3.0_mipsel.ipk"</url>
 		</plugin>
-		<plugin name="JapharAddons-Manager v.5.4 oe20 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/japhar-addons-manager_5.4_DM_oe20_all.ipk"</url>
-		</plugin>
-		<plugin name="Image Downloader V.2.0 All ">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk"</url>
+		<plugin name="Vuplus-images-panel v.3.1 All ">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-vuplus-images-panel_3.1_all.ipk"</url>
 		</plugin>
 	</plugins>
-
-
 	<!-- PICONS TOOLS -->
 	<plugins cont="Picons-Tools ">
 		<plugin name="Chocholousek Picons 5.0.221217 all">
@@ -1587,7 +1576,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-renamepicons_2024_08_04_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- RADIO TOOLS -->
 	<plugins cont="Radio-Tools ">
 		<plugin name="Hdf Radio 2.9.3_py3_3.12_cortexa7hf-vfp all">
@@ -1626,7 +1614,6 @@
 		<plugin name="Hdf Radio 2.9.3_py2_cortexa15hf-neon-vfpv4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.9.3_py2_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-
 		<plugin name="TuneIn Radio 3.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-tuneinradio_3.9_all.ipk"</url>
 		</plugin>
@@ -1637,17 +1624,14 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-yampmusicplayer_3.3.0-T5_2021-05-02_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- SOFTCAMS OE2.0 -->
 	<plugins cont="SoftcamsOE2.0 ">
 		<plugin name="CCcam 2.3.9 r6 OE 2.0 IPK all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_239-r6-RAED_OE2.0_all.ipk"</url>
 		</plugin>
-
 		<plugin name="CCcam 2.3.2-emu-r3-arm+mips IPK all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_2.3.2-emu-r3-arm+mips_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Ncam 15 r0 ARM-RCH-MIPS 64">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam_V15.0-r0_all.ipk"</url>
 		</plugin>
@@ -1657,7 +1641,6 @@
 		<plugin name="Ncam Revcam2 12.9-r0 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam-revcamv2_V12.9-r0_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Oscam Icam Path 11814-802 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11814-802_all.ipk"</url>
 		</plugin>
@@ -1667,7 +1650,6 @@
 		<plugin name="Oscam Icam Path 11812-802 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11812-802_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Oscam Icam py3.21_11788-emu-r801 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.ipk"</url>
 		</plugin>
@@ -1729,80 +1711,71 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11774-emu-r801_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- SOFTCAMS OE2.2 -->
-    <plugins cont="SoftcamsOe2.5/2.6 ">
+	<plugins cont="SoftcamsOe2.5/2.6 ">
 		<plugin name="Oscam for All 1.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-oscamforall_1.2_all.deb"</url>
-        </plugin>
-        <plugin name="CCcam 2.3.9 r0 oe2.0 arm-mips DEB">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_2.3.9-r0-RAED_OE2.0_all.deb"</url>
-        </plugin>
-        <plugin name="CCcam 2.3.9 r0 oe2.5 arm-mips DEB">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_2.3.9-r0-RAED_OE2.0_all.deb"</url>
-        </plugin>
-        <plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
-        </plugin>
-
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-oscamforall_1.2_all.deb"</url>
+		</plugin>
+		<plugin name="CCcam 2.3.9 r0 oe2.0 arm-mips DEB">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_2.3.9-r0-RAED_OE2.0_all.deb"</url>
+		</plugin>
+		<plugin name="CCcam 2.3.9 r0 oe2.5 arm-mips DEB">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_2.3.9-r0-RAED_OE2.0_all.deb"</url>
+		</plugin>
+		<plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
+		</plugin>
 		<plugin name="Oscam Icam Path 11814-802 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11814-802_all.deb"</url>
-        </plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11814-802_all.deb"</url>
+		</plugin>
 		<plugin name="Oscam Icam Path 11813-802 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11813-802_all.deb"</url>
-        </plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11813-802_all.deb"</url>
+		</plugin>
 		<plugin name="Oscam Icam Path 11812-802 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11812-802_all.deb"</url>
-        </plugin>
-
-
-        <plugin name="Oscam Icam 11787-py3.21_emu-r801 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.deb"</url>
-        </plugin>
-        <plugin name="Oscam Icam 11787-py3.10_emu-r801 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.10_11787-801_all.deb"</url>
-        </plugin>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11812-802_all.deb"</url>
+		</plugin>
+		<plugin name="Oscam Icam 11787-py3.21_emu-r801 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.deb"</url>
+		</plugin>
+		<plugin name="Oscam Icam 11787-py3.10_emu-r801 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.10_11787-801_all.deb"</url>
+		</plugin>
 		<plugin name="Oscam Icam 11787-py3.9_emu-r801 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.9_11787-801_all.deb"</url>
-        </plugin>
-        <plugin name="Oscam Icam 11787-py2_emu-r801 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py2_11787-801_all.deb"</url>
-        </plugin>
-
-
-        <plugin name="Oscam 11719 Osdreambox all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-osdreambox_11.719.deb"</url>
-        </plugin>
-
-        <plugin name="Ncam 15.0 r0 ARM-RCH-MIPS 64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-ncam-osdreambox_V15.0-r0.deb"</url>
-        </plugin>
-        <plugin name="Ncam Osdreambox 14.1-r2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-ncam-osdreambox_V14.1-r2_all.deb"</url>
-        </plugin>
-        <plugin name="Ncam 1.7 r4 arm - mips all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-ncam-all-images_1.7-r4_arm-mips_all.deb"</url>
-        </plugin>
-
-        <plugin name="Gcam 2.1 emu r0 arm - mips all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-oscam-all-images_11.703-emu-r798-arm+mips_all.deb"</url>
-        </plugin>
-        <plugin name="GosatPlus 2.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-gosatplus_2.0_all.deb"</url>
-        </plugin>
-        <plugin name="Powercam 3.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-powercam_3.0_all.deb"</url>
-        </plugin>
-    </plugins>
-
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.9_11787-801_all.deb"</url>
+		</plugin>
+		<plugin name="Oscam Icam 11787-py2_emu-r801 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py2_11787-801_all.deb"</url>
+		</plugin>
+		<plugin name="Oscam 11719 Osdreambox all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-osdreambox_11.719.deb"</url>
+		</plugin>
+		<plugin name="Ncam 15.0 r0 ARM-RCH-MIPS 64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-ncam-osdreambox_V15.0-r0.deb"</url>
+		</plugin>
+		<plugin name="Ncam Osdreambox 14.1-r2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-ncam-osdreambox_V14.1-r2_all.deb"</url>
+		</plugin>
+		<plugin name="Ncam 1.7 r4 arm - mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-ncam-all-images_1.7-r4_arm-mips_all.deb"</url>
+		</plugin>
+		<plugin name="Gcam 2.1 emu r0 arm - mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-oscam-all-images_11.703-emu-r798-arm+mips_all.deb"</url>
+		</plugin>
+		<plugin name="GosatPlus 2.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-gosatplus_2.0_all.deb"</url>
+		</plugin>
+		<plugin name="Powercam 3.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-powercam_3.0_all.deb"</url>
+		</plugin>
+	</plugins>
 	<!-- SOFTCAMS TOOLS 2.0 -->
 	<plugins cont="SoftCam-Tools2.0 ">
 		<plugin name="Addkey 8.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-addkey_8.2_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Bissfeed autokey py3 2.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-bissfeed-autokey-py3_2.8_all.ipk"</url>
-		</plugin>	
+		</plugin>
 		<plugin name="Bissfeed autokey py2 V2.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk"</url>
 		</plugin>
@@ -1817,7 +1790,7 @@
 		</plugin>
 		<plugin name="Zoom Panel v.2.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.1.0_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Zoom v.1.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/zoom_1.1.2_all.ipk"</url>
 		</plugin>
@@ -1882,22 +1855,18 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamupdater_0.1e_mips32el.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- SOFTCAMS TOOLS 2.2 -->
 	<plugins cont="SoftCam-Tools2.2 ">
-        <plugin name="BissFeedAutoKey Plugin 2.8.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"</url>
-        </plugin>
-         <plugin name="Freeserver 8.3.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-freeserver_8.3.8_all.deb"</url>
-        </plugin>
-
-        <plugin name="Oscam Status 1.3.2 r2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oscamstatus_1.3.2-r2.deb"</url>
-        </plugin>
-
+		<plugin name="BissFeedAutoKey Plugin 2.8.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"</url>
+		</plugin>
+		<plugin name="Freeserver 8.3.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-freeserver_8.3.8_all.deb"</url>
+		</plugin>
+		<plugin name="Oscam Status 1.3.2 r2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oscamstatus_1.3.2-r2.deb"</url>
+		</plugin>
 	</plugins>
-
 	<!-- STREAMLINK -->
 	<plugins cont="Streamlink ">
 		<plugin name="Streamlink proxy 6.7.3 all">
@@ -1970,7 +1939,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/singledispatch-3.4.0.3-r0.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- SKIN HD 2.0 -->
 	<plugins cont="Skins | HD ">
 		<plugin name="FHD Pd1loi hd-full-hd night 7.0 all OpenPLi 7.0 ">
@@ -2358,52 +2326,47 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Skin-XTAforME-HD-V1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
 	</plugins>
-
-
-
-
 	<!-- SKIN FHD 2.0 -->
 	<plugins cont="Skins | FHD ">
-        <plugin name="FHD Aglare OpenPLi v.3.7 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-aglare-fhd-pli_3.7_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Aglare OATV v.3.8 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-aglare-fhd_3.8_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Cobalt OpenPli 05.06.2024 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Enigma2-plugin-skins-cobaltfhd_OpenPli.05.06.2024_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Darkos 0.9.9.9 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-e2-darkos_0.9.9.9_all.ipk"</url>
-        </plugin>
-
-        <plugin name="FHD oDreamy Mod v2.1 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-oDreamy-FHD_2.1_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Premium Black 3.1 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-premium-fhd-black_3.1_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Premium Magneta 3.1 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-premium-fhd-magenta_3.1_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Premium Blue 3.1 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-premium-fhd-blue_3.1_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Malek 2.3 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-malek-fhd_2.3_py3.11.2.ipk"</url>
-        </plugin>
-        <plugin name="FHD Maxy v.1.2 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Maxy v.1.0 PLi all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-maxy-fhd-pli_1.0_all.ipk"</url>
-        </plugin>		
-        <plugin name="FHD Metrix Neo 7S v2 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Montana Obsplus 1.0 all ipk">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skinbymontana2023-obsplus-fhd-all_1.0_all.ipk"</url>
-        </plugin>
+		<plugin name="FHD Aglare OpenPLi v.3.7 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-aglare-fhd-pli_3.7_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Aglare OATV v.3.8 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-aglare-fhd_3.8_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Cobalt OpenPli 05.06.2024 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Enigma2-plugin-skins-cobaltfhd_OpenPli.05.06.2024_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Darkos 0.9.9.9 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-e2-darkos_0.9.9.9_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD oDreamy Mod v2.1 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-oDreamy-FHD_2.1_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Premium Black 3.1 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-premium-fhd-black_3.1_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Premium Magneta 3.1 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-premium-fhd-magenta_3.1_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Premium Blue 3.1 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-premium-fhd-blue_3.1_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Malek 2.3 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-malek-fhd_2.3_py3.11.2.ipk"</url>
+		</plugin>
+		<plugin name="FHD Maxy v.1.2 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Maxy v.1.0 PLi all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-maxy-fhd-pli_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Metrix Neo 7S v2 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Montana Obsplus 1.0 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skinbymontana2023-obsplus-fhd-all_1.0_all.ipk"</url>
+		</plugin>
 		<plugin name="FHD ReadDream all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Skin-redream-mod2fhd_2.0_all.ipk"</url>
 		</plugin>
@@ -2531,66 +2494,63 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-skin-zflatgyrfhd_sharp987_openpli8.1-r1.06_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- SKIN FHD-HD 2.2 -->
 	<plugins cont="Skins Oe2.5/2.6 ">
-        <plugin name="ZSTYLE: INSTALL YOUR ZSKIN by MMark v.2.4 for DreamOS">
-            <url>"http://patbuweb.com/zskin/enigma2-plugin-extensions-zskin-zstyles_2.4_all.deb"</url>
-        </plugin>
-        <plugin name="FHD zSkin by MMark v.2.6 for DreamOS">
-            <url>"http://patbuweb.com/zskin/enigma2-plugin-skins-zskin-fhd.deb"</url>
-        </plugin>
-        <plugin name="WQHD zSkin by MMark v.2.6 for DreamOS">
-            <url>"http://patbuweb.com/zskin/enigma2-plugin-skins-zskin-wqhd.deb"</url>
-        </plugin>
-
-        <plugin name="FHD Gp4 Shadow WQHD arm64 all for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-gp4-shadow-wqhd_arm64.deb"</url>
-        </plugin>
-        <plugin name="FHD Zombi Shadow GP4 for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-gp4-zombi-shadow-fhd_all.deb"</url>
-        </plugin>
-        <plugin name="FHD GP4 Meridian 20230716-r4.2 for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/gp4-skin-meridian-fhd_20230716-r4.2_all.deb"</url>
-        </plugin>
-        <plugin name="FHD Glass UHD 18 1.50 all for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-ultrahdglass18_1.50_all.deb"</url>
-        </plugin>
-        <plugin name="FHD Glass 17 9.20 all for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-fullhdglass17_9.20_all.deb"</url>
-        </plugin>
-        <plugin name="FHD Line 3.2 r03 all for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-FullHdLine3.2r03-all.deb"</url>
-        </plugin>
-        <plugin name="FHD Line 3.2 by Mic71 mod.Raed all for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/Skin-FULLHDLine-By-MIC71-MOD-By-RAED.deb"</url>
-        </plugin>
-        <plugin name="FHD Zombi Shadow Mediaportal for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/mediaportal-skin-zombi_shadow_fhd_all.deb"</url>
-        </plugin>
-        <plugin name="FHD CiNo DreamOSat Blue for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skins-CiNo-DreamOSat-Blue-FHD_20190403-r1.1.3_all.deb"</url>
-        </plugin>
-        <plugin name="FHD MetrixAeon Skin Adrenalinnrw mod for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-metrixaeonfhd-adrenalinnrw-mod_1.0-r0_all.deb"</url>
-        </plugin>
-        <plugin name="FHD Suisse Merlin 9.9 all for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.fhd_merlin_9.9_all.deb"</url>
-        </plugin>
-        <plugin name="HD Suisse One4all 9.9 all for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_9.9_all.deb"</url>
-        </plugin>
-        <plugin name="HD Suisse 2k 3.5 all for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_3.5_all.deb"</url>
-        </plugin>
+		<plugin name="ZSTYLE: INSTALL YOUR ZSKIN by MMark v.2.4 for DreamOS">
+			<url>"http://patbuweb.com/zskin/enigma2-plugin-extensions-zskin-zstyles_2.4_all.deb"</url>
+		</plugin>
+		<plugin name="FHD zSkin by MMark v.2.6 for DreamOS">
+			<url>"http://patbuweb.com/zskin/enigma2-plugin-skins-zskin-fhd.deb"</url>
+		</plugin>
+		<plugin name="WQHD zSkin by MMark v.2.6 for DreamOS">
+			<url>"http://patbuweb.com/zskin/enigma2-plugin-skins-zskin-wqhd.deb"</url>
+		</plugin>
+		<plugin name="FHD Gp4 Shadow WQHD arm64 all for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-gp4-shadow-wqhd_arm64.deb"</url>
+		</plugin>
+		<plugin name="FHD Zombi Shadow GP4 for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-gp4-zombi-shadow-fhd_all.deb"</url>
+		</plugin>
+		<plugin name="FHD GP4 Meridian 20230716-r4.2 for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/gp4-skin-meridian-fhd_20230716-r4.2_all.deb"</url>
+		</plugin>
+		<plugin name="FHD Glass UHD 18 1.50 all for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-ultrahdglass18_1.50_all.deb"</url>
+		</plugin>
+		<plugin name="FHD Glass 17 9.20 all for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-fullhdglass17_9.20_all.deb"</url>
+		</plugin>
+		<plugin name="FHD Line 3.2 r03 all for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-FullHdLine3.2r03-all.deb"</url>
+		</plugin>
+		<plugin name="FHD Line 3.2 by Mic71 mod.Raed all for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/Skin-FULLHDLine-By-MIC71-MOD-By-RAED.deb"</url>
+		</plugin>
+		<plugin name="FHD Zombi Shadow Mediaportal for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/mediaportal-skin-zombi_shadow_fhd_all.deb"</url>
+		</plugin>
+		<plugin name="FHD CiNo DreamOSat Blue for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skins-CiNo-DreamOSat-Blue-FHD_20190403-r1.1.3_all.deb"</url>
+		</plugin>
+		<plugin name="FHD MetrixAeon Skin Adrenalinnrw mod for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-metrixaeonfhd-adrenalinnrw-mod_1.0-r0_all.deb"</url>
+		</plugin>
+		<plugin name="FHD Suisse Merlin 9.9 all for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.fhd_merlin_9.9_all.deb"</url>
+		</plugin>
+		<plugin name="HD Suisse One4all 9.9 all for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_9.9_all.deb"</url>
+		</plugin>
+		<plugin name="HD Suisse 2k 3.5 all for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_3.5_all.deb"</url>
+		</plugin>
 		<plugin name="HD Nuke Evo 20230724-r5.7.5 all for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5//skin/enigma2-skin-nuke.evo_20230724-r5.7.5_all.deb"</url>
-        </plugin>
-        <plugin name="MetrixStyle HD v.13.1-r2 for DreamOS">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-metrixstylehd_13.1-r2_all.deb"</url>
-        </plugin>
-    </plugins>
-
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5//skin/enigma2-skin-nuke.evo_20230724-r5.7.5_all.deb"</url>
+		</plugin>
+		<plugin name="MetrixStyle HD v.13.1-r2 for DreamOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-metrixstylehd_13.1-r2_all.deb"</url>
+		</plugin>
+	</plugins>
 	<!-- SPORT -->
 	<plugins cont="Sport ">
 		<plugin name="Eurojackpot 201011 all">
@@ -2637,12 +2597,11 @@
 		</plugin>
 		<plugin name="Telekomsport 2.0+git93+b0dca2f-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Wazzup fnc 1.5 r0 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-wazzup-fnc_1.5-r0_mips32el.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- UTILITY 2.0 -->
 	<plugins cont="Utiliy ">
 		<plugin name="Ai controler pich mod 2.9">
@@ -2726,7 +2685,6 @@
 		<plugin name="Eparted_0.13-r1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/eparted_0.13-r1_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Exteplayer3 script install">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-exteplayer3_1.0_all.ipk"</url>
 		</plugin>
@@ -2742,7 +2700,6 @@
 		<plugin name="Filecommander github+up20feb2022 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filecommander_github+up20feb2022_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Flash Expander it openpli4 Modded Lululla">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-flashexpander-it-openpli4_0.33-r0_all.ipk"</url>
 		</plugin>
@@ -2752,7 +2709,7 @@
 		<plugin name="Fritzcall_20220508-rev1620_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-fritzcall_20220508-rev1620_all.ipk"</url>
 		</plugin>
-    <plugin name="Fritzdect v.2.0.8 all">
+		<plugin name="Fritzdect v.2.0.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-fritzdect_v2.0.8_all.ipk"</url>
 		</plugin>
 		<plugin name="Glass Utility 11.11">
@@ -2773,10 +2730,10 @@
 		<plugin name="Ipaudiopro V.1.3+git124+cd654700+cd6547059e-r0_cortexa15hf-neon-vfpv4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ipaudiopro_1.3+git124+cd654700+cd6547059e-r0_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-    <plugin name="Ipaudiopro V.1.1+git87+f596293-r0_aarch64">
+		<plugin name="Ipaudiopro V.1.1+git87+f596293-r0_aarch64">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-ipk-deb-maker_0.3_armv7ahf-vfp.ipk"</url>
 		</plugin>
-    <plugin name="Ipaudiopro V.1.1+git112+3933b300+3933b30b56-r0_mips32el">
+		<plugin name="Ipaudiopro V.1.1+git112+3933b300+3933b30b56-r0_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ipaudiopro_1.1+git112+3933b300+3933b30b56-r0_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Ipk deb maker 0.3 armv7ahf vfp">
@@ -2821,7 +2778,6 @@
 		<plugin name="Openwebif Latest all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-openwebif_latest_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Opkg Tools 1.4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-opkg-tools_1.4_all.ipk"</url>
 		</plugin>
@@ -2923,7 +2879,7 @@
 		</plugin>
 		<plugin name="Wirelesslan 6.2 fix">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-wirelesslan_6.2+git26804+c76e6a3-r0_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Wirelesslan 1.0 dm800 fix">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk"</url>
 		</plugin>
@@ -2934,7 +2890,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/zerotier_1.4.6-r0_mips32el.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- VPN -->
 	<plugins cont="Vpn-Oe2.0 ">
 		<plugin name="Open VpnNord Setup 0.6 all">
@@ -2961,7 +2916,6 @@
 		<plugin name="Wireguard Vpn 9.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_9.8_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Wireguard Vpn 10.7 aarch64 py3.12 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64-py3.12_10.7_all.ipk"</url>
 		</plugin>
@@ -2977,10 +2931,7 @@
 		<plugin name="Wireguard Vpn 10.7 mips py3.11 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.11_10.7_all.ipk"</url>
 		</plugin>
-
-
 	</plugins>
-
 	<!-- WEATHER TOOLS -->
 	<plugins cont="Weather-Tools ">
 		<plugin name="Airly 2.0-r6 all">
@@ -3001,7 +2952,6 @@
 		<plugin name="The Weather py2-py3 v.2.4_r3">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweather-py2-py3_2.4_r3_all.ipk"</url>
 		</plugin>
-
 		<plugin name="VWeather3 M71 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_M71_all.ipk"</url>
 		</plugin>
@@ -3057,7 +3007,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-yweather-0.7-r1.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- WEATHER FORECA -->
 	<plugins cont="Weather-Foreca ">
 		<plugin name="Weather Foreca 3.2.9 all">
@@ -3199,7 +3148,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/United_Kingdom.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- WEBCAM -->
 	<plugins cont="Webcam ">
 		<plugin name="Camofs 17.37 all">
@@ -3209,8 +3157,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.4_all.ipk"</url>
 		</plugin>
 	</plugins>
-
-
 	<!-- ADULTS 2.0 -->
 	<plugins cont="Adult Oe2.0 ">
 		<plugin name="Adult Live v.1.3 +18 all">
@@ -3227,7 +3173,7 @@
 		</plugin>
 		<plugin name="Heavyr v.1.0 +18 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-heavyr_1.0_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Hypnotube v.1.0 +18 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hypnotube_1.0_all.ipk"</url>
 		</plugin>
@@ -3237,11 +3183,9 @@
 		<plugin name="ManPorn v.1.0 +18 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-manporn_1.0_all.ipk"</url>
 		</plugin>
-		
 		<plugin name="Mediaportal GreyZone Update all">
-		  <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodi/enigma2-plugin-extensions-mpgz_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodi/enigma2-plugin-extensions-mpgz_all.ipk"</url>
 		</plugin>
-		
 		<plugin name="Motherless v.1.0 +18 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-motherless_1.0_all.ipk"</url>
 		</plugin>
@@ -3266,7 +3210,6 @@
 		<plugin name="tvStream PRO REVOLUTION XXX v.1.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.5_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Xhamster v.1.0 +18 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xhamster_1.0_all.ipk"</url>
 		</plugin>
@@ -3277,7 +3220,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xxxplugin_1.2_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- ADULTS 2.2 -->
 	<plugins cont="Adult Oe2.5/2.6 ">
 		<plugin name="Adult Live v.1.3 +18">
@@ -3338,44 +3280,40 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xxxplugin_1.2_all.deb"</url>
 		</plugin>
 	</plugins>
-
 	<!-- OTHER 2.0 -->
-    <plugins cont="Other Oe2.0 ">
-        <plugin name="Xbmc kodi ipk all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk"</url>
-        </plugin>
-        <plugin name="Kodilite 9.1r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1_r1_all.ipk"</url>
-        </plugin>
-        <plugin name="WebMedia 18.2_.r0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-webmedia_18.2_r0_all.ipk"</url>
-        </plugin>
-    </plugins>
-
+	<plugins cont="Other Oe2.0 ">
+		<plugin name="Xbmc kodi ipk all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk"</url>
+		</plugin>
+		<plugin name="Kodilite 9.1r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1_r1_all.ipk"</url>
+		</plugin>
+		<plugin name="WebMedia 18.2_.r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-webmedia_18.2_r0_all.ipk"</url>
+		</plugin>
+	</plugins>
 	<!-- OTHER 2.2 -->
-    <plugins cont="Other Oe2.5/2.6 ">
-        <plugin name="Amazon Prime Dream v.1.4.8 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-amazonprimedream_1.4.8_arm64.deb"</url>
-        </plugin>
-        <plugin name="Amazonvod 0.3 r60 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-amazonvod_0.3-r6.0_arm64.deb"</url>
-        </plugin>
-        <plugin name="Dazndream v.1.1.1 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dazndream_1.1.1_arm64.deb"</url>
-        </plugin>
-        <plugin name="Netflix Vod 0.9-r5 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-netflixvod_0.9-r5.0_arm64.deb"</url>
-        </plugin>
-        <plugin name="Vod 1.1 r1 Amazon - Netflix - Dazn arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-vod_1.1-r0.1_arm64.deb"</url>
-        </plugin>
-        <plugin name="Widevineprocessor 1.0 r0.3 arm64">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-widevineprocessor_1.0-r0.3_arm64.deb"</url>
-        </plugin>
-        <plugin name="lib32 dreamwidevine 1.0 r0.2 armhf">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/lib32-dreamwidevine_1.0-r0.2_armhf.deb"</url>
-        </plugin>
-    </plugins>
-
-
+	<plugins cont="Other Oe2.5/2.6 ">
+		<plugin name="Amazon Prime Dream v.1.4.8 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-amazonprimedream_1.4.8_arm64.deb"</url>
+		</plugin>
+		<plugin name="Amazonvod 0.3 r60 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-amazonvod_0.3-r6.0_arm64.deb"</url>
+		</plugin>
+		<plugin name="Dazndream v.1.1.1 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dazndream_1.1.1_arm64.deb"</url>
+		</plugin>
+		<plugin name="Netflix Vod 0.9-r5 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-netflixvod_0.9-r5.0_arm64.deb"</url>
+		</plugin>
+		<plugin name="Vod 1.1 r1 Amazon - Netflix - Dazn arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-vod_1.1-r0.1_arm64.deb"</url>
+		</plugin>
+		<plugin name="Widevineprocessor 1.0 r0.3 arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-widevineprocessor_1.0-r0.3_arm64.deb"</url>
+		</plugin>
+		<plugin name="lib32 dreamwidevine 1.0 r0.2 armhf">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/lib32-dreamwidevine_1.0-r0.2_armhf.deb"</url>
+		</plugin>
+	</plugins>
 </xml>
