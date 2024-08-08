@@ -2631,8 +2631,8 @@
 		<plugin name="Automaticcleanup 10.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-automaticcleanup_10.5_all.ipk"</url>
 		</plugin>
-		<plugin name="Autocut 3.11 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-autocut_3.11_all.ipk"</url>
+		<plugin name="Autocut 4.08 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-autocut_4.08_all.ipk"</url>
 		</plugin>
 		<plugin name="Autopin_4.0-r5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-autopin_4.0-r5_all.ipk"</url>
@@ -2736,11 +2736,11 @@
 		<plugin name="Hardware Info v.4.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-hardwareinfo_4.0_all.ipk.ipk"</url>
 		</plugin>
-		<plugin name="Historyzap 1.0.40">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-historyzap_1.0.40_all.ipk"</url>
+		<plugin name="Historyzap 1.0.41">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-historyzap_1.0.41_all.ipk"</url>
 		</plugin>
-		<plugin name="Kiosk v.1.1.3-B all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-kiosk_1.1.3-B_all.ipk"</url>
+		<plugin name="Kiosk v.1.1.4-C-Experimental all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-kiosk_1.1.4-C-Experimental_all.ipk"</url>
 		</plugin>
 		<plugin name="Internet SpeedTest v.1.7">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-internet-speedtest_1.7_all.ipk"</url>
@@ -2757,6 +2757,10 @@
 		<plugin name="Ipk deb maker 0.3 armv7ahf vfp">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ipaudiopro_1.1+git87+f596293-r0_aarch64.ipk"</url>
 		</plugin>
+		<plugin name="Ipk Uninstaller 1.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ipkuninstaller_1.3_all.ipk"</url>
+		</plugin>
+
 		<plugin name="John 1.7.2-3 reset PWD">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-john_1.7.2-3_mipsel.ipk"</url>
 		</plugin>
@@ -2784,8 +2788,8 @@
 		<plugin name="Net Speed Test v.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-netspeedtest_1.0_all.ipk"</url>
 		</plugin>
-		<plugin name="New Virtual Keyboard 12.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-newvirtualkeyboard_12.2_all.ipk"</url>
+		<plugin name="New Virtual Keyboard 12.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-newvirtualkeyboard_v12.3_all.ipk"</url>
 		</plugin>
 		<plugin name="NoIp auto login v.0.2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-noipautologin_0.2-r0_all.ipk"</url>
@@ -2802,8 +2806,8 @@
 		<plugin name="Password Changer Experimental">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-passwordchanger_experimental-cvs20100725-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="Passwordmasker 0.4 beta all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-passwordmasker_0.4-beta_all.ipk"</url>
+		<plugin name="Passwordmasker 1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-passwordmasker_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Password Set git4897+7278916-r0.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-setpasswd_y-git4897+7278916-r0.0.ipk"</url>
@@ -2811,8 +2815,8 @@
 		<plugin name="Permanent Test v.5.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-permanenttest_5.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Planerfs 9.81 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-planerfs_9.81_all.ipk"</url>
+		<plugin name="Planerfs 9.88 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-planerfs_9.88_all.ipk"</url>
 		</plugin>
 		<plugin name="Plugin Header v.3.999 mips32el all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-pluginhider_3.999+git5286+e7e01bc-r2_mips32el.ipk"</url>
@@ -2826,8 +2830,8 @@
 		<plugin name="Quarter Pounder 6.2.0m all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-quarterpounder-6.2.0m.ipk"</url>
 		</plugin>
-		<plugin name="S4aupdater 23.09.25.1418 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-s4aupdater_23.09.25.1418_all.ipk"</url>
+		<plugin name="S4aupdater 23.12.27.1727 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-s4aupdater_23.12.27.1727_all.ipk"</url>
 		</plugin>
 		<plugin name="ScreenGrabber v.2.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screengrabber_2.6_all.ipk"</url>
@@ -2853,20 +2857,29 @@
 		<plugin name="Shoot your screen -mod- r3.1_0.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-shootyourscreen-mod-r3.1_0.2_all.ipk"</url>
 		</plugin>
+		<plugin name="Skipintro v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-skipintro_1.1_all.ipk"</url>
+		</plugin>
 		<plugin name="Signalfinder v.2.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-signalfinder_2.4_all.ipk"</url>
 		</plugin>
 		<plugin name="Smart Shell v. 1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-smartshell_1.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Subs Support 1.5.8 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.5.8_all.ipk"</url>
+		<plugin name="Softsleepfs v.1.6all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-softsleepfs_1.6_all.ipk"</url>
 		</plugin>
-		<plugin name="Subs Support 1.5.8 r6 Py3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.5.8-r6-py3_all.ipk"</url>
+		<plugin name="Subs Support 1.5.8 r9 py2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.5.8-r9-py2_all.ipk"</url>
 		</plugin>
-		<plugin name="Subs Support 1.5.8 r6 Py2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.5.8-r6-py2.7_all.ipk"</url>
+		<plugin name="Subs Support 1.5.8 r9 Py3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.5.8-r9-py3_all.ipk"</url>
+		</plugin>
+		<plugin name="Subs Support 1.5.8 Py2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport-py2_1.5.8_all.ipk"</url>
+		</plugin>
+		<plugin name="Subs Support 1.5.8 Py3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport-py3_1.5.8_all.ipk"</url>
 		</plugin>
 		<plugin name="Swap Manager mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-swapmanager_1.0-r0_mipsel.ipk"</url>
@@ -2894,6 +2907,15 @@
 		</plugin>
 		<plugin name="Vticonfig helper v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vticonfighelper_1.4_all.ipk"</url>
+		</plugin>
+		<plugin name="Vtifccextender v.0.3 Beta all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vti-fccextender_0.3-Beta_all.ipk"</url>
+		</plugin>
+		<plugin name="Vtiscreenshot helper v.0.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vtiscreenshot_0.4-beta_all.ipk"</url>
+		</plugin>
+		<plugin name="Vtitimeshift helper v.1.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vtitimeshifthelper_1.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Wirelesslan 6.2 fix">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-wirelesslan_6.2+git26804+c76e6a3-r0_all.ipk"</url>
