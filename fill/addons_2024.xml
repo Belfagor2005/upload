@@ -86,6 +86,9 @@
 		<plugin name="Freechannels_py2-git21-735d86d-r0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-freechannels_py2-git21-735d86d-r0.0.ipk"</url>
 		</plugin>
+		<plugin name="Gioppygio v.12.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-gioppygio_12.1_all.ipk"</url>
+		</plugin>
 		<plugin name="LCN Scanner 1.0 r5 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-lcnscanner_1.0-r5_mips32el.ipk"</url>
 		</plugin>
@@ -113,7 +116,7 @@
 	</plugins>
 	<!-- LIBRARY -->
 	<plugins cont="Python Library ">
-		<plugin name="beautifulsoup 4-4.8.0 all ">
+		<plugin name="beautifulsoup 4-4.8.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-beautifulsoup_4-4.8.0_all.ipk"</url>
 		</plugin>
 		<plugin name="liblzma5 5.2.2-r0 mips32el">
@@ -387,8 +390,11 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-cooltvguide_Coolman_V7.7.0_all.ipk"</url>
 		</plugin>
 		<plugin name="CrossEpg v. 0.8.6+git483 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-systemplugins-crossepg_0.8.6-20181224_all.ipk "</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-systemplugins-crossepg_0.8.6-20181224_all.ipk"</url>
 		</plugin>
+		<plugin name="e2TURK-i2Z_1.0.DS all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-script-e2TURK-i2Z_1.0.DS_all.ipk"</url>
+		</plugin>		
 		<plugin name="Epg Cache Selector 1.2 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-systemplugins-epgcacheselector_1.2-r0_all.ipk"</url>
 		</plugin>
@@ -454,6 +460,9 @@
 		</plugin>
 		<plugin name="TMDB TheMovieDb 0.9-r8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb_0.9-r8_all.ipk"</url>
+		</plugin>
+		<plugin name="Translator_1.4rc1 fhd edition all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-translator_1.4rc1-fhd-edition_all.ipk"</url>
 		</plugin>
 		<plugin name="Xtraevent v.6.76 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xtraevent_6.76_all.ipk"</url>
@@ -542,13 +551,13 @@
 	</plugins>
 	<!-- GAMES -->
 	<plugins cont="Games ">
-		<plugin name="Schiffe 7.1r1 FHD/HD All ">
+		<plugin name="Schiffe 7.1r1 FHD/HD all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-schiffe_7.1r1_all.ipk"</url>
 		</plugin>
-		<plugin name="Sudoku 7.1r1 FHD/HD All ">
+		<plugin name="Sudoku 7.1r1 FHD/HD all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-sudoku_7.1r1_all.ipk"</url>
 		</plugin>
-		<plugin name="Tetris 7.1r0 All ">
+		<plugin name="Tetris 7.1r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-tetris_7.1r0_all.ipk"</url>
 		</plugin>
 	</plugins>
@@ -807,7 +816,7 @@
 	</plugins>
 	<!-- LULULLA ZONE OE2 -->
 	<plugins cont="Lululla Zone Oe2.0 ">
-		<plugin name="Addon Panel V.2.1.5 All ">
+		<plugin name="Addon Panel V.2.1.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvaddon_2.1.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Softcam Manager V.2.1  OE2">
@@ -900,7 +909,7 @@
 		<plugin name="Tv Rai Preview v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.4_all.ipk"</url>
 		</plugin>
-		<plugin name="TvDream V.1.4 All ">
+		<plugin name="TvDream V.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.ipk"</url>
 		</plugin>
 		<plugin name="Tv Settings Maintener v.1.8">
@@ -1434,11 +1443,17 @@
 		<plugin name="Dumbo 0.27c mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-dumbo_0.27c_mipsel.ipk"</url>
 		</plugin>
+		<plugin name="Meoboot 0.1-r3_arm all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-meoboot_0.1-r3_arm_all.ipk"</url>
+		</plugin>
 		<plugin name="Mmboot Dreambox 1.40 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/mmboot-dreambox_1.40_all.ipk"</url>
 		</plugin>
 		<plugin name="Multiboot Flashonline v.7.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-multiboot-flashonline_7.1_all.ipk"</url>
+		</plugin>
+		<plugin name="Neoboot 9.69 vip all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot_9.69_all.ipk"</url>
 		</plugin>
 		<plugin name="Neoboot 9.65 vip all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot-v9.65-VIP_all.ipk"</url>
@@ -1446,11 +1461,20 @@
 		<plugin name="Neoboot 8.05 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot_8.05_all.ipk"</url>
 		</plugin>
+		<plugin name="Neoboot duo4k 5.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot-duo4k_5.3_all.ipk"</url>
+		</plugin>
+		<plugin name="Neoboot e2turk 3.9.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot-e2turk_3.9.1_all.ipk"</url>
+		</plugin>
+		<plugin name="Omb enhanced 1.3+e2turk-r44 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-omb-enhanced_1.3+e2turk-r44_all.ipk"</url>
+		</plugin>
 		<plugin name="OpenBH Meoboot 0.1 r14 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/openBH_meoboot_0.1-r14_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="OpenPLI Multiboot 1.2a all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-openPLI_multiboot_1.2a_all.ipk"</url>
+		<plugin name="OpenPLI Multiboot 2.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-openmultiboot_2.6_all.ipk"</url>
 		</plugin>
 		<plugin name="OpenMultiBoot 1.0-20180731 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-openmultiboot_1.0-20180731_all.ipk"</url>
@@ -1509,7 +1533,7 @@
 		<plugin name="JapharAddons-Manager v.5.4 oe20 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/japhar-addons-manager_5.4_DM_oe20_all.ipk"</url>
 		</plugin>
-		<plugin name="Image Downloader V.2.0 All ">
+		<plugin name="Image Downloader V.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Levi45 MultiCam Manager v.10.1-r26 all">
@@ -1545,7 +1569,7 @@
 		<plugin name="Tunisiasat-Addons-Manager v.3.0 mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-tunisiasat-addons-manager_3.0_mipsel.ipk"</url>
 		</plugin>
-		<plugin name="Vuplus-images-panel v.3.1 All ">
+		<plugin name="Vuplus-images-panel v.3.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-vuplus-images-panel_3.1_all.ipk"</url>
 		</plugin>
 	</plugins>
@@ -1797,7 +1821,7 @@
 		<plugin name="Ncam Addon 1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="Zoom Final FIX7x all ">
+		<plugin name="Zoom Final FIX7x all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/cfg_Zoom_Final_FIX7x_all.ipk"</url>
 		</plugin>
 		<plugin name="CCcam Info 1.7 all">
@@ -2430,31 +2454,31 @@
 		<plugin name="FHD DarkFHD OpenPLi 7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/skin-DarkFHD-v1.2_OpenPLi7_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Glass 17 3.05 all ">
+		<plugin name="FHD Glass 17 3.05 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-skin-fullhdglass17_3.05_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Glamour Aura mod sl F.36 all ">
+		<plugin name="FHD Glamour Aura mod sl F.36 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-glamouraurafhd-mod-sl_F.36_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Metrix Reloaded 0.9.5 all ">
+		<plugin name="FHD Metrix Reloaded 0.9.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-skin-metrixreloaded_0.9.5_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Army Touch 1.1 r2 OpenPLi7 all ">
+		<plugin name="FHD Army Touch 1.1 r2 OpenPLi7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Skin-Army-Touch-FHD_1.1-r2-OpenPLi7_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD MX-Sline-Black-I By Matrix10 MOD By RAED all ">
+		<plugin name="FHD MX-Sline-Black-I By Matrix10 MOD By RAED all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Skin-MX-Sline-Black-I-By-Matrix10-MOD-By-RAED.ipk"</url>
 		</plugin>
-		<plugin name="FHD Nachtlite 1.3 all ">
+		<plugin name="FHD Nachtlite 1.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-nachtlite_1.3_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Darkness OpenEsi8.6 mod all ">
+		<plugin name="FHD Darkness OpenEsi8.6 mod all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-darknessfhd-openesi_8.6_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Dinobot ui v.1.05.19 mod all ">
+		<plugin name="FHD Dinobot ui v.1.05.19 mod all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-dinobot-ui-fhd_v.1.05.19-mod_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Cino OpenPLi 6.2 x all ">
+		<plugin name="FHD Cino OpenPLi 6.2 x all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-cinopli-fullhd_x_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Pal.5 OpenPLi Mod.Lululla By-Palikao(Khaled)Mod.RAED ">
@@ -2712,8 +2736,8 @@
 		<plugin name="Fritzdect v.2.0.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-fritzdect_v2.0.8_all.ipk"</url>
 		</plugin>
-		<plugin name="Glass Utility 11.11">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-glasssysutil_11.11_all.ipk"</url>
+		<plugin name="Glass Utility 12.12">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-glasssysutil_12.12_all.ipk"</url>
 		</plugin>
 		<plugin name="Hardware Info v.4.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-hardwareinfo_4.0_all.ipk.ipk"</url>
