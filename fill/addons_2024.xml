@@ -92,11 +92,11 @@
 		<plugin name="LCN Scanner 1.0 r5 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-lcnscanner_1.0-r5_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="SatVenus Settings 4.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-satvenus-settings_4.0_all.ipk"</url>
+		<plugin name="SatVenus Settings 5.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-satvenus-settings_5.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Setloader v. 1.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-satvenus-settings_4.0_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-settloader_1.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Servicescanupdates v.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.ipk"</url>
@@ -1575,11 +1575,11 @@
 	</plugins>
 	<!-- PICONS TOOLS -->
 	<plugins cont="Picons-Tools ">
-		<plugin name="Chocholousek Picons 5.0.221217 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-chocholousek-picons_5.0.221217_all.ipk"</url>
+		<plugin name="Chocholousek Picons 5.0.231225 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-chocholousek-picons_5.0.231225_all.ipk"</url>
 		</plugin>
-		<plugin name="Picon Buddy v.0.0.4 beta all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_0.0.4-Beta_all.ipk"</url>
+		<plugin name="Picon Buddy v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.0.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Missing Picons 2017.08.28 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-missingpicons_2017_08_28_all.ipk"</url>
@@ -1851,23 +1851,17 @@
 		<plugin name="Ncam Info v1.1 by Marouan 2018 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-ncaminfo_1.1-r0_all.ipk"</url>
 		</plugin>
+		<plugin name="Ncam Status v3.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-ncamstatus_3.2_all.ipk"</url>
+		</plugin>
 		<plugin name="Oscam Info 2.1 Lululla Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-oscaminfo_2.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Oscam Info 0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-oscaminfo_0.6_all.ipk"</url>
 		</plugin>
-		<plugin name="Oscam Status 6.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.3_all.ipk"</url>
-		</plugin>
-		<plugin name="Oscam Status 1.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_1.7_all.ipk"</url>
-		</plugin>
-		<plugin name="Oscam Status 1.4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_1.4_all.ipk"</url>
-		</plugin>
-		<plugin name="Oscam Status 0.6a all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-oscamstatus_0.6a_all.ipk"</url>
+		<plugin name="Oscam Status 6.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.4_all.ipk"</url>
 		</plugin>
 		<plugin name="Oscam Status View 1.3.1.mod.by.Pr2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatusview_1.3.1.mod.by.Pr2_all.ipk"</url>
@@ -2937,6 +2931,9 @@
 		<plugin name="Surf Shark vpn 1.0.5-py3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-surfsharkvpn_1.0.5-py3_all.ipk"</url>
 		</plugin>
+		<plugin name="Surf Shark vpn 1.0.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-surfsharkvpn_1.0.5_all.ipk"</url>
+		</plugin>
 		<plugin name="Vpn Manager 1.1.7 PY3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 		</plugin>
@@ -3230,6 +3227,9 @@
 		</plugin>
 		<plugin name="Pornstars v.1.0 +18 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pornstars_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Searchporn v.1.0 r0 18+ all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-searchporn_1.0_r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Specialtube v.1.0 +18 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-specialtube_1.0_all.ipk"</url>
