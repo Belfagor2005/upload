@@ -3327,8 +3327,65 @@
 	</plugins>
 	<!-- Skins_OpenAtv -->
 	<plugins cont="Skins_OpenAtv ">
-		<plugin name="xxxxxxxxxxxxxxxxx">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/"</url>
+		<plugin name="FHD Areadeltasat_fhd_dragon_1_9_Poster_Backdrop">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2_plugin_skins_areadeltasat_fhd_dragon_1_9_Poster_Backdrop.ipk"</url>
+		</plugin>
+    <plugin name="FHD Artemis-mod-dragon_8.1.poster.backdrop_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-artemis-mod-dragon_8.1.poster.backdrop_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Cobaltfhd3_atv-python3_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-cobaltfhd3_atv-python3_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Cobaltfhd_OpenATV-18.07.2024_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-cobaltfhd_OpenATV-18.07.2024_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Dragonfhdatv_1.0dragon_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-skin-dragonfhdatv_1.0dragon_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Froid_3.30_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-froid_3.30_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Infinity-neo_V.7s-v6_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-infinity-neo_V.7s-v6_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Madmax-impossible_2.8_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-madmax-impossible_2.8_all.ipk"</url>
+		</plugin>
+		    <plugin name="FHD Metrixconfluencexp-pro-atv-dragon-lululla_3.0_al">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-metrixconfluencexp-pro-atv-dragon-lululla_3.0_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Metrixfhd-neo_oatv-7s_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-metrixfhd-neo_oatv-7s_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Metrixfhd-neo_reboot-v4-rev1_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-metrixfhd-neo_reboot-v4-rev1_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Metrixfhd-neo_V.7s_v6_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-metrixfhd-neo_V.7s_v6_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Metrixfhd-neo-v.7s-v2-mod-by-biko_x_v.7s_v2_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-metrixfhd-neo-v.7s-v2-mod-by-biko_x_v.7s_v2_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Multiposter-fhd-all_1.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-multiposter-fhd-all_1.0_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Novax-fhd_2.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-novax-fhd_2.0_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Pro-fhd2_full.2.0.pro2.dragon_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-beta-pro-fhd2_full.2.0.pro2.dragon_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Revolution-pro_full.6.8.dragon_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-revolution-pro_full.6.8.dragon_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Skinotvfhd_0.1_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-skinotvfhd_0.1_all.ipk"</url>
+		</plugin>
+		    <plugin name="HD Blueaccents-hd_0.1_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-blueaccents-hd_0.1_all.ipk"</url>
+		</plugin>
+    <plugin name="HD Metrixconfluenceatv-adrenalinnrw_1_6full_dragonxtraevent_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-skin-metrixconfluenceatv-adrenalinnrw_1_6full_dragonxtraevent_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- Skins_OpenPli -->
