@@ -119,10 +119,10 @@
 		<plugin name="Beautifulsoup 4-4.8.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-beautifulsoup_4-4.8.0_all.ipk"</url>
 		</plugin>
-    <plugin name="Boxbranding-arm_1.0_all">
+		<plugin name="Boxbranding-arm_1.0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/enigma2-plugin-extensions-boxbranding-arm_1.0_all.ipk"</url>
 		</plugin>
-    <plugin name="Boxbranding-mips_1.0_all">
+		<plugin name="Boxbranding-mips_1.0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/enigma2-plugin-extensions-boxbranding-mips_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="liblzma5 5.2.2-r0 mips32el">
@@ -143,31 +143,31 @@
 		<plugin name="Libcrypto0.9.8_0.9.8y-r15.1_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libcrypto0.9.8_0.9.8y-r15.1_mips32el.ipk"</url>
 		</plugin>
-    <plugin name="Libcrypto0.9.8_0.9.8x-r0_armv7ahf-vfp-neon">
+		<plugin name="Libcrypto0.9.8_0.9.8x-r0_armv7ahf-vfp-neon">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libcrypto0.9.8_0.9.8x-r0_armv7ahf-vfp-neon.ipk"</url>
 		</plugin>
-    <plugin name="Libcrypto0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4">
+		<plugin name="Libcrypto0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libcrypto0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-    <plugin name="Libcrypto1.0.0_1.0.2_all">
+		<plugin name="Libcrypto1.0.0_1.0.2_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libcrypto1.0.0_1.0.2_all.ipk"</url>
 		</plugin>
-    <plugin name="Libdvbcsa1_1.1.0-r0_sh4">
+		<plugin name="Libdvbcsa1_1.1.0-r0_sh4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libdvbcsa1_1.1.0-r0_sh4.ipk"</url>
 		</plugin>
-    <plugin name="Libssl0.9.8_0.9.8x-r0_armv7ahf-vfp-neon">
+		<plugin name="Libssl0.9.8_0.9.8x-r0_armv7ahf-vfp-neon">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl0.9.8_0.9.8x-r0_armv7ahf-vfp-neon.ipk"</url>
 		</plugin>
-    <plugin name="Libssl0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4">
+		<plugin name="Libssl0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl0.9.8_0.9.8x-r0_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-    <plugin name="Libssl0.9.8_0.9.8x-r15.0.2_mips32el">
+		<plugin name="Libssl0.9.8_0.9.8x-r15.0.2_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl0.9.8_0.9.8x-r15.0.2_mips32el.ipk"</url>
 		</plugin>
-    <plugin name="Libssl1.0.0_1.0.1g-r0_mips32el">
+		<plugin name="Libssl1.0.0_1.0.1g-r0_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl1.0.0_1.0.1g-r0_mips32el.ipk"</url>
 		</plugin>
-    <plugin name="Libssl1.0.0_1.0.2_all">
+		<plugin name="Libssl1.0.0_1.0.2_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/libssl1.0.0_1.0.2_all.ipk"</url>
 		</plugin>
 		<plugin name="Libgnutls26_2.12.17-r6.0_mips32el">
@@ -239,22 +239,22 @@
 		<plugin name="Python Futures 2.1.6-r0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/futures-2.1.6-r0__all.ipk"</url>
 		</plugin>
-    <plugin name="Python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon">
+		<plugin name="Python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon.ipk"</url>
 		</plugin>
-    <plugin name="Python3-fuzzywuzzy_0.18.0-r0_mips32el">
+		<plugin name="Python3-fuzzywuzzy_0.18.0-r0_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-fuzzywuzzy_0.18.0-r0_mips32el.ipk"</url>
 		</plugin>
-    <plugin name="Python3-levenshtein_0.12.0-r0_armv7ahf-neon">
+		<plugin name="Python3-levenshtein_0.12.0-r0_armv7ahf-neon">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-levenshtein_0.12.0-r0_armv7ahf-neon.ipk"</url>
 		</plugin>
-    <plugin name="Python3-levenshtein_0.12.0-r0_mips32el">
+		<plugin name="Python3-levenshtein_0.12.0-r0_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-levenshtein_0.12.0-r0_mips32el.ipk"</url>
 		</plugin>
-    <plugin name="Python3-rarfile_4.1-r0_armv7ahf-neo">
+		<plugin name="Python3-rarfile_4.1-r0_armv7ahf-neo">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-rarfile_4.1-r0_armv7ahf-neon.ipk"</url>
 		</plugin>
-    <plugin name="Python3-rarfile_4.1-r0_mips32el">
+		<plugin name="Python3-rarfile_4.1-r0_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python3-rarfile_4.1-r0_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="Python-html_2.7.2-r2.17_mips32el">
@@ -308,7 +308,7 @@
 		<plugin name="Python-requests 2.11.1 git0 r1.1 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-requests_2.11.1_git0_58d855e193-r1.1_mips32el.ipk"</url>
 		</plugin>
-    <plugin name="Python-requests_2.23.0-r0_armv7ahf-neon">
+		<plugin name="Python-requests_2.23.0-r0_armv7ahf-neon">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-requests_2.23.0-r0_armv7ahf-neon.ipk"</url>
 		</plugin>
 		<plugin name="Python-requests_2.23.0-r0_mips32el">
@@ -344,16 +344,16 @@
 		<plugin name="Python-textutils_2.7.3-r0.3.2_mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-textutils_2.7.3-r0.3.2_mips32el.ipk"</url>
 		</plugin>
-    <plugin name="Python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_armv7ahf-neon">
+		<plugin name="Python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_armv7ahf-neon">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_armv7ahf-neon.ipk"</url>
 		</plugin>
-    <plugin name="Python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_cortexa15hf-neon-vfpv4">
+		<plugin name="Python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_cortexa15hf-neon-vfpv4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-youtube-dl_2020.05.08+git17680+a54c5f8-r0.1_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-    <plugin name="Python-youtube-dl_2020.05.08+git17681+8f841fa-r0.0_mips32el-nf">
+		<plugin name="Python-youtube-dl_2020.05.08+git17681+8f841fa-r0.0_mips32el-nf">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-youtube-dl_2020.05.08+git17681+8f841fa-r0.0_mips32el-nf.ipk"</url>
 		</plugin>
-    <plugin name="Python-youtube-dl_git2022.10.11-r0_all">
+		<plugin name="Python-youtube-dl_git2022.10.11-r0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/python-youtube-dl_git2022.10.11-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Python-xmlrpc_2.7.2-r7.17_mips32el">
@@ -460,7 +460,7 @@
 		</plugin>
 		<plugin name="e2TURK-i2Z_1.0.DS all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-script-e2TURK-i2Z_1.0.DS_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Epg Cache Selector 1.2 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-systemplugins-epgcacheselector_1.2-r0_all.ipk"</url>
 		</plugin>
@@ -2028,15 +2028,12 @@
 		<plugin name="HD Bluebird 0.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-bluebird-hd_0.5_all.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Line Super 1.2 Sami-Noor + Plug.Msn mod all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-hdline-super-mod_1.2-sami-noor_all.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Line Super 1.2 Sami-Noor all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-hdline-super_1.2-sami-noor_all.ipk"</url>
 		</plugin>
-
 		<plugin name="HD ABC V1.1 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-ABC-HD-V1.1-MOD-By-RAED.ipk"</url>
 		</plugin>
@@ -2058,7 +2055,6 @@
 		<plugin name="HD Black Cat V1.0 Conv MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-Black-Cat-V1.0-Conv-MOD-By-RAED.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Black Fog v1.1 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-Black-Fog-HD-v1.1-MOD-By-RAED.ipk"</url>
 		</plugin>
@@ -2113,7 +2109,6 @@
 		<plugin name="HD Frankensky Night mod-rc 01.06.15">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-frankensky-night-mod-rc_01.06.15_all.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Ghost Black V1.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-GhostBlack-HD-V1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
@@ -2177,7 +2172,6 @@
 		<plugin name="HD Metrix mod by binicknich 0.9">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-metrixhd-mod-by-binicknich_0.9_mips32el.ipk"</url>
 		</plugin>
-
 		<plugin name="HD MeTrO V2.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-MeTrO-V2.0-MOD-By-RAED.ipk"</url>
 		</plugin>
@@ -2199,7 +2193,6 @@
 		<plugin name="HD myMetrix furkanb mod 0.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-Metallic-HD-V1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Nemesis by mamba65">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin_Nemesis-HD-by-mamba65_all.ipk"</url>
 		</plugin>
@@ -2254,7 +2247,6 @@
 		<plugin name="HD Rihanna3 V1.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-Rihanna3-V1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Skyq V1.6 Chababu all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-skyq_V1.6_Chababu_all.ipk"</url>
 		</plugin>
@@ -2264,14 +2256,12 @@
 		<plugin name="HD Spark v1 mod by mamba65">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-spark-v1_mod-by-mamba65_all.ipk"</url>
 		</plugin>
-
 		<plugin name="HD The Beginning v1.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-The-Beginning-HD-v1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
 		<plugin name="HD Ultra Transparent MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-Skin-Ultra-Transparent-MOD-By-RAED.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Vanity 1.3">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-vanity_1.3_all.ipk"</url>
 		</plugin>
@@ -2284,7 +2274,6 @@
 		<plugin name="HD WM">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin_WM-HD_all.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Xmas2 V1.1 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-xmas2.hd_V1.1-Skin-By-vali-MOD-By-RAED_all.ipk"</url>
 		</plugin>
@@ -2318,7 +2307,6 @@
 		<plugin name="FHD Maxy v.1.2 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Metrix Neo 7S v2 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
 		</plugin>
@@ -2331,22 +2319,18 @@
 		<plugin name="FHD Simple Gray git259-1-a11cd4b-r0.0 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-simple-gray_git259-1-a11cd4b-r0.0_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD BLACK-NEON-V4 By Muaath all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Skin-BLACK-NEON-V4-FHD-By-Muaath.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Line v1.8-r1 OE Alliance all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-fullhdline_v1.8-r1_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD BATMAN-T By Muaath all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Skin-BATMAN-T-FHD-By-Muaath.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Obselite v.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-obselite-fhd-all_1.0_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Glass 17 3.05 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-skin-fullhdglass17_3.05_all.ipk"</url>
 		</plugin>
@@ -2356,7 +2340,6 @@
 		<plugin name="FHD Metrix Reloaded 0.9.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-skin-metrixreloaded_0.9.5_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD MX-Sline-Black-I By Matrix10 MOD By RAED all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/Skin-MX-Sline-Black-I-By-Matrix10-MOD-By-RAED.ipk"</url>
 		</plugin>
@@ -2369,7 +2352,6 @@
 		<plugin name="FHD Dinobot ui v.1.05.19 mod all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-dinobot-ui-fhd_v.1.05.19-mod_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Metrixperience by adrenalinnrw v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-skin-metrixperience-adrenalinnrw_1.1_all.ipk"</url>
 		</plugin>
@@ -2382,14 +2364,12 @@
 		<plugin name="FHD Metrix ItalySat 8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skins-metrix-fhd_italysat8_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Xmas Red V1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-plugin-skin-xmas-red-fhd_1.1_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Glass 17 3.05 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_skin/enigma2-skin-fullhdglass17_3.05_all.ipk"</url>
 		</plugin>
-
 	</plugins>
 	<!-- SKIN FHD-HD 2.2 -->
 	<plugins cont="Skins Oe2.5/2.6 ">
@@ -2639,7 +2619,6 @@
 		<plugin name="Ipk Uninstaller 1.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ipkuninstaller_1.3_all.ipk"</url>
 		</plugin>
-
 		<plugin name="John 1.7.2-3 reset PWD">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-john_1.7.2-3_mipsel.ipk"</url>
 		</plugin>
@@ -2900,7 +2879,7 @@
 		</plugin>
 		<plugin name="Weather Plugin py3 v.7.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin-py3_7.0_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Weather Plugin v.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin_2.0_all.ipk"</url>
 		</plugin>
@@ -3262,10 +3241,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/lib32-dreamwidevine_1.0-r0.2_armhf.deb"</url>
 		</plugin>
 	</plugins>
-
-
-
-
 	<!-- SKINS ALL -->
 	<plugins cont="Skins_All ">
 		<plugin name="FHD Red Dragon v.1.2 all">
@@ -3340,8 +3315,6 @@
 		<plugin name="FHD Slyk Q 1080 r19 V.1.43.20230718 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.43.20230718_all.ipk"</url>
 		</plugin>
-
-
 	</plugins>
 	<!-- Skins_OpenAtv -->
 	<plugins cont="Skins_OpenAtv ">
@@ -3351,10 +3324,103 @@
 	</plugins>
 	<!-- Skins_OpenPli -->
 	<plugins cont="Skins_OpenPli ">
-		<plugin name="xxxxxxxxxxxxxxxxxxxxxx">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/"</url>
+		<plugin name="FHD Aglare-fhd-pli_3.7_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_3.7_all.ipk"</url>
 		</plugin>
- 	</plugins>
+		<plugin name="FHD Army-touch-fhd-pli_1.1-r4_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-army-touch-fhd-pli_1.1-r4_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Aeonfhdmod_sharp987_openpli8.3-r2.32_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-skin-aeonfhdmod_sharp987_openpli8.3-r2.32_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Bluemetalfhd_2.20_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-bluemetalfhd_2.20_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Cinogriplifhd-7_20190109-r3_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-skin-cinogriplifhd-7_20190109-r3_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Cino.pli.fhd_by.drsat.OpenPLi_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cino.pli.fhd_by.drsat.OpenPLi_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Cinopli-fullhd_x_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cinopli-fullhd_x_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Cinogripli_20230221_OpenPLi_Python3_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cinogripli_20230221_OpenPLi_Python3_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Cobaltfhd_OpenPli.05.06.2024_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/Enigma2-plugin-skins-cobaltfhd_OpenPli.05.06.2024_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Cobaltfhd_OpenPLI_9.0_py3_08.01.2024_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cobaltfhd_OpenPLI_9.0_py3_08.01.2024_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD CobaltFHD.PLI.05.04.2024_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/Enigma2-plugin-skins_CobaltFHD.PLI.05.04.2024_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Darkos_0.9.9.2_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skin-e2-darkos_0.9.9.2_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Diana-fhd_2.5_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-diana-fhd_2.5_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD EkselanceBlackMontanaV3all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skin-EkselanceBlackMontanaV3all.ipk"</url>
+		</plugin>
+		<plugin name="FHD EkselanceV3 Black Montana all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-EkselanceV3 Black Montana all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Ekselancexe-BLACK-MONTANA2020-openpli7.2_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-ekselancexe-BLACK-MONTANA2020-openpli7.2_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Ekselancexe-fhd-dragon-py3_4.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-ekselancexe-fhd-dragon-py3_4.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Gradientfhd_sharp987_openpli9.0-r1.00_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-skin-gradientfhd_sharp987_openpli9.0-r1.00_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Malek-fhd_2.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Malek-fhd_2.3_py3.11.2">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.3_py3.11.2.ipk"</url>
+		</plugin>
+		<plugin name="FHD Maxy-fhd-pli_1.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-maxy-fhd-pli_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Mymetrixfhdpy3_2.2_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-mymetrixfhdpy3_2.2_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Montana2023-obsplus-fhd-all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skinbymontana2023-obsplus-fhd-all_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Obsplusblack-fhd-all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-obsplusblack-fhd-all_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Pd1loi-full-hd-night_2.6.1_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-full-hd-night_2.6.1_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Pd1loi-hd-full-hd_3.2_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-hd-full-hd_3.2_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Pdreamy-fhd_1.0-r4_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pdreamy-fhd_1.0-r4_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Redream-mod2fhd_2.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/Skin-redream-mod2fhd_2.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Revolution-pro_1.5.openpli.dragon_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-revolution-pro_1.5.openpli.dragon_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Simple-gray_git275-1-d437c9e-r0.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-simple-gray_git275-1-d437c9e-r0.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Whiteshadowfhd_sharp987_openpli9.0-r2.00_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-skin-whiteshadowfhd_sharp987_openpli9.0-r2.00_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Zentellas-fhd-all_1.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-zentellas-fhd-all_1.0_all.ipk"</url>
+		</plugin>
+	</plugins>
 	<!-- Skins_Vti -->
 	<plugins cont="Skins_Vti ">
 		<plugin name="FHD Aeon Sharp987 r3.29 all">
@@ -3383,7 +3449,7 @@
 		</plugin>
 		<plugin name="FHD White Shadow Sharp987 v.r1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Vti/enigna2-skin-whiteshadowfhd_sharp987_vti-r1.00_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="FHD Xmas v.3.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Vti/enigma2-plugin-skin-xmas-fhd_3.0_all.ipk"</url>
 		</plugin>
@@ -3393,7 +3459,6 @@
 		<plugin name="FHD Xmas Red v.3.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Vti/enigma2-plugin-skin-xmas-red-fhd_3.0_all.ipk"</url>
 		</plugin>
-
 	</plugins>
 	<!-- Skins_Egami -->
 	<plugins cont="Skins_Egami ">
@@ -3408,7 +3473,7 @@
 		</plugin>
 		<plugin name="FHD Xion V1.2 20180204 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_HDF/enigma2-plugin-skins-xionhdf_1.2-20180204_all.ipk"</url>
-		</plugin>		
+		</plugin>
 	</plugins>
 	<!-- Skins_OBH -->
 	<plugins cont="Skins_OBH ">
