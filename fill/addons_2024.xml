@@ -3412,8 +3412,26 @@
 	</plugins>
 	<!-- Skins_OBH -->
 	<plugins cont="Skins_OBH ">
-		<plugin name="FEEDS Dream-Arabia all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/"</url>
+		<plugin name="FHD MX Sline v.5.2 by Ahmedriad all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-mx-sline-openbh5.2-by-ahmedriad_v3.11_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD OpenBlackHole v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skin-openbhfhd_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Revolution Pro Full v.1.1 by Dragon all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skin-revolution-pro_full.1.1.OBH.dragon_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Cobalt v.21.01.2024 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins_CobaltFHD.OBH.21.01.2024_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Cobalt v.3 15.03.2023 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/Enigma2-plugin-skins-cobaltfhd3_OpenBH.15.03.2023_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD MX Sline Posterx v.2.0 mod. 2HA all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins-mx--sline-posterx_2.0-mod2ha_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD MX Line At v.1.0r0 mod. 2HA all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-skin-mx-fullhd-line-at_1.0-r0_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- Skins_OpenSpa -->
