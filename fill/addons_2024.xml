@@ -2259,12 +2259,11 @@
 		<plugin name="HD Beyonce F1 By Matrix10 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-Beyonce-F1-By-Matrix10-MOD-By-RAED.ipk"</url>
 		</plugin>
+
 		<plugin name="HD Blue Ocean by Maggy Mod. RAED pack.Lucek OpenPLi6 V0.1 all ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-blue.ocean.hd_by.Maggy.MOD.RAED.packed.Lucek.OpenPLi6_all.ipk"</url>
 		</plugin>
-		<plugin name="HD Blueaccents V0.1 all ">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-blueaccents-hd_0.1_all.ipk"</url>
-		</plugin>
+
 		<plugin name="HD Dreamy 1.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-dreamy_1.0_all.ipk"</url>
 		</plugin>
@@ -2418,9 +2417,7 @@
 		<plugin name="FHD Matrix Resurrections xtraevent v.2.4 dragon all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-skin-matrixresurrections_2.4xtraevent.dragon_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Maxy v.1.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
-		</plugin>
+
 		<plugin name="FHD Metrixperience by adrenalinnrw v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-skin-metrixperience-adrenalinnrw_1.1_all.ipk"</url>
 		</plugin>
@@ -2436,9 +2433,7 @@
 		<plugin name="FHD Metrix ItalySat 8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrix-fhd_italysat8_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Metrix Neo 7S v.2 all ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
-		</plugin>
+
 		<plugin name="FHD Metrix Neo v13 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrixfhd-neo_V13_all.ipk"</url>
 		</plugin>
@@ -2457,9 +2452,7 @@
 		<plugin name="FHD Novax v.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-novax-fhd_2.1_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Obselite v.1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-obselite-fhd-all_1.0_all.ipk"</url>
-		</plugin>
+
 		<plugin name="FHD oDreamy v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-oDreamy-FHD_1.4_all.ipk"</url>
 		</plugin>
@@ -2499,12 +2492,22 @@
 		<plugin name="FHD Artemis mod.Dragon v.8.1 poster backdrop all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-artemis-mod-dragon_8.1.poster.backdrop_all.ipk"</url>
 		</plugin>
+		<plugin name="FHD Bianca v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-bianca-fhd_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Blueaccents v.1.1 git941+1255b5b-r0 cortexa15hf-neon-vfpv4">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-blueaccents-fhd-4atv_1.1+git941+1255b5b-r0_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
 		<plugin name="FHD Cobalt 3 py3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-cobaltfhd3_atv-python3_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Cobaltfhd 18.07.2024 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-cobaltfhd_OpenATV-18.07.2024_all.ipk"</url>
 		</plugin>
+		<plugin name="FHD Copepr v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-skin-copper-fhd_V1.0_all.ipk"</url>
+		</plugin>
+
 		<plugin name="FHD Dragon v.1.0 by Dragon all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-skin-dragonfhdatv_1.0dragon_all.ipk"</url>
 		</plugin>
@@ -2622,6 +2625,9 @@
 		<plugin name="FHD Era Neo x PLi 4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-era-neo-x_OpenPLi4_all.ipk"</url>
 		</plugin>
+		<plugin name="FHD Extreme Golden v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-extremegolden-fhd-all_V1.1_all.ipk"</url>
+		</plugin>
 		<plugin name="FHD Gigabluepax mod. by ds openpli6 v.2.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-skins-gigabluepax-mod-by-ds-openpli6_v.2.5_all.ipk"</url>
 		</plugin>
@@ -2657,6 +2663,9 @@
 		</plugin>
 		<plugin name="FHD Montana Obsplus 1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/Skin-MX-Titanium-By-Matrix10-MoD-By-RAED_packed.Lucek.OpenPLi6_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Obselite v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-obselite-fhd-all_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Obsplus black v.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-obsplusblack-fhd-all_1.0_all.ipk"</url>
@@ -2835,6 +2844,9 @@
 		<plugin name="FHD MX Line At v.1.0r0 mod. 2HA all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-skin-mx-fullhd-line-at_1.0-r0_all.ipk"</url>
 		</plugin>
+		<plugin name="FHD MX BlackSea v.1.0r1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-skin-mx-blacksea_V1.0-r1_all.ipk"</url>
+		</plugin>		
 	</plugins>
 	<!-- Skins_OpenSpa -->
 	<plugins cont="Skins_OpenSpa ">
@@ -2844,8 +2856,11 @@
 	</plugins>
 	<!-- Skins_Oebased -->
 	<plugins cont="Skins_Oebased ">
-		<plugin name="FHD Revolution Pro Full v.1.0 by Dragon all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenSpa/enigma2-plugin-skin-revolution-pro_full.1.0.Openspa.dragon_all.ipk"</url>
+		<plugin name="FHD Maxy v.1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD Metrix Neo 7S v.2 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- SPORT -->
