@@ -2784,6 +2784,9 @@
 		<plugin name="FHD Glassline VTI v.1.0 mod. By Raed all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Vti/enigma2-plugin-skin-Nemesis-GlassLine-VTI-V1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
+		<plugin name="FHD Obelix VTI v.3.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Vti/enigma2-plugin-skin-obelixfhd_3.5_all.ipk"</url>
+		</plugin>		
 		<plugin name="FHD Retro v.1.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Vti/enigma2-plugin-skin-retro-fhd_1.5_all.ipk"</url>
 		</plugin>
