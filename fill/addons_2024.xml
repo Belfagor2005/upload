@@ -1299,8 +1299,8 @@
 		<plugin name="Levi45 MultiCam Manager v.10.1-r26 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.1-r26_all.deb"</url>
 		</plugin>
-		<plugin name="Levi45 Addon Panel v.10.1-r19 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon-manager_10.1-r19_all.deb"</url>
+		<plugin name="Levi45 Addon Panel v.10.1-r21 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.1-r21_all.deb"</url>
 		</plugin>
 		<plugin name="Linuxsat-Panel v.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_2.1_all.deb"</url>
@@ -1605,8 +1605,8 @@
 		<plugin name="Levi45 MultiCam Manager v.10.1-r26 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.1-r26_all.ipk"</url>
 		</plugin>
-		<plugin name="Levi45 Addon Panel v.10.1-r19 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon-manager_10.1-r19_all.ipk"</url>
+		<plugin name="Levi45 Addon Panel v.10.1-r21 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.1-r21_all.ipk"</url>
 		</plugin>
 		<plugin name="Linuxsat-Panel v.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_2.1_all.ipk"</url>
