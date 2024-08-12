@@ -583,7 +583,7 @@
 		</plugin>
 	</plugins>
 	<!-- FEEDS-OE2.2-2.5 -->
-	<plugins cont="Feeds DreamOs ">
+	<plugins cont="Feeds DreamOS ">
 		<plugin name="FEEDS Dream-Arabia all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dreamarabia-addons-feed.deb"</url>
 		</plugin>
