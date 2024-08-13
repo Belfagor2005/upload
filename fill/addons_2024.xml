@@ -1647,14 +1647,14 @@
 		<plugin name="Picon Buddy v.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.0.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Missing Picons 2017.08.28 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-missingpicons_2017_08_28_all.ipk"</url>
+		<plugin name="Missing Picons 2024.08.13 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-missingpicons_2024_08_13_all.ipk"</url>
 		</plugin>
 		<plugin name="Picon Cleaner 1.6 r3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconcleaner_1.6-r3_all.ipk"</url>
 		</plugin>
-		<plugin name="Picon Manager 2.1 20150216 r2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.1-20150216-r2_all.ipk"</url>
+		<plugin name="Picon Manager 2.1 20240813-r3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.1-20240813-r3_all.ipk"</url>
 		</plugin>
 		<plugin name="Picon Picons Updater 0.3.7.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconsupdater_0.3.7.5_all.ipk"</url>
