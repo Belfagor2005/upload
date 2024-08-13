@@ -1656,8 +1656,8 @@
 		<plugin name="Picon Manager 2.1 20150216 r2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.1-20150216-r2_all.ipk"</url>
 		</plugin>
-		<plugin name="Picon Picons Updater 0.3.7.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconsupdater_0.3.7.1_all.ipk"</url>
+		<plugin name="Picon Picons Updater 0.3.7.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconsupdater_0.3.7.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Picon Remover v.0.1-r1-20240806 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconremover_0.1-r1-20240806_all.ipk"</url>
@@ -1731,7 +1731,7 @@
 		<plugin name="Ncam Revcam2 12.9-r0 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam-revcamv2_V12.9-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="Oscam Icam Path 11815-802 all ipk">
+		<plugin name="Oscam Icam emu levi45 11815-802 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11815-802_all.ipk"</url>
 		</plugin>
 
@@ -1810,7 +1810,7 @@
 		<plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
 		</plugin>
-		<plugin name="Oscam Icam Path 11815-802 all">
+		<plugin name="Oscam Icam emu levi45 11815-802 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11815-802_all.deb"</url>
 		</plugin>
 		<plugin name="Oscam Icam 11787-py3.21_emu-r801 all">
