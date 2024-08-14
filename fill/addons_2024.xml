@@ -1296,11 +1296,11 @@
 		<plugin name="Lcd4linux 5.1-r1 mipsel all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r4_mipsel.deb"</url>
 		</plugin>
-		<plugin name="Levi45 MultiCam Manager v.10.1-r26 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.1-r26_all.deb"</url>
+		<plugin name="Levi45 MultiCam Manager v.10.1-r28 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.1-r28_all.deb"</url>
 		</plugin>
-		<plugin name="Levi45 Addon Panel v.10.1-r21 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.1-r21_all.deb"</url>
+		<plugin name="Levi45 Addon Panel v.10.1-r22 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.1-r22_all.deb"</url>
 		</plugin>
 		<plugin name="Linuxsat-Panel v.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_2.1_all.deb"</url>
@@ -1602,11 +1602,11 @@
 		<plugin name="Image Downloader V.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk"</url>
 		</plugin>
-		<plugin name="Levi45 MultiCam Manager v.10.1-r26 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.1-r26_all.ipk"</url>
+		<plugin name="Levi45 MultiCam Manager v.10.1-r28 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.1-r28_all.ipk"</url>
 		</plugin>
-		<plugin name="Levi45 Addon Panel v.10.1-r21 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.1-r21_all.ipk"</url>
+		<plugin name="Levi45 Addon Panel v.10.1-r22 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.1-r22_all.ipk"</url>
 		</plugin>
 		<plugin name="Linuxsat-Panel v.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_2.1_all.ipk"</url>
@@ -2249,6 +2249,15 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-Beyonce-F1-By-Matrix10-MOD-By-RAED.ipk"</url>
 		</plugin>
 
+		<plugin name="HD Bluebird v.0.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluebird-hd_0.5_all.ipk"</url>
+		</plugin>
+		<plugin name="HD Bluebirdp v.0.5p all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluebirdp-hd_0.5p_all.ipk"</url>
+		</plugin>
+		<plugin name="HD Bluewine v.0.3 mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluewine-hd_0.3_all.ipk"</url>
+		</plugin>
 		<plugin name="HD Blue Ocean by Maggy Mod. RAED pack.Lucek OpenPLi6 V0.1 all ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-blue.ocean.hd_by.Maggy.MOD.RAED.packed.Lucek.OpenPLi6_all.ipk"</url>
 		</plugin>
@@ -2361,23 +2370,11 @@
 		<plugin name="FHD xStreamity Toys v.2.0 20240116 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-extensions-xstreamity-toys-skin_2.00.20240116_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Aglare v.3.8 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-aglare-fhd_3.8_all.ipk"</url>
-		</plugin>
 		<plugin name="FHD BLACK NEON V4 By Muaath all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/Skin-BLACK-NEON-V4-FHD-By-Muaath.ipk"</url>
 		</plugin>
 		<plugin name="FHD Blueberry v.0.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-blueberry-fhd_0.3_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Bluebird v.0.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-bluebird-hd_0.5_all.ipk"</url>
-		</plugin>
-		<plugin name="FHD Bluebirdp v.0.5p all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-bluebirdp-hd_0.5p_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Bluewine v.0.3 mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-bluewine-hd_0.3_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Copper v.2.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-copper-fhd_2.3_all.ipk"</url>
@@ -2848,6 +2845,9 @@
 	</plugins>
 	<!-- Skins_Oebased -->
 	<plugins cont="Skins_Oebased ">
+		<plugin name="FHD Aglare v.3.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_3.9_all.ipk"</url>
+		</plugin>	
 		<plugin name="FHD Maxy v.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
 		</plugin>
