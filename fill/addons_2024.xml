@@ -1867,6 +1867,12 @@
 		<plugin name="FreeServer 8.3.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-freeserver_8.3.8_all.ipk"</url>
 		</plugin>
+		<plugin name="FreeCccam 1.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk"</url>
+		</plugin>	
+		<plugin name="FreeCccam 2.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-freecccam_2.3_all.ipk"</url>
+		</plugin>		
 		<plugin name="Zoom Panel v.2.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.1.0_all.ipk"</url>
 		</plugin>
