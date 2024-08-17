@@ -2451,6 +2451,7 @@
 		<plugin name="FHD oDreamy v.2.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-oDreamy-FHD_2.2_all.ipk"</url>
 		</plugin>
+
 		<plugin name="FHD Premium v.2.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd_2.7_all.ipk"</url>
 		</plugin>
@@ -2533,6 +2534,11 @@
 		<plugin name="FHD Novax v.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-novax-fhd_2.0_all.ipk"</url>
 		</plugin>
+
+		<plugin name="FHD oZeta 3.4 atv v.3.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-ozeta-atv_3.4_all.ipk"</url>
+		</plugin>
+
 		<plugin name="FHD Pro 2  v.2.0 pro2 by Dragon all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-beta-pro-fhd2_full.2.0.pro2.dragon_all.ipk"</url>
 		</plugin>
