@@ -701,9 +701,7 @@
 		<plugin name="Iptv Remote 1.0.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvremote_1.0.5_all.ipk"</url>
 		</plugin>
-		<plugin name="Iptv StreamLink 1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvstreamlink_1.0_r0_all.ipk"</url>
-		</plugin>
+
 		<plugin name="Iptv Updater V 1.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvupdater_1.5_all.ipk"</url>
 		</plugin>
@@ -734,7 +732,9 @@
 		<plugin name="M3U Services Converter pAnDaSAT 1.b">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-panda-m3userviceconverter_v.1.b_all.ipk"</url>
 		</plugin>
-		<plugin name="Mediastream 9.2.0 Mips all">
+		<plugin name="Mediaplayer2 git26+17c9822 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-mediaplayer2_git26+17c9822_all.ipk"</url>
+		</plugin>		<plugin name="Mediastream 9.2.0 Mips all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Mediastream-9.2.0-mipsel.ipk"</url>
 		</plugin>
 		<plugin name="Merlin Music Player v.7.4 all">
@@ -818,9 +818,10 @@
 		<plugin name="SkyRecorder v. 2.1.3 py2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-skyrecorder_2.1.3-py2_all.ipk"</url>
 		</plugin>
-		<plugin name="StreamLink v.3.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlink_v.3.3_all.ipk"</url>
+		<plugin name="Stream Hunter v.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/stream_hunter8_all.ipk"</url>
 		</plugin>
+
 		<plugin name="Streamlinkwrapper_1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk"</url>
 		</plugin>
@@ -898,7 +899,7 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.deb"</url>
 		</plugin>
 		<plugin name="xKlass v.1.10.20240726 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-xklass_1.10_20240726_all.deb"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.10_20240726_all.deb"</url>
 		</plugin>
 		<plugin name="XStreamity 4.55_20240723 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.55_20240723_all.deb"</url>
@@ -1314,9 +1315,6 @@
 		<plugin name="Justwatch 1.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-justwatch_1.2.1_all.deb"</url>
 		</plugin>
-		<plugin name="Kodilite 9.1r1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1-r1_all.deb"</url>
-		</plugin>
 		<plugin name="Lcd4linux 5.1-r1 arm64 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r1_arm64.deb"</url>
 		</plugin>
@@ -1497,9 +1495,7 @@
 		<plugin name="Weatherplugin v.2.0 mod lululla all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-weatherplugin_2.0_all.deb"</url>
 		</plugin>
-		<plugin name="Webmedia by PCD 18.3-r1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia_18.3-r1.0_all.deb"</url>
-		</plugin>
+
 		<plugin name="Webradiofs 16.24 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webradiofs_16.24_all.deb"</url>
 		</plugin>
@@ -1509,15 +1505,7 @@
 		<plugin name="Wireguardmanager 1.0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wireguardmanager_1.0.6_all.deb"</url>
 		</plugin>
-		<plugin name="Youtube h1+git1078+adb94bf-r0 Mod-RAED">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-youtube_1+git1078+adb94bf-r0-Mod-RAED.deb"</url>
-		</plugin>
-		<plugin name="Youtube DreamOs-plus-minitv-git1172-r0.0-Mod-Petry all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-youtube_DreamOS-plus-minitv-git1172-r0.0-Mod-Petry_all.deb"</url>
-		</plugin>
-		<plugin name="Youtube dreamOS-v1-beta-2023.06.19 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-youtube_dreamOS-v1-beta-2023.06.19_all.deb"</url>
-		</plugin>
+
 	</plugins>
 	<!-- MEDIAPORTAL - YOUTUBE -->
 	<plugins cont="MP-YT ">
@@ -1530,11 +1518,24 @@
 		<plugin name="Mediaportal Update 31.05.2020 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-mediaportal_all.ipk"</url>
 		</plugin>
-		<plugin name="YouTube py3-git1193-aa1d1ad-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_py3-git1193-aa1d1ad-r0.0.ipk"</url>
+		<plugin name="Youtube plus-minitv py2 v2-git1133-5722cc7-r0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube-plus-minitv_py2-v2-git1133-5722cc7-r0.0_all.ipk"</url>
 		</plugin>
-		<plugin name="YouTube h1-git1193-aa1d1ad-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1193-aa1d1ad-r0.0.ipk"</url>
+		<plugin name="YouTube py3-git1222-00534de-r0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_py3-git1222-00534de-r0.0.ipk"</url>
+		</plugin>
+		<plugin name="YouTube h1-git1222-00534de-r0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1222-00534de-r0.0.ipk"</url>
+		</plugin>
+
+		<plugin name="Youtube h1+git1078+adb94bf-r0 Mod-RAED DEB">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_1+git1078+adb94bf-r0-Mod-RAED.deb"</url>
+		</plugin>
+		<plugin name="Youtube DreamOs-plus-minitv-git1172-r0.0-Mod-Petry DEB">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_DreamOS-plus-minitv-git1172-r0.0-Mod-Petry_all.deb"</url>
+		</plugin>
+		<plugin name="Youtube dreamOS-v1-beta-2023.06.19 DEB">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_dreamOS-v1-beta-2023.06.19_all.deb"</url>
 		</plugin>
 	</plugins>
 	<!-- MULTIBOOT -->
@@ -1595,6 +1596,15 @@
 		</plugin>
 		<plugin name="Kodilite 9.1r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1_r0_all.ipk"</url>
+		</plugin>
+		<plugin name="Kodilite 9.1r1 deb">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1-r1_all.deb"</url>
+		</plugin>
+		<plugin name="WebMedia 18.2_.r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-webmedia_18.2_r0_all.ipk"</url>
+		</plugin>
+		<plugin name="Webmedia 18.3-r1 deb">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia_18.3-r1.0_all.deb"</url>
 		</plugin>
 	</plugins>
 	<!-- PANELS ADDONS -->
@@ -1984,6 +1994,10 @@
 	</plugins>
 	<!-- STREAMLINK -->
 	<plugins cont="Streamlink ">
+
+		<plugin name="Streamlink v.5.3.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlink_5.3.1.ipk"</url>
+		</plugin>
 		<plugin name="Streamlink proxy 6.7.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlinkproxy_6.7.3_all.ipk"</url>
 		</plugin>
@@ -1999,6 +2013,15 @@
 		<plugin name="Streamlink 1.1.1.r0 mod all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-streamlink_1.1.1.r0_mod_all.ipk"</url>
 		</plugin>
+		<plugin name="Iptv StreamLink 1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvstreamlink_1.0_r0_all.ipk"</url>
+		</plugin>
+		<plugin name="Streamlinksrv 1.8.2 all all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlinksrv_1.8.2.ipk"</url>
+		</plugin>
+		<plugin name="Streamlinksrv 1.8.2+git16+0a4c0e6-r0 all all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlinksrv_1.8.2+git16+0a4c0e6-r0_all.ipk"</url>
+		</plugin>		
 		<plugin name="Streamlinksrv 1.1.0 all all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlinksrv_1.1.0_all.ipk"</url>
 		</plugin>
@@ -3749,12 +3772,7 @@
 		<plugin name="Xbmc kodi ipk all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk"</url>
 		</plugin>
-		<plugin name="Kodilite 9.1r1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1_r1_all.ipk"</url>
-		</plugin>
-		<plugin name="WebMedia 18.2_.r0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-webmedia_18.2_r0_all.ipk"</url>
-		</plugin>
+
 
 	</plugins>
 	<!-- OTHER 2.2 -->
