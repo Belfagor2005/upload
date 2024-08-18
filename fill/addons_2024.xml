@@ -3649,6 +3649,63 @@
 	</plugins>
 	<!-- OTHER 2.0 -->
 	<plugins cont="Other Oe2.0 ">
+
+		<plugin name="Astronomy v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-astronomy_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Cast Uasay v.0.316 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-cast-uasay_0.316_all.ipk"</url>
+		</plugin>		
+		<plugin name="Dreamplex v.2.1.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-dreamplex_2.1.3_all.ipk"</url>
+		</plugin>		
+		<plugin name="Embydream armv7ahf-vfp-neon v.1.3.5">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-embydream_1.3.5_armv7ahf-vfp-neon.ipk"</url>
+		</plugin>	
+		<plugin name="Embydream mips32el v.1.3.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-embydream_1.3.5_mips32el.ipk"</url>
+		</plugin>	
+		<plugin name="Italysmart v.240510.1 armv7ahf-neon">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-italysmart-240510.1_armv7ahf-neon.ipk"</url>
+		</plugin>
+		<plugin name="Italysmart v.240510.1 mips32el">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-italysmart-240510.1_mips32el.ipk"</url>
+		</plugin>
+		<plugin name="Playsrfmediathek v.0.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-playsrfmediathek_0.5_all.ipk"</url>
+		</plugin>
+		<plugin name="Plexdream v.1.1.7 armv7ahf-vfp-neon">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-plexdream_1.1.7_armv7ahf-vfp-neon.ipk"</url>
+		</plugin>
+		<plugin name="Plexdream v.1.1.7 amips32el">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-plexdream_1.1.7_mips32el.ipk"</url>
+		</plugin>
+		<plugin name="Russianmediapark 35.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-russianmediapark_35.1_all.ipk"</url>
+		</plugin>
+		<plugin name="Russianmediapark 2.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-russianmediaparktv_2.2_all.ipk"</url>
+		</plugin>
+		<plugin name="Srfmediathek 0.6.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-srfmediathek_0.6.3_all.ipk"</url>
+		</plugin>
+		<plugin name="TurkVod 13 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_13_OE20_all.ipk"</url>
+		</plugin>
+		<plugin name="TurkVod 13 PY38 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_13_PY38.ipk"</url>
+		</plugin>
+		<plugin name="TurkVod 13 PY39 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_13_PY39.ipk"</url>
+		</plugin>
+		<plugin name="TurkVod 13 PY310 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_13_PY310.ipk"</url>
+		</plugin>
+
+		<plugin name="TurkVod Full PY£ 14.10 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod-full-py3_14.10_all.ipk"</url>
+		</plugin>
+
 		<plugin name="Xbmc kodi ipk all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk"</url>
 		</plugin>
