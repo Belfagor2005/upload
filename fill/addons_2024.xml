@@ -788,9 +788,9 @@
 		<plugin name="Playstream v.0.9c FHD all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-playstream_0.9c_all.ipk"</url>
 		</plugin>
-		<plugin name="Pluto TV 20240220 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240220_all.ipk"</url>
-		</plugin>
+		<plugin name="Pluto TV 20240714 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240714_all.ipk"</url>
+		</plugin>		
 		<plugin name="Pictureplayer2_1.0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
 		</plugin>
@@ -1521,11 +1521,11 @@
 		<plugin name="Youtube plus-minitv py2 v2-git1133-5722cc7-r0.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube-plus-minitv_py2-v2-git1133-5722cc7-r0.0_all.ipk"</url>
 		</plugin>
-		<plugin name="YouTube py3-git1222-00534de-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_py3-git1222-00534de-r0.0.ipk"</url>
+		<plugin name="YouTube py3-git1225-717bbde-r0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_py3-git1225-717bbde-r0.0.ipk"</url>
 		</plugin>
-		<plugin name="YouTube h1-git1222-00534de-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1222-00534de-r0.0.ipk"</url>
+		<plugin name="YouTube h1-git1225-717bbde-r0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1225-717bbde-r0.0.ipk"</url>
 		</plugin>
 
 		<plugin name="Youtube h1+git1078+adb94bf-r0 Mod-RAED DEB">
@@ -1756,6 +1756,9 @@
 		<plugin name="Web Radio FS 21.03 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-webradiofs_21.03_all.ipk"</url>
 		</plugin>
+		<plugin name="Yampmusicplayer v.3.3.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-yampmusicplayer_3.3.1.ipk"</url>
+		</plugin>		
 		<plugin name="Yampmusicplayer v.3.3.0-T5 2021-05-02 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-yampmusicplayer_3.3.0-T5_2021-05-02_all.ipk"</url>
 		</plugin>
@@ -3729,6 +3732,9 @@
 		</plugin>
 		<plugin name="Italysmart v.240510.1 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-italysmart-240510.1_mips32el.ipk"</url>
+		</plugin>
+		<plugin name="Picturecenterfs v.8.52 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-picturecenterfs_8.52_all.ipk"</url>
 		</plugin>
 		<plugin name="Playsrfmediathek v.0.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-playsrfmediathek_0.5_all.ipk"</url>
