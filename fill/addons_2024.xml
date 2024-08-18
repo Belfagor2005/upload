@@ -713,8 +713,8 @@
 		<plugin name="Magentamusik 360 2.0+git14+a3998e2 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-magentamusik360_2.0+git14+a3998e2-r0.ipk"</url>
 		</plugin>
-		<plugin name="M2B m3u to bouquet 2.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-m2b_2.7_all.ipk"</url>
+		<plugin name="M2B m3u to bouquet 2.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-m2b_2.8_all.ipk"</url>
 		</plugin>
 		<plugin name="M3U Player v. 1.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-m3uplayer_1.1_all.ipk"</url>
@@ -1233,8 +1233,8 @@
 		<plugin name="Eurojackpot_240202">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eurojackpot_240202_all.deb"</url>
 		</plugin>
-		<plugin name="Event data manager v.1.0-r20 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all_v1.0-r20_.deb"</url>
+		<plugin name="Event data manager v.1.0-r21 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all_1.0-r21.deb"</url>
 		</plugin>
 		<plugin name="Feeds Finder 20201016 V1.6 momi133 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/feeds-finder_20201016_V1.6_momi133-OE2.5.deb"</url>
