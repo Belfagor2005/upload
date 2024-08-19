@@ -7,7 +7,7 @@ Suggested by:
 All code was rewritten 
 by Lululla
 maintener
-20240720
+20240720 init version 2.0
 
 ATTENTION PLEASE...    
 This is free software; you can redistribute it and/or modify it 
