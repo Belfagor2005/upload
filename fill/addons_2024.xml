@@ -656,8 +656,8 @@
 		<plugin name="E2iStream 20191129_r01 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2istream_20191129_r01_all.ipk"</url>
 		</plugin>
-		<plugin name="E2m3u2bouquet 1.8.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.8.1_all.ipk"</url>
+		<plugin name="E2m3u2bouquet 1.8.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.8.2_all.ipk"</url>
 		</plugin>
 		<plugin name="Exodus V 7.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-exodus_7.0_r0_all.ipk"</url>
@@ -1246,8 +1246,8 @@
 		<plugin name="E2iplayer h1+git3988+7977fec-r4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"</url>
 		</plugin>
-		<plugin name="E2m3u2bouquet_1.8.1_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.8.1_all.deb"</url>
+		<plugin name="E2m3u2bouquet_1.8.2_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.8.2_all.deb"</url>
 		</plugin>
 		<plugin name="EpgGrabber 22.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epggrabber_22.5_all.deb"</url>
@@ -2922,8 +2922,8 @@
 	</plugins>
 	<!-- Skins_Oebased -->
 	<plugins cont="Skins_Oebased ">
-		<plugin name="FHD Aglare v.3.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_3.9_all.ipk"</url>
+		<plugin name="FHD Aglare v.4.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_4.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Maxy v.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
