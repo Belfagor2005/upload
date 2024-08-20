@@ -26,4 +26,11 @@ Changelog:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+20240820 2.2 version is online
+
+Changelog:
+--add Script Panel
+--button fix
+--skin hd/fhd fix
+--minor fix
 
