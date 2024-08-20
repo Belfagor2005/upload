@@ -1,9 +1,10 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 WELCOME TO 
 
 LINUXSAT-SUPPORT PANEL ADDONS
 
-2024.07.20 INIT UPDATE PANEL PLUGIN
+2024.07.20 INIT RECODE PANEL PLUGIN
 
 Thank you Lululla 
 
