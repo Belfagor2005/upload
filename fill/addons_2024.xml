@@ -3051,11 +3051,8 @@
 		<plugin name="Device Manager 1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-devicemanager_1.2_all.ipk"</url>
 		</plugin>
-		<plugin name="Dream Explorer git20151206">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamexplorer_git20151206_all.ipk"</url>
-		</plugin>
-		<plugin name="Dream Explorer 5.8 mipsel">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamexplorer_5.8_mipsel.ipk"</url>
+		<plugin name="Dream Explorer mod. Lululla 7.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamexplorer_7.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Dream Screen 1.4 r1 ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamscreen_1.4-1_all.ipk"</url>
@@ -3072,14 +3069,8 @@
 		<plugin name="Evg Quicksignal V.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-evgquicksignal_1.1_all.ipk"</url>
 		</plugin>
-		<plugin name="Filecommander 1.06 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filecommander_1.0.6_all.ipk"</url>
-		</plugin>
-		<plugin name="Filecommander 6.3 + git27368+409f214 r0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filecommander_6.3+git27368+409f214-r0_all.ipk"</url>
-		</plugin>
-		<plugin name="Filecommander github+up20feb2022 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filecommander_github+up20feb2022_all.ipk"</url>
+		<plugin name="Filecommander mod 2024 by lululla all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filecommander_mod_2024_by_lululla_all.ipk"</url>
 		</plugin>
 		<plugin name="Flash Expander it openpli4 Modded Lululla">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-flashexpander-it-openpli4_0.33-r0_all.ipk"</url>
