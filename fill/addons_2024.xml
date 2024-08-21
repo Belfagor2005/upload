@@ -68,8 +68,8 @@
 		<plugin name="iSetting START V.1.1  IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-start-1.1.ipk"</url>
 		</plugin>
-		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.0  IPK">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.0.ipk"</url>
+		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.2  IPK">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.2.ipk"</url>
 		</plugin>
 		<plugin name="Autobouquets Maker v.3.3+git913+abf72e8-r0_cortexa15hf-neon-vfpv4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-autobouquetsmaker_3.3+git913+abf72e8-r0_cortexa15hf-neon-vfpv4.ipk"</url>
@@ -1312,8 +1312,8 @@
 		<plugin name="iSetting START V.1.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-start-1.1.deb"</url>
 		</plugin>
-		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.0">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.0.deb"</url>
+		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.2">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.2.deb"</url>
 		</plugin>
 		<plugin name="Justwatch 1.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-justwatch_1.2.1_all.deb"</url>
