@@ -71,6 +71,55 @@
 		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.2  IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.2.ipk"</url>
 		</plugin>
+		<plugin name="iSetting OE3.0 0.7 Python 3.12.x - (OpenATV 7.4/7.5 - Ecc) mips IPK">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe3.0-all-mips.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE3.0 0.7 Python 3.12.x - (OpenATV 7.4/7.5 - Ecc) arm IPK">		
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe3.0-all-arm.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.9 0.7 Python 3.11.x - (OpenATV 7.2/7.3/7.4) arm IPK">			
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.9-all-arm.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.9 0.7 Python 3.11.x - (OpenATV 7.2/7.3/7.4) mips IPK">			
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.9-all-mips.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.8 0.7 Python 3.10.x - (Egami10.1 - OpenATV 7.1 - OpenBH 5.1 - Ecc) mips IPK">			
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.8-all-mips.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.8 0.7 Python 3.10.x - (Egami10.1 - OpenATV 7.1 - OpenBH 5.1 - Ecc) arm IPK">		
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.8-all-arm.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.7 0.7 Python 3.9.x - (OpenATV7.0 - OpenBH 5.0 - OpenPli 9.0 - Ecc) arm IPK">			
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.7-all-arm.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.7 0.7 Python 3.9.x - (OpenATV7.0 - OpenBH 5.0 - OpenPli 9.0 - Ecc) mips IPK">			
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.7-all-mips.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.6 0.7 Python 2.x.x - (Dreambox CSV) arm deb">		
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.6-all-arm.deb"</url>
+		</plugin>
+		<plugin name="iSetting OE2.6 0.7 Python 2.x.x - (Dreambox CSV) mips deb">		
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.6-all-mips.deb"</url>
+		</plugin>
+		<plugin name="iSetting OE2.5 0.7 Python 2.x.x - (Dreambox CSV)) mips deb">			
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.5-all-mips.deb"</url>
+		</plugin>
+		<plugin name="iSetting OE2.5 0.7 Python 2.x.x - (Dreambox CSV) arm deb">			
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.5-all-arm.deb"</url>
+		</plugin>
+		<plugin name="iSetting OE2.4 0.7 Python 3.8.x - (OpenSPA 8.0 - OpenATV 6.5) arm deb">		
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.4-all-arm.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.4 0.7 Python 3.8.x - (OpenSPA 8.0 - OpenATV 6.5) mips deb">		
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.4-all-mips.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.0 0.7 Python 2.x.x - (OpenATV 6.4 - OpenPli 8. - Ecc) mips deb">			
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.0-all-mips.ipk"</url>
+		</plugin>
+		<plugin name="iSetting OE2.0 0.7 Python 2.x.x - (OpenATV 6.4 - OpenPli 8. - Ecc) arm deb">			
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.0-all-arm.ipk"</url>
+		</plugin>
+
 		<plugin name="Autobouquets Maker v.3.3+git913+abf72e8-r0_cortexa15hf-neon-vfpv4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-autobouquetsmaker_3.3+git913+abf72e8-r0_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
