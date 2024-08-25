@@ -914,8 +914,8 @@
 		<plugin name="Skins Slyk Toppicks 7.6.20240529 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skins-slyk-toppicks_7.6.20240529_all.ipk"</url>
 		</plugin>
-		<plugin name="XKlass v.1.11.20240825all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.11.20240825_all.ipk"</url>
+		<plugin name="XKlass v.1.12.20240825all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.12.20240825_all.ipk"</url>
 		</plugin>
 		<plugin name="XStreamity 4.57.20240825 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.57.20240825_all.ipk"</url>
@@ -939,8 +939,8 @@
 		<plugin name="Jedi EPG Xtream 2.09.20230805 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.deb"</url>
 		</plugin>
-		<plugin name="xKlass v.1.11_20240825 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.11_20240825_all.deb"</url>
+		<plugin name="xKlass v.1.12_20240825 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.12_20240825_all.deb"</url>
 		</plugin>
 		<plugin name="XStreamity 4.57.20240825 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.57_20240825_all.deb"</url>
@@ -1825,8 +1825,8 @@
 		<plugin name="Ncam Revcam2 12.9-r0 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam-revcamv2_V12.9-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="Oscam Icam emu levi45 11818-802 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.ipk"</url>
+		<plugin name="Oscam Icam emu levi45 11819-802 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11819-802_all.ipk"</url>
 		</plugin>
     <plugin name="Oscam Icam py3.21_11788-emu-r801 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.ipk"</url>
@@ -1903,8 +1903,8 @@
 		<plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
 		</plugin>
-		<plugin name="Oscam Icam emu levi45 11818-802 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.deb"</url>
+		<plugin name="Oscam Icam emu levi45 11819-802 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11819-802_all.deb"</url>
 		</plugin>
 		<plugin name="Oscam Icam 11787-py3.21_emu-r801 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.deb"</url>
