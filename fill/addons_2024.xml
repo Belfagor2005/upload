@@ -914,6 +914,9 @@
 		<plugin name="Skins Slyk Toppicks 7.6.20240529 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skins-slyk-toppicks_7.6.20240529_all.ipk"</url>
 		</plugin>
+    <plugin name="Screennames_1.06.20240825_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
+		</plugin>
 		<plugin name="XKlass v.1.12.20240825all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.12.20240825_all.ipk"</url>
 		</plugin>
@@ -3241,9 +3244,6 @@
 		</plugin>
 		<plugin name="ScreenGrabber v.2.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screengrabber_2.6_all.ipk"</url>
-		</plugin>
-		<plugin name="Screennames v.1.06.20240825 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
 		</plugin>
 		<plugin name="Screenresizer 1.1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screenresizer_1.1.7_all.ipk"</url>
