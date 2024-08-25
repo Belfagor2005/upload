@@ -945,8 +945,8 @@
 		<plugin name="XStreamity 4.57.20240825 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.57_20240825_all.deb"</url>
 		</plugin>
-		<plugin name="Screen Names v.1.05.20240323 DREAMOS">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.05.20240323_all.deb"</url>
+		<plugin name="Screen Names v.1.06.20240825 DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
 		</plugin>
 		<plugin name="Visual Weather 1.09.20240205 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.09_20240205_all.deb"</url>
@@ -3242,8 +3242,8 @@
 		<plugin name="ScreenGrabber v.2.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screengrabber_2.6_all.ipk"</url>
 		</plugin>
-		<plugin name="Screennames v.1.05.20240323 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screennames_1.05.20240323_all.ipk"</url>
+		<plugin name="Screennames v.1.06.20240825 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
 		</plugin>
 		<plugin name="Screenresizer 1.1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screenresizer_1.1.7_all.ipk"</url>
