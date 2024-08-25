@@ -908,6 +908,9 @@
 		<plugin name="Movie Planner Mod v.4.02.20211228 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-movieplannermod_4.02.20211228_all.ipk"</url>
 		</plugin>
+		<plugin name="Screen Names v.1.06.20240825 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
+		</plugin>
 		<plugin name="Slyk EPG 7 Day v.2.08.20240204 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-slykepg7day_2.08.20240204_all.ipk"</url>
 		</plugin>
@@ -945,8 +948,8 @@
 		<plugin name="XStreamity 4.57.20240823 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.57_20240823_all.deb"</url>
 		</plugin>
-		<plugin name="Screen Names v.1.05.20240323 DREAMOS">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.05.20240323_all.deb"</url>
+		<plugin name="Screen Names v.1.06.20240825 DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
 		</plugin>
 		<plugin name="Visual Weather 1.09.20240205 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.09_20240205_all.deb"</url>
@@ -1825,10 +1828,13 @@
 		<plugin name="Ncam Revcam2 12.9-r0 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam-revcamv2_V12.9-r0_all.ipk"</url>
 		</plugin>
+		<plugin name="Oscam Icam emu levi45 11819-802 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11819-802_all.ipk"</url>
+		</plugin>		
 		<plugin name="Oscam Icam emu levi45 11818-802 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.ipk"</url>
 		</plugin>
-    <plugin name="Oscam Icam py3.21_11788-emu-r801 ipk">
+		<plugin name="Oscam Icam py3.21_11788-emu-r801 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.ipk"</url>
 		</plugin>
 		<plugin name="Oscam Icam py3.10_11788-emu-r801 ipk">
@@ -1902,6 +1908,9 @@
 		</plugin>
 		<plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
+		</plugin>
+		<plugin name="Oscam Icam emu levi45 11819-802 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11819-802_all.deb"</url>
 		</plugin>
 		<plugin name="Oscam Icam emu levi45 11818-802 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.deb"</url>
