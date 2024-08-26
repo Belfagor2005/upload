@@ -74,41 +74,39 @@
 		<plugin name="iSetting OE3.0 0.7 Python 3.12.x - (OpenATV 7.4/7.5 - Ecc) mips IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe3.0-all-mips.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE3.0 0.7 Python 3.12.x - (OpenATV 7.4/7.5 - Ecc) arm IPK">		
+		<plugin name="iSetting OE3.0 0.7 Python 3.12.x - (OpenATV 7.4/7.5 - Ecc) arm IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe3.0-all-arm.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE2.9 0.7 Python 3.11.x - (OpenATV 7.2/7.3/7.4) arm IPK">			
+		<plugin name="iSetting OE2.9 0.7 Python 3.11.x - (OpenATV 7.2/7.3/7.4) arm IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.9-all-arm.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE2.9 0.7 Python 3.11.x - (OpenATV 7.2/7.3/7.4) mips IPK">			
+		<plugin name="iSetting OE2.9 0.7 Python 3.11.x - (OpenATV 7.2/7.3/7.4) mips IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.9-all-mips.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE2.8 0.7 Python 3.10.x - (Egami10.1 - OpenATV 7.1 - OpenBH 5.1 - Ecc) mips IPK">			
+		<plugin name="iSetting OE2.8 0.7 Python 3.10.x - (Egami10.1 - OpenATV 7.1 - OpenBH 5.1 - Ecc) mips IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.8-all-mips.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE2.8 0.7 Python 3.10.x - (Egami10.1 - OpenATV 7.1 - OpenBH 5.1 - Ecc) arm IPK">		
+		<plugin name="iSetting OE2.8 0.7 Python 3.10.x - (Egami10.1 - OpenATV 7.1 - OpenBH 5.1 - Ecc) arm IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.8-all-arm.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE2.7 0.7 Python 3.9.x - (OpenATV7.0 - OpenBH 5.0 - OpenPli 9.0 - Ecc) arm IPK">			
+		<plugin name="iSetting OE2.7 0.7 Python 3.9.x - (OpenATV7.0 - OpenBH 5.0 - OpenPli 9.0 - Ecc) arm IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.7-all-arm.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE2.7 0.7 Python 3.9.x - (OpenATV7.0 - OpenBH 5.0 - OpenPli 9.0 - Ecc) mips IPK">			
+		<plugin name="iSetting OE2.7 0.7 Python 3.9.x - (OpenATV7.0 - OpenBH 5.0 - OpenPli 9.0 - Ecc) mips IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.7-all-mips.ipk"</url>
 		</plugin>
-
-		<plugin name="iSetting OE2.4 0.7 Python 3.8.x - (OpenSPA 8.0 - OpenATV 6.5) arm IPK">		
+		<plugin name="iSetting OE2.4 0.7 Python 3.8.x - (OpenSPA 8.0 - OpenATV 6.5) arm IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.4-all-arm.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE2.4 0.7 Python 3.8.x - (OpenSPA 8.0 - OpenATV 6.5) mips IPK">		
+		<plugin name="iSetting OE2.4 0.7 Python 3.8.x - (OpenSPA 8.0 - OpenATV 6.5) mips IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.4-all-mips.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE2.0 0.7 Python 2.x.x - (OpenATV 6.4 - OpenPli 8. - Ecc) mips IPK">			
+		<plugin name="iSetting OE2.0 0.7 Python 2.x.x - (OpenATV 6.4 - OpenPli 8. - Ecc) mips IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.0-all-mips.ipk"</url>
 		</plugin>
-		<plugin name="iSetting OE2.0 0.7 Python 2.x.x - (OpenATV 6.4 - OpenPli 8. - Ecc) arm IPK">			
+		<plugin name="iSetting OE2.0 0.7 Python 2.x.x - (OpenATV 6.4 - OpenPli 8. - Ecc) arm IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.0-all-arm.ipk"</url>
 		</plugin>
-
 		<plugin name="Autobouquets Maker v.3.3+git913+abf72e8-r0_cortexa15hf-neon-vfpv4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-autobouquetsmaker_3.3+git913+abf72e8-r0_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
@@ -712,9 +710,6 @@
 		<plugin name="Freechannels py3-git21-735d86d-r0.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-freechannels_py3-git21-735d86d-r0.0.ipk"</url>
 		</plugin>
-
-
-
 		<plugin name="HbbTV Player 0.2-r2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk"</url>
 		</plugin>
@@ -739,7 +734,6 @@
 		<plugin name="Iptv Remote 1.0.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvremote_1.0.5_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Iptv Updater V 1.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvupdater_1.5_all.ipk"</url>
 		</plugin>
@@ -772,7 +766,8 @@
 		</plugin>
 		<plugin name="Mediaplayer2 git26+17c9822 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-mediaplayer2_git26+17c9822_all.ipk"</url>
-		</plugin>		<plugin name="Mediastream 9.2.0 Mips all">
+		</plugin>
+		<plugin name="Mediastream 9.2.0 Mips all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Mediastream-9.2.0-mipsel.ipk"</url>
 		</plugin>
 		<plugin name="Merlin Music Player v.7.4 all">
@@ -828,7 +823,7 @@
 		</plugin>
 		<plugin name="Pluto TV 20240714 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240714_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Pictureplayer2_1.0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
 		</plugin>
@@ -859,7 +854,6 @@
 		<plugin name="Stream Hunter v.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/stream_hunter8_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Streamlinkwrapper_1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk"</url>
 		</plugin>
@@ -917,7 +911,7 @@
 		<plugin name="Skins Slyk Toppicks 7.6.20240529 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skins-slyk-toppicks_7.6.20240529_all.ipk"</url>
 		</plugin>
-    <plugin name="Screennames_1.06.20240825_all">
+		<plugin name="Screennames_1.06.20240825_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
 		</plugin>
 		<plugin name="XKlass v.1.12.20240825all">
@@ -1353,26 +1347,24 @@
 		<plugin name="Iptv Remote 1.0.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvremote_1.0.5.deb"</url>
 		</plugin>
-		
 		<plugin name="iSetting START V.1.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-start-1.1.deb"</url>
 		</plugin>
 		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.2.deb"</url>
 		</plugin>
-		<plugin name="iSetting OE2.6 0.7 Python 2.x.x - (Dreambox CSV) arm deb">		
+		<plugin name="iSetting OE2.6 0.7 Python 2.x.x - (Dreambox CSV) arm deb">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.6-all-arm.deb"</url>
 		</plugin>
-		<plugin name="iSetting OE2.6 0.7 Python 2.x.x - (Dreambox CSV) mips deb">		
+		<plugin name="iSetting OE2.6 0.7 Python 2.x.x - (Dreambox CSV) mips deb">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.6-all-mips.deb"</url>
 		</plugin>
-		<plugin name="iSetting OE2.5 0.7 Python 2.x.x - (Dreambox CSV)) mips deb">			
+		<plugin name="iSetting OE2.5 0.7 Python 2.x.x - (Dreambox CSV)) mips deb">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.5-all-mips.deb"</url>
 		</plugin>
-		<plugin name="iSetting OE2.5 0.7 Python 2.x.x - (Dreambox CSV) arm deb">			
+		<plugin name="iSetting OE2.5 0.7 Python 2.x.x - (Dreambox CSV) arm deb">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-3.6.1-oe2.5-all-arm.deb"</url>
 		</plugin>
-		
 		<plugin name="Justwatch 1.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-justwatch_1.2.1_all.deb"</url>
 		</plugin>
@@ -1559,7 +1551,6 @@
 		<plugin name="Weatherplugin v.2.0 mod lululla all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-weatherplugin_2.0_all.deb"</url>
 		</plugin>
-
 		<plugin name="Webradiofs 16.24 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webradiofs_16.24_all.deb"</url>
 		</plugin>
@@ -1569,7 +1560,6 @@
 		<plugin name="Wireguardmanager 1.0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wireguardmanager_1.0.6_all.deb"</url>
 		</plugin>
-
 	</plugins>
 	<!-- MEDIAPORTAL - YOUTUBE -->
 	<plugins cont="MP-YT ">
@@ -1591,8 +1581,6 @@
 		<plugin name="YouTube h1-git1226-e791ce6-r0.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1226-e791ce6-r0.0.ipk"</url>
 		</plugin>
-
-
 	</plugins>
 	<!-- MULTIBOOT -->
 	<plugins cont="MultiBoot ">
@@ -1656,7 +1644,6 @@
 		<plugin name="WebMedia 18.2_.r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-webmedia_18.2_r0_all.ipk"</url>
 		</plugin>
-		
 	</plugins>
 	<!-- PANELS ADDONS -->
 	<plugins cont="Panels Addons ">
@@ -1809,7 +1796,7 @@
 		</plugin>
 		<plugin name="Yampmusicplayer v.3.3.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-yampmusicplayer_3.3.1.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Yampmusicplayer v.3.3.0-T5 2021-05-02 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-yampmusicplayer_3.3.0-T5_2021-05-02_all.ipk"</url>
 		</plugin>
@@ -1833,12 +1820,9 @@
 		</plugin>
 		<plugin name="Oscam Icam emu levi45 11819-802 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11819-802_all.ipk"</url>
-<<<<<<< HEAD
-		</plugin>		
+		</plugin>
 		<plugin name="Oscam Icam emu levi45 11818-802 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.ipk"</url>
-=======
->>>>>>> 637332dfb795a2a9925626bf7e60adea45b024e8
 		</plugin>
 		<plugin name="Oscam Icam py3.21_11788-emu-r801 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.ipk"</url>
@@ -1917,12 +1901,9 @@
 		</plugin>
 		<plugin name="Oscam Icam emu levi45 11819-802 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11819-802_all.deb"</url>
-<<<<<<< HEAD
 		</plugin>
 		<plugin name="Oscam Icam emu levi45 11818-802 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.deb"</url>
-=======
->>>>>>> 637332dfb795a2a9925626bf7e60adea45b024e8
 		</plugin>
 		<plugin name="Oscam Icam 11787-py3.21_emu-r801 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.deb"</url>
@@ -2059,7 +2040,6 @@
 	</plugins>
 	<!-- STREAMLINK -->
 	<plugins cont="Streamlink ">
-
 		<plugin name="Streamlink v.5.3.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlink_5.3.1.ipk"</url>
 		</plugin>
@@ -2086,7 +2066,7 @@
 		</plugin>
 		<plugin name="Streamlinksrv 1.8.2+git16+0a4c0e6-r0 all all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlinksrv_1.8.2+git16+0a4c0e6-r0_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Streamlinksrv 1.1.0 all all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlinksrv_1.1.0_all.ipk"</url>
 		</plugin>
@@ -2378,7 +2358,6 @@
 		<plugin name="HD Beyonce F1 By Matrix10 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-Beyonce-F1-By-Matrix10-MOD-By-RAED.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Bluebird v.0.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluebird-hd_0.5_all.ipk"</url>
 		</plugin>
@@ -2391,7 +2370,6 @@
 		<plugin name="HD Blue Ocean by Maggy Mod. RAED pack.Lucek OpenPLi6 V0.1 all ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-blue.ocean.hd_by.Maggy.MOD.RAED.packed.Lucek.OpenPLi6_all.ipk"</url>
 		</plugin>
-
 		<plugin name="HD Dreamy 1.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-dreamy_1.0_all.ipk"</url>
 		</plugin>
@@ -2533,7 +2511,6 @@
 		<plugin name="FHD Matrix Resurrections xtraevent v.2.4 dragon all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-skin-matrixresurrections_2.4xtraevent.dragon_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Metrixperience by adrenalinnrw v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-skin-metrixperience-adrenalinnrw_1.1_all.ipk"</url>
 		</plugin>
@@ -2549,7 +2526,6 @@
 		<plugin name="FHD Metrix ItalySat 8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrix-fhd_italysat8_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Metrix Neo v13 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrixfhd-neo_V13_all.ipk"</url>
 		</plugin>
@@ -2568,14 +2544,12 @@
 		<plugin name="FHD Novax v.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-novax-fhd_2.1_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD oDreamy v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-oDreamy-FHD_1.4_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD oDreamy v.2.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-oDreamy-FHD_2.2_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Premium v.2.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd_2.7_all.ipk"</url>
 		</plugin>
@@ -2624,7 +2598,6 @@
 		<plugin name="FHD Copepr v.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-skin-copper-fhd_V1.0_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Dragon v.1.0 by Dragon all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-skin-dragonfhdatv_1.0dragon_all.ipk"</url>
 		</plugin>
@@ -2658,11 +2631,9 @@
 		<plugin name="FHD Novax v.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-novax-fhd_2.0_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD oZeta 3.4 atv v.3.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-ozeta-atv_3.4_all.ipk"</url>
 		</plugin>
-
 		<plugin name="FHD Pro 2  v.2.0 pro2 by Dragon all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-beta-pro-fhd2_full.2.0.pro2.dragon_all.ipk"</url>
 		</plugin>
@@ -3767,7 +3738,6 @@
 	</plugins>
 	<!-- OTHER 2.0 -->
 	<plugins cont="Other Oe2.0 ">
-
 		<plugin name="Astronomy v.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-astronomy_1.0_all.ipk"</url>
 		</plugin>
@@ -3801,7 +3771,6 @@
 		<plugin name="Plexdream v.1.1.7 amips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-plexdream_1.1.7_mips32el.ipk"</url>
 		</plugin>
-
 		<plugin name="Quran-Karim v.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-quran-karim_2.1_all.ipk"</url>
 		</plugin>
@@ -3826,16 +3795,12 @@
 		<plugin name="TurkVod 13 PY310 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_13_PY310.ipk"</url>
 		</plugin>
-
 		<plugin name="TurkVod Full PY£ 14.10 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod-full-py3_14.10_all.ipk"</url>
 		</plugin>
-
 		<plugin name="Xbmc kodi ipk all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk"</url>
 		</plugin>
-
-
 	</plugins>
 	<!-- OTHER 2.2 -->
 	<plugins cont="Other DreamOs ">
@@ -3860,15 +3825,12 @@
 		<plugin name="lib32 dreamwidevine 1.0 r0.2 armhf">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/lib32-dreamwidevine_1.0-r0.2_armhf.deb"</url>
 		</plugin>
-		
-
 		<plugin name="Kodilite 9.1r1 deb">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kodilite/enigma2-plugin-extensions-kodilite_9.1-r1_all.deb"</url>
 		</plugin>
 		<plugin name="Webmedia 18.3-r1 deb">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia_18.3-r1.0_all.deb"</url>
 		</plugin>
-		
 		<plugin name="Youtube h1+git1078+adb94bf-r0 Mod-RAED DEB">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_1+git1078+adb94bf-r0-Mod-RAED.deb"</url>
 		</plugin>
