@@ -1377,11 +1377,11 @@
 		<plugin name="Lcd4linux 5.1-r1 mipsel all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r4_mipsel.deb"</url>
 		</plugin>
-		<plugin name="Levi45 MultiCam Manager v.10.1-r29 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.1-r29_all.deb"</url>
+		<plugin name="Levi45 MultiCam Manager v.10.1-r30 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.1-r30_all.deb"</url>
 		</plugin>
-		<plugin name="Levi45 Addon Panel v.10.1-r23 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.1-r23_all.deb"</url>
+		<plugin name="Levi45 Addon Panel v.10.1-r24 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.1-r24_all.deb"</url>
 		</plugin>
 		<plugin name="Linuxsat-Panel v.2.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_2.2_all.deb"</url>
@@ -1686,11 +1686,11 @@
 		<plugin name="Image Downloader V.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk"</url>
 		</plugin>
-		<plugin name="Levi45 MultiCam Manager v.10.1-r29 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.1-r29_all.ipk"</url>
+		<plugin name="Levi45 MultiCam Manager v.10.1-r30 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.1-r30_all.ipk"</url>
 		</plugin>
-		<plugin name="Levi45 Addon Panel v.10.1-r23 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.1-r23_all.ipk"</url>
+		<plugin name="Levi45 Addon Panel v.10.1-r24 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.1-r24_all.ipk"</url>
 		</plugin>
 		<plugin name="Linuxsat-Panel v.2.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_2.2_all.ipk"</url>
