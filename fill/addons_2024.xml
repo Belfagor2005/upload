@@ -1200,6 +1200,9 @@
 		<plugin name="Alternative Softcammanager 4.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.deb"</url>
 		</plugin>
+		<plugin name="Astronomy v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-astronomy_1.1_all.deb"</url>
+		</plugin>
 		<plugin name="Backupandflash 1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupandflash_1.4_all.deb"</url>
 		</plugin>
@@ -3732,8 +3735,8 @@
 	</plugins>
 	<!-- OTHER 2.0 -->
 	<plugins cont="Other Oe2.0 ">
-		<plugin name="Astronomy v.1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-astronomy_1.0_all.ipk"</url>
+		<plugin name="Astronomy v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-astronomy_1.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Cast Uasay v.0.316 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-cast-uasay_0.316_all.ipk"</url>
