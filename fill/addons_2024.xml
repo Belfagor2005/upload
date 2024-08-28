@@ -890,8 +890,8 @@
 	</plugins>
 	<!-- KIDDAC -->
 	<plugins cont="Kiddac Zone Oe2.0 ">
-		<plugin name="Bouquet Maker Xtream 1.18.20240723 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.18.20240723_all.ipk"</url>
+		<plugin name="Bouquet Maker Xtream 1.19.20240827 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.19.20240827_all.ipk"</url>
 		</plugin>
 		<plugin name="Jedimakerxtream_6.37.20240530_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk"</url>
@@ -930,8 +930,8 @@
 	<!-- KIDDAC -->
 	<plugins cont="Kiddac Zone DreamOs ">
 		<!-- debian -->
-		<plugin name="Bouquet Maker Xtream 1.18_20240723_all DREAMOS">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.18_20240723_all.deb"</url>
+		<plugin name="Bouquet Maker Xtream 1.19.20240827 all DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.19_20240827_all.deb"</url>
 		</plugin>
 		<plugin name="Jedimakerxtream_6.37_20240530_all DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb"</url>
@@ -972,8 +972,8 @@
 		<plugin name="Clear MEM 1.11 Modded Lululla all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-clearmem_1.11_all.ipk"</url>
 		</plugin>
-		<plugin name="Crash Log Viewer 1.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.2_all.ipk"</url>
+		<plugin name="Crash Log Viewer 1.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.3_all.ipk"</url>
 		</plugin>
 		<plugin name="DD RSS FEEDS v.0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_0.6_all.ipk"</url>
@@ -1104,8 +1104,8 @@
 		<plugin name="Apsat TV 1.2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.2_all.deb"</url>
 		</plugin>
-		<plugin name="CrashLogViewer 1.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.2_all.deb"</url>
+		<plugin name="CrashLogViewer 1.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.3_all.deb"</url>
 		</plugin>
 		<plugin name="DD RSS FEEDS v.0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_0.6_all.deb"</url>
