@@ -1317,8 +1317,8 @@
 		<plugin name="Eurojackpot_240202">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eurojackpot_240202_all.deb"</url>
 		</plugin>
-		<plugin name="Event data manager v.1.0-r21 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all_1.0-r21.deb"</url>
+		<plugin name="Event data manager v.1.0-r22 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all_1.0-r22.deb"</url>
 		</plugin>
 		<plugin name="Feeds Finder 20201016 V1.6 momi133 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/feeds-finder_20201016_V1.6_momi133-OE2.5.deb"</url>
