@@ -821,8 +821,8 @@
 		<plugin name="Playstream v.0.9c FHD all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-playstream_0.9c_all.ipk"</url>
 		</plugin>
-		<plugin name="Pluto TV 20240830 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240830_all.ipk"</url>
+		<plugin name="Pluto TV 20240831 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240831_all.ipk"</url>
 		</plugin>
 		<plugin name="Pictureplayer2_1.0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
