@@ -122,8 +122,8 @@
 		<plugin name="Freechannels_py2-git21-735d86d-r0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-freechannels_py2-git21-735d86d-r0.0.ipk"</url>
 		</plugin>
-		<plugin name="Gioppygio v.12.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-gioppygio_12.1_all.ipk"</url>
+		<plugin name="Gioppygio v.12.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-gioppygio_12.2_all.ipk"</url>
 		</plugin>
 		<plugin name="LCN Scanner 1.0 r5 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-lcnscanner_1.0-r5_mips32el.ipk"</url>
@@ -821,8 +821,8 @@
 		<plugin name="Playstream v.0.9c FHD all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-playstream_0.9c_all.ipk"</url>
 		</plugin>
-		<plugin name="Pluto TV 20240714 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240714_all.ipk"</url>
+		<plugin name="Pluto TV 20240830 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240830_all.ipk"</url>
 		</plugin>
 		<plugin name="Pictureplayer2_1.0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
@@ -890,8 +890,8 @@
 	</plugins>
 	<!-- KIDDAC -->
 	<plugins cont="Kiddac Zone Oe2.0 ">
-		<plugin name="Bouquet Maker Xtream 1.19.20240827 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.19.20240827_all.ipk"</url>
+		<plugin name="Bouquet Maker Xtream 1.21.20240831 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.21.20240831_all.ipk"</url>
 		</plugin>
 		<plugin name="Jedimakerxtream_6.37.20240530_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk"</url>
@@ -914,6 +914,9 @@
 		<plugin name="Screennames_1.06.20240825_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
 		</plugin>
+    <plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
+		</plugin>
 		<plugin name="XKlass v.1.12.20240825all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.12.20240825_all.ipk"</url>
 		</plugin>
@@ -930,8 +933,8 @@
 	<!-- KIDDAC -->
 	<plugins cont="Kiddac Zone DreamOs ">
 		<!-- debian -->
-		<plugin name="Bouquet Maker Xtream 1.19.20240827 all DREAMOS">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.19_20240827_all.deb"</url>
+		<plugin name="Bouquet Maker Xtream 1.21.20240831 all DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.21_20240831_all.deb"</url>
 		</plugin>
 		<plugin name="Jedimakerxtream_6.37_20240530_all DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb"</url>
@@ -1200,8 +1203,8 @@
 		<plugin name="AdvancedMovieSelection v.5.6.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-advancedmovieselection_5.6.2_all.deb"</url>
 		</plugin>
-		<plugin name="Ajpanel v.9.4.4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ajpanel_v9.4.0_all.deb"</url>
+		<plugin name="Ajpanel v10.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ajpanel_v10.0.0_all.deb"</url>
 		</plugin>
 		<plugin name="Alternative Softcammanager 4.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.deb"</url>
@@ -1314,8 +1317,8 @@
 		<plugin name="Eurojackpot_240202">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eurojackpot_240202_all.deb"</url>
 		</plugin>
-		<plugin name="Event data manager v.1.0-r21 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all_1.0-r21.deb"</url>
+		<plugin name="Event data manager v.1.0-r22 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all_1.0-r22.deb"</url>
 		</plugin>
 		<plugin name="Feeds Finder 20201016 V1.6 momi133 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/feeds-finder_20201016_V1.6_momi133-OE2.5.deb"</url>
@@ -1656,8 +1659,8 @@
 	</plugins>
 	<!-- PANELS ADDONS -->
 	<plugins cont="Panels Addons ">
-		<plugin name="Ajpanel v.9.4.0">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-ajpanel_v9.4.0_all.ipk"</url>
+		<plugin name="Ajpanel v10.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-ajpanel_v10.0.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Alternative Softcam Manager 2-git46-a25a9b3-r0.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_2-git46-a25a9b3-r0.0_all.ipk"</url>
@@ -1761,41 +1764,41 @@
 	</plugins>
 	<!-- RADIO TOOLS -->
 	<plugins cont="Radio-Tools ">
-		<plugin name="Hdf Radio 2.12.6_py2_cortexa7hf-vfp all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py2_cortexa7hf-vfp.ipk"</url>
+		<plugin name="Hdfradio_2.3.0_py3_3.9.7_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.3.0_py3_3.9.7_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py2_cortexa9hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py2_cortexa9hf-neon-vfpv4.ipk"</url>
+		<plugin name="Hdfradio_2.3.0_py3_3.9.7_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.3.0_py3_3.9.7_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py2_cortexa15hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py2_cortexa15hf-neon-vfpv4.ipk"</url>
+		<plugin name="Hdfradio_2.3.0_py3_3.10.4_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.3.0_py3_3.10.4_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py2_mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py2_mips32el.ipk"</url>
+		<plugin name="Hdfradio_2.3.0_py3_3.10.4_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.3.0_py3_3.10.4_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py3_3.11.2_cortexa7hf-vfp all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py3_3.11.2_cortexa7hf-vfp.ipk"</url>
+		<plugin name="Hdfradio_2.13.0_py3_3.11.2_cortexa7hf-vfp all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.13.0_py3_3.11.2_cortexa7hf-vfp.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py3_3.11.2_cortexa9hf-neon all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py3_3.11.2_cortexa9hf-neon.ipk"</url>
+		<plugin name="Hdfradio_2.13.0_py3_3.11.2_cortexa9hf-neon all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.13.0_py3_3.11.2_cortexa9hf-neon.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 3.11.6_cortexa15hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py3_3.11.2_cortexa15hf-neon-vfpv4.ipk"</url>
+		<plugin name="Hdfradio_2.13.0_py3_3.11.2_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.13.0_py3_3.11.2_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py3_3.11.2_mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py3_3.11.2_mips32el.ipk"</url>
+		<plugin name="Hdfradio_2.13.0_py3_3.11.2_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.13.0_py3_3.11.2_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py3_3.12_cortexa7hf-vfp all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py3_3.12_cortexa7hf-vfp.ipk"</url>
+		<plugin name="Hdfradio_2.13.0_py3_3.12_cortexa7hf-vfp all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.13.0_py3_3.12_cortexa7hf-vfp.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py3_3.12_cortexa9hf-neon all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py3_3.12_cortexa9hf-neon.ipk"</url>
+		<plugin name="Hdfradio_2.13.0_py3_3.12_cortexa9hf-neon all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.13.0_py3_3.12_cortexa9hf-neon.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py3_3.12_cortexa15hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py3_3.12_cortexa15hf-neon-vfpv4.ipk"</url>
+		<plugin name="Hdfradio_2.13.0_py3_3.12_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.13.0_py3_3.12_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-		<plugin name="Hdf Radio 2.12.6_py3_3.12_mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.12.6_py3_3.12_mips32el.ipk"</url>
+		<plugin name="Hdfradio_2.13.0_py3_3.12_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.13.0_py3_3.12_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="TuneIn Radio 3.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-tuneinradio_3.9_all.ipk"</url>
@@ -1827,8 +1830,8 @@
 		<plugin name="Ncam Revcam2 12.9-r0 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam-revcamv2_V12.9-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="Oscam Icam emu levi45 11820-802 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11820-802_all.ipk"</url>
+		<plugin name="Oscam Icam emu levi45 11821-802 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11821-802_all.ipk"</url>
 		</plugin>
 		<plugin name="Oscam Icam py3.21_11788-emu-r801 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.ipk"</url>
@@ -1905,8 +1908,8 @@
 		<plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
 		</plugin>
-		<plugin name="Oscam Icam emu levi45 11820-802 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11820-802_all.deb"</url>
+		<plugin name="Oscam Icam emu levi45 11821-802 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11821-802_all.deb"</url>
 		</plugin>
 		<plugin name="Oscam Icam 11787-py3.21_emu-r801 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.deb"</url>
@@ -2565,14 +2568,17 @@
 		<plugin name="FHD Premium Magenta v.3.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/eenigma2-plugin-skins-premium-fhd-magenta_3.1_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Slyk 1080 r19 V.2.24.20230713 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk1080r19_2.24.20230713_all.ipk"</url>
+		<plugin name="FHD Slyk 1080 r19 V.2.29.20240830 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk1080r19_2.29.20240830_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Slyk Onix 1080 r19 V.2.40.20230719 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-onyx-1080_2.40.20230719_all.ipk"</url>
+		<plugin name="FHD Slyk Onix 1080 r19 V.2.45.20240830 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-onyx-1080_2.45.20240830_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Slyk Q 1080 r19 V.1.43.20230718 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.43.20230718_all.ipk"</url>
+		<plugin name="FHD Slyk Q 1080 r19 V.1.48.20240830 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.48.20240830_all.ipk"</url>
+		</plugin>
+    <plugin name="FHD Vskin-1080_2.18.20240830_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-vskin-1080_2.18.20240830_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Xmas Red V1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skin-xmas-red-fhd_1.1_all.ipk"</url>
