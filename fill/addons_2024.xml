@@ -836,8 +836,8 @@
 		<plugin name="Remote Stream Convert 2.0 mod all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-remotestreamconvert_2.0+mod_all.ipk"</url>
 		</plugin>
-		<plugin name="Samsung Tv Plus 20240418 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-samsungtvplus_20240418_all.ipk"</url>
+		<plugin name="Samsung Tv Plus 202400902 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-samsungtvplus_20240902_all.ipk"</url>
 		</plugin>
 		<plugin name="Season Dream ng 3.0.200331b all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-seasondream-ng_3.0.200331b_all.ipk"</url>
@@ -856,6 +856,12 @@
 		</plugin>
 		<plugin name="Streamlinkwrapper_1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk"</url>
+		</plugin>
+		<plugin name="Torrent Player v.1.3a all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-torreplayer_1.3a_all.ipk"</url>
+		</plugin>
+		<plugin name="Torrent Player v.2.1 f020920201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-torrentplayer_2.1_f020920201_all.ipk"</url>
 		</plugin>
 		<plugin name="Torrent Player v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-torrentplayer_1.1_all.ipk"</url>
@@ -3284,9 +3290,6 @@
 		</plugin>
 		<plugin name="Swap Manager mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-swapmanager_1.0-r0_mipsel.ipk"</url>
-		</plugin>
-		<plugin name="Torrent Player 2.1 f020920201 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-torrentplayer_2.1_f020920201_all.ipk"</url>
 		</plugin>
 		<plugin name="Translator Youtube Trailer v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-translator_1.1_all.ipk"</url>
