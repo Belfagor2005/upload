@@ -2967,8 +2967,8 @@
 	</plugins>
 	<!-- Skins_Oebased -->
 	<plugins cont="Skins_Oebased ">
-		<plugin name="FHD Aglare v.4.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_4.1_all.ipk"</url>
+		<plugin name="FHD Aglare v.4.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_4.2_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Maxy v.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
