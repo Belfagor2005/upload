@@ -140,8 +140,8 @@
 		<plugin name="Settings Maker v.2.2 mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-settingsmaker_2.2_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Ts Sateditor v. 2.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ts-sateditor_2.7_all.ipk"</url>
+		<plugin name="Ts Sateditor v. 4.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ts-sateditor_4.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Vhannibal Autosetting FHD Mod by Lululla 2.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ngsetting-fhd_2.7_all.ipk"</url>
@@ -1254,8 +1254,8 @@
 		<plugin name="Channel Selection Plus 0.1.1-r4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-channelselectionplus_0.1.1-r4_all.deb"</url>
 		</plugin>
-		<plugin name="Chocholousek-picons 5.0.231225 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-chocholousek-picons_5.0.231225_all.deb"</url>
+		<plugin name="Chocholousek-picons 5.0.240904 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.deb"</url>
 		</plugin>
 		<plugin name="Ciplushelper 5.4-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-ciplushelper_5.4-r0_all.deb"</url>
@@ -1743,8 +1743,8 @@
 	</plugins>
 	<!-- PICONS TOOLS -->
 	<plugins cont="Picons-Tools ">
-		<plugin name="Chocholousek Picons 5.0.231225 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-chocholousek-picons_5.0.231225_all.ipk"</url>
+		<plugin name="Chocholousek Picons 5.0.240904 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.ipk"</url>
 		</plugin>
 		<plugin name="Picon Buddy v.1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.0.0_all.ipk"</url>
@@ -2667,8 +2667,8 @@
 	</plugins>
 	<!-- Skins_OpenPli -->
 	<plugins cont="Skins_OpenPli ">
-		<plugin name="FHD Aglare pli v.3.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_3.9_all.ipk"</url>
+		<plugin name="FHD Aglare pli v.4.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_4.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Army touch v.1.1 r4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-army-touch-fhd-pli_1.1-r4_all.ipk"</url>
@@ -2919,8 +2919,8 @@
 	</plugins>
 	<!-- Skins_Egami -->
 	<plugins cont="Skins_Egami ">
-		<plugin name="Fhd Odreamy v.2.5_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.5_all.ipk"</url>
+		<plugin name="Fhd Odreamy v.2.6_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- Skins_HDF -->
