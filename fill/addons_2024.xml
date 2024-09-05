@@ -1065,8 +1065,8 @@
 		<plugin name="Tv Settings Maintener v.1.8">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvsettings_1.8_all.ipk"</url>
 		</plugin>
-		<plugin name="tvStream PRO REVOLUTION v.1.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro_1.9_all.ipk"</url>
+		<plugin name="tvStream PRO REVOLUTION v.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro_2.1_all.ipk"</url>
 		</plugin>
 		<plugin name="tvStream PRO REVOLUTION LITE v.1.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-lite_1.9_all.ipk"</url>
@@ -1176,8 +1176,8 @@
 		<plugin name="tvRai Preview v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.4_all.deb"</url>
 		</plugin>
-		<plugin name="tvStream PRO REVOLUTION v.1.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro_1.9_all.deb"</url>
+		<plugin name="tvStream PRO REVOLUTION v.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro_2.1_all.deb"</url>
 		</plugin>
 		<plugin name="tvStream PRO REVOLUTION LITE v.1.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-lite_1.9_all.deb"</url>
