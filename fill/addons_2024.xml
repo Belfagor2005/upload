@@ -1992,17 +1992,8 @@
 		<plugin name="CCcam Info 1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.7_all.ipk"</url>
 		</plugin>
-		<plugin name="CCcam Info 1.6 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo-hd_1.6_all.ipk"</url>
-		</plugin>
-		<plugin name="CCcam Info 1.6 arm">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo-hd_1.6_armv7ahf-neon.ipk"</url>
-		</plugin>
 		<plugin name="CCcam Info 3.0 Marwen">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_v3.0-Marwen_all.ipk"</url>
-		</plugin>
-		<plugin name="CCcam Info 1.5C r0">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.5C-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="CCcam Info svn 3385">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_svn-3385-r0_all.ipk"</url>
