@@ -3093,9 +3093,6 @@
 		<plugin name="Dream Screen 1.4 r1 ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamscreen_1.4-1_all.ipk"</url>
 		</plugin>
-		<plugin name="Dyn Dns auto login v.0.2">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dyndnsautologin_0.2-r1_all.ipk"</url>
-		</plugin>
 		<plugin name="Eparted_0.13-r1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/eparted_0.13-r1_all.ipk"</url>
 		</plugin>
