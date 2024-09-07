@@ -34,3 +34,15 @@ Changelog:
 --skin hd/fhd fix
 --minor fix
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+20240905 2.3 version is online
+
+Changelog:
+--fix get_positions and paintFrame (80%)
+--fix list_sort_utility
+--fix make_request
+--fix regex_patterns cline on cccam and oscam
+--reduced source code
+--lcn fix (on test button 5) (only Italy)
+
