@@ -1443,6 +1443,9 @@
 		<plugin name="New Virtual Keyboard 12.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-newvirtualkeyboard_v12.3_all.deb"</url>
 		</plugin>
+		<plugin name="Nord vpn connector mod Lululla 0.6-r0 By RAED Py3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/nordvpnconnector_0.6-r0_By-RAED-Py3_all.deb"</url>
+		</plugin>
 		<plugin name="Oeupdatere2 2.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oneupdatere2_2.8_all.deb"</url>
 		</plugin>
@@ -3327,6 +3330,9 @@
 	</plugins>
 	<!-- VPN -->
 	<plugins cont="Vpn-Oe2.0 ">
+		<plugin name="Nord vpn connector v.0.6-r0 mod Lululla by raed py3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.6-r0-by-raed-py3_all.ipk"</url>
+		</plugin>	
 		<plugin name="Nord vpn connector v.0.3-r3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.3-r3_all.ipk"</url>
 		</plugin>
