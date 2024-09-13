@@ -1995,8 +1995,8 @@
 		<plugin name="Zoom Final FIX7x all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/cfg_Zoom_Final_FIX7x_all.ipk"</url>
 		</plugin>
-		<plugin name="CCcam Info 1.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.7_all.ipk"</url>
+		<plugin name="CCcam Info 1.8 recoded by Lululla all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.8_all.ipk"</url>
 		</plugin>
 		<plugin name="CCcam Info 3.0 Marwen">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_v3.0-Marwen_all.ipk"</url>
