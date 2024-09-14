@@ -3336,15 +3336,9 @@
 	</plugins>
 	<!-- VPN -->
 	<plugins cont="Vpn-Oe2.0 ">
-		<plugin name="Nord vpn connector v.0.6-r0 mod Lululla by raed py3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.6-r0-by-raed-py3_all.ipk"</url>
+		<plugin name="Nord vpn connector v.0.6-r1 mod Lululla by raed py3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.6-r1-by-raed-mod-lululla_all.ipk"</url>
 		</plugin>	
-		<plugin name="Nord vpn connector v.0.3-r3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.3-r3_all.ipk"</url>
-		</plugin>
-		<plugin name="Open VpnNord Setup 0.6 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-openvpnsetupnord_0.6_all.ipk"</url>
-		</plugin>
 		<plugin name="Perfect Privacy 1.4.4 PY2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-perfectprivacy_1.4.4_all.ipk"</url>
 		</plugin>
