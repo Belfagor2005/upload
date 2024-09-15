@@ -923,14 +923,14 @@
 		<plugin name="Screennames_1.06.20240825_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
 		</plugin>
-    <plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
+		<plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
 		</plugin>
 		<plugin name="XKlass v.1.13.20240908 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.13.20240908_all.ipk"</url>
 		</plugin>
-		<plugin name="XStreamity 4.58.20240907 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.58.20240907_all.ipk"</url>
+		<plugin name="XStreamity 4.4.59.20240915 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.59.20240915_all.ipk"</url>
 		</plugin>
 		<plugin name="E2Piconizer 1.25.20231110 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk"</url>
@@ -954,8 +954,8 @@
 		<plugin name="xKlass v.1.13.20240908 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.13_20240908_all.deb"</url>
 		</plugin>
-		<plugin name="XStreamity 4.58.20240907 DREAMOS">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.58_20240907_all.deb"</url>
+		<plugin name="XStreamity 4.59.20240915 DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.59_20240915_all.deb"</url>
 		</plugin>
 		<plugin name="Screen Names v.1.06.20240825 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -2667,8 +2667,8 @@
 	</plugins>
 	<!-- Skins_OpenPli -->
 	<plugins cont="Skins_OpenPli ">
-		<plugin name="FHD Aglare pli v.4.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_4.0_all.ipk"</url>
+		<plugin name="FHD Aglare pli v.4.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_4.1_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Army touch v.1.1 r4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-army-touch-fhd-pli_1.1-r4_all.ipk"</url>
