@@ -3240,8 +3240,8 @@
 		<plugin name="S4aupdater 23.12.27.1727 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-s4aupdater_23.12.27.1727_all.ipk"</url>
 		</plugin>
-		<plugin name="ScreenGrabber v.2.8 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screengrabber_2.8_all.ipk"</url>
+		<plugin name="ScreenGrabber v.2.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screengrabber_2.9_all.ipk"</url>
 		</plugin>
 		<plugin name="Screenresizer 1.1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screenresizer_1.1.7_all.ipk"</url>
