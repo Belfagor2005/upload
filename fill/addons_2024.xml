@@ -1499,8 +1499,7 @@
 		</plugin>
 		<plugin name="ScreenGrabber mod by Lululla v.3.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-screengrabber_3.1_all.deb"</url>
-		</plugin>		
-		
+		</plugin>
 		<plugin name="Secondinfobar2 3.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar2_3.6_all.deb"</url>
 		</plugin>
@@ -2473,6 +2472,9 @@
 		<plugin name="FHD Darkness OpenEsi8.6 mod all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-darknessfhd-openesi_8.6_all.ipk"</url>
 		</plugin>
+		<plugin name="FHD Diana v.3.23 mod lululla py3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-diana-fhd_3.3_all.ipk"</url>
+		</plugin>
 		<plugin name="FHD Dinobot ui v.1.05.19 mod all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-dinobot-ui-fhd_v.1.05.19-mod_all.ipk"</url>
 		</plugin>
@@ -2584,7 +2586,7 @@
 		<plugin name="FHD Slyk Q 1080 r19 V.1.48.20240830 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.48.20240830_all.ipk"</url>
 		</plugin>
-    <plugin name="FHD Vskin-1080_2.18.20240830_all">
+		<plugin name="FHD Vskin-1080_2.18.20240830_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-vskin-1080_2.18.20240830_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Xmas Red V1.1 all">
@@ -2713,8 +2715,8 @@
 		<plugin name="FHD Darkos v.0.9.9.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skin-e2-darkos_0.9.9.9_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD Diana v.2.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-diana-fhd_2.5_all.ipk"</url>
+		<plugin name="FHD Diana v.3.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-diana-fhd_3.2_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Eclipse.sr by.Matrix10 mod. MarcinO pack.Lucek PLi6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-eclipse.hd.sr_by.Matrix10.MOD.MarcinO.packed.Lucek.OpenPLi6_all.ipk"</url>
@@ -2976,6 +2978,9 @@
 		</plugin>
 		<plugin name="FHD Metrix Neo 7S v.2 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
+		</plugin>
+		<plugin name="FHD xDreamy v.3.2.0 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xDreamy_3.2.0_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- SPORT -->
@@ -3339,7 +3344,7 @@
 	<plugins cont="Vpn-Oe2.0 ">
 		<plugin name="Nord vpn connector v.0.6-r1 mod Lululla by raed py3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.6-r1-by-raed-mod-lululla_all.ipk"</url>
-		</plugin>	
+		</plugin>
 		<plugin name="Perfect Privacy 1.4.4 PY2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-perfectprivacy_1.4.4_all.ipk"</url>
 		</plugin>
