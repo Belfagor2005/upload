@@ -1860,11 +1860,8 @@
 		<plugin name="Oscam Icam py2_11788-emu-r801 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py2_11788-801_all.ipk"</url>
 		</plugin>
-		<plugin name="Oscam IcamEmu Kitte888 11777-V3rev all ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamnew_11777-ICAMEMU-Kitte888-V3Rev_all.ipk"</url>
-		</plugin>
-		<plugin name="Oscam Icam Kitte888 11734-V9-V3-err-Kitte888-V17Rev all ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicam_11734-V9-V3-err-Kitte888-V17Rev_all.ipk"</url>
+		<plugin name="Oscam IcamEmu Kitte888 11836-V9rev all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamnew_11836-ICAMEMU-Kitte888-V9Rev_all"</url>
 		</plugin>
 		<plugin name="Oscam 1.20.11720_t-j_armv7ahf-vfp-neon ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-cams-oscam.1.20.11720_t-j_armv7ahf-vfp-neon.ipk"</url>
