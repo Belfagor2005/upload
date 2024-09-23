@@ -3360,23 +3360,14 @@
 		<plugin name="Vpn Manager 1.1.7 PY3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 9.8 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_9.8_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_11.2_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 10.7 aarch64 py3.12 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64-py3.12_10.7_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.2 aarch64 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_11.2_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 10.7 arm py3.12 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-arm-py3.12_10.7_all.ipk"</url>
-		</plugin>
-		<plugin name="Wireguard Vpn 10.7 mips py3.12 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips-py3.12_10.7_all.ipk"</url>
-		</plugin>
-		<plugin name="Wireguard Vpn 10.7 mips py3.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.9_10.7_all.ipk"</url>
-		</plugin>
-		<plugin name="Wireguard Vpn 10.7 mips py3.11 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.11_10.7_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.2 mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_11.2_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- WEATHER TOOLS -->
