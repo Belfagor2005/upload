@@ -1422,6 +1422,9 @@
 		<plugin name="Merlinsports 4.28r1+git0+140d40390c-r1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-merlinsports_4.28r1+git0+140d40390c-r1_all.deb"</url>
 		</plugin>
+		<plugin name="Mosaic v.2.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mosaic_2.0_all.deb"</url>
+		</plugin>
 		<plugin name="Movietime 1.0-r1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-movietime_1.0-r1.0_all.deb"</url>
 		</plugin>
@@ -3176,6 +3179,9 @@
 		</plugin>
 		<plugin name="MediaInfo v.3.0.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-mediainfo_3.0.1_all.ipk"</url>
+		</plugin>
+		<plugin name="Mosaic v.2.0 v.2.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-mosaic_2.0_all.ipk"</url>
 		</plugin>
 		<plugin name="MountManager v.2.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-mountmanager_2.5_all.ipk"</url>
