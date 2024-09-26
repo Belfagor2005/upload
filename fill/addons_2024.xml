@@ -2565,8 +2565,8 @@
 		<plugin name="FHD oDreamy v.2.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-oDreamy-FHD_2.2_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD xDreamy_3.3.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-xDreamy_3.3.0_all.ipk"</url>
+		<plugin name="FHD xDreamy_3.4.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-xDreamy_3.4.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Premium v.2.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd_2.7_all.ipk"</url>
