@@ -2172,14 +2172,14 @@
 		<plugin name="FHD MetrixAeon Skin Adrenalinnrw mod for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-metrixaeonfhd-adrenalinnrw-mod_1.0-r0_all.deb"</url>
 		</plugin>
-		<plugin name="FHD Suisse Merlin 10.4 all for DreamOs">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.fhd_merlin_10.4_all.deb"</url>
+		<plugin name="FHD Suisse Merlin 10.5 all for DreamOs">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.fhd_merlin_10.5_all.deb"</url>
 		</plugin>
-		<plugin name="HD Suisse One4all 10.4 all for DreamOs">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_10.4_all.deb"</url>
+		<plugin name="HD Suisse One4all 10.5 all for DreamOs">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_10.5_all.deb"</url>
 		</plugin>
-		<plugin name="HD Suisse 2k 3.8 all for DreamOs">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_3.8_all.deb"</url>
+		<plugin name="HD Suisse 2k 3.9 all for DreamOs">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_3.9_all.deb"</url>
 		</plugin>
 		<plugin name="HD Nuke Evo 20230724-r5.7.5 all for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5//skin/enigma2-skin-nuke.evo_20230724-r5.7.5_all.deb"</url>
