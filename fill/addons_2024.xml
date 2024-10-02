@@ -905,8 +905,8 @@
 		<plugin name="Jedi EPG Xtream 2.09.20230805 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.ipk"</url>
 		</plugin>
-		<plugin name="Movie Planner Mod v.4.02.20211228 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-movieplannermod_4.02.20211228_all.ipk"</url>
+		<plugin name="Movie Planner Mod v.4.03.20241002 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-movieplannermod_4.03.20241002_all.ipk"</url>
 		</plugin>
 		<plugin name="Screen Names v.1.06.20240825 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
@@ -3179,9 +3179,6 @@
 		</plugin>
 		<plugin name="MountManager v.2.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-mountmanager_2.5_all.ipk"</url>
-		</plugin>
-		<plugin name="MoviePlanner mod v.4.02.20211228 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-movieplannermod_4.02.20211228_all.ipk"</url>
 		</plugin>
 		<plugin name="Multiquickbutton vu v.2.7.17-r6 py3 Mod-RAED all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/nigma2-plugin-extensions-multiquickbutton-vu_2.7.17-r6_py3-Mod-RAED_all.ipk"</url>
