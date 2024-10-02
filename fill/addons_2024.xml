@@ -542,11 +542,8 @@
 		<plugin name="Myepg_1.08-20231219_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-myepg_1.08-20231219_all.ipk"</url>
 		</plugin>
-		<plugin name="Movie Browser 3.7 rc2 all">
+		<plugin name="OpenEpg 1.4 r5 mips32el all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-openepg_1.4_r5_mips32el.ipk"</url>
-		</plugin>
-		<plugin name="OpenEpg 1.4 r5 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-moviebrowser_3.7rc2_all.ipk"</url>
 		</plugin>
 		<plugin name="Remove Epg">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-removeepg_2016_06_17_all.ipk"</url>
@@ -776,8 +773,8 @@
 		<plugin name="Merlin Music Player v.7.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-merlinmusicplayer_7.4.ipk"</url>
 		</plugin>
-		<plugin name="Movie Browser 3.7rc3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_3.7rc3_all.ipk"</url>
+		<plugin name="Movie Browser 3.8rc0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_3.8rc0_all.ipk"</url>
 		</plugin>
 		<plugin name="Movietime_1.0_r1_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-movietime_1.0_r1_all.ipk"</url>
