@@ -689,8 +689,8 @@
 		<plugin name="E2iStream 20191129_r01 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2istream_20191129_r01_all.ipk"</url>
 		</plugin>
-		<plugin name="E2m3u2bouquet 1.8.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.8.5_all.ipk"</url>
+		<plugin name="E2m3u2bouquet 1.8.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.8.6_all.ipk"</url>
 		</plugin>
 		<plugin name="Exodus V 7.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-exodus_7.0_r0_all.ipk"</url>
@@ -1293,8 +1293,8 @@
 		<plugin name="E2iplayer h1+git3988+7977fec-r4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"</url>
 		</plugin>
-		<plugin name="E2m3u2bouquet_1.8.5_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.8.5_all.deb"</url>
+		<plugin name="E2m3u2bouquet_1.8.6_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.8.6_all.deb"</url>
 		</plugin>
 		<plugin name="EpgGrabber 22.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epggrabber_22.5_all.deb"</url>
@@ -1770,41 +1770,41 @@
 	</plugins>
 	<!-- RADIO TOOLS -->
 	<plugins cont="Radio-Tools ">
-		<plugin name="Hdfradio_2.15.0_py3_3.9.7_cortexa15hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.9.7_cortexa15hf-neon-vfpv4.ipk"</url>
+		<plugin name="Hdfradio_2.16.0_py2_cortexa7hf-vfp all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py2_cortexa7hf-vfp.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.9.7_mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.9.7_mips32el.ipk"</url>
+		<plugin name="Hdfradio_hdfradio_2.16.0_py2_cortexa9hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py2_cortexa9hf-neon-vfpv4.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.10.4_cortexa15hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.10.4_cortexa15hf-neon-vfpv4.ipk"</url>
+		<plugin name="Hdfradio_hdfradio_2.16.0_py2_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py2_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.10.4_mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.10.4_mips32el.ipk"</url>
+		<plugin name="Hdfradio_hdfradio_2.16.0_py2_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py2_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.11.2_cortexa7hf-vfp all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.11.2_cortexa7hf-vfp.ipk"</url>
+		<plugin name="Hdfradio_2.16.0_py3_3.12.6_cortexa7hf-vfp all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py3_3.12.6_cortexa7hf-vfp.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.11.2_cortexa9hf-neon all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.11.2_cortexa9hf-neon.ipk"</url>
+		<plugin name="Hdfradio_2.16.0_py3_3.12.6_cortexa9hf-neon all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py3_3.12.6_cortexa9hf-neon.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.11.2_cortexa15hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.11.2_cortexa15hf-neon-vfpv4.ipk"</url>
+		<plugin name="Hdfradio_2.16.0_py3_3.12.6_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py3_3.12.6_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.11.2_mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.11.2_mips32el.ipk"</url>
+		<plugin name="Hdfradio_2.16.0_py3_3.12.6_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py3_3.12.6_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.12_cortexa7hf-vfp all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.12_cortexa7hf-vfp.ipk"</url>
+		<plugin name="Hdfradio_2.16.0_py3_3.12_cortexa7hf-vfp all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py3_3.12_cortexa7hf-vfp.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.12_cortexa9hf-neon all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.12_cortexa9hf-neon.ipk"</url>
+		<plugin name="Hdfradio_2.16.0_py3_3.12_cortexa9hf-neon all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py3_3.12_cortexa9hf-neon.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.12_cortexa15hf-neon-vfpv4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.12_cortexa15hf-neon-vfpv4.ipk"</url>
+		<plugin name="Hdfradio_2.16.0_py3_3.12_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py3_3.12_cortexa15hf-neon-vfpv4.ipk"</url>
 		</plugin>
-		<plugin name="Hdfradio_2.15.0_py3_3.12_mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.15.0_py3_3.12_mips32el.ipk"</url>
+		<plugin name="Hdfradio_2.16.0_py3_3.12_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.0_py3_3.12_mips32el.ipk"</url>
 		</plugin>
 		<plugin name="TuneIn Radio 3.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-tuneinradio_3.9_all.ipk"</url>
