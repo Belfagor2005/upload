@@ -857,6 +857,9 @@
 		<plugin name="Streamlinkwrapper_1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk"</url>
 		</plugin>
+		<plugin name="Stream Title Songs v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamtitle_1.0_all.ipk"</url>
+		</plugin>
 		<plugin name="Torrent Player v.1.3a all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-torreplayer_1.3a_all.ipk"</url>
 		</plugin>
@@ -1497,31 +1500,34 @@
 		<plugin name="Serienrecorder 4.7.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-serienrecorder_4.7.0_all.deb"</url>
 		</plugin>
-		<plugin name="Servicescan update 1.2 all">
+		<plugin name="Servicescan update v.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.deb"</url>
 		</plugin>
-		<plugin name="Settings cleaner 0.1.9 all">
+		<plugin name="Settings cleaner v.0.1.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-settingscleaner_0.1.9_all.deb"</url>
 		</plugin>
-		<plugin name="Skyrecorder 2.0.3b all">
+		<plugin name="Skyrecorder v.2.0.3b all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-skyrecorder_2.0.3b_all.deb"</url>
 		</plugin>
 		<plugin name="Stalkerqtclient_0.7.4-r0.0 arm64">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/stalkerqtclient_0.7.4-r0.0_arm64.deb"</url>
 		</plugin>
-		<plugin name="Streamrelay 1.1-r2.0 all">
+		<plugin name="Streamrelay v.1.1-r2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-streamrelay__all.deb"</url>
+		</plugin>
+		<plugin name="StreamTitle Songs v.1.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-streamtitle_1.0_all.deb"</url>
 		</plugin>
 		<plugin name="SurfShark vpn v.1.0.5">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-surfsharkvpn_1.0.5.deb"</url>
 		</plugin>
-		<plugin name="Subs Support 1.5.8">
+		<plugin name="Subs Support v.1.5.8">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupport_1.5.8_all.deb"</url>
 		</plugin>
 		<plugin name="Subs Support custom">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/subssupport_custom.deb"</url>
 		</plugin>
-		<plugin name="Sudoku 7.1-r1">
+		<plugin name="Sudoku v.7.1-r1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-sudoku_7.1r1_all.deb"</url>
 		</plugin>
 		<plugin name="Svenh feed plugin 0.1-r14">
