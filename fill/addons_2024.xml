@@ -2559,8 +2559,8 @@
 		<plugin name="FHD oDreamy v.2.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-oDreamy-FHD_2.2_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD xDreamy_3.7.0t all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-xDreamy_3.7.0t_all.ipk"</url>
+		<plugin name="FHD xDreamy_3.8.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-xDreamy_3.8.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Premium v.2.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd_2.7_all.ipk"</url>
@@ -2805,8 +2805,8 @@
 		<plugin name="FHD Zflatgyr sharp987 OpenPLi 8 v.1.r1.06 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-skin-zflatgyrfhd_sharp987_openpli8.1-r1.06_all.ipk"</url>
 		</plugin>
-    <plugin name="FHD XDreamy_3.7.0_all6 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-xDreamy_3.7.0_all.ipk"</url>
+    <plugin name="FHD XDreamy_3.8.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-xDreamy_3.8.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Dark OpenPLi 7.2 v.1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/skin-DarkFHD-v1.7_OpenPLi7.2_all.ipk"</url>
@@ -2976,8 +2976,8 @@
 		<plugin name="FHD Metrix Neo 7S v.2 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD xDreamy v.3.2.0 all ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xDreamy_3.2.0_all.ipk"</url>
+		<plugin name="FHD xDreamy v.3.8.0 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xDreamy_3.8.0_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- SPORT -->
