@@ -689,8 +689,8 @@
 		<plugin name="E2iStream 20191129_r01 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2istream_20191129_r01_all.ipk"</url>
 		</plugin>
-		<plugin name="E2m3u2bouquet 1.8.6 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.8.6_all.ipk"</url>
+		<plugin name="E2m3u2bouquet 1.8.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.8.7_all.ipk"</url>
 		</plugin>
 		<plugin name="Exodus V 7.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-exodus_7.0_r0_all.ipk"</url>
@@ -713,8 +713,8 @@
 		<plugin name="HbbTV Player 0.2-r2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Iptv Archive 2.0.86 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.86_all.ipk"</url>
+		<plugin name="Iptv Archive 2.0.87 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.87_all.ipk"</url>
 		</plugin>
 		<plugin name="Iptv Bouquet 1.0 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvbouquet_1.0_r0_all.ipk"</url>
@@ -1296,8 +1296,8 @@
 		<plugin name="E2iplayer h1+git3988+7977fec-r4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"</url>
 		</plugin>
-		<plugin name="E2m3u2bouquet_1.8.6_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.8.6_all.deb"</url>
+		<plugin name="E2m3u2bouquet_1.8.7_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.8.7_all.deb"</url>
 		</plugin>
 		<plugin name="EpgGrabber 22.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epggrabber_22.5_all.deb"</url>
@@ -1353,8 +1353,8 @@
 		<plugin name="Iptosat_1.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptosat_1.8.deb"</url>
 		</plugin>
-		<plugin name="Iptv Archive 2.0.86 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.86_all.deb"</url>
+		<plugin name="Iptv Archive 2.0.87 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.87_all.deb"</url>
 		</plugin>
 		<plugin name="Iptv Remote 1.0.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvremote_1.0.5.deb"</url>
@@ -3360,14 +3360,14 @@
 		<plugin name="Vpn Manager 1.1.7 PY3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 11.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_11.2_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_11.4_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 11.2 aarch64 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_11.2_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.4 aarch64 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_11.4_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 11.2 mips all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_11.2_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.4 mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_11.4_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- WEATHER TOOLS -->
