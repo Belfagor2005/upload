@@ -1536,8 +1536,8 @@
 		<plugin name="Telekomsport 2.0+git93+b0dca2f-r0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.deb"</url>
 		</plugin>
-		<plugin name="The Weather py2-py3 v.2.4_r4">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather-py2-py3_2.4_r4_all.deb"</url>
+		<plugin name="The Weather py2-py3 v.2.5_r0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather-py2-py3_2.5_r0_all.deb"</url>
 		</plugin>
 		<plugin name="TMBD_8.6-r5-by-Dima73-Mod-RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/TMBD_8.6-r5-by-Dima73-Mod-RAED_DreamOS.deb"</url>
@@ -3393,8 +3393,8 @@
 		<plugin name="OaWeather 3.0+0.0-50-g17b80070+17b8007634-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_3.0+0.0-50-g17b80070+17b8007634-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="The Weather py2-py3 v.2.4_r4">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweather-py2-py3_2.4_r4_all.ipk"</url>
+		<plugin name="The Weather py2-py3 v.2.5_r0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweather-py2-py3_2.5_r0_all.ipk"</url>
 		</plugin>
 		<plugin name="VWeather3 M71 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_M71_all.ipk"</url>
