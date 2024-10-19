@@ -2050,7 +2050,7 @@
 	</plugins>
 	
 	<!-- SPORT -->
-	<plugins cont="Sport ">
+	<plugins cont="Sport Tools ">
 		<plugin name="Eurojackpot 201011 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-eurojackpot_201011_all.ipk"</url>
 		</plugin>
@@ -2102,7 +2102,7 @@
 	</plugins>
 
 	<!-- STREAMLINK -->
-	<plugins cont="Streamlink ">
+	<plugins cont="Streamlink Tools ">
 		<plugin name="Streamlink v.5.3.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlink_5.3.1.ipk"</url>
 		</plugin>
@@ -2530,7 +2530,7 @@
 		</plugin>
 	</plugins>
 	<!-- WEATHER TOOLS -->
-	<plugins cont="Weather ">
+	<plugins cont="WeatherTools ">
 		<plugin name="Airly 2.0-r6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-airly_2.0-r6_all.ipk"</url>
 		</plugin>
@@ -2614,7 +2614,7 @@
 		</plugin>
 	</plugins>
 	<!-- WEATHER FORECA -->
-	<plugins cont="Weather Forecast ">
+	<plugins cont="WeatherForecast ">
 		<plugin name="Weather Foreca 3.2.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/enigma2-plugin-extensions-foreca_3.2.9-e2openpluginsgit20220806-r1_all.ipk"</url>
 		</plugin>
