@@ -46,3 +46,23 @@ Changelog:
 --reduced source code
 --lcn fix (on test button 5) (only Italy)
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+20241011 2.4 version is online
+
+Changelog:
+--Remove code unecessary
+--fix Script Url
+--fix make_request
+--fix regex_patterns
+--reduced source code
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+20241091 2.5 version is online
+
+Changelog:
+--fix MenuList
+--reduced source code
+
+
