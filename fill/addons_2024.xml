@@ -1779,7 +1779,7 @@
 	</plugins>
 	
 	<!-- RADIO TOOLS -->
-	<plugins cont="Radio ">
+	<plugins cont="Radio Tools ">
 		<plugin name="Hdfradio_2.16.2_py2_cortexa7hf-vfp all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.2_py2_cortexa7hf-vfp.ipk"</url>
 		</plugin>
