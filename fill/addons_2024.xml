@@ -3831,6 +3831,14 @@
 		<plugin name="FHD Zombi Shadow GP4 for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-gp4-zombi-shadow-fhd_all.deb"</url>
 		</plugin>
+		
+		<plugin name="FHD Cino dreamosat gri mod.drsat 20241020 for DreamOs">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-cino-dreamosat-gri-fhd-mod-drsat_20241020_all.deb"</url>
+		</plugin>		
+		<plugin name="FHD DE mod.drsat 20241020 for DreamOs">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-de-fhd-mod-drsat_20241020_all.deb"</url>
+		</plugin>			
+		
 		<plugin name="FHD GP4 Meridian 20230716-r4.2 for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/gp4-skin-meridian-fhd_20230716-r4.2_all.deb"</url>
 		</plugin>
