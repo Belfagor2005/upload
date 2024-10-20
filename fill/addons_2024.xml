@@ -974,8 +974,8 @@
 		<plugin name="Boxpirate panel 1.9.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-boxpiratespanel_1.9.3-r0_all.deb"</url>
 		</plugin>
-		<plugin name="CacheFlush 2.0 r4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cacheflush_2.0_r4_all.deb"</url>
+		<plugin name="CacheFlush 2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cacheflush_2.1_all.deb"</url>
 		</plugin>
 		<plugin name="Camofs 17.46 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-camofs_17.46_all.deb"</url>
@@ -2225,8 +2225,8 @@
 		<plugin name="busybox-cron 1.22.1 r32">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/busybox-cron_1.22.1-r32_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Cache Flush v.2.0 r4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cacheflush_2.0_r4_all.ipk"</url>
+		<plugin name="Cache Flush v.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cacheflush_2.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Change Mac Address e2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/Change-mac-address_e2_all.ipk"</url>
