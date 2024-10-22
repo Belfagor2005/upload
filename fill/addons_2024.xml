@@ -1319,6 +1319,12 @@
 		<plugin name="Warnmeldungen 1.0.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-warnmeldungen_1.0.4_all.deb"</url>
 		</plugin>
+		<plugin name="Weatherplugin v.4.4.1+git47+6490cecc1c-r0.0_arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-weatherplugin_4.4.1+git47+6490cecc1c-r0.0_arm64.deb"</url>
+		</plugin>
+		<plugin name="Weather component handler v.4.4.1+git47+6490cecc1c-r0.0_arm64">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-weathercomponenthandler_4.4.1+git47+6490cecc1c-r0.0_arm64.deb"</url>
+		</plugin>
 		<plugin name="Weather py3.9.9-b_1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-weather-py3.9.9-b_1.2_all.deb"</url>
 		</plugin>
