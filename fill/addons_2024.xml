@@ -1076,8 +1076,8 @@
 		<plugin name="Footonsat 1.9-r0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-footonsat_1.9-r0_all.deb"</url>
 		</plugin>
-		<plugin name="Foreca 4.0.8">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-foreca_4.0.8_all.deb"</url>
+		<plugin name="Foreca 3.2.8">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-foreca_3.2.8_all.deb"</url>
 		</plugin>
 		<plugin name="Freeserver 8.3.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-freeserver_8.3.8_all.deb"</url>
