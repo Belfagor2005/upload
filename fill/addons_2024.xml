@@ -232,8 +232,8 @@
 
 	<!-- EPG TOOLS -->
 	<plugins cont="Epg ">
-		<plugin name="Advancedevent library v. 1.0r64 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r124_all.ipk"</url>
+		<plugin name="Advancedevent library v. 1.0r141 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r141_all.ipk"</url>
 		</plugin>
 		<plugin name="Backs Ncovers v. 0.9-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_0.9-r1_all.ipk"</url>
@@ -649,8 +649,8 @@
 	</plugins>
 	<!-- KIDDAC -->
 	<plugins cont="Kiddac Oe2.0 ">
-		<plugin name="Bouquet Maker Xtream 1.27.20241017 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.27.20241017_all.ipk"</url>
+		<plugin name="Bouquet Maker Xtream 1.28.20241021 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.28.20241021_all.ipk"</url>
 		</plugin>
 		<plugin name="Jedimakerxtream_6.37.20240530_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk"</url>
@@ -692,8 +692,8 @@
 	<!-- KIDDAC -->
 	<plugins cont="Kiddac DreamOs ">
 		<!-- debian -->
-		<plugin name="Bouquet Maker Xtream 1.26_20241013 all DREAMOS">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.26_20241013_all.deb"</url>
+		<plugin name="Bouquet Maker Xtream 1.28_20241021 all DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.28_20241021_all.deb"</url>
 		</plugin>
 		<plugin name="Jedimakerxtream_6.37_20240530_all DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb"</url>
@@ -1067,8 +1067,8 @@
 		<plugin name="Eurojackpot_240202">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eurojackpot_240202_all.deb"</url>
 		</plugin>
-		<plugin name="Event data manager v.1.0-r22 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all_1.0-r22.deb"</url>
+		<plugin name="Event data manager 22-10-24 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eventdatamanager_all.deb"</url>
 		</plugin>
 		<plugin name="Feeds Finder 20201016 V1.6 momi133 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/feeds-finder_20201016_V1.6_momi133-OE2.5.deb"</url>
@@ -1984,8 +1984,8 @@
 		<plugin name="FreeCccam 2.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-freecccam_2.3_all.ipk"</url>
 		</plugin>
-		<plugin name="Zoom Panel v.2.1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.1.0_all.ipk"</url>
+		<plugin name="Zoom Panel v.2.2.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.2.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Zoom v.1.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/zoom_1.1.2_all.ipk"</url>
@@ -2519,14 +2519,14 @@
 		<plugin name="Vpn Manager 1.1.7 PY3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 11.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_11.5_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_11.6_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 11.5 aarch64 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_11.5_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.6 aarch64 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_11.6_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 11.5 mips all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_11.5_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.6 mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_11.6_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- WEATHER TOOLS -->
@@ -3866,8 +3866,8 @@
 		<plugin name="HD Suisse One4all 10.7 all for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_10.7_all.deb"</url>
 		</plugin>
-		<plugin name="HD Suisse 2k 3.9 all for DreamOs">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_3.9_all.deb"</url>
+		<plugin name="HD Suisse 2k 4.1 all for DreamOs">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_4.1_all.deb"</url>
 		</plugin>
 		<plugin name="HD Nuke Evo 20230724-r5.7.5 all for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5//skin/enigma2-skin-nuke.evo_20230724-r5.7.5_all.deb"</url>
