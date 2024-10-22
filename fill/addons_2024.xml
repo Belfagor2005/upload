@@ -3538,8 +3538,8 @@
 	</plugins>
 	<!-- Skins_OpenPli -->
 	<plugins cont="Skins OpenPLi ">
-		<plugin name="FHD Aglare pli v.4.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_4.3_all.ipk"</url>
+		<plugin name="FHD Aglare pli v.4.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_4.4_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Army touch v.1.1 r4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-army-touch-fhd-pli_1.1-r4_all.ipk"</url>
