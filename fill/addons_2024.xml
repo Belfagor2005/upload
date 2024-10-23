@@ -2237,6 +2237,9 @@
 		<plugin name="Cache Flush v.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cacheflush_2.1_all.ipk"</url>
 		</plugin>
+		<plugin name="Cfsd v.18.00-20230919 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-csfd_18.00-20230919_all.ipk"</url>
+		</plugin>		
 		<plugin name="Change Mac Address e2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/Change-mac-address_e2_all.ipk"</url>
 		</plugin>
