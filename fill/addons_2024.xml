@@ -1463,8 +1463,8 @@
 		<plugin name="Goldenfeed v.6.8">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-goldenfeed_6.8_all.ipk"</url>
 		</plugin>
-		<plugin name="JapharAddons-Manager v.5.4 oe20 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/japhar-addons-manager_5.4_DM_oe20_all.ipk"</url>
+		<plugin name="JapharAddons-Manager v.5.5 oe20 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/japhar-addons-manager_5.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Image Downloader V.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk"</url>
