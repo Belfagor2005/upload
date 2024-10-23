@@ -971,6 +971,9 @@
 		<plugin name="BissFeedAutoKey Plugin 2.8.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"</url>
 		</plugin>
+    <plugin name="Simple Zoom Panel 2.2.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-simple-zoom-panel_2.2.0_all.deb"</url>
+		</plugin>
 		<plugin name="Boxpirate panel 1.9.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-boxpiratespanel_1.9.3-r0_all.deb"</url>
 		</plugin>
@@ -2525,14 +2528,14 @@
 		<plugin name="Vpn Manager 1.1.7 PY3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 11.6 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_11.6_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_11.7_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 11.6 aarch64 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_11.6_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.7 aarch64 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_11.7_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 11.6 mips all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_11.6_all.ipk"</url>
+		<plugin name="Wireguard Vpn 11.7 mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_11.7_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- WEATHER TOOLS -->
