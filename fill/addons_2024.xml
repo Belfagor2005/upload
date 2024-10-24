@@ -2486,8 +2486,8 @@
 		<plugin name="Vtifilebrowser v.1.9.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filebrowservti_1.9.1_all.ipk"</url>
 		</plugin>
-		<plugin name="Vtiscreenshot helper v.0.4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vtiscreenshot_0.4-beta_all.ipk"</url>
+		<plugin name="Vtiscreenshot helper v.0.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vtiscreenshot_0.5-beta_all.ipk"</url>
 		</plugin>
 		<plugin name="Vtitimeshift helper v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vtitimeshifthelper_1.1_all.ipk"</url>
