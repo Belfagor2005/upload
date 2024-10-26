@@ -150,7 +150,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ngsetting_1.5_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- DB-USB -->
 	<plugins cont="DvbUsb Tuners Drivers ">
 		<plugin name="TrialTuner 2.0.0b DM800HDse">
@@ -229,7 +228,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/drivers/enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- EPG TOOLS -->
 	<plugins cont="Epg ">
 		<plugin name="Advancedevent library v. 1.0r141 all">
@@ -692,8 +690,8 @@
 	<!-- KIDDAC -->
 	<plugins cont="Kiddac DreamOs ">
 		<!-- debian -->
-		<plugin name="Bouquet Maker Xtream 1.28_20241021 all DREAMOS">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.28_20241021_all.deb"</url>
+		<plugin name="Bouquet Maker Xtream 1.29_20241026 all DREAMOS">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.29_20241026_all.deb"</url>
 		</plugin>
 		<plugin name="Jedimakerxtream_6.37_20240530_all DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb"</url>
@@ -971,7 +969,7 @@
 		<plugin name="BissFeedAutoKey Plugin 2.8.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"</url>
 		</plugin>
-    <plugin name="Simple Zoom Panel 2.2.1 all">
+		<plugin name="Simple Zoom Panel 2.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-simple-zoom-panel_2.2.1_all.deb"</url>
 		</plugin>
 		<plugin name="Boxpirate panel 1.9.3 all">
@@ -1536,7 +1534,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-renamepicons_2024_08_04_all.ipk"</url>
 		</plugin>
 	</plugins>
-	
 	<!-- LIBRARY -->
 	<plugins cont="Python Library ">
 		<plugin name="Beautifulsoup 4-4.8.0 all">
@@ -1789,7 +1786,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/dependencies/xmltvimport-library_1.0+git91+f9a1444-r28_mips32el.ipk"</url>
 		</plugin>
 	</plugins>
-	
 	<!-- RADIO TOOLS -->
 	<plugins cont="Radio Tools ">
 		<plugin name="Hdfradio_2.16.2_py2_cortexa7hf-vfp all">
@@ -2060,7 +2056,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oscamstatus_1.3.2-r2.deb"</url>
 		</plugin>
 	</plugins>
-	
 	<!-- SPORT -->
 	<plugins cont="Sport Tools ">
 		<plugin name="Eurojackpot 201011 all">
@@ -2112,7 +2107,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-wazzup-fnc_1.5-r0_mips32el.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- STREAMLINK -->
 	<plugins cont="Streamlink Tools ">
 		<plugin name="Streamlink v.5.3.1 all">
@@ -2197,8 +2191,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/singledispatch-3.4.0.3-r0.ipk"</url>
 		</plugin>
 	</plugins>
-
-
 	<!-- UTILITY 2.0 -->
 	<plugins cont="Utiliy ">
 		<plugin name="Ai controler pich mod 2.9">
@@ -2242,7 +2234,7 @@
 		</plugin>
 		<plugin name="Cfsd v.18.00-20230919 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-csfd_18.00-20230919_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Change Mac Address e2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/Change-mac-address_e2_all.ipk"</url>
 		</plugin>
@@ -2446,7 +2438,7 @@
 		</plugin>
 		<plugin name="Subs Support 1.7.0-r7-py3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.7.0-r7-py3_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Subs Support 1.5.8 r9 py2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.5.8-r9-py2_all.ipk"</url>
 		</plugin>
@@ -2778,8 +2770,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.4_all.ipk"</url>
 		</plugin>
 	</plugins>
-	
-
 	<!-- ADULTS 2.0 -->
 	<plugins cont="Adult Oe2.0 ">
 		<plugin name="Adult Live v.1.3 +18 all">
@@ -3014,7 +3004,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_dreamOS-v1-beta-2023.06.19_all.deb"</url>
 		</plugin>
 	</plugins>
-
 	<!-- SKINS ALL -->
 	<plugins cont="Skins All ">
 		<plugin name="FHD Areadeltasat Dragon Poster Backdrop v.4.2 all">
@@ -3150,7 +3139,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skin-xmas-red-fhd_1.1_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- SKIN HD 2.0 -->
 	<plugins cont="Skins | HD ">
 		<plugin name="HD ABC V1.1 MOD By RAED">
@@ -3424,14 +3412,12 @@
 			<url>""</url>
 		</plugin>
 	</plugins>
-
 	<!-- Skins_Egami -->
 	<plugins cont="Skins Egami ">
 		<plugin name="Fhd Odreamy v.2.6_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- Skins_HDF -->
 	<plugins cont="Skins HDF ">
 		<plugin name="FHD Revolution Pro Full HDF V7.3 by Dragon all">
@@ -3441,7 +3427,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_HDF/enigma2-plugin-skins-xionhdf_1.2-20180204_all.ipk"</url>
 		</plugin>
 	</plugins>
-	
 	<!-- Skins_OBH -->
 	<plugins cont="Skins OpenBh ">
 		<plugin name="FHD MX Sline v.5.2 by Ahmedriad all">
@@ -3469,7 +3454,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-skin-mx-blacksea_V1.0-r1_all.ipk"</url>
 		</plugin>
 	</plugins>
-	
 	<!-- Skins_OpenAtv -->
 	<plugins cont="Skins OPEN ATV ">
 		<plugin name="FHD Areadeltasat Dragon v.1.9 Poster Backdrop all">
@@ -3657,7 +3641,7 @@
 		</plugin>
 		<plugin name="FHD Pd1loi Fhd night mod-drsat 20241021 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-nighthd-mod-drsat_20241021_all"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="FHD Pd1loi Fhd night v.2.6.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-full-hd-night_2.6.1_all.ipk"</url>
 		</plugin>
@@ -3758,14 +3742,12 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skin-xmas-allinone-hd-mod-pli6.1_1.0_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- Skins_OpenSpa -->
 	<plugins cont="Skins OpenSpa ">
 		<plugin name="FHD Revolution Pro Full v.1.0 by Dragon all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenSpa/enigma2-plugin-skin-revolution-pro_full.1.0.Openspa.dragon_all.ipk"</url>
 		</plugin>
 	</plugins>
-
 	<!-- Skins_Vti -->
 	<plugins cont="Skins VTi ">
 		<plugin name="FHD Aeon Sharp987 r3.29 all">
@@ -3808,8 +3790,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Vti/enigma2-plugin-skin-xmas-red-fhd_3.0_all.ipk"</url>
 		</plugin>
 	</plugins>
-
-
 	<!-- Skins_Oebased -->
 	<plugins cont="Skins Oe Based ">
 		<plugin name="FHD Aglare v.4.3 all">
@@ -3817,7 +3797,7 @@
 		</plugin>
 		<plugin name="FHD Artemis mod.dragon poster-backdrop v.8.5 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-artemis-mod-dragon_8.5.poster.backdrop_all.ipk"</url>
-		</plugin>			
+		</plugin>
 		<plugin name="FHD Maxy v.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
 		</plugin>
@@ -3828,7 +3808,6 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xDreamy_3.9.0_all.ipk"</url>
 		</plugin>
 	</plugins>
-	
 	<!-- SKIN FHD-HD 2.2 -->
 	<plugins cont="Skins Fhd-Hd DreamOs ">
 		<plugin name="ZSTYLE: INSTALL YOUR ZSKIN by MMark v.2.4 for DreamOs">
@@ -3846,14 +3825,12 @@
 		<plugin name="FHD Zombi Shadow GP4 for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-gp4-zombi-shadow-fhd_all.deb"</url>
 		</plugin>
-		
 		<plugin name="FHD Cino dreamosat gri mod.drsat 20241020 for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-cino-dreamosat-gri-fhd-mod-drsat_20241020_all.deb"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="FHD DE mod.drsat 20241020 for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-de-fhd-mod-drsat_20241020_all.deb"</url>
-		</plugin>			
-		
+		</plugin>
 		<plugin name="FHD GP4 Meridian 20230716-r4.2 for DreamOs">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/gp4-skin-meridian-fhd_20230716-r4.2_all.deb"</url>
 		</plugin>
