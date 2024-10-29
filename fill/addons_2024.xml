@@ -3108,9 +3108,6 @@
 		<plugin name="FHD oDreamy v.2.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-oDreamy-FHD_2.2_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD xDreamy_3.9.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-xdreamy_3.9.1_all.ipk"</url>
-		</plugin>
 		<plugin name="FHD Premium v.2.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd_2.7_all.ipk"</url>
 		</plugin>
@@ -3414,6 +3411,9 @@
 	</plugins>
 	<!-- Skins_Egami -->
 	<plugins cont="Skins Egami ">
+		<plugin name="FHD xDreamy_3.9.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-xdreamy_3.9.1_all.ipk"</url>
+		</plugin>
 		<plugin name="Fhd Odreamy v.2.6_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
 		</plugin>
@@ -3429,6 +3429,9 @@
 	</plugins>
 	<!-- Skins_OBH -->
 	<plugins cont="Skins OpenBh ">
+		<plugin name="FHD xDreamy_3.9.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins-xdreamy_3.9.1_all.ipk"</url>
+		</plugin>
 		<plugin name="FHD MX Sline v.5.2 by Ahmedriad all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-mx-sline-openbh5.2-by-ahmedriad_v3.11_all.ipk"</url>
 		</plugin>
@@ -3678,6 +3681,7 @@
 		<plugin name="FHD Dark OpenPLi 7.2 v.1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/skin-DarkFHD-v1.7_OpenPLi7.2_all.ipk"</url>
 		</plugin>
+
 		<plugin name="HD Adreamy-hd_1.00_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-adreamy-hd_1.00_all.ipk"</url>
 		</plugin>
@@ -3744,6 +3748,9 @@
 	</plugins>
 	<!-- Skins_OpenSpa -->
 	<plugins cont="Skins OpenSpa ">
+		<plugin name="FHD xDreamy_3.9.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenSpa//enigma2-plugin-skins-xdreamy_3.9.1_all.ipk"</url>
+		</plugin>
 		<plugin name="FHD Revolution Pro Full v.1.0 by Dragon all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenSpa/enigma2-plugin-skin-revolution-pro_full.1.0.Openspa.dragon_all.ipk"</url>
 		</plugin>
