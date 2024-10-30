@@ -2436,8 +2436,8 @@
 		<plugin name="Softsleepfs v.1.6all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-softsleepfs_1.6_all.ipk"</url>
 		</plugin>
-		<plugin name="Subs Support 1.7.0-r7-py3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.7.0-r7-py3_all.ipk"</url>
+		<plugin name="Subs Support 1.7.0-r8-py3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.7.0-r8-py3_all.ipk"</url>
 		</plugin>
 		<plugin name="Subs Support 1.5.8 r9 py2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.5.8-r9-py2_all.ipk"</url>
