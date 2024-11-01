@@ -1257,6 +1257,9 @@
 		<plugin name="Settings cleaner v.0.1.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-settingscleaner_0.1.9_all.deb"</url>
 		</plugin>
+		<plugin name="Skincomponents Extmultilistselection all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-skincomponents-extmultilistselection_all.deb"</url>
+		</plugin>
 		<plugin name="Skyrecorder v.2.0.3b all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-skyrecorder_2.0.3b_all.deb"</url>
 		</plugin>
@@ -1338,8 +1341,8 @@
 		<plugin name="Webradiofs 16.24 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webradiofs_16.24_all.deb"</url>
 		</plugin>
-		<plugin name="Wettercom 2.0.3-r1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wettercom_2.0.2-r3_all.deb"</url>
+		<plugin name="Wettercom 2.0.3-r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wettercom_2.0.3-r0_all.deb"</url>
 		</plugin>
 		<plugin name="Wireguardmanager 1.0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wireguardmanager_1.0.6_all.deb"</url>
