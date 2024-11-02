@@ -774,6 +774,9 @@
 		<plugin name="Plugins Panels Show Plugin v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pluginspanel_1.1_all.ipk"</url>
 		</plugin>
+		<plugin name="RadioGit v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.1_all.ipk"</url>
+		</plugin>		
 		<plugin name="RadioM v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.1_all.ipk"</url>
 		</plugin>
@@ -890,6 +893,9 @@
 		</plugin>
 		<plugin name="Parsa TV 1.7">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.7_all.deb"</url>
+		</plugin>
+		<plugin name="RadioGit v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.1_all.deb"</url>
 		</plugin>
 		<plugin name="RadioM v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.1_all.deb"</url>
@@ -2488,7 +2494,7 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filebrowservti_1.9.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Vtiscreenshot v.1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vtiscreenshot_1.0_all"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vtiscreenshot_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Vtitimeshift helper v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-vtitimeshifthelper_1.1_all.ipk"</url>
@@ -2560,7 +2566,7 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-netatmo_1.7.3-20230530-r345_py3branch_all.ipk"</url>
 		</plugin>
 		<plugin name="OaWeather 3.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_3.1_all"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_3.1_all.ipk"</url>
 		</plugin>
 		<plugin name="OaWeather 3.0+0.0-50-g17b80070+17b8007634-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_3.0+0.0-50-g17b80070+17b8007634-r0_all.ipk"</url>
