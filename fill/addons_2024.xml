@@ -56,8 +56,8 @@
 		<plugin name="nfibackup 10/2009 mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-systemplugins-nfibackup_20091024_mipsel.ipk"</url>
 		</plugin>
-		<plugin name="Plugin Mover 0.1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginmover_0.1-20140622-r3_all.ipk"</url>
+		<plugin name="Plugin Mover 0.2-r0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginmover_0.2-r0_all.ipk"</url>
 		</plugin>
 		<plugin name="Plugin Skin Mover 0.8">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginskinmover_0.8_all.ipk"</url>
