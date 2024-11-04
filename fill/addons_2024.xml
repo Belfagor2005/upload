@@ -56,11 +56,15 @@
 		<plugin name="nfibackup 10/2009 mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-systemplugins-nfibackup_20091024_mipsel.ipk"</url>
 		</plugin>
+<<<<<<< HEAD
 		<plugin name="Plugin Mover 0.2-r1_all">
+=======
+		<plugin name="Plugin Mover 0.2-r1">
+>>>>>>> origin/main
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginmover_0.2-r1_all.ipk"</url>
 		</plugin>
-		<plugin name="Plugin Skin Mover 0.6">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginskinmover_0.6_all.ipk"</url>
+		<plugin name="Plugin Skin Mover 0.9">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginskinmover_0.9_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- BOUQUETS -->
@@ -1226,6 +1230,12 @@
 		</plugin>
 		<plugin name="Pluginbrowsericons 0.13">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginbrowsericons_0.13_all.deb"</url>
+		</plugin>
+		<plugin name="Plugin Mover 0.2-r1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginmover_0.2-r1_all.ipk"</url>
+		</plugin>
+		<plugin name="Plugin Skin Mover 0.9">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginskinmover_0.9_all.ipk"</url>
 		</plugin>
 		<plugin name="Plutotv 1.0-r7">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-plutotv_1.0-r7_all.deb"</url>
