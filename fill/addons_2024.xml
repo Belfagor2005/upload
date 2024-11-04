@@ -56,8 +56,8 @@
 		<plugin name="nfibackup 10/2009 mipsel">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-systemplugins-nfibackup_20091024_mipsel.ipk"</url>
 		</plugin>
-		<plugin name="Plugin Mover 0.1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginmover_0.1-20140622-r3_all.ipk"</url>
+		<plugin name="Plugin Mover 0.2-r1_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginmover_0.2-r1_all.ipk"</url>
 		</plugin>
 		<plugin name="Plugin Skin Mover 0.6">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginskinmover_0.6_all.ipk"</url>
@@ -311,8 +311,8 @@
 		<plugin name="Translator_1.4rc1 fhd edition all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-translator_1.4rc1-fhd-edition_all.ipk"</url>
 		</plugin>
-		<plugin name="Xtraevent v.6.801 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xtraevent_6.801_all.ipk"</url>
+		<plugin name="Xtraevent v.6.802 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xtraevent_6.802_all.ipk"</url>
 		</plugin>
 		<plugin name="Xtraevent v.4.4 Py3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xtraevent-py3_4.4_all.ipk"</url>
@@ -437,8 +437,8 @@
 		<plugin name="E2iStream 20191129_r01 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2istream_20191129_r01_all.ipk"</url>
 		</plugin>
-		<plugin name="E2m3u2bouquet 1.8.8 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.8.8_all.ipk"</url>
+		<plugin name="E2m3u2bouquet 1.8.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.8.9_all.ipk"</url>
 		</plugin>
 		<plugin name="Exodus V 7.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-exodus_7.0_r0_all.ipk"</url>
@@ -1053,8 +1053,8 @@
 		<plugin name="E2iplayer h1+git3988+7977fec-r4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"</url>
 		</plugin>
-		<plugin name="E2m3u2bouquet_1.8.8_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.8.8_all.deb"</url>
+		<plugin name="E2m3u2bouquet_1.8.9_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.8.9_all.deb"</url>
 		</plugin>
 		<plugin name="EpgGrabber 22.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epggrabber_22.5_all.deb"</url>
@@ -1233,6 +1233,9 @@
 		<plugin name="Purevpn 1.1.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-purevpn_1.1.1_all.deb"</url>
 		</plugin>
+    <plugin name="Pluginmover_0.2-r1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginmover_0.2-r1_all.deb"</url>
+		</plugin>
 		<plugin name="Quarterpounder 6.2.0.20201122 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quarterpounder_6.2.0.20201122_all.deb"</url>
 		</plugin>
@@ -1311,8 +1314,8 @@
 		<plugin name="Tuner Description v.0.1-r1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tunerdescription_0.1-r1_all.deb"</url>
 		</plugin>
-		<plugin name="Turkvod_13 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-turkvod_13_OE25.deb"</url>
+		<plugin name="turkvod_14_OE25 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-turkvod_14_OE25.deb"</url>
 		</plugin>
 		<plugin name="Tvshows_1.0-r1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvshows_1.0-r1.0_all.deb"</url>
@@ -2958,20 +2961,20 @@
 		<plugin name="Srfmediathek 0.6.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-srfmediathek_0.6.3_all.ipk"</url>
 		</plugin>
-		<plugin name="TurkVod 13 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_13_OE20_all.ipk"</url>
+		<plugin name="TurkVod 14 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_14_OE20_all.ipk"</url>
 		</plugin>
-		<plugin name="TurkVod 13 PY38 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_13_PY38.ipk"</url>
+		<plugin name="TurkVod 14 PY38 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_14_PY308_all.ipk"</url>
 		</plugin>
-		<plugin name="TurkVod 13 PY39 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_13_PY39.ipk"</url>
+		<plugin name="TurkVod 14 PY39 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_14_PY309_all.ipk"</url>
 		</plugin>
-		<plugin name="TurkVod 13 PY310 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_13_PY310.ipk"</url>
+		<plugin name="TurkVod 14 PY310 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_14_PY310_all.ipk"</url>
 		</plugin>
-		<plugin name="TurkVod Full PY£ 14.10 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod-full-py3_14.10_all.ipk"</url>
+		<plugin name="Turkvod_14_PY311_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_14_PY311_all.ipk"</url>
 		</plugin>
 		<plugin name="Xbmc kodi ipk all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk"</url>
@@ -3423,8 +3426,8 @@
 	</plugins>
 	<!-- Skins_Egami -->
 	<plugins cont="Skins Egami ">
-		<plugin name="FHD xDreamy_3.9.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-xdreamy_3.9.1_all.ipk"</url>
+		<plugin name="FHD xDreamy_4.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-xDreamy_4.0.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Fhd Odreamy v.2.6_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
@@ -3441,8 +3444,8 @@
 	</plugins>
 	<!-- Skins_OBH -->
 	<plugins cont="Skins OpenBh ">
-		<plugin name="FHD xDreamy_3.9.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins-xdreamy_3.9.1_all.ipk"</url>
+		<plugin name="FHD xDreamy_4.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins-xDreamy_4.0.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD MX Sline v.5.2 by Ahmedriad all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-mx-sline-openbh5.2-by-ahmedriad_v3.11_all.ipk"</url>
@@ -3687,8 +3690,8 @@
 		<plugin name="FHD Zflatgyr sharp987 OpenPLi 8 v.1.r1.06 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-skin-zflatgyrfhd_sharp987_openpli8.1-r1.06_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD XDreamy_3.9.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-xdreamy_3.9.1_all.ipk"</url>
+		<plugin name="FHD xDreamy_4.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-xDreamy_4.0.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Dark OpenPLi 7.2 v.1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/skin-DarkFHD-v1.7_OpenPLi7.2_all.ipk"</url>
@@ -3760,8 +3763,8 @@
 	</plugins>
 	<!-- Skins_OpenSpa -->
 	<plugins cont="Skins OpenSpa ">
-		<plugin name="FHD xDreamy_3.9.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenSpa//enigma2-plugin-skins-xdreamy_3.9.1_all.ipk"</url>
+		<plugin name="FHD xDreamy_4.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenSpa//enigma2-plugin-skins-xDreamy_4.0.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FHD Revolution Pro Full v.1.0 by Dragon all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenSpa/enigma2-plugin-skin-revolution-pro_full.1.0.Openspa.dragon_all.ipk"</url>
@@ -3823,8 +3826,8 @@
 		<plugin name="FHD Metrix Neo 7S v.2 all ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
 		</plugin>
-		<plugin name="FHD xDreamy v.3.9.1 all ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xdreamy_3.9.1_all.ipk"</url>
+		<plugin name="FHD xDreamy_4.0.0 all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xDreamy_4.0.0all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- SKIN FHD-HD 2.2 -->
