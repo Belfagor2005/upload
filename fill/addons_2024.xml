@@ -1251,7 +1251,7 @@
 		<plugin name="Purevpn 1.1.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-purevpn_1.1.1_all.deb"</url>
 		</plugin>
-    <plugin name="Pluginmover_0.2-r1">
+		<plugin name="Pluginmover_0.2-r1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginmover_0.2-r1_all.deb"</url>
 		</plugin>
 		<plugin name="Quarterpounder 6.2.0.20201122 all">
@@ -2307,6 +2307,9 @@
 		<plugin name="Evg Quicksignal V.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-evgquicksignal_1.1_all.ipk"</url>
 		</plugin>
+		<plugin name="Feedsfinder PY3 v.3.1 Mod. Bahaa all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-feedsfinder_PY3_v3.1_Mod_BY_Bahaa_all.ipk"</url>
+		</plugin>
 		<plugin name="Filecommander mod 2024 by lululla all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filecommander_mod_2024_by_lululla_all.ipk"</url>
 		</plugin>
@@ -2326,7 +2329,7 @@
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-glasssysutil_12.12_all.ipk"</url>
 		</plugin>
 		<plugin name="Hardware Info v.4.0">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-hardwareinfo_4.0_all.ipk.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-hardwareinfo_4.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Historyzap 1.0.41">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-historyzap_1.0.41_all.ipk"</url>
