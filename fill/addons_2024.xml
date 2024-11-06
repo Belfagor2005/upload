@@ -302,8 +302,8 @@
 		<plugin name="TMBD_8.6-r5-by-Dima73-Mod-RAED_Py3">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/TMBD_8.6-r5-by-Dima73-Mod-RAED_Py3.ipk"</url>
 		</plugin>
-		<plugin name="TMDB TheMovieDb 8.6-r0 by-Dima73-Mod-RAED all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmbd_8.6-r0-by-Dima73-Mod-RAED_all.ipk"</url>
+		<plugin name="TMDB TheMovieDb 8.6-r1 by-Dima73-Mod-RAED all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmbd_8.6-r1-by-Dima73-Mod-RAED_all.ipk"</url>
 		</plugin>
 		<plugin name="TMDB TheMovieDb 0.9-r8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb_0.9-r8_all.ipk"</url>
@@ -2145,8 +2145,8 @@
 		<plugin name="Streamlink v.5.3.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlink_5.3.1.ipk"</url>
 		</plugin>
-		<plugin name="Streamlink proxy 6.8.2 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlinkproxy_6.8.2_all.ipk"</url>
+		<plugin name="Streamlink proxy 7.0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlinkproxy_7.0.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Streamlink 2.1.1+6.g1baa545 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-streamlink_2.1.1+6.g1baa545_all.ipk"</url>
