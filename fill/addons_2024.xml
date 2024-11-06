@@ -416,6 +416,12 @@
 		<plugin name="Ardmediathek v1.5 plus-minitv all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ardmediathek_v1.5-plus-minitv_all.ipk"</url>
 		</plugin>
+		<plugin name="Athantimes v.2.8 PY2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Athantimes_2.8_PY2.ipk"</url>
+		</plugin>
+		<plugin name="Athantimes v.2.8 PY3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Athantimes_2.8_PY3.ipk"</url>
+		</plugin>
 		<plugin name="Camofs_17.46_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-camofs_17.46_all.ipk"</url>
 		</plugin>
@@ -460,6 +466,9 @@
 		</plugin>
 		<plugin name="HbbTV Player 0.2-r2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk"</url>
+		</plugin>
+		<plugin name="Iptosat v.1.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptosat_1.8_all.ipk"</url>
 		</plugin>
 		<plugin name="Iptv Archive 2.0.87 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.87_all.ipk"</url>
@@ -965,6 +974,9 @@
 		</plugin>
 		<plugin name="Astronomy v.1.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-astronomy_1.3_all.deb"</url>
+		</plugin>
+		<plugin name="Athantimes v.2.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/Athantimes_2.8_DreamOS.deb"</url>
 		</plugin>
 		<plugin name="Backupandflash 1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupandflash_1.4_all.deb"</url>
@@ -2325,8 +2337,8 @@
 		<plugin name="Kiosk v.1.1.4-C-Experimental all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-kiosk_1.1.4-C-Experimental_all.ipk"</url>
 		</plugin>
-		<plugin name="Internet SpeedTest v.1.7">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-internet-speedtest_1.7_all.ipk"</url>
+		<plugin name="Internet SpeedTest v.1.8">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-internet-speedtest_1.8_all.ipk"</url>
 		</plugin>
 		<plugin name="Ipaudio v.7.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ipaudio_v7.2_all.ipk"</url>
@@ -2922,14 +2934,17 @@
 	</plugins>
 	<!-- OTHER 2.0 -->
 	<plugins cont="Other Oe2.0 ">
+		<plugin name="Ansite v.1.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-ansite_1.5_all.ipk"</url>
+		</plugin>
+		<plugin name="Ansite v.1.5 PY3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-ansite_1.5.py3_all.ipk"</url>
+		</plugin>
 		<plugin name="Astronomy v.1.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-astronomy_1.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Cast Uasay v.0.316 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-cast-uasay_0.316_all.ipk"</url>
-		</plugin>
-		<plugin name="Dreamplex v.2.1.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-dreamplex_2.1.3_all.ipk"</url>
 		</plugin>
 		<plugin name="Embydream armv7ahf-vfp-neon v.1.3.5">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-embydream_1.3.5_armv7ahf-vfp-neon.ipk"</url>
