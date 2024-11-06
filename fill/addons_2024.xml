@@ -3201,8 +3201,26 @@
 		<plugin name="HD Black blue.me v1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-blackblue.me_20130921-v1_all.ipk"</url>
 		</plugin>
+		<plugin name="HD Beyonce F1 By Matrix10 MOD By RAED">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-Beyonce-F1-By-Matrix10-MOD-By-RAED.ipk"</url>
+		</plugin>
+		<plugin name="HD Bluebird v.0.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluebird-hd_0.5_all.ipk"</url>
+		</plugin>
+		<plugin name="HD Bluebirdp v.0.5p all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluebirdp-hd_0.5p_all.ipk"</url>
+		</plugin>
+		<plugin name="HD Bluewine v.0.3 mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluewine-hd_0.3_all.ipk"</url>
+		</plugin>
+		<plugin name="HD Blue Ocean by Maggy Mod. RAED pack.Lucek OpenPLi6 V0.1 all ">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-blue.ocean.hd_by.Maggy.MOD.RAED.packed.Lucek.OpenPLi6_all.ipk"</url>
+		</plugin>
 		<plugin name="HD Blue Experience V1.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-Blue-Experience-V1.0-MOD-By-RAED.ipk"</url>
+		</plugin>
+		<plugin name="HD Blue Glass black 0.1">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-skin-blue-glass-hdblack_0.1_all.ipk"</url>
 		</plugin>
 		<plugin name="HD Blue Gold Glass V1.0 By-RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-Blue-Gold-Glass-V1.0-By-RAED.ipk"</url>
@@ -3222,6 +3240,12 @@
 		<plugin name="HD Dm Concinnity ice mod v1.2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-dmconcinnity-hd-ice-mod_v1.2_all.ipk"</url>
 		</plugin>
+		<plugin name="HD Dreamy 1.0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-dreamy_1.0_all.ipk"</url>
+		</plugin>
+		<plugin name="HD Eins by Spark pack.Lucek OpenPLi6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-eins_by.Spark.packed.Lucek.OpenPLi6_all.ipk"</url>
+		</plugin>
 		<plugin name="HD Elegance V2.1 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-Elegance.HD-V2.1-MOD-By-RAED.ipk"</url>
 		</plugin>
@@ -3236,6 +3260,9 @@
 		</plugin>
 		<plugin name="HD Evolution SE V1.4 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-Evolution-SE-V1.4-MOD-By-RAED.ipk"</url>
+		</plugin>
+		<plugin name="HD Frankensky Night mod-rc 01.06.15">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-frankensky-night-mod-rc_01.06.15_all.ipk"</url>
 		</plugin>
 		<plugin name="HD Ghost Black V1.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-GhostBlack-HD-V1.0-MOD-By-RAED.ipk"</url>
@@ -3255,6 +3282,9 @@
 		<plugin name="HD Glass 16 10.56 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-hdglass16_10.56_all.ipk"</url>
 		</plugin>
+		<plugin name="HD Glass 16 11.40 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-skin-hdglass16_11.40_all.ipk"</url>
+		</plugin>
 		<plugin name="HD Kerni 1 V1.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-Kerni-HD1-V1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
@@ -3266,6 +3296,12 @@
 		</plugin>
 		<plugin name="HD lcars 1.0 MOD RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-lcars-1.0-MOD-RAED.ipk"</url>
+		</plugin>
+		<plugin name="HD Line Super 1.2 Sami-Noor + Plug.Msn mod all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-hdline-super-mod_1.2-sami-noor_all.ipk"</url>
+		</plugin>
+		<plugin name="HD Line Super 1.2 Sami-Noor all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-hdline-super_1.2-sami-noor_all.ipk"</url>
 		</plugin>
 		<plugin name="HD LN ME V1.1 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-LN.HD-ME-V1.1-MOD-By-RAED.ipk"</url>
@@ -3281,6 +3317,9 @@
 		</plugin>
 		<plugin name="HD Metrix mod by binicknich 0.9">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-metrixhd-mod-by-binicknich_0.9_mips32el.ipk"</url>
+		</plugin>
+		<plugin name="HD Metrix Openatv 4 1 mod.openpli4.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-metrixhd-opena-tv4-1-mod-openpli_4.1_all.ipk"</url>
 		</plugin>
 		<plugin name="HD Metrix mod 4.5">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-metrixhd-mod_4.5_all.ipk"</url>
@@ -3306,6 +3345,12 @@
 		<plugin name="HD myMetrix furkanb mod 0.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-Metallic-HD-V1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
+		<plugin name="HD Neutron MOD By RAED all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-Neutron-HD-MOD-By-RAED.ipk"</url>
+		</plugin>
+		<plugin name="HD Neutron V0.7 r1 By Sirius MOD By RAED all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-neutron-hd_V0.7-r1-By-Sirius-MOD-By-RAED_all.ipk"</url>
+		</plugin>
 		<plugin name="HD Nou Black Elgato V1.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-Nou-Black-Elgato-HD-V1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
@@ -3315,8 +3360,17 @@
 		<plugin name="HD om whiteline V1.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-om-whiteline_1.0_mips32el.ipk"</url>
 		</plugin>
+		<plugin name="HD Mambas V7">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins_Mambas_HD_V7_all.ipk"</url>
+		</plugin>
+		<plugin name="HD MB65 V2">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin_MB65-HD-V2_all.ipk"</url>
+		</plugin>
 		<plugin name="HD Metrix OpenStore MyMetrix 2.0.14 full all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-OpenStore-MyMetrix_2.0.14-full.ipk"</url>
+		</plugin>
+		<plugin name="HD Nemesis by mamba65">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin_Nemesis-HD-by-mamba65_all.ipk"</url>
 		</plugin>
 		<plugin name="HD PBMCHD V1.88 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-PBMCHD-V1.88-MOD-By-RAED.ipk"</url>
@@ -3336,8 +3390,17 @@
 		<plugin name="HD Red rossi2000 v1 27.05.14">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-red-hd-rossi2000-v1_27.05.14_all.ipk"</url>
 		</plugin>
+		<plugin name="HD Revolution black m mod 1.0">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/revolution-black-hd-m-mod_1.0_mipsel.ipk"</url>
+		</plugin>
 		<plugin name="HD Rihanna3 V1.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-Rihanna3-V1.0-MOD-By-RAED.ipk"</url>
+		</plugin>
+		<plugin name="HD Rihanna3 pack.Lucek OpenPLi4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-rihanna3_packed.Lucek.OpenPLi4_all.ipk"</url>
+		</plugin>
+		<plugin name="HD Skyq V1.6 Chababu all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-skyq_V1.6_Chababu_all.ipk"</url>
 		</plugin>
 		<plugin name="HD Spark v1 mod by mamba65">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-spark-v1_mod-by-mamba65_all.ipk"</url>
@@ -3348,62 +3411,11 @@
 		<plugin name="HD The Beginning v1.0 MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-The-Beginning-HD-v1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
-		<plugin name="HD Xmas2 V1.1 MOD By RAED">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-xmas2.hd_V1.1-Skin-By-vali-MOD-By-RAED_all.ipk"</url>
-		</plugin>
-		<plugin name="HD xta v1 mod by mamba65">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-xta-v1_mod-by-mamba65_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Beyonce F1 By Matrix10 MOD By RAED">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-Beyonce-F1-By-Matrix10-MOD-By-RAED.ipk"</url>
-		</plugin>
-		<plugin name="HD Bluebird v.0.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluebird-hd_0.5_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Bluebirdp v.0.5p all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluebirdp-hd_0.5p_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Bluewine v.0.3 mips32el all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-bluewine-hd_0.3_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Blue Ocean by Maggy Mod. RAED pack.Lucek OpenPLi6 V0.1 all ">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-blue.ocean.hd_by.Maggy.MOD.RAED.packed.Lucek.OpenPLi6_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Dreamy 1.0">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-dreamy_1.0_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Eins by Spark pack.Lucek OpenPLi6 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-eins_by.Spark.packed.Lucek.OpenPLi6_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Frankensky Night mod-rc 01.06.15">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-frankensky-night-mod-rc_01.06.15_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Line Super 1.2 Sami-Noor + Plug.Msn mod all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-hdline-super-mod_1.2-sami-noor_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Line Super 1.2 Sami-Noor all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-hdline-super_1.2-sami-noor_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Metrix Openatv 4 1 mod.openpli4.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-metrixhd-opena-tv4-1-mod-openpli_4.1_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Neutron MOD By RAED all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-Neutron-HD-MOD-By-RAED.ipk"</url>
-		</plugin>
-		<plugin name="HD Neutron V0.7 r1 By Sirius MOD By RAED all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-neutron-hd_V0.7-r1-By-Sirius-MOD-By-RAED_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Rihanna3 pack.Lucek OpenPLi4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-rihanna3_packed.Lucek.OpenPLi4_all.ipk"</url>
+		<plugin name="HD Ts Eins">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-ts-eins_1.0-r22_all.ipk"</url>
 		</plugin>
 		<plugin name="HD Ultra Transparent MOD By RAED">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-Skin-Ultra-Transparent-MOD-By-RAED.ipk"</url>
-		</plugin>
-		<plugin name="HD Skyq V1.6 Chababu all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-skyq_V1.6_Chababu_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Ts Eins">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-ts-eins_1.0-r22_all.ipk"</url>
 		</plugin>
 		<plugin name="HD Vanity 1.3">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-vanity_1.3_all.ipk"</url>
@@ -3411,34 +3423,25 @@
 		<plugin name="HD Vision Black">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-vision-hd_Black_all.ipk"</url>
 		</plugin>
-		<plugin name="HD Mambas V7">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins_Mambas_HD_V7_all.ipk"</url>
-		</plugin>
-		<plugin name="HD MB65 V2">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin_MB65-HD-V2_all.ipk"</url>
-		</plugin>
-		<plugin name="HD Nemesis by mamba65">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin_Nemesis-HD-by-mamba65_all.ipk"</url>
-		</plugin>
 		<plugin name="HD White by mamba65">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin_White-HD-by-mamba65_all.ipk"</url>
 		</plugin>
 		<plugin name="HD WM">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin_WM-HD_all.ipk"</url>
 		</plugin>
-		<plugin name="HD Blue Glass black 0.1">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-skin-blue-glass-hdblack_0.1_all.ipk"</url>
+		<plugin name="HD Xmas Mets Skalli V1.01">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-xmas-meets-skallihd-mod_1.01_all.ipk"</url>
 		</plugin>
-		<plugin name="HD Glass 16 11.40 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-skin-hdglass16_11.40_all.ipk"</url>
+		<plugin name="HD Xmas2 V1.1 MOD By RAED">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-xmas2.hd_V1.1-Skin-By-vali-MOD-By-RAED_all.ipk"</url>
 		</plugin>
-		<plugin name="HD Revolution black m mod 1.0">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/revolution-black-hd-m-mod_1.0_mipsel.ipk"</url>
+		<plugin name="HD Xta v1 mod by mamba65">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-xta-v1_mod-by-mamba65_all.ipk"</url>
 		</plugin>
 		<plugin name="HD XTAforME V1.0-MOD By RAED all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/Skin-XTAforME-HD-V1.0-MOD-By-RAED.ipk"</url>
 		</plugin>
-		<plugin name="HD XtrendNGHD MOD By RAED all ">
+		<plugin name="HD Xtrend NGHD MOD By RAED all ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/Skin-XtrendNGHD-MOD-By-RAED.ipk"</url>
 		</plugin>
 	</plugins>
