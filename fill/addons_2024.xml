@@ -2267,6 +2267,9 @@
 		</plugin>
 		<plugin name="Bootlogo changer v.1.0.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-bootlogochanger_1.0.3_all.ipk"</url>
+		</plugin>
+		<plugin name="Bootlogo Swapper v.2.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-bootlogoswapper_v2.4_all.ipk"</url>
 		</plugin>	
 		<plugin name="Bootlogo Swapper Kids v.2.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-bootlogoswapper-Kids_v2.4_all.ipk"</url>
