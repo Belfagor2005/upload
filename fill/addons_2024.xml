@@ -1854,6 +1854,15 @@
 		<plugin name="Hdfradio_2.16.2_py3_3.12_mips32el all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.16.2_py3_3.12_mips32el.ipk"</url>
 		</plugin>
+    <plugin name="Ipaudiopro_1.4_aarch64 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-ipaudiopro_1.4_aarch64.ipk"</url>
+		</plugin>
+		<plugin name="Ipaudiopro_1.4_cortexa15hf-neon-vfpv4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-ipaudiopro_1.4_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+		<plugin name="Ipaudiopro_1.4_mips32el all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-ipaudiopro_1.4_mips32el.ipk"</url>
+		</plugin>
 		<plugin name="TuneIn Radio 3.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-tuneinradio_3.9_all.ipk"</url>
 		</plugin>
