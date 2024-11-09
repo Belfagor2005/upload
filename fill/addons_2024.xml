@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xml>
 	<!-- BACKUP TOOLS -->
-	<plugins cont="Backup ">
+	<plugins cont="Backup Tools ">
 		<plugin name="Automatic Fullbackup 7.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-automatic-fullbackup_7.2_all.ipk"</url>
 		</plugin>
@@ -64,7 +64,7 @@
 		</plugin>
 	</plugins>
 	<!-- BOUQUETS -->
-	<plugins cont="Bouquets ">
+	<plugins cont="Bouquets Tools ">
 		<plugin name="iSetting START V.1.1  IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-start-1.1.ipk"</url>
 		</plugin>
@@ -229,7 +229,7 @@
 		</plugin>
 	</plugins>
 	<!-- EPG TOOLS -->
-	<plugins cont="Epg ">
+	<plugins cont="Epg Tools ">
 		<plugin name="Advancedevent library v. 1.0r141 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r141_all.ipk"</url>
 		</plugin>
@@ -319,7 +319,7 @@
 		</plugin>
 	</plugins>
 	<!-- FEEDS-OE2.0 -->
-	<plugins cont="Feeds Image Oe2.0 ">
+	<plugins cont="Feeds Image OE2.0 ">
 		<plugin name="Feed emil nabil v1.0 all IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/feed/enigma2-plugin-extensions-feed-emil-nabil-v1.0_emil-nabil_all.ipk"</url>
 		</plugin>
@@ -361,7 +361,7 @@
 		</plugin>
 	</plugins>
 	<!-- FEEDS-OE2.2-2.5 -->
-	<plugins cont="Feeds Image DreamOs ">
+	<plugins cont="Feeds Image OE2.5 ">
 		<plugin name="FEEDS Dream-Arabia all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dreamarabia-addons-feed.deb"</url>
 		</plugin>
@@ -394,7 +394,7 @@
 		</plugin>
 	</plugins>
 	<!-- GAMES -->
-	<plugins cont="Games ">
+	<plugins cont="Games Tools ">
 		<plugin name="Schiffe 7.1r1 FHD/HD all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-schiffe_7.1r1_all.ipk"</url>
 		</plugin>
@@ -406,7 +406,7 @@
 		</plugin>
 	</plugins>
 	<!-- IPTV -->
-	<plugins cont="Iptv ">
+	<plugins cont="Iptv Tools ">
 		<plugin name="Albatros 7.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-albatros_7.1.2_all.ipk"</url>
 		</plugin>
@@ -503,7 +503,7 @@
 		<plugin name="Justwatch v.1.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-justwatch_1.2.1_all.ipk"</url>
 		</plugin>
-    <plugin name="Jk-multi-mod_2.1_all">
+		<plugin name="Jk multi mod.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-jk-multi-mod_2.1_all.ipk"</url>
 		</plugin>
 		<plugin name="KodiliveTV 1.0 r0 all">
@@ -655,7 +655,7 @@
 		</plugin>
 	</plugins>
 	<!-- KIDDAC -->
-	<plugins cont="Kiddac Oe2.0 ">
+	<plugins cont="Kiddac OE2.0 ">
 		<plugin name="Bouquet Maker Xtream 1.34.20241031 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.34.20241031_all.ipk"</url>
 		</plugin>
@@ -697,7 +697,7 @@
 		</plugin>
 	</plugins>
 	<!-- KIDDAC -->
-	<plugins cont="Kiddac DreamOs ">
+	<plugins cont="Kiddac OE2.5 ">
 		<!-- debian -->
 		<plugin name="Bouquet Maker Xtream 1.34_20241031 all DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.34_20241031_all.deb"</url>
@@ -722,7 +722,7 @@
 		</plugin>
 	</plugins>
 	<!-- LULULLA ZONE OE2 -->
-	<plugins cont="Lululla Zone Oe2.0 ">
+	<plugins cont="Lululla Zone OE2.0 ">
 		<plugin name="Softcam Manager V.2.1  OE2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_2.1_all.ipk"</url>
 		</plugin>
@@ -863,7 +863,7 @@
 		</plugin>
 	</plugins>
 	<!-- LULULLA ZONE OE2.5-2.6 -->
-	<plugins cont="Lululla Zone DreamOs ">
+	<plugins cont="Lululla Zone OE2.5 ">
 		<plugin name="Softcam Manager V.2.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_2.1_all.deb"</url>
 		</plugin>
@@ -1397,7 +1397,7 @@
 		</plugin>
 	</plugins>
 	<!-- MULTIBOOT -->
-	<plugins cont="MultiBoot ">
+	<plugins cont="MultiBoot Tools ">
 		<plugin name="Barryallen 11.3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-barryallen_11.3_all.ipk"</url>
 		</plugin>
@@ -1445,7 +1445,7 @@
 		</plugin>
 	</plugins>
 	<!-- MULTIMEDIA -->
-	<plugins cont="Multimedia ">
+	<plugins cont="Multimedia Tools ">
 		<plugin name="TSmedia 17.2.29.07.21 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-tsmedia_17.2.29.07.21_all.ipk"</url>
 		</plugin>
@@ -1955,7 +1955,7 @@
 		</plugin>
 	</plugins>
 	<!-- SOFTCAMS OE2.2 -->
-	<plugins cont="Softcams DreamOs ">
+	<plugins cont="SoftcamsOE2.5 ">
 		<plugin name="Oscam for All 1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-oscamforall_1.2_all.deb"</url>
 		</plugin>
@@ -2084,7 +2084,7 @@
 		</plugin>
 	</plugins>
 	<!-- SOFTCAMS TOOLS 2.2 -->
-	<plugins cont="Keys Tools DreamOs ">
+	<plugins cont="Keys Tools2.5 ">
 		<plugin name="BissFeedAutoKey Plugin 2.8.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"</url>
 		</plugin>
@@ -2234,7 +2234,7 @@
 		</plugin>
 	</plugins>
 	<!-- UTILITY 2.0 -->
-	<plugins cont="Utiliy ">
+	<plugins cont="Utiliy Tools ">
 		<plugin name="Ai controler pich mod 2.9">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-aihdcontrolerpichmod_2.9_all.ipk"</url>
 		</plugin>
@@ -2558,7 +2558,7 @@
 		</plugin>
 	</plugins>
 	<!-- VPN -->
-	<plugins cont="Vpn Oe2.0 ">
+	<plugins cont="Vpn OE2.0 ">
 		<plugin name="Nord vpn connector v.0.6-r1 mod Lululla by raed py3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.6-r1-by-raed-mod-lululla_all.ipk"</url>
 		</plugin>
@@ -2819,7 +2819,7 @@
 		</plugin>
 	</plugins>
 	<!-- WEBCAM -->
-	<plugins cont="Webcam ">
+	<plugins cont="Webcam Tools ">
 		<plugin name="Camofs 17.37 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_webcam/enigma2-plugin-extensions-camofs_17.37_all.ipk"</url>
 		</plugin>
@@ -2828,7 +2828,7 @@
 		</plugin>
 	</plugins>
 	<!-- ADULTS 2.0 -->
-	<plugins cont="Adult Oe2.0 ">
+	<plugins cont="Adult OE2.0 ">
 		<plugin name="Adult Live v.1.3 +18 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-adulttvlive_1.3_all.ipk"</url>
 		</plugin>
@@ -2897,7 +2897,7 @@
 		</plugin>
 	</plugins>
 	<!-- ADULTS 2.2 -->
-	<plugins cont="Adult DreamOs ">
+	<plugins cont="Adult OE2.5 ">
 		<plugin name="Adult Live v.1.3 +18">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-adulttvlive_1.3_all.deb"</url>
 		</plugin>
@@ -2957,7 +2957,7 @@
 		</plugin>
 	</plugins>
 	<!-- OTHER 2.0 -->
-	<plugins cont="Other Oe2.0 ">
+	<plugins cont="Other OE2.0 ">
 		<plugin name="Ansite v.1.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-ansite_1.5_all.ipk"</url>
 		</plugin>
@@ -3026,7 +3026,7 @@
 		</plugin>
 	</plugins>
 	<!-- OTHER 2.2 -->
-	<plugins cont="Other DreamOs ">
+	<plugins cont="Other OE2.5 ">
 		<plugin name="Amazon Prime Dream v.1.4.8 arm64">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-amazonprimedream_1.4.8_arm64.deb"</url>
 		</plugin>
