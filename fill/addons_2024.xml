@@ -677,9 +677,6 @@
 		<plugin name="Skins Slyk Toppicks 7.6.20240529 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skins-slyk-toppicks_7.6.20240529_all.ipk"</url>
 		</plugin>
-		<plugin name="Screennames_1.06.20240825_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
-		</plugin>
 		<plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
 		</plugin>
