@@ -641,7 +641,10 @@
 		<plugin name="Zatto v.1.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-zattoo_1.5.1_all.ipk"</url>
 		</plugin>
-		<plugin name="Xbmc kodi ipk all">
+		<plugin name="Xbmc kodi v.8.0-r0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmcaddons_8.0_r0_all.ipk"</url>
+		</plugin>
+		<plugin name="Xbmc kodi all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk"</url>
 		</plugin>
 		<plugin name="Xtreameditor v.2.12 all">
