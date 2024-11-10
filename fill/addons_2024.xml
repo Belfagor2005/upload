@@ -641,6 +641,9 @@
 		<plugin name="Zatto v.1.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-zattoo_1.5.1_all.ipk"</url>
 		</plugin>
+		<plugin name="Xbmc kodi ipk all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk"</url>
+		</plugin>
 		<plugin name="Xtreameditor v.2.12 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xtreameditor_2.12_all.ipk"</url>
 		</plugin>
@@ -1384,6 +1387,9 @@
 		<plugin name="Mediaportal Update 31.05.2020 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-mediaportal_all.ipk"</url>
 		</plugin>
+		<plugin name="Quran-Karim v.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-quran-karim_2.1_all.ipk"</url>
+		</plugin>
 		<plugin name="Youtube plus-minitv py2 v2-git1133-5722cc7-r0.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube-plus-minitv_py2-v2-git1133-5722cc7-r0.0_all.ipk"</url>
 		</plugin>
@@ -1393,6 +1399,7 @@
 		<plugin name="YouTube h1-it1229-b237a1e-r0.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1229-b237a1e-r0.0.ipk"</url>
 		</plugin>
+
 	</plugins>
 	<!-- MULTIBOOT -->
 	<plugins cont="MultiBoot Tools ">
@@ -2995,9 +3002,6 @@
 		<plugin name="Plexdream v.1.1.7 amips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-plexdream_1.1.7_mips32el.ipk"</url>
 		</plugin>
-		<plugin name="Quran-Karim v.2.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-quran-karim_2.1_all.ipk"</url>
-		</plugin>
 		<plugin name="Russianmediapark 35.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-russianmediapark_35.1_all.ipk"</url>
 		</plugin>
@@ -3021,9 +3025,6 @@
 		</plugin>
 		<plugin name="Turkvod_14_PY311_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-turkvod_14_PY311_all.ipk"</url>
-		</plugin>
-		<plugin name="Xbmc kodi ipk all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- OTHER 2.2 -->
