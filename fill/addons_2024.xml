@@ -2239,7 +2239,7 @@
 		</plugin>
 	</plugins>
 	<!-- UTILITY 2.0 -->
-	<plugins cont="Utiliy Tools ">
+	<plugins cont="Utility Tools ">
 		<plugin name="Ai controler pich mod 2.9">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-aihdcontrolerpichmod_2.9_all.ipk"</url>
 		</plugin>
