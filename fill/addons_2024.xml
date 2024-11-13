@@ -278,6 +278,9 @@
 		<plugin name="Epg Search v. 1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epg-epgsearch_1.0_all.ipk"</url>
 		</plugin>
+		<plugin name="IMDb plugin v.2.1 mod lululla ">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-imdb_2.1_all.ipk"</url>
+		</plugin>
 		<plugin name="IMDb plugin by Franc mips32el">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-imdb-fnc_3.1-r1_mips32el.ipk"</url>
 		</plugin>
