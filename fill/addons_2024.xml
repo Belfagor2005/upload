@@ -125,8 +125,8 @@
 		<plugin name="Gioppygio v.12.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-gioppygio_12.2_all.ipk"</url>
 		</plugin>
-		<plugin name="LCN Scanner 1.0 r5 mips32el">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-lcnscanner_1.0-r5_mips32el.ipk"</url>
+		<plugin name="LCN Scanner 2.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-lcnscanner_2.0_all.ipk"</url>
 		</plugin>
 		<plugin name="SatVenus Settings 5.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-satvenus-settings_5.0_all.ipk"</url>
