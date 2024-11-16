@@ -65,10 +65,13 @@
 	</plugins>
 	<!-- BOUQUETS -->
 	<plugins cont="Bouquets Tools ">
+		<plugin name="Update Icam Settings v.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-updateicamsettings_2.1_all.ipk"</url>
+		</plugin>
 		<plugin name="iSetting START V.1.1  IPK">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-start-1.1.ipk"</url>
 		</plugin>
-		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.2  IPK">
+		<plugin name="iSetting AUTOEXEC PRE INSTALL V.3.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.2.ipk"</url>
 		</plugin>
 		<plugin name="iSetting OE3.0 0.7 Python 3.12.x - (OpenATV 7.4/7.5 - Ecc) mips IPK">
@@ -1911,8 +1914,8 @@
 		<plugin name="Oscam Icam py2_11788-emu-r801 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py2_11788-801_all.ipk"</url>
 		</plugin>
-		<plugin name="Oscam IcamEmu Kitte888 1184 V9Rev all ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamnew_11845-ICAMEMU-Kitte888-V9Rev_all.ipk"</url>
+		<plugin name="Oscam IcamEmu Kitte888 11853 V10Rev all ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamnew_11853-ICAMEMU-Kitte888-V10Rev_all.ipk"</url>
 		</plugin>
 		<plugin name="Oscam 1.20.11720_t-j_armv7ahf-vfp-neon ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-cams-oscam.1.20.11720_t-j_armv7ahf-vfp-neon.ipk"</url>
@@ -1959,6 +1962,9 @@
 	</plugins>
 	<!-- SOFTCAMS OE2.2 -->
 	<plugins cont="SoftcamsOE2.5 ">
+		<plugin name="Oscam Emu Kitte888 11853  all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-kitte888_11853-802.deb"</url>
+		</plugin>
 		<plugin name="Oscam for All 1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-oscamforall_1.2_all.deb"</url>
 		</plugin>
