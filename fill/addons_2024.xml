@@ -547,7 +547,7 @@
 		</plugin>
 		<plugin name="Multistalker NSS 1.2 PRO all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.2+nss_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Multistalker 1.1 PRO arm all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+git165+24295f8-r0_all.ipk"</url>
 		</plugin>
@@ -695,6 +695,9 @@
 		<plugin name="XKlass v.1.23.20241117 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.22.20241117_all.ipk"</url>
 		</plugin>
+		<plugin name="XKlass v.1.23.20241117_all all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.23.20241117_all.ipk"</url>
+		</plugin>
 		<plugin name="XStreamity 4.64.20241112 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.64.20241112_all.ipk"</url>
 		</plugin>
@@ -719,6 +722,9 @@
 		</plugin>
 		<plugin name="xKlass v.1.23.20241117 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.22_20241117_all.deb"</url>
+		</plugin>
+		<plugin name="xKlass v.1.23_20241117 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.23_20241117_all.deb"</url>
 		</plugin>
 		<plugin name="XStreamity 4.64.20241112 DREAMOS">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.64_20241112_all.deb"</url>
@@ -2604,14 +2610,14 @@
 		<plugin name="Wireguard Vpn py3.9 12.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.9_12.1_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 12.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_12.1_all.ipk"</url>
+		<plugin name="Wireguard Vpn 12.3 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_12.3_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 12.1 aarch64 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_12.1_all.ipk"</url>
+		<plugin name="Wireguard Vpn 12.3 aarch64 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_12.3_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 12.1 mips all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_12.1_all.ipk"</url>
+		<plugin name="Wireguard Vpn 12.3 mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_12.3_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- WEATHER TOOLS -->
