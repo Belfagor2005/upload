@@ -542,6 +542,14 @@
 		<plugin name="MP3 Browser 2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-mp3browser_2.0_all.ipk"</url>
 		</plugin>
+		<!-- don't remove -->
+		<plugin name="Multistalker 1.1 PRO NSS all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+nss_all.ipk"</url>
+		</plugin>
+		<plugin name="Multistalker 1.2 PRO NSS all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.2+nss_all.ipk"</url>
+		</plugin>		
+		<!-- don't remove end -->
 		<plugin name="Multistalker 1.1 PRO arm all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+git165+24295f8-r0_all.ipk"</url>
 		</plugin>
