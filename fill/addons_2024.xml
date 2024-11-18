@@ -364,7 +364,7 @@
 		</plugin>
 	</plugins>
 	<!-- FEEDS-OE2.2-2.5 -->
-	<plugins cont="Feeds Image OE2.5 ">
+	<plugins cont="Feeds Image OE2.2/2.5/2.6 ">
 		<plugin name="FEEDS Dream-Arabia all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dreamarabia-addons-feed.deb"</url>
 		</plugin>
@@ -667,7 +667,7 @@
 		</plugin>
 	</plugins>
 	<!-- KIDDAC -->
-	<plugins cont="Kiddac OE2.0 ">
+	<plugins cont="KiddaC OE2.0 ">
 		<plugin name="Bouquet Maker Xtream 1.34.20241031 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.34.20241031_all.ipk"</url>
 		</plugin>
@@ -709,15 +709,15 @@
 		</plugin>
 	</plugins>
 	<!-- KIDDAC -->
-	<plugins cont="Kiddac OE2.5 ">
+	<plugins cont="KiddaC OE2.2/2.5/2.6 ">
 		<!-- debian -->
-		<plugin name="Bouquet Maker Xtream 1.34_20241031 all DREAMOS">
+		<plugin name="Bouquet Maker Xtream 1.34_20241031 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.34_20241031_all.deb"</url>
 		</plugin>
-		<plugin name="Jedimakerxtream_6.37_20240530_all DREAMOS">
+		<plugin name="Jedimakerxtream_6.37_20240530_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb"</url>
 		</plugin>
-		<plugin name="Jedi EPG Xtream 2.12_20241030 DREAMOS">
+		<plugin name="Jedi EPG Xtream 2.12_20241030">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
 		</plugin>
 		<plugin name="xKlass v.1.23.20241117 all">
@@ -726,19 +726,19 @@
 		<plugin name="xKlass v.1.23_20241117 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.23_20241117_all.deb"</url>
 		</plugin>
-		<plugin name="XStreamity 4.64.20241112 DREAMOS">
+		<plugin name="XStreamity 4.64.20241112">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.64_20241112_all.deb"</url>
 		</plugin>
-		<plugin name="Screen Names v.1.06.20240825 DREAMOS">
+		<plugin name="Screen Names v.1.06.20240825">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
 		</plugin>
-		<plugin name="Visual Weather 1.10_20241030 DREAMOS">
+		<plugin name="Visual Weather 1.10_20241030">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.10_20241030_all.deb"</url>
 		</plugin>
 	</plugins>
 	<!-- LULULLA ZONE OE2 -->
 	<plugins cont="Lululla Zone OE2.0 ">
-		<plugin name="Softcam Manager V.2.1  OE2">
+		<plugin name="Softcam Manager V.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_2.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Add IPTV Stream 1.2 Modded all">
@@ -875,7 +875,7 @@
 		</plugin>
 	</plugins>
 	<!-- LULULLA ZONE OE2.5-2.6 -->
-	<plugins cont="Lululla Zone OE2.5 ">
+	<plugins cont="Lululla Zone OE2.2/2.5/2.6 ">
 		<plugin name="Softcam Manager V.2.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_2.1_all.deb"</url>
 		</plugin>
@@ -968,7 +968,7 @@
 		</plugin>
 	</plugins>
 	<!-- OE2.2 PLUGINS-->
-	<plugins cont="DreamOs Plugins ">
+	<plugins cont="Plugins OE2.2/2.5/2.6 ">
 		<plugin name="Accu Weather v.1.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-accuweather_1.2.1_all.deb"</url>
 		</plugin>
@@ -1095,7 +1095,7 @@
 		<plugin name="EPGImport-mod-dorik1972 1.9.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
 		</plugin>
-		<plugin name="Epgimport dreamos 1.0">
+		<plugin name="Epgimport 1.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport-dreamos-1.0.deb"</url>
 		</plugin>
 		<plugin name="Eurojackpot_240202">
@@ -1206,7 +1206,7 @@
 		<plugin name="Movietime 1.0-r1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-movietime_1.0-r1.0_all.deb"</url>
 		</plugin>
-		<plugin name="Multi EPG Vali Mod for DreamOs 18.04.2021 - Version 1.2-r7">
+		<plugin name="Multi EPG Vali Mod 18.04.2021 - Version 1.2-r7">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multiepgmv_20210418-1.2-r7_all.deb"</url>
 		</plugin>
 		<plugin name="Multistalker_1.4 all">
@@ -1895,7 +1895,7 @@
 		</plugin>
 	</plugins>
 	<!-- SOFTCAMS OE2.0 -->
-	<plugins cont="SoftcamsOE2.0 ">
+	<plugins cont="Softcams OE2.0 ">
 		<plugin name="CCcam 2.3.9 r6 OE 2.0 IPK all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_239-r6-RAED_OE2.0_all.ipk"</url>
 		</plugin>
@@ -1973,7 +1973,7 @@
 		</plugin>
 	</plugins>
 	<!-- SOFTCAMS OE2.2 -->
-	<plugins cont="SoftcamsOE2.5 ">
+	<plugins cont="Softcams OE2.2/2.5/2.6 ">
 		<plugin name="Oscam Emu Kitte888 11853  all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-kitte888_11853-802.deb"</url>
 		</plugin>
@@ -2027,7 +2027,7 @@
 		</plugin>
 	</plugins>
 	<!-- SOFTCAMS TOOLS 2.0 -->
-	<plugins cont="Keys Tools2.0 ">
+	<plugins cont="Keys Tools OE2.0 ">
 		<plugin name="Addkey 8.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-addkey_8.2_all.ipk"</url>
 		</plugin>
@@ -2105,7 +2105,7 @@
 		</plugin>
 	</plugins>
 	<!-- SOFTCAMS TOOLS 2.2 -->
-	<plugins cont="Keys Tools2.5 ">
+	<plugins cont="Keys Tools OE2.2/2.5/2.6 ">
 		<plugin name="BissFeedAutoKey Plugin 2.8.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"</url>
 		</plugin>
@@ -2582,7 +2582,7 @@
 		</plugin>
 	</plugins>
 	<!-- VPN -->
-	<plugins cont="Vpn OE2.0 ">
+	<plugins cont="Vpn Tools ">
 		<plugin name="Nord vpn connector v.0.6-r1 mod Lululla by raed py3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.6-r1-by-raed-mod-lululla_all.ipk"</url>
 		</plugin>
@@ -2924,7 +2924,7 @@
 		</plugin>
 	</plugins>
 	<!-- ADULTS 2.2 -->
-	<plugins cont="Adult OE2.5 ">
+	<plugins cont="Adult OE2.2/2.5/2.6 ">
 		<plugin name="Adult Live v.1.3 +18">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-adulttvlive_1.3_all.deb"</url>
 		</plugin>
@@ -3047,7 +3047,7 @@
 		</plugin>
 	</plugins>
 	<!-- OTHER 2.2 -->
-	<plugins cont="Other OE2.5 ">
+	<plugins cont="Other OE2.2/2.5/2.6 ">
 		<plugin name="Amazon Prime Dream v.1.4.8 arm64">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-amazonprimedream_1.4.8_arm64.deb"</url>
 		</plugin>
@@ -3078,10 +3078,10 @@
 		<plugin name="Youtube h1+git1078+adb94bf-r0 Mod-RAED DEB">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_1+git1078+adb94bf-r0-Mod-RAED.deb"</url>
 		</plugin>
-		<plugin name="Youtube DreamOs-plus-minitv-git1172-r0.0-Mod-Petry DEB">
+		<plugin name="Youtube DreamOS-plus-minitv-git1172-r0.0-Mod-Petry DEB">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_DreamOS-plus-minitv-git1172-r0.0-Mod-Petry_all.deb"</url>
 		</plugin>
-		<plugin name="Youtube dreamOS-v1-beta-2023.06.19 DEB">
+		<plugin name="Youtube DreamOS-v1-beta-2023.06.19 DEB">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_dreamOS-v1-beta-2023.06.19_all.deb"</url>
 		</plugin>
 	</plugins>
@@ -3902,62 +3902,62 @@
 		</plugin>
 	</plugins>
 	<!-- SKIN FHD-HD 2.2 -->
-	<plugins cont="Skins Fhd-Hd DreamOs ">
-		<plugin name="ZSTYLE: INSTALL YOUR ZSKIN by MMark v.2.4 for DreamOs">
+	<plugins cont="Skins Fhd-Hd OE2.2/2.5/2.6 ">
+		<plugin name="ZSTYLE: INSTALL YOUR ZSKIN by MMark v.2.4">
 			<url>"http://patbuweb.com/zskin/enigma2-plugin-extensions-zskin-zstyles_2.4_all.deb"</url>
 		</plugin>
-		<plugin name="FHD zSkin by MMark v.2.6 for DreamOs">
+		<plugin name="FHD zSkin by MMark v.2.6" >
 			<url>"http://patbuweb.com/zskin/enigma2-plugin-skins-zskin-fhd.deb"</url>
 		</plugin>
-		<plugin name="WQHD zSkin by MMark v.2.6 for DreamOs">
+		<plugin name="WQHD zSkin by MMark v.2.6">
 			<url>"http://patbuweb.com/zskin/enigma2-plugin-skins-zskin-wqhd.deb"</url>
 		</plugin>
-		<plugin name="FHD Gp4 Shadow WQHD arm64 all for DreamOs">
+		<plugin name="FHD Gp4 Shadow WQHD arm64 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-gp4-shadow-wqhd_arm64.deb"</url>
 		</plugin>
-		<plugin name="FHD Zombi Shadow GP4 for DreamOs">
+		<plugin name="FHD Zombi Shadow GP4">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-gp4-zombi-shadow-fhd_all.deb"</url>
 		</plugin>
-		<plugin name="FHD Cino dreamosat gri mod.drsat 20241020 for DreamOs">
+		<plugin name="FHD Cino dreamosat gri mod.drsat 20241020">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-cino-dreamosat-gri-fhd-mod-drsat_20241020_all.deb"</url>
 		</plugin>
-		<plugin name="FHD DE mod.drsat 20241020 for DreamOs">
+		<plugin name="FHD DE mod.drsat 20241020">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-de-fhd-mod-drsat_20241020_all.deb"</url>
 		</plugin>
-		<plugin name="FHD GP4 Meridian 20230716-r4.2 for DreamOs">
+		<plugin name="FHD GP4 Meridian 20230716-r4.2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/gp4-skin-meridian-fhd_20230716-r4.2_all.deb"</url>
 		</plugin>
-		<plugin name="FHD Glass UHD 18 1.50 all for DreamOs">
+		<plugin name="FHD Glass UHD 18 1.50 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-ultrahdglass18_1.50_all.deb"</url>
 		</plugin>
-		<plugin name="FHD Glass 17 9.20 all for DreamOs">
+		<plugin name="FHD Glass 17 9.20 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-fullhdglass17_9.20_all.deb"</url>
 		</plugin>
-		<plugin name="FHD Line 3.2 r03 all for DreamOs">
+		<plugin name="FHD Line 3.2 r03 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-FullHdLine3.2r03-all.deb"</url>
 		</plugin>
-		<plugin name="FHD Line 3.2 by Mic71 mod.Raed all for DreamOs">
+		<plugin name="FHD Line 3.2 by Mic71 mod.Raed all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/Skin-FULLHDLine-By-MIC71-MOD-By-RAED.deb"</url>
 		</plugin>
-		<plugin name="FHD Zombi Shadow Mediaportal for DreamOs">
+		<plugin name="FHD Zombi Shadow Mediaportal">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/mediaportal-skin-zombi_shadow_fhd_all.deb"</url>
 		</plugin>
-		<plugin name="FHD MetrixAeon Skin Adrenalinnrw mod for DreamOs">
+		<plugin name="FHD MetrixAeon Skin Adrenalinnrw mod">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-metrixaeonfhd-adrenalinnrw-mod_1.0-r0_all.deb"</url>
 		</plugin>
-		<plugin name="FHD Suisse Merlin 10.7 all for DreamOs">
+		<plugin name="FHD Suisse Merlin 10.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.fhd_merlin_10.7_all.deb"</url>
 		</plugin>
-		<plugin name="HD Suisse One4all 10.7 all for DreamOs">
+		<plugin name="HD Suisse One4all 10.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_10.7_all.deb"</url>
 		</plugin>
-		<plugin name="HD Suisse 2k 4.1 all for DreamOs">
+		<plugin name="HD Suisse 2k 4.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_4.1_all.deb"</url>
 		</plugin>
-		<plugin name="HD Nuke Evo 20230724-r5.7.5 all for DreamOs">
+		<plugin name="HD Nuke Evo 20230724-r5.7.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5//skin/enigma2-skin-nuke.evo_20230724-r5.7.5_all.deb"</url>
 		</plugin>
-		<plugin name="MetrixStyle HD v.13.1-r2 for DreamOs">
+		<plugin name="MetrixStyle HD v.13.1-r2">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-metrixstylehd_13.1-r2_all.deb"</url>
 		</plugin>
 	</plugins>
