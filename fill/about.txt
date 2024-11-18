@@ -10,11 +10,19 @@ maintener
 20240720 init version 2.0
 
 ATTENTION PLEASE...    
+
+I am NOT responsible for any issues you may
+encounter once you install the plugins and skins.
+However, if required, you can get help to resolve the issue.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 This is free software; you can redistribute it and/or modify it 
 underthe terms of the GNU General Public License as published 
 by the Free Software Foundation; or any later version.
 You are not allowed to remove credits and 
 the code must be open to everyone. 
+
 Thank you Lululla 
 
 Support on:
