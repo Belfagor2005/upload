@@ -3570,6 +3570,9 @@
 		<plugin name="FHD Froid v.3.30 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-froid_3.30_all.ipk"</url>
 		</plugin>
+		<plugin name="QXGA Kitte888 v.8.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-kitte888-qxga_8.8_all.ipk"</url>
+		</plugin>
 		<plugin name="FHD Infinity neo V.7s-v6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-infinity-neo_V.7s-v6_all.ipk"</url>
 		</plugin>
