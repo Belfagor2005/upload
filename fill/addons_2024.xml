@@ -368,11 +368,11 @@
 		<plugin name="FEEDS Dream-Arabia all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dreamarabia-addons-feed.deb"</url>
 		</plugin>
-		<plugin name="FEEDS Dream-Elite extra_arm64-dmone-dmtwo all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64-dmone-dmtwo.deb"</url>
-		</plugin>
 		<plugin name="FEEDS Dream-Elite 7.1 DEP all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-panel-installer_all.deb"</url>
+		</plugin>		
+		<plugin name="FEEDS Dream-Elite extra_arm64-dmone-dmtwo all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64-dmone-dmtwo.deb"</url>
 		</plugin>
 		<plugin name="FEEDS Dream-Elite 7.1 EXTRA ARM64">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64.deb"</url>
