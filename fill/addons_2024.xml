@@ -515,6 +515,9 @@
 		<plugin name="M2B m3u to bouquet 2.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-m2b_2.8_all.ipk"</url>
 		</plugin>
+		<plugin name="M3U iptv V.1.0+git252">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-systemplugins-m3uiptv_1.0+git252_all.ipk"</url>
+		</plugin>
 		<plugin name="M3U Player v. 1.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-m3uplayer_1.1_all.ipk"</url>
 		</plugin>
