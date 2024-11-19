@@ -1293,7 +1293,10 @@
 		<plugin name="ScreenGrabber mod by Lululla v.3.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-screengrabber_3.1_all.deb"</url>
 		</plugin>
-		<plugin name="Secondinfobar2 3.6 all">
+		<plugin name="Secondinfobar2 v.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar-v5_all.deb"</url>
+		</plugin>		
+		<plugin name="Secondinfobar2 v.3.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar2_3.6_all.deb"</url>
 		</plugin>
 		<plugin name="Serienrecorder 4.7.0 all">
