@@ -1413,11 +1413,11 @@
 		<plugin name="Youtube plus-minitv py2 v2-git1133-5722cc7-r0.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube-plus-minitv_py2-v2-git1133-5722cc7-r0.0_all.ipk"</url>
 		</plugin>
-		<plugin name="YouTube py3-git1231-c13ce06-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_py3-git1231-c13ce06-r0.0.ipk"</url>
+		<plugin name="YouTube py3-git1233-95a7d80-r0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_py3-git1233-95a7d80-r0.0.ipk"</url>
 		</plugin>
-		<plugin name="YouTube h1-git1231-c13ce06-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1231-c13ce06-r0.0.ipk"</url>
+		<plugin name="YouTube h1-git1233-95a7d80-r0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1233-95a7d80-r0.0.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- MULTIBOOT -->
