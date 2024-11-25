@@ -239,8 +239,8 @@
 		<plugin name="Backs Ncovers v. 0.9-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_0.9-r1_all.ipk"</url>
 		</plugin>
-		<plugin name="Cooltvguide Coolman_V7.7.0_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-cooltvguide_Coolman_V7.7.0_all.ipk"</url>
+		<plugin name="Cooltvguide Coolman_V8.0_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-cooltvguide_Coolman_V8.0_all.ipk"</url>
 		</plugin>
 		<plugin name="CrossEpg v. 0.8.6+git483 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-systemplugins-crossepg_0.8.6-20181224_all.ipk"</url>
@@ -1416,11 +1416,11 @@
 		<plugin name="Youtube plus-minitv py2 v2-git1133-5722cc7-r0.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube-plus-minitv_py2-v2-git1133-5722cc7-r0.0_all.ipk"</url>
 		</plugin>
-		<plugin name="YouTube py3-git1231-c13ce06-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_py3-git1231-c13ce06-r0.0.ipk"</url>
+		<plugin name="YouTube py3-git1233-95a7d80-r0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_py3-git1233-95a7d80-r0.0.ipk"</url>
 		</plugin>
-		<plugin name="YouTube h1-git1231-c13ce06-r0.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1231-c13ce06-r0.0.ipk"</url>
+		<plugin name="YouTube h1-git1233-95a7d80-r0.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_h1-git1233-95a7d80-r0.0.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- MULTIBOOT -->
@@ -2622,14 +2622,14 @@
 		<plugin name="Wireguard Vpn py3.9 12.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.9_12.1_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 12.3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_12.3_all.ipk"</url>
+		<plugin name="Wireguard Vpn 12.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_12.6_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 12.3 aarch64 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_12.3_all.ipk"</url>
+		<plugin name="Wireguard Vpn 12.6 aarch64 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_12.6_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 12.3 mips all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_12.3_all.ipk"</url>
+		<plugin name="Wireguard Vpn 12.6 mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_12.6_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- WEATHER TOOLS -->
