@@ -251,7 +251,10 @@
 		<plugin name="Epg Cache Selector 1.2 r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-systemplugins-epgcacheselector_1.2-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="Epggrabber_22.5_all">
+		<plugin name="Epggrabber v.23.5_all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgplugin_v23.5_all.ipk"</url>
+		</plugin>
+		<plugin name="Epggrabber v.22.5_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epggrabber_22.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Epg Export v. 1.0 r6 all">
