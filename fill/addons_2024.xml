@@ -8,6 +8,9 @@
 		<plugin name="Auto backup 2.0+git77+87cb199-r0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-autobackup_2.0+git77+87cb199-r0_all.ipk"</url>
 		</plugin>
+		<plugin name="Backupflashe v.9.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupflashe_9.4_all.ipk"</url>
+		</plugin>
 		<plugin name="Backupandflash_1.0-r0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupandflash_1.0-r0_all.ipk"</url>
 		</plugin>
@@ -995,6 +998,9 @@
 		</plugin>
 		<plugin name="Athantimes v.2.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/Athantimes_2.8_DreamOS.deb"</url>
+		</plugin>
+		<plugin name="Backupflashe v.9.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupflashe_9.4_all.deb"</url>
 		</plugin>
 		<plugin name="Backupandflash 1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupandflash_1.4_all.deb"</url>
