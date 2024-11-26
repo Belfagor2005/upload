@@ -3972,8 +3972,8 @@
 		<plugin name="HD Suisse One4all 10.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_10.7_all.deb"</url>
 		</plugin>
-		<plugin name="HD Suisse 2k 4.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_4.1_all.deb"</url>
+		<plugin name="HD Suisse 2k 4.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_4.2_all.deb"</url>
 		</plugin>
 		<plugin name="HD Nuke Evo 20230724-r5.7.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5//skin/enigma2-skin-nuke.evo_20230724-r5.7.5_all.deb"</url>
