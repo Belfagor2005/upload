@@ -3969,11 +3969,11 @@
 		<plugin name="FHD MetrixAeon Skin Adrenalinnrw mod">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-plugin-skins-metrixaeonfhd-adrenalinnrw-mod_1.0-r0_all.deb"</url>
 		</plugin>
-		<plugin name="FHD Suisse Merlin 10.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.fhd_merlin_10.7_all.deb"</url>
+		<plugin name="FHD Suisse Merlin 10.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.fhd_merlin_10.8_all.deb"</url>
 		</plugin>
-		<plugin name="HD Suisse One4all 10.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_10.7_all.deb"</url>
+		<plugin name="HD Suisse One4all 10.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_10.8_all.deb"</url>
 		</plugin>
 		<plugin name="HD Suisse 2k 4.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_4.2_all.deb"</url>
