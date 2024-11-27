@@ -3105,6 +3105,9 @@
 	</plugins>
 	<!-- SKINS ALL -->
 	<plugins cont="Skins All ">
+		<plugin name="FHD oZeta Universal Skin by MMark v.2.0.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-ozeta_2.0.6_all.ipk"</url>
+		</plugin>
 		<plugin name="FHD Areadeltasat Dragon Poster Backdrop v.4.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2_plugin_skins_areadeltasat_fhd_dragon_4_2_Poster_Backdrop.ipk"</url>
 		</plugin>
