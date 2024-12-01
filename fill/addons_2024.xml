@@ -376,7 +376,7 @@
 		</plugin>
 		<plugin name="FEEDS Dream-Elite 7.1 DEP all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-panel-installer_all.deb"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="FEEDS Dream-Elite extra_arm64-dmone-dmtwo all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/feed/dream-elite-extra_arm64-dmone-dmtwo.deb"</url>
 		</plugin>
@@ -1304,7 +1304,7 @@
 		</plugin>
 		<plugin name="Secondinfobar2 v.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar-v5_all.deb"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Secondinfobar2 v.3.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar2_3.6_all.deb"</url>
 		</plugin>
@@ -1439,7 +1439,7 @@
 		</plugin>
 		<plugin name="Egamiboot 10.6+git36161+df20ccb0+df20ccb7f0-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-egamiboot_10.6+git36161+df20ccb0+df20ccb7f0-r0_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Meoboot 0.1-r3_arm all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-meoboot_0.1-r3_arm_all.ipk"</url>
 		</plugin>
@@ -2625,20 +2625,20 @@
 		<plugin name="Vpn Manager 1.1.7 PY3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn py3.9 12.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.9_12.9_all.ipk"</url>
-		</plugin>
-    <plugin name="Wireguard Vpn py_3.13 all">
+		<plugin name="Wireguard Vpn py_3.13 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_13.0_all_py_3.13.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 12.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_12.9_all.ipk"</url>
+		<plugin name="Wireguard Vpn 13.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_13.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 12.9 aarch64 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_12.9_all.ipk"</url>
+		<plugin name="Wireguard Vpn 13.0 aarch64 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_13.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 12.9 mips all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_12.9_all.ipk"</url>
+		<plugin name="Wireguard Vpn 13.0 mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_13.0_all.ipk"</url>
+		</plugin>
+		<plugin name="Wireguard Vpn py3.9 12.9 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.9_12.9_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- WEATHER TOOLS -->
@@ -3755,7 +3755,7 @@
 		</plugin>
 		<plugin name="FHD Pd1loi Fhd night weatherfull v.3.1.17 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-hd-night-weatherfull_3.1.17_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="FHD Pd1loi Fhd night mod-drsat 20241021 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pli-fullnight-hd-dr-sat_20241021_all.ipk"</url>
 		</plugin>
