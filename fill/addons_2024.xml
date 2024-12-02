@@ -701,11 +701,11 @@
 		<plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
 		</plugin>
-		<plugin name="XKlass v.1.25.20241127 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.25.20241127_all.ipk"</url>
+		<plugin name="XKlass v.1.26.20241201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.26.20241201_all.ipk"</url>
 		</plugin>
-		<plugin name="XStreamity 4.66.20241127 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.66.20241127_all.ipk"</url>
+		<plugin name="XStreamity 4.67.20241201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.67.20241201_all.ipk"</url>
 		</plugin>
 		<plugin name="E2Piconizer 1.25.20231110 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk"</url>
@@ -726,11 +726,11 @@
 		<plugin name="Jedi EPG Xtream 2.12_20241030">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
 		</plugin>
-		<plugin name="xKlass v.1.25_20241127 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.25_20241127_all.deb"</url>
+		<plugin name="xKlass v.1.26 20241201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.26_20241201_all.deb"</url>
 		</plugin>
-		<plugin name="XStreamity 4.66_20241127 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.66_20241127_all.deb"</url>
+		<plugin name="XStreamity 4.67_20241201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.67_20241201_all.deb"</url>
 		</plugin>
 		<plugin name="Screen Names v.1.06.20240825">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -3087,7 +3087,10 @@
 			<plugin name="Webmedia 18.3-r1 deb">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webmedia_18.3-r1.0_all.deb"</url>
 			</plugin>
-			<plugin name="Youtube h1+git1078+adb94bf-r0 Mod-RAED DEB">
+			<plugin name="Youtube 2024.12.01-Beta-mod. AMIN DEB">
+				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_2024.12.01-Beta-mod. AMIN_all.deb"</url>
+			</plugin>
+      <plugin name="Youtube h1+git1078+adb94bf-r0 Mod-RAED DEB">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_1+git1078+adb94bf-r0-Mod-RAED.deb"</url>
 			</plugin>
 			<plugin name="Youtube DreamOS-plus-minitv-git1172-r0.0-Mod-Petry DEB">
@@ -3969,8 +3972,8 @@
 			<plugin name="FHD Suisse Merlin 10.8 all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.fhd_merlin_10.8_all.deb"</url>
 			</plugin>
-			<plugin name="HD Suisse One4all 10.8 all">
-				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_10.8_all.deb"</url>
+			<plugin name="HD Suisse One4all 10.8-r1 all">
+				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.one4all.fhd_10.8-r1_all.deb"</url>
 			</plugin>
 			<plugin name="HD Suisse 2k 4.2 all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-hdsuisse.2k_4.2_all.deb"</url>
