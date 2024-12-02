@@ -701,11 +701,11 @@
 		<plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
 		</plugin>
-		<plugin name="XKlass v.1.26.20241201 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.26.20241201_all.ipk"</url>
+		<plugin name="XKlass v.1.26.20241202 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.26.20241202_all.ipk"</url>
 		</plugin>
-		<plugin name="XStreamity 4.67.20241201 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.67.20241201_all.ipk"</url>
+		<plugin name="XStreamity 4.67.20241202 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.67.20241202_all.ipk"</url>
 		</plugin>
 		<plugin name="E2Piconizer 1.25.20231110 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk"</url>
@@ -729,8 +729,8 @@
 		<plugin name="xKlass v.1.26 20241201 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.26_20241201_all.deb"</url>
 		</plugin>
-		<plugin name="XStreamity 4.67_20241201 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.67_20241201_all.deb"</url>
+		<plugin name="XStreamity 4.67_20241202 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.67_20241202_all.deb"</url>
 		</plugin>
 		<plugin name="Screen Names v.1.06.20240825">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -981,8 +981,8 @@
 		<plugin name="AdvancedMovieSelection v.5.6.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-advancedmovieselection_5.6.2_all.deb"</url>
 		</plugin>
-		<plugin name="Ajpanel v10.1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ajpanel_v10.1.0_all.deb"</url>
+		<plugin name="Ajpanel v10.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ajpanel_v10.2.1_all.deb"</url>
 		</plugin>
 		<plugin name="Alternative Softcammanager 4.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.deb"</url>
@@ -1491,8 +1491,8 @@
 	</plugins>
 	<!-- PANELS ADDONS -->
 	<plugins cont="Panels Addons ">
-		<plugin name="Ajpanel v10.1.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-ajpanel_v10.1.0_all.ipk"</url>
+		<plugin name="Ajpanel v10.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-ajpanel_v10.2.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Alternative Softcam Manager 2-git46-a25a9b3-r0.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_2-git46-a25a9b3-r0.0_all.ipk"</url>
@@ -2628,8 +2628,8 @@
 			<plugin name="Wireguard Vpn 13.1 mips all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_13.1_all.ipk"</url>
 			</plugin>
-			<plugin name="Wireguard Vpn py_3 v.13.0 all">
-				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_13.0_all.ipk"</url>
+			<plugin name="Wireguard Vpn py_3.9 v.13.1 all">
+				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.9_13.1_all.ipk"</url>
 			</plugin>
 		</plugins>
 		<!-- WEATHER TOOLS -->
