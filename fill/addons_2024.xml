@@ -2622,14 +2622,14 @@
 			<plugin name="Vpn Manager 1.1.7 PY3 all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 			</plugin>
-			<plugin name="Wireguard Vpn v.13.2 all">
-				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_13.2_all"</url>
+			<plugin name="Wireguard Vpn v.13.3 all">
+				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_13.3_all"</url>
 			</plugin>			
-			<plugin name="Wireguard Vpn 13.2 aarch64 all">
-				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_13.2_all.ipk"</url>
+			<plugin name="Wireguard Vpn 13.3 aarch64 all">
+				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_13.3_all.ipk"</url>
 			</plugin>
-			<plugin name="Wireguard Vpn 13.2 mips all">
-				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_13.2_all.ipk"</url>
+			<plugin name="Wireguard Vpn 13.3 mips all">
+				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_13.3_all.ipk"</url>
 			</plugin>
 			<plugin name="Wireguard Vpn py3.9 v.13.1 all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.9_13.1_all.ipk"</url>
@@ -3957,8 +3957,8 @@
 			<plugin name="FHD Glass UHD 18 1.50 all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-ultrahdglass18_1.50_all.deb"</url>
 			</plugin>
-			<plugin name="FHD Glass 17 9.20 all">
-				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-fullhdglass17_9.20_all.deb"</url>
+			<plugin name="FHD Glass 17 9.30 all">
+				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-fullhdglass17_9.30_all.deb"</url>
 			</plugin>
 			<plugin name="FHD Line 3.2 r03 all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-FullHdLine3.2r03-all.deb"</url>
