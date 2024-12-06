@@ -236,8 +236,8 @@
 	</plugins>
 	<!-- EPG TOOLS -->
 	<plugins cont="Epg Tools ">
-		<plugin name="Advancedevent library v. 1.0r141 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r141_all.ipk"</url>
+		<plugin name="Advancedevent library v. 1.0r142 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r142_all.ipk"</url>
 		</plugin>
 		<plugin name="Backs Ncovers v. 0.9-r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_0.9-r1_all.ipk"</url>
