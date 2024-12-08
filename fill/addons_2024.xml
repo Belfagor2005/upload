@@ -2625,17 +2625,17 @@
 			<plugin name="Vpn Manager 1.1.7 PY3 all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 			</plugin>
-			<plugin name="Wireguard Vpn v.13.4 all">
+			<plugin name="Wireguard Vpn v.13.5 all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_13.4_all"</url>
 			</plugin>			
-			<plugin name="Wireguard Vpn 13.4 aarch64 all">
+			<plugin name="Wireguard Vpn 13.5 aarch64 all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_13.4_all.ipk"</url>
 			</plugin>
-			<plugin name="Wireguard Vpn 13.4 mips all">
+			<plugin name="Wireguard Vpn 13.5 mips all">
 				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_13.4_all.ipk"</url>
 			</plugin>
-			<plugin name="Wireguard Vpn py3.9 v.13.4 all">
-				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-py3.9_13.4_all.ipk"</url>
+			<plugin name="Wireguard Vpn v.13.0 all">
+				<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_13.0_all.ipk"</url>
 			</plugin>
 		</plugins>
 		<!-- WEATHER TOOLS -->
