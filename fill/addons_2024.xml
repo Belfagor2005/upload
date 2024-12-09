@@ -8,8 +8,8 @@
 		<plugin name="Auto backup 2.0+git77+87cb199-r0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-autobackup_2.0+git77+87cb199-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="Backupflashe v.9.4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupflashe_9.4_all.ipk"</url>
+		<plugin name="Backupflashe v.9.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupflashe_9.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Backupandflash_1.0-r0_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupandflash_1.0-r0_all.ipk"</url>
