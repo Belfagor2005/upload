@@ -1395,7 +1395,10 @@
 		<plugin name="Webradiofs 16.24 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-webradiofs_16.24_all.deb"</url>
 		</plugin>
-		<plugin name="Wettercom 2.0.3-r1 all">
+		<plugin name="Wettercom 2.0.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wettercom_2.0.4-r0_all.deb"</url>
+		</plugin>		
+		<plugin name="Wettercom 2.0.3 md all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wettercom_2.0.3-r1_all.deb"</url>
 		</plugin>
 		<plugin name="Wireguardmanager 1.0.6 all">
