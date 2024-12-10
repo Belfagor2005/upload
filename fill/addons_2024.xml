@@ -1299,6 +1299,9 @@
 		<plugin name="Secondinfobar2 v.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar-v5_all.deb"</url>
 		</plugin>
+		<plugin name="Secondinfobar2 v.3.9-r2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar2_3.9-r2_all.deb"</url>
+		</plugin>
 		<plugin name="Secondinfobar2 v.3.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-secondinfobar2_3.6_all.deb"</url>
 		</plugin>
