@@ -1974,8 +1974,8 @@
 		<plugin name="GosatPlus 2.0 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus_2.0_all.ipk"</url>
 		</plugin>
-		<plugin name="GosatPlus Oscam 11774-emu-r801 ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11774-emu-r801_all.ipk"</url>
+		<plugin name="GosatPlus Oscam 11860-emu-r802 ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk"</url>
 		</plugin>
 		<plugin name="GosatPlus Ncam 14.2-r3 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-ncam_14.4-r0_all.ipk"</url>
@@ -1983,8 +1983,8 @@
 		<plugin name="Powercam Oscam 3.0 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam_3.0_all.ipk"</url>
 		</plugin>
-		<plugin name="Powercam Oscam 11774-emu-r801 ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11774-emu-r801_all.ipk"</url>
+		<plugin name="Powercam Oscam 11860-emu-r802 ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11860-emu-r802_all.ipk"</url>
 		</plugin>
 		<plugin name="Powercam Ncam 14.2-r3 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-ncam_14.4-r0_all.ipk"</url>
@@ -1995,14 +1995,14 @@
 		<plugin name="Supcam Ncam 14.4-r0 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-ncam_14.4-r0_all.ipk"</url>
 		</plugin>
-		<plugin name="Supcam Oscam 11774-emu-r801 ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11774-emu-r801_all.ipk"</url>
+		<plugin name="Supcam Oscam 11860-emu-r802 ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11860-emu-r802_all.ipk"</url>
 		</plugin>
 		<plugin name="Ultracam Ncam 14.2-r3 ipk">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-ncam_14.2-r3_all.ipk"</url>
 		</plugin>
-		<plugin name="Ultracam Oscam 11774-emu-r801 ipk">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11774-emu-r801_all.ipk"</url>
+		<plugin name="Ultracam Oscam 11860-emu-r802 ipk">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11860-emu-r802_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- SOFTCAMS OE2.2 -->
