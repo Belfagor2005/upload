@@ -732,7 +732,7 @@
 		<plugin name="Jedi EPG Xtream 2.12_20241030">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
 		</plugin>
-		<plugin name="xKlass v.1.27_20241214 all">
+		<plugin name="xKlass v.1.27 20241214 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.27_20241214_all.deb"</url>
 		</plugin>
 		<plugin name="XStreamity 4.68_20241214 all">
