@@ -1092,8 +1092,8 @@
 		<plugin name="Enhanced Movie Center 5-0git20210126 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enhancedmoviecenter-5-0git20210126-all.deb"</url>
 		</plugin>
-		<plugin name="EPGImport DreamOs mod.Lululla v.2.2">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport-dreamos_2.2_all.deb"</url>
+		<plugin name="EPGImport DreamOs mod.Lululla v.2.3">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport-dreamos_2.3_all.deb"</url>
 		</plugin>
 		<plugin name="EPGImport 2.22.20210523 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
