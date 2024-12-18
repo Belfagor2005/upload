@@ -768,14 +768,26 @@
 		<plugin name="DD RSS FEEDS v.0.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_0.7_all.ipk"</url>
 		</plugin>
+		<plugin name="DOscam Status 1.0 Modded all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url>
+		</plugin>
 		<plugin name="FilmOn v.2.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.0_all.ipk"</url>
 		</plugin>
 		<plugin name="FilmXY v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmxy_1.4_all.ipk"</url>
 		</plugin>
+		<plugin name="Flash Expander it openpli4 mod Lululla">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-flashexpander-it-openpli4_0.33-r0_all.ipk"</url>
+		</plugin>
+		<plugin name="FlashBackupTo_1.5">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-systemplugins-flashbackupto_1.5_all.ipk"</url>
+		</plugin>
 		<plugin name="Freearhey v. 2.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_2.9_all.ipk"</url>
+		</plugin>
+		<plugin name="Gcam Status 1.0 Modded all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Grifo Update Modded 1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-grifo-update_1.0_all.ipk"</url>
@@ -797,6 +809,9 @@
 		</plugin>
 		<plugin name="mmPicons v.1.4 mMark all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mmpicons_1.4_all.ipk"</url>
+		</plugin>
+		<plugin name="NoIp DynDns Exp.+conf v.1.31 modded Lululla">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-noipdyndns-modded_experimental-1.31_all.ipk"</url>
 		</plugin>
 		<plugin name="Parsa TV v.1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.7_all.ipk"</url>
@@ -858,29 +873,14 @@
 		<plugin name="Vavoo Stream online v.1.32 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.32_all.ipk"</url>
 		</plugin>
-		<plugin name="World Cam 4.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.5_all.ipk"</url>
+		<plugin name="World Cam v.4.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.6_all.ipk"</url>
 		</plugin>
 		<plugin name="Xc Plugin Forever v.3.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_3.7_all.ipk"</url>
 		</plugin>
 		<plugin name="Xcplugin-iptv-mod-lululla_6.7_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-iptv-mod-lululla_6.7_all.ipk"</url>
-		</plugin>
-		<plugin name="DOscam Status 1.0 Modded all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url>
-		</plugin>
-		<plugin name="Flash Expander it openpli4 mod Lululla">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-flashexpander-it-openpli4_0.33-r0_all.ipk"</url>
-		</plugin>
-		<plugin name="FlashBackupTo_1.5">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-systemplugins-flashbackupto_1.5_all.ipk"</url>
-		</plugin>
-		<plugin name="Gcam Status 1.0 Modded all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
-		</plugin>
-		<plugin name="NoIp DynDns Exp.+conf v.1.31 modded Lululla">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-noipdyndns-modded_experimental-1.31_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- LULULLA ZONE OE2.5-2.6 -->
@@ -969,8 +969,8 @@
 		<plugin name="Vavoo Stream online v.1.32 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.32_all.deb"</url>
 		</plugin>
-		<plugin name="World Cam 4.5">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.5_all.deb"</url>
+		<plugin name="World Cam v.4.6">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.6_all.deb"</url>
 		</plugin>
 		<plugin name="Xc Plugin Forever v.3.7">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_3.7_all.deb"</url>
@@ -1362,10 +1362,10 @@
 		<plugin name="Tuner Description v.0.1-r1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tunerdescription_0.1-r1_all.deb"</url>
 		</plugin>
-		<plugin name="turkvod_14_OE25 all">
+		<plugin name="Turkvod 14 OE25 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-turkvod_14_OE25.deb"</url>
 		</plugin>
-		<plugin name="Tvshows_1.0-r1.0 all">
+		<plugin name="Tvshows v.1.0-r1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-tvshows_1.0-r1.0_all.deb"</url>
 		</plugin>
 		<plugin name="Tv Spielfilm 1.8.3-r0 all">
