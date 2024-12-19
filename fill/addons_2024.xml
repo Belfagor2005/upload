@@ -275,21 +275,11 @@
 		<plugin name="EPGImport-mod-dorik1972_1.9.1_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
 		</plugin>
-		<plugin name="Epg Import dream v. 1.0 Py3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport-py3-dream_1.0_all.ipk"</url>
-		</plugin>
-		<plugin name="Epg Import v. 1.0 Py3 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport-py3_1.0_all.ipk"</url>
-		</plugin>
-		<plugin name="Epg Import v. 1.0 Py3 mipsel">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport-py3_1.0_mipsel.ipk"</url>
-		</plugin>
+
 		<plugin name="Epg Import v. 0.9.12 PLi all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk"</url>
 		</plugin>
-		<plugin name="Epg Import v. 1.0 git206+20190616 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_1.0+git206+20190616_all.ipk"</url>
-		</plugin>
+
 		<plugin name="Epg Import Filter v. 1.0">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimportfilter_1.0+git8+244ec71-r0_mips32el.ipk"</url>
 		</plugin>
