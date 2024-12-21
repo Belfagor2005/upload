@@ -812,8 +812,8 @@
 		<plugin name="RadioGit v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.1_all.ipk"</url>
 		</plugin>
-		<plugin name="RadioM v.1.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.1_all.ipk"</url>
+		<plugin name="RadioM v.1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.2_all.ipk"</url>
 		</plugin>
 		<plugin name="RSS Reader v.1.13 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.13_all.ipk"</url>
@@ -917,8 +917,8 @@
 		<plugin name="RadioGit v.1.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.1_all.deb"</url>
 		</plugin>
-		<plugin name="RadioM v.1.1 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.1_all.deb"</url>
+		<plugin name="RadioM v.1.2 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.2_all.deb"</url>
 		</plugin>
 		<plugin name="RSS Reader v.1.13 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.13_all.deb"</url>
