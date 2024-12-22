@@ -2114,6 +2114,9 @@
 		<plugin name="Oscam Info 0.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-oscaminfo_0.6_all.ipk"</url>
 		</plugin>
+		<plugin name="Oscam Status 6.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.5_all.ipk"</url>
+		</plugin>		
 		<plugin name="Oscam Status 6.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.4_all.ipk"</url>
 		</plugin>
@@ -2729,8 +2732,8 @@
 	</plugins>
 	<!-- WEATHER FORECA -->
 	<plugins cont="WeatherForecast ">
-		<plugin name="Weather Foreca 3.3.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/enigma2-plugin-extensions-foreca_3.3.0_all.ipk"</url>
+		<plugin name="Weather Foreca 3.3.4 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/enigma2-plugin-extensions-foreca_3.3.4_all.ipk"</url>
 		</plugin>
 		<plugin name="Weather Foreca Country Italia">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Italia.ipk"</url>
