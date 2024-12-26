@@ -1121,8 +1121,8 @@
 		<plugin name="Gutemine 2.9-r23 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-gutemine_2.9-r23_all.deb"</url>
 		</plugin>
-		<plugin name="Historyzap 1.0.41 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-historyzap_1.0.41_all.deb"</url>
+		<plugin name="Historyzap 1.0.43 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-historyzap_1.0.43_all.deb"</url>
 		</plugin>
 		<plugin name="Ipaudio 6.5 all.deb ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudio_6.5_all.deb"</url>
@@ -2408,8 +2408,8 @@
 		<plugin name="Hardware Info v.5.1">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-hardwareinfo_5.1_all.ipk"</url>
 		</plugin>
-		<plugin name="Historyzap 1.0.41">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-historyzap_1.0.41_all.ipk"</url>
+		<plugin name="Historyzap 1.0.43">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-historyzap_1.0.43_all.ipk"</url>
 		</plugin>
 		<plugin name="Keyboardhistory_0.1-Beta all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-keyboardhistory_0.1-Beta_all.ipk"</url>
@@ -2732,8 +2732,8 @@
 	</plugins>
 	<!-- WEATHER FORECA -->
 	<plugins cont="WeatherForecast ">
-		<plugin name="Weather Foreca 3.3.4 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/enigma2-plugin-extensions-foreca_3.3.4_all.ipk"</url>
+		<plugin name="Weather Foreca 3.3.5 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/enigma2-plugin-extensions-foreca_3.3.5_all.ipk"</url>
 		</plugin>
 		<plugin name="Weather Foreca Country Italia">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Italia.ipk"</url>
