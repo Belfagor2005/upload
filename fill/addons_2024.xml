@@ -2735,8 +2735,8 @@
 	</plugins>
 	<!-- WEATHER FORECA -->
 	<plugins cont="WeatherForecast ">
-		<plugin name="Weather Foreca 3.3.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/enigma2-plugin-extensions-foreca_3.3.5_all.ipk"</url>
+		<plugin name="Weather Foreca 3.3.6 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/enigma2-plugin-extensions-foreca_3.3.6_all.ipk"</url>
 		</plugin>
 		<plugin name="Weather Foreca Country Italia">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Italia.ipk"</url>
