@@ -866,8 +866,8 @@
 		<plugin name="World Cam v.4.6 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.6_all.ipk"</url>
 		</plugin>
-		<plugin name="Xc Plugin Forever v.3.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_3.7_all.ipk"</url>
+		<plugin name="Xc Gold Forever v.4.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_4.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Xcplugin-iptv-mod-lululla_6.7_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-iptv-mod-lululla_6.7_all.ipk"</url>
@@ -962,8 +962,8 @@
 		<plugin name="World Cam v.4.6">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.6_all.deb"</url>
 		</plugin>
-		<plugin name="Xc Plugin Forever v.3.7">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_3.7_all.deb"</url>
+		<plugin name="Xc Gold Forever v.4.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_4.0_all.deb"</url>
 		 </plugin>
 	</plugins>
 	<!-- OE2.2 PLUGINS-->
