@@ -740,6 +740,9 @@
 		<plugin name="Softcam Manager V.2.1 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_2.1_all.ipk"</url>
 		</plugin>
+		<plugin name="Acherone Script v.1.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-acherone_1.1_all.ipk"</url>
+		</plugin>		
 		<plugin name="Add IPTV Stream 1.2 Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-addiptv-modded_v.1.2_all.ipk"</url>
 		</plugin>
