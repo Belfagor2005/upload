@@ -806,8 +806,11 @@
 		<plugin name="NoIp DynDns Exp.+conf v.1.31 modded Lululla">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-noipdyndns-modded_experimental-1.31_all.ipk"</url>
 		</plugin>
-		<plugin name="Oroscopo RDS Italia by Lululla">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-oroscopo_1.0_all.ipk"</url>
+		<plugin name="Horoscope EN by Lululla">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-horoscope_1.0_all.ipk"</url>
+		</plugin>		
+		<plugin name="Oroscopo Italia by Lululla">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-oroscopo_1.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Parsa TV v.1.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.7_all.ipk"</url>
