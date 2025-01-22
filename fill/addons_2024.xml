@@ -2612,6 +2612,9 @@
 		<plugin name="Wirelesslan 1.0 dm800 fix">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk"</url>
 		</plugin>
+		<plugin name="ZapTimer by Sisko a v.1.0 all ">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-zaptimer_1.0_all.ipk"</url>
+		</plugin>		
 		<plugin name="Zerotier v.1.4.6-r0 armv7ahf-neon fix">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/zerotier_1.4.6-r0_armv7ahf-neon.ipk"</url>
 		</plugin>
