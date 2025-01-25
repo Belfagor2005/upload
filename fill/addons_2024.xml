@@ -776,8 +776,8 @@
 		<plugin name="FlashBackupTo_1.5">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-systemplugins-flashbackupto_1.5_all.ipk"</url>
 		</plugin>
-		<plugin name="Freearhey v. 2.9 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_2.9_all.ipk"</url>
+		<plugin name="Freearhey v. 3.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.1_all.ipk"</url>
 		</plugin>
 		<plugin name="Gcam Status 1.0 Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
