@@ -764,8 +764,8 @@
 		<plugin name="DOscam Status 1.0 Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url>
 		</plugin>
-		<plugin name="FilmOn v.2.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.0_all.ipk"</url>
+		<plugin name="FilmOn v.2.1 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.1_all.ipk"</url>
 		</plugin>
 		<plugin name="FilmXY v.1.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmxy_1.4_all.ipk"</url>
@@ -785,8 +785,8 @@
 		<plugin name="Grifo Update Modded 1.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-grifo-update_1.0_all.ipk"</url>
 		</plugin>
-		<plugin name="HasBahCa 1.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_1.7_all.ipk"</url>
+		<plugin name="HasBahCa 1.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_1.8_all.ipk"</url>
 		</plugin>
 		<plugin name="M2B m3u to bouquet 0.4 ITA Modded ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m2b-it_0.4-r0-modded_all.ipk"</url>
