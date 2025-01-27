@@ -691,6 +691,9 @@
 		<plugin name="Slyk EPG 7 Day v.2.11.20241030 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-slykepg7day_2.11.20241030_all.ipk"</url>
 		</plugin>
+		<plugin name="Skin e2sentials v.1.00.20250126 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.00.20250126_all.ipk"</url>
+		</plugin>
 		<plugin name="Skins Slyk Toppicks 7.6.20240529 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skins-slyk-toppicks_7.6.20240529_all.ipk"</url>
 		</plugin>
@@ -730,6 +733,9 @@
 		</plugin>
 		<plugin name="Screen Names v.1.06.20240825">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
+		</plugin>
+		<plugin name="Skin e2sentials v.1.00.20250126 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.00_20250126_all.deb"</url>
 		</plugin>
 		<plugin name="Visual Weather 1.10_20241030">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.10_20241030_all.deb"</url>
