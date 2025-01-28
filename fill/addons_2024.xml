@@ -2957,8 +2957,8 @@
 		<plugin name="Thumbzilla v.1.0 +18 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-thumbzilla_1.0_all.ipk"</url>
 		</plugin>
-		<plugin name="tvStream PRO REVOLUTION XXX v.1.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.5_all.ipk"</url>
+		<plugin name="tvStream PRO REVOLUTION XXX v.1.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.7_all.ipk"</url>
 		</plugin>
 		<plugin name="Webmedia XXX v.1.0_r0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/adult/enigma2-plugin-extensions-webmediaxxx_1.0_r0_all.ipk"</url>
@@ -3020,8 +3020,8 @@
 		<plugin name="Thumbzilla v.1.0 +18">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-thumbzilla_1.0_all.deb"</url>
 		</plugin>
-		<plugin name="tvStream PRO REVOLUTION XXX v.1.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.5_all.deb"</url>
+		<plugin name="tvStream PRO REVOLUTION XXX v.1.7 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.7_all.deb"</url>
 		</plugin>
 		<plugin name="Xhamster v.1.0 +18">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xhamster_1.0_all.deb"</url>
