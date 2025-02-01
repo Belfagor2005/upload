@@ -1199,7 +1199,7 @@
 		<plugin name="Levi45 Addon Panel v.10.1-r27 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.1-r27_all.deb"</url>
 		</plugin>
-		<plugin name="Linuxsat-Panel v.2.7 all">
+		<plugin name="Linuxsat-Panel v.2.7.0 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_2.7_all.deb"</url>
 		</plugin>
 		<plugin name="LiveFootBall 8.6 all">
@@ -1556,8 +1556,8 @@
 		<plugin name="Levi45 Addon Panel v.10.1-r27 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.1-r27_all.ipk"</url>
 		</plugin>
-		<plugin name="Linuxsat-Panel v.2.7 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_2.7_all.ipk"</url>
+		<plugin name="Linuxsat-Panel v.2.7.0 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_2.7.0_all.ipk"</url>
 		</plugin>
 		<plugin name="Luxsat-menu 12.9 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-luxsat-menu_12.9_all.ipk"</url>
