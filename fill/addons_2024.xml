@@ -676,8 +676,8 @@
 	</plugins>
 	<!-- KIDDAC -->
 	<plugins cont="KiddaC OE2.0 ">
-		<plugin name="Bouquet Maker Xtream 1.42.20250110 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.42.20250110_all.ipk"</url>
+		<plugin name="Bouquet Maker Xtream 1.46.20250201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.46.20250201_all.ipk"</url>
 		</plugin>
 		<plugin name="Jedimakerxtream 6.37.20240530_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk"</url>
@@ -703,11 +703,11 @@
 		<plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
 		</plugin>
-		<plugin name="XKlass v.1.32.20250110 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.32.20250110_all.ipk"</url>
+		<plugin name="XKlass v.1.33.20250201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.33.20250201_all.ipk"</url>
 		</plugin>
-		<plugin name="XStreamity 4.72.20241223 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.72.20241223_all.ipk"</url>
+		<plugin name="XStreamity 4.775.20250201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.75.20250201_all.ipk"</url>
 		</plugin>
 		<plugin name="E2Piconizer 1.25.20231110 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk"</url>
@@ -719,8 +719,8 @@
 	<!-- KIDDAC -->
 	<plugins cont="KiddaC OE2.2/2.5/2.6 ">
 		<!-- debian -->
-		<plugin name="Bouquet Maker Xtream 1.42.20250110 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.42_20250110_all.deb"</url>
+		<plugin name="Bouquet Maker Xtream 1.46_20250201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.46_20250201_all.deb"</url>
 		</plugin>
 		<plugin name="Jedimakerxtream_6.37_20240530_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb"</url>
@@ -728,11 +728,11 @@
 		<plugin name="Jedi EPG Xtream 2.12_20241030">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
 		</plugin>
-		<plugin name="xKlass v.1.32.20250110 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.32_20250110_all.deb"</url>
+		<plugin name="xKlass v.1.33_20250201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.33_20250201_all.deb"</url>
 		</plugin>
-		<plugin name="XStreamity v.4.72_20241223 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.72_20241223_all.deb"</url>
+		<plugin name="XStreamity v.4.75_20250201 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.75_20250201_all.deb"</url>
 		</plugin>
 		<plugin name="Screen Names v.1.06.20240825">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -2657,17 +2657,17 @@
 		<plugin name="Vpn Manager 1.1.7 PY3 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn v.13.5 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_13.4_all"</url>
+		<plugin name="Wireguard Vpn h82h v.14.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-h82h_14.8_all.ipk"</url>
 		</plugin>
 		<plugin name="Wireguard Vpn 13.5 aarch64 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_13.4_all.ipk"</url>
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_13.5_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn 13.5 mips all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_13.4_all.ipk"</url>
+		<plugin name="Wireguard Vpn 14.8 mips all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_14.8_all.ipk"</url>
 		</plugin>
-		<plugin name="Wireguard Vpn v.13.0 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_13.0_all.ipk"</url>
+		<plugin name="Wireguard Vpn v.14.8 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_14.8_all.ipk"</url>
 		</plugin>
 	</plugins>
 	<!-- WEATHER TOOLS -->
