@@ -706,8 +706,8 @@
 		<plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
 		</plugin>
-		<plugin name="XKlass v.1.4.20250204 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.34.20250204_all.ipk"</url>
+		<plugin name="XKlass v.1.35.20250209 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.35.20250209_all.ipk"</url>
 		</plugin>
 		<plugin name="XStreamity 4.77.20250208 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.77.20250208_all.ipk"</url>
@@ -731,8 +731,8 @@
 		<plugin name="Jedi EPG Xtream 2.12_20241030">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
 		</plugin>
-		<plugin name="xKlass v.1.34_20250204 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.34_20250204_all.deb"</url>
+		<plugin name="xKlass v.1.35_20250210 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.35_20250210_all.deb"</url>
 		</plugin>
 		<plugin name="XStreamity v.4.77.20250208 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.77_20250208_all.deb"</url>
@@ -754,7 +754,7 @@
 		</plugin>
 		<plugin name="Acherone Script v.1.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-acherone_1.2_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Add IPTV Stream 1.2 Modded all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-addiptv-modded_v.1.2_all.ipk"</url>
 		</plugin>
@@ -820,7 +820,7 @@
 		</plugin>
 		<plugin name="Horoscope Gloabal Int v.1.1 by Lululla">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-horoscope_1.1_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Oroscopo Italia by Lululla">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-oroscopo_1.0_all.ipk"</url>
 		</plugin>
@@ -1132,7 +1132,7 @@
 		</plugin>
 		<plugin name="Foreca v.3.3.7 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-foreca_3.3.7_all.deb"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Freeserver 8.3.8 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-freeserver_8.3.8_all.deb"</url>
 		</plugin>
@@ -2140,7 +2140,7 @@
 		</plugin>
 		<plugin name="Oscam Status 6.5 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.5_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Oscam Status 6.4 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.4_all.ipk"</url>
 		</plugin>
@@ -2534,6 +2534,12 @@
 		<plugin name="S4aupdater 23.12.27.1727 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-s4aupdater_23.12.27.1727_all.ipk"</url>
 		</plugin>
+		<plugin name="Satscanlcn v.1.0+git46+fd233cb-r0 cortexa15hf-neon-vfpv4">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-satscanlcn_1.0+git46+fd233cb-r0_cortexa15hf-neon-vfpv4.ipk"</url>
+		</plugin>
+		<plugin name="Satscanlcn v.1.0+git46+fd233cb-r0_mips32el">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-satscanlcn_1.0+git46+fd233cb-r0_mips32el.ipk"</url>
+		</plugin>
 		<plugin name="ScreenGrabber mod by Lululla v.3.2 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screengrabber_3.2_all.ipk"</url>
 		</plugin>
@@ -2626,7 +2632,7 @@
 		</plugin>
 		<plugin name="ZapTimer by Sisko a v.1.0 all ">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-zaptimer_1.0_all.ipk"</url>
-		</plugin>		
+		</plugin>
 		<plugin name="Zerotier v.1.4.6-r0 armv7ahf-neon fix">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/zerotier_1.4.6-r0_armv7ahf-neon.ipk"</url>
 		</plugin>
