@@ -682,8 +682,8 @@
 		<plugin name="Bouquet Maker Xtream 1.46.20250201 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.46.20250201_all.ipk"</url>
 		</plugin>
-		<plugin name="Jedimakerxtream 6.37.20240530_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk"</url>
+		<plugin name="Jedimakerxtream v.6.40_20250212 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
 		</plugin>
 		<plugin name="Jedi EPG Xtream 2.12.20241030 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12.20241030_all.ipk"</url>
@@ -709,8 +709,8 @@
 		<plugin name="XKlass v.1.35.20250209 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.35.20250209_all.ipk"</url>
 		</plugin>
-		<plugin name="XStreamity 4.77.20250208 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.77.20250208_all.ipk"</url>
+		<plugin name="XStreamity v.4.81.20250214 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.81.20250214_all.ipk"</url>
 		</plugin>
 		<plugin name="E2Piconizer 1.25.20231110 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk"</url>
@@ -725,8 +725,8 @@
 		<plugin name="Bouquet Maker Xtream 1.46_20250201 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.46_20250201_all.deb"</url>
 		</plugin>
-		<plugin name="Jedimakerxtream_6.37_20240530_all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb"</url>
+		<plugin name="Jedimakerxtream v.6.40_20250212 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
 		</plugin>
 		<plugin name="Jedi EPG Xtream 2.12_20241030">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
@@ -734,8 +734,8 @@
 		<plugin name="xKlass v.1.35_20250210 all">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.35_20250210_all.deb"</url>
 		</plugin>
-		<plugin name="XStreamity v.4.77.20250208 all">
-			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.77_20250208_all.deb"</url>
+		<plugin name="XStreamity v.4.81.20250214 all">
+			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.81_20250213_all.deb"</url>
 		</plugin>
 		<plugin name="Screen Names v.1.06.20240825">
 			<url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
