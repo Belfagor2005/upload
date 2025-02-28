@@ -2373,8 +2373,8 @@
         <plugin name="Change Mac Address e2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/Change-mac-address_e2_all.ipk"</url>
         </plugin>
-        <plugin name="Ciplus helper 5.8-r2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-ciplushelper_5.8-r2_all.ipk"</url>
+        <plugin name="Ciplus helper 5.8-r3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-ciplushelper_5.8-r3_all.ipk"</url>
         </plugin>
         <plugin name="Ciplus helper openbh-openvix_5.x all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper-openbh-openvix_5.x_all.ipk"</url>
@@ -2570,6 +2570,9 @@
         </plugin>
         <plugin name="Signalfinder v.2.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-signalfinder_2.4_all.ipk"</url>
+        </plugin>
+        <plugin name="Slowzap v2.7 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-slowzap_2.7_all.ipk"</url>
         </plugin>
         <plugin name="Smart Shell v. 1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-smartshell_1.0_all.ipk"</url>
