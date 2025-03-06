@@ -2712,6 +2712,12 @@
         <plugin name="VWeather 3.1.0 r61 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_1.0r61_all.ipk"</url>
         </plugin>
+        <plugin name="Weather Foreca 3.3.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-foreca_3.3.8_all.ipk"</url>
+        </plugin>
+        <plugin name="Weather Foreca 3.3.8 VTI-r5 image all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-foreca_3.3.8-e2openpluginsgit20250223-VTi-mod-r6_all.ipk"</url>
+        </plugin>
         <plugin name="Weather Plugin py3 v.7.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin-py3_7.0_all.ipk"</url>
         </plugin>
@@ -2762,150 +2768,6 @@
         </plugin>
         <plugin name="Weather Yweather 0.7 r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-yweather-0.7-r1.ipk"</url>
-        </plugin>
-    </plugins>
-    <!-- WEATHER FORECA -->
-    <plugins cont="WeatherForecast ">
-        <plugin name="Weather Foreca 3.3.7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/enigma2-plugin-extensions-foreca_3.3.7_all.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca 3.3.7 VTI-r5 image all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/enigma2-plugin-extensions-foreca_3.3.7-e2openpluginsgit20250223-VTi-mod-r5_all.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Italia">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Italia.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Africa">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Africa.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Albania">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Albania.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country America">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Americas.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Andorra">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Andorra.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Austrlia_Oceania">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Australia_Oceania.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Austria">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Austria.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Belarus">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Belarus.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Belgium">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Belgium.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Bosnia_and_Herzegovina">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Bosnia_and_Herzegovina.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Bulgaria">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Bulgaria.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Croatia">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Croatia.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Cyprus">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Cyprus.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Czech_Republic">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Czech_Republic.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Denmark">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Denmark.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Eire">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Eire.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Estonia">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Estonia.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Finland">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Finland.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country France">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/France.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Germany">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Germany.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Gibraltar">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Gibraltar.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Greece">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Greece.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Grrenland">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Greenland.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Hungary">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Hungary.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Iceland">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Iceland.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Latvia">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Latvia.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Liechtenstein">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Liechtenstein.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Luxembourg">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Luxembourg.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Makedonija">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Makedonija.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Malta">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Malta.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Monaco">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Monaco.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Netherlands">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Netherlands.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Norway">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Norway.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Poland">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Poland.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Portugal">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Portugal.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Russia">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Russia.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Serbia">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Serbia.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Slovakia">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Slovakia.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Slovenia">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Slovenia.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Spain">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Spain.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Sweden">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Sweden.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Switzerland">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Switzerland.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Turkey">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Turkey.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country Ukraine">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/Ukraine.ipk"</url>
-        </plugin>
-        <plugin name="Weather Foreca Country United_Kingdom">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/foreca/United_Kingdom.ipk"</url>
         </plugin>
     </plugins>
     <!-- WEBCAM -->
