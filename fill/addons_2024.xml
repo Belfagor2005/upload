@@ -1950,8 +1950,8 @@
         <plugin name="CCcam 2.3.9 r6 OE 2.0 IPK all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_239-r6-RAED_OE2.0_all.ipk"</url>
         </plugin>
-        <plugin name="CCcam 2.3.2-emu-r3-arm+mips IPK all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_2.3.2-emu-r3-arm+mips_all.ipk"</url>
+        <plugin name="CCcam 2.3.2-emu-arm+mips all images IPK all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_232_all.ipk"</url>
         </plugin>
         <plugin name="Ncam 15 r0 ARM-RCH-MIPS 64">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam_V15.0-r0_all.ipk"</url>
