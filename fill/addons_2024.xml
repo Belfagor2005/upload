@@ -2389,8 +2389,8 @@
         <plugin name="Ciplus helper openpli8.x_4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci_plus_helper-openpli8.x_4_all.ipk"</url>
         </plugin>
-        <plugin name="Ciplus helper opentr_10.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper-opentr_10.1_all.ipk"</url>
+        <plugin name="Ciplus helper opentr_10.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper-opentr_10.2_all.ipk"</url>
         </plugin>
         <plugin name="CrashLog Viewer 1.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-crashlogviewer_1.5_all.ipk"</url>
