@@ -1595,8 +1595,8 @@
         <plugin name="Chocholousek Picons 5.0.240904 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.ipk"</url>
         </plugin>
-        <plugin name="Picon Buddy v.1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.0.0_all.ipk"</url>
+        <plugin name="Picon Buddy v.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.1_all.ipk"</url>
         </plugin>
         <plugin name="Missing Picons 2024.08.13 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-missingpicons_2024_08_13_all.ipk"</url>
