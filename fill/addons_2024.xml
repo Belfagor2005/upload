@@ -266,8 +266,8 @@
         <plugin name="Epg Export v. 1.0 r6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgexport_1.0-r6_all.ipk"</url>
         </plugin>
-        <plugin name="-Epg Import MOD LULULLA v.99.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_99.3_all.ipk"</url>
+        <plugin name="-Epg Import MOD LULULLA v.99.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_99.4_all.ipk"</url>
         </plugin>
         <plugin name="Epg Import NSS v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport-nss_1.0_all.ipk"</url>
