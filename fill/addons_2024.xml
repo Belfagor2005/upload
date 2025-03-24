@@ -706,8 +706,8 @@
         <plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
         </plugin>
-        <plugin name="XKlass v.1.38.20250310 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.38.20250310_all.ipk"</url>
+        <plugin name="XKlass v.1.41.20250323 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.41.20250323_all.ipk"</url>
         </plugin>
         <plugin name="XStreamity v.4.83.20250219 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.83.20250219_all.ipk"</url>
@@ -731,8 +731,8 @@
         <plugin name="Jedi EPG Xtream 2.12_20241030">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
         </plugin>
-        <plugin name="xKlass v.1.38.20250310 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.38_20250310_all.deb"</url>
+        <plugin name="xKlass v.41.20250323 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.41_20250323_all.deb"</url>
         </plugin>
         <plugin name="XStreamity v.4.87_20250225 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.87_20250225_all.deb"</url>
