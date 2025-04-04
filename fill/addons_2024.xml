@@ -676,8 +676,8 @@
     </plugins>
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.0 ">
-        <plugin name="Bouquet Maker Xtream 1.46.20250201 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.46.20250201_all.ipk"</url>
+        <plugin name="Bouquet Maker Xtream 1.47.20250401 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.47.20250401_all.ipk"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
@@ -703,11 +703,11 @@
         <plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
         </plugin>
-        <plugin name="XKlass v.1.41.20250323 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.41.20250323_all.ipk"</url>
+        <plugin name="XKlass v.1.44.20250402 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.44.20250402_all.ipk"</url>
         </plugin>
-        <plugin name="XStreamity v.4.83.20250219 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.83.20250219_all.ipk"</url>
+        <plugin name="XStreamity v.4.92.20250402 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.92.20250402_all.ipk"</url>
         </plugin>
         <plugin name="E2Piconizer 1.25.20231110 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk"</url>
@@ -719,8 +719,8 @@
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.2/2.5/2.6 ">
         <!-- debian -->
-        <plugin name="Bouquet Maker Xtream 1.46_20250201 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.46_20250201_all.deb"</url>
+        <plugin name="Bouquet Maker Xtream 1.47_20250401 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.47_20250401_all.deb"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
@@ -728,11 +728,11 @@
         <plugin name="Jedi EPG Xtream 2.12_20241030">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
         </plugin>
-        <plugin name="xKlass v.41.20250323 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.41_20250323_all.deb"</url>
+        <plugin name="xKlass v.1.44_20250402 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.44_20250402_all.deb"</url>
         </plugin>
-        <plugin name="XStreamity v.4.87_20250225 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.87_20250225_all.deb"</url>
+        <plugin name="XStreamity v.4.92_20250402 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_4.92_20250402_all.deb"</url>
         </plugin>
         <plugin name="Screen Names v.1.06.20240825">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -2599,8 +2599,8 @@
         <plugin name="Softsleepfs v.1.6all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-softsleepfs_1.6_all.ipk"</url>
         </plugin>
-        <plugin name="Subs Support 1.7.0-r12-py3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.7.0-r12-py3_all.ipk"</url>
+        <plugin name="Subs Support 1.7.0-r18-py3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.7.0-r18-py3_all.ipk"</url>
         </plugin>
         <plugin name="Subs Support 1.5.8 r9 py2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport-py2_1.5.8_all.ipk"</url>
@@ -3571,8 +3571,8 @@
         <plugin name="FHD Youchie v1.00 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI_v1.00.ipk"</url>
         </plugin>
-        <plugin name="FHD Aglare pli v.5.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_5.2_all.ipk"</url>
+        <plugin name="FHD Aglare pli v.5.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_5.3_all.ipk"</url>
         </plugin>
         <plugin name="FHD Army touch v.1.1 r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-army-touch-fhd-pli_1.1-r4_all.ipk"</url>
@@ -3832,8 +3832,8 @@
     </plugins>
     <!-- Skins_Oebased -->
     <plugins cont="Skins Oe Based ">
-        <plugin name="FHD Aglare v.5.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_5.4_all.ipk"</url>
+        <plugin name="FHD Aglare v.5.5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_5.5_all.ipk"</url>
         </plugin>
         <plugin name="FHD Artemis mod.dragon poster-backdrop v.8.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-artemis-mod-dragon_8.5.poster.backdrop_all.ipk"</url>
