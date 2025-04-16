@@ -676,8 +676,8 @@
     </plugins>
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.0 ">
-        <plugin name="Bouquet Maker Xtream 1.47.20250401 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.47.20250401_all.ipk"</url>
+        <plugin name="Bouquet Maker Xtream 1.50_20250415 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.50.20250415_all.ipk"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
@@ -719,8 +719,8 @@
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.2/2.5/2.6 ">
         <!-- debian -->
-        <plugin name="Bouquet Maker Xtream 1.47_20250401 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.47_20250401_all.deb"</url>
+        <plugin name="Bouquet Maker Xtream 1.50_20250415 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.50_20250415_all.deb"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
@@ -3460,8 +3460,8 @@
     </plugins>
     <!-- Skins_OBH -->
     <plugins cont="Skins OpenBh ">
-        <plugin name="FHD Youchie PL v.1.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins-Youchie-PLI-FHD-for-OpenBH_v1.0.1.ipk"</url>
+        <plugin name="FHD Youchie PL v.1.0.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins-Youchie-PLI-FHD-for-OpenBH_v1.0.2.ipk"</url>
         </plugin>    
         <plugin name="FHD MX Sline v.5.2 by Ahmedriad all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-mx-sline-openbh5.2-by-ahmedriad_v3.11_all.ipk"</url>
