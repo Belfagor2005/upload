@@ -3079,11 +3079,8 @@
         <plugin name="FHD Glamour Aura mod sl F.36 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-glamouraurafhd-mod-sl_F.36_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Glass 17 V.9.32 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-skin-fullhdglass17_9.32_all.ipk"</url>
-        </plugin>
-        <plugin name="FHD Glass 17 v.3.05 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-skin-fullhdglass17_3.05_all.ipk"</url>
+        <plugin name="FHD Glass 17 V.9.50 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-skin-fullhdglass17_9.50_all.ipk"</url>
         </plugin>
         <plugin name="FHD Kitte888 v.9.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-kitte888-fhd-all_9.00_all.ipk"</url>
@@ -3270,9 +3267,6 @@
         </plugin>
         <plugin name="HD X1 v1.0 MOD By RAED">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-HD-X1-v1.0-MOD-By-RAED.ipk"</url>
-        </plugin>
-        <plugin name="HD Glass 16 10.56 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skin-hdglass16_10.56_all.ipk"</url>
         </plugin>
         <plugin name="HD Glass 16 11.40 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-skin-hdglass16_11.40_all.ipk"</url>
@@ -3883,8 +3877,8 @@
         <plugin name="FHD Glass UHD 18 1.50 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-ultrahdglass18_1.50_all.deb"</url>
         </plugin>
-        <plugin name="FHD Glass 17 9.32 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-fullhdglass17_9.32_all.deb"</url>
+        <plugin name="FHD Glass 17 9.50 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-fullhdglass17_9.50_all.deb"</url>
         </plugin>
         <plugin name="FHD Line 3.2 r03 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-FullHdLine3.2r03-all.deb"</url>
