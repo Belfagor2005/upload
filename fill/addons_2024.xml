@@ -445,8 +445,8 @@
         <plugin name="E2iStream 20191129_r01 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2istream_20191129_r01_all.ipk"</url>
         </plugin>
-        <plugin name="E2m3u2bouquet v.1.9.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_1.9.3_all.ipk"</url>
+        <plugin name="E2m3u2bouquet v.2.0.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_2.0.4_all.ipk"</url>
         </plugin>
         <plugin name="Exodus V 7.0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-exodus_7.0_r0_all.ipk"</url>
@@ -1100,8 +1100,8 @@
         <plugin name="E2iplayer h1+git3988+7977fec-r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"</url>
         </plugin>
-        <plugin name="E2m3u2bouquet v.1.9.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_1.9.3_all.deb"</url>
+        <plugin name="E2m3u2bouquet v.2.0.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.4_all.deb"</url>
         </plugin>
         <plugin name="Enhanced Movie Center 5-0git20210126 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enhancedmoviecenter-5-0git20210126-all.deb"</url>
@@ -1987,8 +1987,8 @@
         <plugin name="Ncam Revcam2 12.9-r0 all ipk">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam-revcamv2_V12.9-r0_all.ipk"</url>
         </plugin>
-        <plugin name="Oscam Icam emu levi45 11880-802 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11880-802_all.ipk"</url>
+        <plugin name="Oscam Icam emu levi45 11882-802 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-levi45_11882-802_all.ipk"</url>
         </plugin>
         <plugin name="Oscam Icam py3.21_11788-emu-r801 ipk">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.ipk"</url>
@@ -2065,8 +2065,8 @@
         <plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
         </plugin>
-        <plugin name="Oscam Icam emu levi45 11880-802 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11880-802_all.deb"</url>
+        <plugin name="Oscam Icam emu levi45 11882-802 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-levi45_11882-802_all.deb"</url>
         </plugin>
         <plugin name="Oscam Icam 11787-py3.21_emu-r801 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.deb"</url>
