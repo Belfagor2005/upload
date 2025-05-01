@@ -3844,9 +3844,6 @@
         <plugin name="FHD Metrix Neo 7S v.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
         </plugin>
-        <plugin name="FHD xDreamy 5.4.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xDreamy_5.4.0_all.ipk"</url>
-        </plugin>
         <plugin name="FHD Xmas Meets Skallihd mod.Fhd v.1.01 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xmas-meets-skallihd-mod-fhd_1.01_all.ipk"</url>
         </plugin>
