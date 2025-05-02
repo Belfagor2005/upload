@@ -1616,8 +1616,8 @@
         <plugin name="Picon Cockpit 5.6.8 mod. Lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconcockpit_5.6.8_all.ipk"</url>
         </plugin>        
-        <plugin name="Picon Manager 2.1 20240813-r3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.1-20240813-r3_all.ipk"</url>
+        <plugin name="Picon Manager 2.5-20250328-r5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.5-20250328-r5_all.ipk"</url>
         </plugin>
         <plugin name="Picon Picons Updater 0.3.7.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconsupdater_0.3.7.5_all.ipk"</url>
