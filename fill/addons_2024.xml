@@ -149,8 +149,8 @@
         <plugin name="Ts Sateditor v. 4.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ts-sateditor_4.0_all.ipk"</url>
         </plugin>
-        <plugin name="Vhannibal Autosetting FHD Mod by Lululla 2.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ngsetting-fhd_2.8_all.ipk"</url>
+        <plugin name="Vhannibal Autosetting FHD Mod by Lululla 2.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ngsetting-fhd_2.9_all.ipk"</url>
         </plugin>
     </plugins>
     <!-- DB-USB -->
