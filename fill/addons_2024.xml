@@ -2611,6 +2611,9 @@
         <plugin name="Subs Support 1.5.8 r9 Py3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport-py3_1.5.8_all.ipk"</url>
         </plugin>
+        <plugin name="Suptv Activation v.4.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-suptv_4.4_all.ipk"</url>
+        </plugin>
         <plugin name="Swap Manager mipsel">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-swapmanager_1.0-r0_mipsel.ipk"</url>
         </plugin>
