@@ -1253,6 +1253,10 @@
         <plugin name="New Virtual Keyboard 12.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-newvirtualkeyboard_v12.3_all.deb"</url>
         </plugin>
+        <plugin name="Vhannibal Autosetting FHD Mod by Lululla 2.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ngsetting-fhd_2.9_all.deb"</url>
+        </plugin>
+
         <plugin name="Nord vpn connector mod Lululla 0.6-r0 By RAED Py3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/nordvpnconnector_0.6-r0_By-RAED-Py3_all.deb"</url>
         </plugin>
