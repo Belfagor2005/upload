@@ -1103,8 +1103,8 @@
         <plugin name="E2m3u2bouquet v.2.0.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.4_all.deb"</url>
         </plugin>
-        <plugin name="EmulatorManager v.2.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-emulatormanager-v2.5_all.deb"</url>
+        <plugin name="EmulatorManager v.2.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-emulatormanager-v2.6_all.deb"</url>
         </plugin>
         <plugin name="Enhanced Movie Center 5-0git20210126 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enhancedmoviecenter-5-0git20210126-all.deb"</url>
