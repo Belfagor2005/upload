@@ -2591,6 +2591,10 @@
         <plugin name="Shoot your screen v.03 mod lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-shootyourscreen_0.3_all.ipk"</url>
         </plugin>
+        <plugin name="Show Clock v.09 mod lululla all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-showclock_0.9_all.ipk"</url>
+        </plugin>
+
         <plugin name="Skipintro v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-skipintro_1.1_all.ipk"</url>
         </plugin>
