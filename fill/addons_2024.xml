@@ -236,8 +236,8 @@
         <plugin name="Advancedevent library v. 1.0r143 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r143_all.ipk"</url>
         </plugin>
-        <plugin name="Backs Ncovers v. 0.9-r0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_0.9-r1_all.ipk"</url>
+        <plugin name="Backs Ncovers v. 1.0-r0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_1.0-r0_all.ipk"</url>
         </plugin>
         <plugin name="Cooltvguide Coolman V8.0 py3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-cooltvguide_Coolman_V8.0_py3_all.ipk"</url>
