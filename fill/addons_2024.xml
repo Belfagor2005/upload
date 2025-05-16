@@ -538,8 +538,8 @@
         <plugin name="Merlin Music Player v.7.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-merlinmusicplayer_7.4.ipk"</url>
         </plugin>
-        <plugin name="Movie Browser 3.8rc0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_3.8rc0_all.ipk"</url>
+        <plugin name="Movie Browser 3.9-rc0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_3.9-rc0_all.ipk"</url>
         </plugin>
         <plugin name="Movietime_1.0_r1_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-movietime_1.0_r1_all.ipk"</url>
