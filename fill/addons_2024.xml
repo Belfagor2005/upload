@@ -676,8 +676,8 @@
     </plugins>
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.0 ">
-        <plugin name="Bouquet Maker Xtream 1.53 20250517 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.53.20250517_all.ipk"</url>
+        <plugin name="Bouquet Maker Xtream 1.54.20250520 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.54.20250520_all.ipk"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
@@ -719,8 +719,8 @@
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.2/2.5/2.6 ">
         <!-- debian -->
-        <plugin name="Bouquet Maker Xtream 1.53 20250517 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.53_20250517_all.deb"</url>
+        <plugin name="Bouquet Maker Xtream 1.54.20250520 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.54_20250520_all.deb"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
