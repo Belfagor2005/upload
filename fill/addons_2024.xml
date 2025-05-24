@@ -709,8 +709,8 @@
         <plugin name="XStreamity v.5.00.20250517 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.00.20250517_all.ipk"</url>
         </plugin>
-        <plugin name="E2Piconizer 1.25.20231110 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk"</url>
+        <plugin name="E2Piconizer 1.28.20250517 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk"</url>
         </plugin>
         <plugin name="Visual Weather 1.10.20241030 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.10.20241030_all.ipk"</url>
