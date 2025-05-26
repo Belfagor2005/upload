@@ -679,6 +679,9 @@
         <plugin name="Bouquet Maker Xtream 1.54.20250520 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.54.20250520_all.ipk"</url>
         </plugin>
+        <plugin name="Estalker v.0.01.20250526 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_0.01.20250526_all.ipk"</url>
+        </plugin>        
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
         </plugin>
@@ -722,6 +725,9 @@
         <plugin name="Bouquet Maker Xtream 1.54.20250520 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.54_20250520_all.deb"</url>
         </plugin>
+        <plugin name="Estalker v.0.01_20250526 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_0.01_20250526_all.deb"</url>
+        </plugin>  
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
         </plugin>
@@ -769,6 +775,9 @@
         </plugin>
         <plugin name="Clear MEM 1.11 Modded Lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-clearmem_1.11_all.ipk"</url>
+        </plugin>
+        <plugin name="CrashLogViewer 1.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.6_all.ipk"</url>
         </plugin>
         <plugin name="DD RSS FEEDS v.0.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_0.7_all.ipk"</url>
@@ -2416,9 +2425,6 @@
         </plugin>
         <plugin name="Ciplus helper opentr_10.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper-opentr_10.2_all.ipk"</url>
-        </plugin>
-        <plugin name="CrashLog Viewer 1.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-crashlogviewer_1.5_all.ipk"</url>
         </plugin>
         <plugin name="Cronmanager 2.3 all all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cronmanager_2.3_all.ipk"</url>
