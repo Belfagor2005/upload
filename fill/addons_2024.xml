@@ -803,6 +803,9 @@
         <plugin name="M2B m3u to bouquet 0.4 ITA Modded ">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m2b-it_0.4-r0-modded_all.ipk"</url>
         </plugin>
+        <plugin name="M3U Archimded Converter v.1.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m3uconverter_1.0_all.ipk"</url>
+        </plugin>
         <plugin name="M3U Iptv v.1.1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m3uiptv_1.1_all.ipk"</url>
         </plugin>
