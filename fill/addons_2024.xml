@@ -68,6 +68,9 @@
     </plugins>
     <!-- BOUQUETS -->
     <plugins cont="Bouquets Tools ">
+        <plugin name="Levi45 settings_1.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_1.2_all.ipk"</url>
+        </plugin>
         <plugin name="Update Icam Settings v.2.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-updateicamsettings_2.1_all.ipk"</url>
         </plugin>
@@ -1190,6 +1193,9 @@
         <plugin name="Iptv Remote 1.0.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvremote_1.0.5.deb"</url>
         </plugin>
+        <plugin name="evi45 settings 1.0all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_1.0_all.deb"</url>
+        </plugin>
         <plugin name="iSetting START V.1.1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-start-1.1.deb"</url>
         </plugin>
@@ -2131,6 +2137,9 @@
         </plugin>
         <plugin name="Bissfeed autokey py2 V2.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk"</url>
+        </plugin>
+        <plugin name="Levi45 freeserver 1.1_all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_1.1_all.ipk"</url>
         </plugin>
         <plugin name="Softcam Key Updater v.6.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1_all.ipk"</url>
