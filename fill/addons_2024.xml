@@ -682,8 +682,8 @@
         <plugin name="Bouquet Maker Xtream 1.54.20250520 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.54.20250520_all.ipk"</url>
         </plugin>
-        <plugin name="Estalker v.0.01.20250526 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_0.01.20250526_all.ipk"</url>
+        <plugin name="Estalker v.0.06.20250603 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_0.06.20250603_all.ipk"</url>
         </plugin>        
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
@@ -728,8 +728,8 @@
         <plugin name="Bouquet Maker Xtream 1.54.20250520 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.54_20250520_all.deb"</url>
         </plugin>
-        <plugin name="Estalker v.0.01_20250526 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_0.01_20250526_all.deb"</url>
+        <plugin name="Estalker v.0.06_20250603 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_0.06_20250603_all.deb"</url>
         </plugin>  
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
@@ -1121,8 +1121,8 @@
         <plugin name="E2m3u2bouquet v.2.0.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.6_all.deb"</url>
         </plugin>
-        <plugin name="EmulatorManager v.2.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-emulatormanager-v2.8_all.deb"</url>
+        <plugin name="EmulatorManager v.2.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-emulatormanager-v2.9_all.deb"</url>
         </plugin>
         <plugin name="Enhanced Movie Center 5-0git20210126 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enhancedmoviecenter-5-0git20210126-all.deb"</url>
@@ -1142,8 +1142,8 @@
         <plugin name="EPGGrabber 2.0-r219 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.0-r219_all.deb"</url>
         </plugin>
-        <plugin name="EPG Language v.1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epglanguage-v1.0_all.deb"</url>
+        <plugin name="EPG Language v.1.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epglanguage-v1.2_all.deb"</url>
         </plugin>
         <plugin name="Eurojackpot_240202">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eurojackpot_240202_all.deb"</url>
