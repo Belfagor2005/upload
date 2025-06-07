@@ -872,6 +872,9 @@
         <plugin name="Sport365 1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-sport365_1.0_all.ipk"</url>
         </plugin>
+        <plugin name="Stalker Portal Converter by Lululla v.1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stalkerportalconverter_1.0_all.ipk"</url>
+        </plugin>
         <plugin name="S.T.V.C.L. by Lululla v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stvcl_1.4_all.ipk"</url>
         </plugin>
