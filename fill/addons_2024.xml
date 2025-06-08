@@ -694,8 +694,8 @@
         <plugin name="Movie Planner Mod v.4.04.20241003 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-movieplannermod_4.04.20241003_all.ipk"</url>
         </plugin>
-        <plugin name="Screen Names v.1.06.20240825 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk"</url>
+        <plugin name="Screen Names v.1.07.20250608 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.07.20250608_all.ipk"</url>
         </plugin>
         <plugin name="Slyk EPG 7 Day v.2.11.20241030 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-slykepg7day_2.11.20241030_all.ipk"</url>
