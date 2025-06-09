@@ -236,8 +236,8 @@
     </plugins>
     <!-- EPG TOOLS -->
     <plugins cont="Epg Tools ">
-        <plugin name="Advancedevent library v. 1.0r143 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r143_all.ipk"</url>
+        <plugin name="Advancedevent library v. 1.0r144 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r144_all.ipk"</url>
         </plugin>
         <plugin name="Backs Ncovers v. 1.0-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_1.0-r0_all.ipk"</url>
@@ -1127,8 +1127,8 @@
         <plugin name="E2m3u2bouquet v.2.0.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.6_all.deb"</url>
         </plugin>
-        <plugin name="EmulatorManager v.2.9 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-emulatormanager-v2.9_all.deb"</url>
+        <plugin name="EmulatorManager v.3.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-emulatormanager-v3.1_all.deb"</url>
         </plugin>
         <plugin name="Enhanced Movie Center 5-0git20210126 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enhancedmoviecenter-5-0git20210126-all.deb"</url>
@@ -1148,8 +1148,8 @@
         <plugin name="EPGGrabber 2.0-r219 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.0-r219_all.deb"</url>
         </plugin>
-        <plugin name="EPG Language v.1.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epglanguage-v1.4_all.deb"</url>
+        <plugin name="EPG Language v.1.5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epglanguage-v1.5_all.deb"</url>
         </plugin>
         <plugin name="Eurojackpot_240202">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eurojackpot_240202_all.deb"</url>
@@ -2288,8 +2288,8 @@
         <plugin name="Streamlink v.5.3.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlink_5.3.1.ipk"</url>
         </plugin>
-        <plugin name="Streamlink proxy 7.0.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlinkproxy_7.0.0_all.ipk"</url>
+        <plugin name="Streamlink proxy 7.4.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlinkproxy_7.4.0_all.ipk"</url>
         </plugin>
         <plugin name="Streamlink 2.1.1+6.g1baa545 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-streamlink_2.1.1+6.g1baa545_all.ipk"</url>
