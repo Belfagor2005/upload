@@ -905,8 +905,8 @@
         <plugin name="Vavoo Stream online v.1.38 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.38_all.ipk"</url>
         </plugin>
-        <plugin name="World Cam v.5.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_5.3_all.ipk"</url>
+        <plugin name="World Cam v.5.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_5.4_all.ipk"</url>
         </plugin>
         <plugin name="Xc Gold Forever v.4.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_4.6_all.ipk"</url>
