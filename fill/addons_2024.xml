@@ -14,8 +14,8 @@
         <plugin name="Backupandflash_1.0-r0_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupandflash_1.0-r0_all.ipk"</url>
         </plugin>
-        <plugin name="Backupsuite 3.0-r2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_3.0_r2_all.ipk"</url>
+        <plugin name="Backupsuite 3.0-r6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_3.0_r3_all.ipk"</url>
         </plugin>
         <plugin name="Backupsuite_1.0+git495+48b9906-r0_aarch64_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_aarch64.ipk"</url>
