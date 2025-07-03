@@ -14,8 +14,8 @@
         <plugin name="Backupandflash_1.0-r0_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupandflash_1.0-r0_all.ipk"</url>
         </plugin>
-        <plugin name="Backupsuite 3.0-r7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_3.0-r7_all.ipk"</url>
+        <plugin name="Backupsuite 3.0-r8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_3.0-r8_all.ipk"</url>
         </plugin>
         <plugin name="Backupsuite_1.0+git495+48b9906-r0_aarch64_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_aarch64.ipk"</url>
@@ -236,8 +236,8 @@
     </plugins>
     <!-- EPG TOOLS -->
     <plugins cont="Epg Tools ">
-        <plugin name="Advancedevent library v. 1.0r145 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r145_all.ipk"</url>
+        <plugin name="Advancedevent library v. 1.0r146 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r146_all.ipk"</url>
         </plugin>
         <plugin name="Backs Ncovers v. 1.0-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_1.0-r0_all.ipk"</url>
