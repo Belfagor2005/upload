@@ -436,12 +436,14 @@
         <plugin name="E2iPlayer Zadmario 2023.04.03.02 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-zadmario_2023.04.03.02_all.ipk"</url>
         </plugin>
-        <plugin name="E2iPlayer PY3.10 21.05.2022 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-py3.10_21.05.2022_all.ipk"</url>
+        
+        <plugin name="E2iPlayer git4734+d7355cb0+d7355cb9c6-r0_cortexa15hf-neon-vfpv4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer_git4734+d7355cb0+d7355cb9c6-r0_cortexa15hf-neon-vfpv4.ipk"</url>
         </plugin>
-        <plugin name="E2iPlayer PY3 21.05.2022 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-py3_21.05.2022_all.ipk"</url>
+        <plugin name="E2iPlayer DEPS 1.0+git9+2adf2670+2adf267a1c-r4_cortexa15hf-neon-vfpv4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-deps_1.0+git9+2adf2670+2adf267a1c-r4_cortexa15hf-neon-vfpv4.ipk"</url>
         </plugin>
+        
         <plugin name="E2iPlayer ts 17.05-2024 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-ts_17.05-2024_all.ipk"</url>
         </plugin>
