@@ -2768,8 +2768,8 @@
         <plugin name="Netatmo v.1.7.3 20230530-r345 py3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-netatmo_1.7.3-20230530-r345_py3branch_all.ipk"</url>
         </plugin>
-        <plugin name="OaWeather v.3.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_3.5_all.ipk"</url>
+        <plugin name="OaWeather v.3.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_3.6_all.ipk"</url>
         </plugin>
         <plugin name="The Weather py2-py3 v.2.6_r0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweather-py3_2.6_r0_all.ipk"</url>
