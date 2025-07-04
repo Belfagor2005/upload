@@ -633,9 +633,6 @@
         <plugin name="Stream Hunter v.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/stream_hunter8_all.ipk"</url>
         </plugin>
-        <plugin name="Streamlinkwrapper_1.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk"</url>
-        </plugin>
         <plugin name="Stream Title Songs v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamtitle_1.0_all.ipk"</url>
         </plugin>
@@ -2308,8 +2305,11 @@
         <plugin name="Streamlink 1.1.1.r0 mod all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-streamlink_1.1.1.r0_mod_all.ipk"</url>
         </plugin>
-        <plugin name="Iptv StreamLink 1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvstreamlink_1.0_r0_all.ipk"</url>
+        <plugin name="Streamlinkwrapper 1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk"</url>
+        </plugin>
+        <plugin name="StreamLink Iptv 1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-iptvstreamlink_1.0_r0_all.ipk"</url>
         </plugin>
         <plugin name="Streamlinksrv 1.8.2 all all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlinksrv_1.8.2.ipk"</url>
