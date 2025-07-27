@@ -38,9 +38,6 @@
         <plugin name="Flash Expander v.1.00 py3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-flashexpander_1.00-r0_all.ipk"</url>
         </plugin>
-        <plugin name="FlashExpander 0.33 r0">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-flashexpander_0.33-r0_all.ipk"</url>
-        </plugin>
         <plugin name="Gp3 Flash backup 1.5.4">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-gp3flashbackup_1.5.4-20110127-r0_mipsel.ipk"</url>
         </plugin>
