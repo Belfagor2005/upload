@@ -1255,6 +1255,9 @@
         <plugin name="Multi EPG Vali Mod 18.04.2021 - Version 1.2-r7">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multiepgmv_20210418-1.2-r7_all.deb"</url>
         </plugin>
+        <plugin name="Multiboot Selector v.1.14-r0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multibootselector_1.14-r0_all.deb"</url>
+        </plugin>
         <plugin name="Multistalker_1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multistalker_1.4_all.deb"</url>
         </plugin>
@@ -1498,6 +1501,9 @@
         </plugin>
         <plugin name="Multiboot Flashonline v.7.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-multiboot-flashonline_7.1_all.ipk"</url>
+        </plugin>
+        <plugin name="Multiboot Selector v.1.14-r0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-multibootselector_1.14-r0_all.ipk"</url>
         </plugin>
         <plugin name="Neoboot 9.69 vip all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot_9.69_all.ipk"</url>
