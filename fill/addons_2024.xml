@@ -868,9 +868,6 @@
         <plugin name="S.T.V.C.L. v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stvcl_1.4_all.ipk"</url>
         </plugin>
-        <plugin name="Tv Rai Preview v.1.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.4_all.ipk"</url>
-        </plugin>
         <plugin name="TvDream V.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.ipk"</url>
         </plugin>
