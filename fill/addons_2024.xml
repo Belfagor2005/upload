@@ -260,11 +260,9 @@
         <plugin name="EPGImport-mod-dorik1972_1.9.1_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
         </plugin>
-
         <plugin name="Epg Import v. 0.9.12 PLi all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk"</url>
         </plugin>
-
         <plugin name="Epg Import Filter v. 1.0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimportfilter_1.0+git8+244ec71-r0_mips32el.ipk"</url>
         </plugin>
@@ -421,14 +419,12 @@
         <plugin name="E2iPlayer Zadmario 2023.04.03.02 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-zadmario_2023.04.03.02_all.ipk"</url>
         </plugin>
-        
         <plugin name="E2iPlayer git4734+d7355cb0+d7355cb9c6-r0_cortexa15hf-neon-vfpv4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer_git4734+d7355cb0+d7355cb9c6-r0_cortexa15hf-neon-vfpv4.ipk"</url>
         </plugin>
         <plugin name="E2iPlayer DEPS 1.0+git9+2adf2670+2adf267a1c-r4_cortexa15hf-neon-vfpv4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-deps_1.0+git9+2adf2670+2adf267a1c-r4_cortexa15hf-neon-vfpv4.ipk"</url>
         </plugin>
-        
         <plugin name="E2iPlayer ts 17.05-2024 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-ts_17.05-2024_all.ipk"</url>
         </plugin>
@@ -440,7 +436,7 @@
         </plugin>
         <plugin name="eStalker web control v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-estalkerwebcontrol_1.0_all.ipk"</url>
-        </plugin>        
+        </plugin>
         <plugin name="Exodus V 7.0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-exodus_7.0_r0_all.ipk"</url>
         </plugin>
@@ -669,8 +665,8 @@
         <plugin name="Bouquet Maker Xtream 1.60.20250807 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.60.20250807_all.ipk"</url>
         </plugin>
-        <plugin name="eStalker v.1.00.20250726 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.00.20250726_all.ipk"</url>
+        <plugin name="eStalker v.1.07.20250816 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.07.20250816_all.ipk"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
@@ -699,8 +695,8 @@
         <plugin name="XKlass v.1.58.20250722 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.58.20250722_all.ipk"</url>
         </plugin>
-        <plugin name="XStreamity v.5.05.20250716 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.05.20250716_all.ipk"</url>
+        <plugin name="XStreamity v.5.09.20250813 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.09.20250813_all.ipk"</url>
         </plugin>
         <plugin name="E2Piconizer 1.28.20250517 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk"</url>
@@ -715,8 +711,8 @@
         <plugin name="Bouquet Maker Xtream 1.60.20250807 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.60_20250807_all.deb"</url>
         </plugin>
-        <plugin name="eStalker v.1.00.20250726 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.00_20250726_all.deb"</url>
+        <plugin name="eStalker v.1.07.20250816 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.07.20250816_all.deb"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
@@ -727,8 +723,8 @@
         <plugin name="xKlass v.1.58_20250722 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.58_20250722_all.deb"</url>
         </plugin>
-        <plugin name="XStreamity v.5.05_20250716 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.05_20250716_all.deb"</url>
+        <plugin name="XStreamity v.5.09_20250813 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.09_20250813_all.deb"</url>
         </plugin>
         <plugin name="Screen Names v.1.06.20240825">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -765,7 +761,7 @@
         </plugin>
         <plugin name="Calendar v.1.0 mod  on Sirius0103 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-calendar_1.0_all.ipk"</url>
-        </plugin>        
+        </plugin>
         <plugin name="Clear MEM 1.11 Modded Lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-clearmem_1.11_all.ipk"</url>
         </plugin>
@@ -996,7 +992,7 @@
         </plugin>
         <plugin name="Xc Gold Forever v.4.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_4.0_all.deb"</url>
-         </plugin>
+        </plugin>
     </plugins>
     <!-- OE2.2 PLUGINS-->
     <plugins cont="Plugins OE2.2/2.5/2.6 ">
@@ -1057,7 +1053,7 @@
         <plugin name="Levi45 freeserver py2 1.4_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.deb"</url>
         </plugin>
-          <plugin name="cfg Zoom Final FIX7x all">
+        <plugin name="cfg Zoom Final FIX7x all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cfg_Zoom_Final_FIX7x_all.deb"</url>
         </plugin>
         <plugin name="Channel Selection Plus 0.1.1-r4 all">
@@ -1276,7 +1272,6 @@
         <plugin name="Vhannibal Autosetting FHD Mod by Lululla 2.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ngsetting-fhd_2.9_all.deb"</url>
         </plugin>
-
         <plugin name="Nord vpn connector mod Lululla 0.6-r0 By RAED Py3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/nordvpnconnector_0.6-r0_By-RAED-Py3_all.deb"</url>
         </plugin>
@@ -1639,7 +1634,7 @@
         </plugin>
         <plugin name="Picon Cockpit 5.6.9 mod. Lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconcockpit_5.6.9_all.ipk"</url>
-        </plugin>        
+        </plugin>
         <plugin name="Picon Manager 2.6-20250511-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.6-20250511-r0_all.ipk"</url>
         </plugin>
@@ -1655,7 +1650,6 @@
         <plugin name="virtualzappicon v.1.8 py3 Lululla mod all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-virtualzappicon_1.8_py3_all.ipk"</url>
         </plugin>
-
     </plugins>
     <!-- LIBRARY -->
     <plugins cont="Python Library ">
@@ -1970,7 +1964,7 @@
         </plugin>
         <plugin name="Hdfradio_2.20.7_py3_3.13_mips32el all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.13_mips32el.ipk"</url>
-        </plugin>      
+        </plugin>
         <plugin name="Ipaudiopro_1.4_aarch64 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-ipaudiopro_1.4_aarch64.ipk"</url>
         </plugin>
@@ -1995,16 +1989,18 @@
     </plugins>
     <!-- SOFTCAMS OE2.0 -->
     <plugins cont="Softcams OE2.0 ">
+        <plugin name="Levi45emulator v1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-extensions-levi45emulator_1.0_all.ipk"</url>
+        </plugin>
         <plugin name="CCcam 2.3.9 r6 OE 2.0 IPK all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_239-r6-RAED_OE2.0_all.ipk"</url>
         </plugin>
-        
         <plugin name="CCcam 2.3.2 arm all images IPK all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-cccam-arm_232_all.ipk"</url>
-        </plugin>        
+        </plugin>
         <plugin name="CCcam 2.3.2 mips all images IPK all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-cccam-mips_232_all.ipk"</url>
-        </plugin>        
+        </plugin>
         <plugin name="CCcam 2.3.2-emu-arm+mips all images IPK all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_232_all.ipk"</url>
         </plugin>
@@ -2137,7 +2133,7 @@
         <plugin name="Levi45 freeserver 1.4_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_1.4_all.ipk"</url>
         </plugin>
-          <plugin name="Levi45 freeserver -py2 1.4_all">
+        <plugin name="Levi45 freeserver -py2 1.4_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.ipk"</url>
         </plugin>
         <plugin name="Softcam Key Updater v.6.1 all">
@@ -2617,7 +2613,6 @@
         <plugin name="Show Clock v.09 mod lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-showclock_0.9_all.ipk"</url>
         </plugin>
-
         <plugin name="Skipintro v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-skipintro_1.1_all.ipk"</url>
         </plugin>
@@ -2662,7 +2657,7 @@
         </plugin>
         <plugin name="VFD Control v.2.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-vfdcontrol_2.2_all.ipk"</url>
-        </plugin>        
+        </plugin>
         <plugin name="VFD Control v.2.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-vfdcontrol_2.1_all.ipk"</url>
         </plugin>
@@ -3478,7 +3473,7 @@
     <plugins cont="Skins Egami ">
         <plugin name="Fhd Luka v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-luka-fhd_1.0_egami.ipk"</url>
-        </plugin>    
+        </plugin>
         <plugin name="Fhd Odreamy v.2.6_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
         </plugin>
@@ -3511,7 +3506,7 @@
     <plugins cont="Skins OpenBh ">
         <plugin name="FHD Youchie PL v.1.0.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI-OpenBH-OpenVIX_v1.0.3.ipk"</url>
-        </plugin>    
+        </plugin>
         <plugin name="FHD MX Sline v.5.2 by Ahmedriad all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-mx-sline-openbh5.2-by-ahmedriad_v3.11_all.ipk"</url>
         </plugin>
@@ -3619,7 +3614,7 @@
     <plugins cont="Skins OpenPLi ">
         <plugin name="FHD Youchie PL v.1.0.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI-OpenBH-OpenVIX_v1.0.3.ipk"</url>
-        </plugin>    
+        </plugin>
         <plugin name="FHD Aglare pli AGP v.6.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_6.1_all.ipk"</url>
         </plugin>
