@@ -600,8 +600,8 @@
         <plugin name="Remote Stream Convert 2.0 mod all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-remotestreamconvert_2.0+mod_all.ipk"</url>
         </plugin>
-        <plugin name="Samsung Tv Plus 20241116 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-samsungtvplus_20241116_all.ipk"</url>
+        <plugin name="Samsung Tv Plus 20250815 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-samsungtvplus_20250815_all.ipk"</url>
         </plugin>
         <plugin name="Season Dream ng 3.0.200331b all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-seasondream-ng_3.0.200331b_all.ipk"</url>
@@ -1114,8 +1114,8 @@
         <plugin name="E2m3u2bouquet v.2.0.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.6_all.deb"</url>
         </plugin>
-        <plugin name="EmulatorManager v.3.7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-emulatormanager_v3.7_all.deb"</url>
+        <plugin name="EmulatorManager v.3.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-emulatormanager_v3.8_all.deb"</url>
         </plugin>
         <plugin name="Enhanced Movie Center 5-0git20210126 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enhancedmoviecenter-5-0git20210126-all.deb"</url>
@@ -1135,8 +1135,8 @@
         <plugin name="EPGGrabber 2.0-r219 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.0-r219_all.deb"</url>
         </plugin>
-        <plugin name="EPG Language v.2.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epglanguage_v2.4_all.deb"</url>
+        <plugin name="EPG Language v.2.5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epglanguage_v2.5_all.deb"</url>
         </plugin>
         <plugin name="Eurojackpot_240202">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eurojackpot_240202_all.deb"</url>
@@ -1325,11 +1325,8 @@
         <plugin name="S4aupdater 23.04.05.1156 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-s4aupdater_23.04.05.1156_all.deb"</url>
         </plugin>
-        <plugin name="Samsung Tv Plus 20241116 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-samsungtvplus_20241116_all.deb"</url>
-        </plugin>
-        <plugin name="Samsung Tv Plus 20231005-r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-samsungtvplus_20231005-r1_all.deb"</url>
+        <plugin name="Samsung Tv Plus 20250815 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-samsungtvplus_20250815_all.deb"</url>
         </plugin>
         <plugin name="Satvenus Panel 7.0.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-satvenus-panel_7.0.0_all.deb"</url>
