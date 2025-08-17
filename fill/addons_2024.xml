@@ -3186,8 +3186,8 @@
         <plugin name="FHD Slyk Onyx 1080 r19 V.2.46.20241207 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-onyx-1080_2.46.20241207_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Slyk Q 1080 r19 V.1.49.20241207 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.49.20241207_all.ipk"</url>
+        <plugin name="FHD Slyk Q 1080 r19 V.1.52.20250817 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.52.20250817_all.ipk"</url>
         </plugin>
         <plugin name="FHD Vskin-1080_2.18.20240830_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-vskin-1080_2.18.20240830_all.ipk"</url>
