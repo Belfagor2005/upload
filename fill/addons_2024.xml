@@ -1000,7 +1000,10 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-accuweather_1.2.1_all.deb"</url>
         </plugin>
         <plugin name="Addkeys v.8.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius//enigma2-plugin-extensions-addkey_8.2_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-addkey_8.2_all.deb"</url>
+        </plugin>
+        <plugin name="Auto-dcw-key-add_v1.0.7 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-auto-dcw-key-add_v1.0.7_all.deb"</url>
         </plugin>
         <plugin name="AdvancedMovieSelection v.5.6.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-advancedmovieselection_5.6.2_all.deb"</url>
@@ -2123,6 +2126,9 @@
     <plugins cont="Keys Tools OE2.0 ">
         <plugin name="Addkey 8.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-addkey_8.2_all.ipk"</url>
+        </plugin>
+        <plugin name="Auto-dcw-key-add_v1.0.7 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-auto-dcw-key-add_v1.0.7_all.ipk"</url>
         </plugin>
         <plugin name="Bissfeed autokey py3 2.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-bissfeed-autokey-py3_2.8_all.ipk"</url>
