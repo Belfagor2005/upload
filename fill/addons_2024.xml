@@ -221,8 +221,8 @@
     </plugins>
     <!-- EPG TOOLS -->
     <plugins cont="Epg Tools ">
-        <plugin name="Advancedevent library v. 1.0r147 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r147_all.ipk"</url>
+        <plugin name="Advancedevent library v. 1.0r148 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r148_all.ipk"</url>
         </plugin>
         <plugin name="Backs Ncovers v. 1.0-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_1.0-r0_all.ipk"</url>
@@ -665,8 +665,8 @@
         <plugin name="Bouquet Maker Xtream 1.60.20250807 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.60.20250807_all.ipk"</url>
         </plugin>
-        <plugin name="eStalker v.1.07.20250816 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.07.20250816_all.ipk"</url>
+        <plugin name="eStalker v.1.08.20250819 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.08.20250819_all.ipk"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
@@ -711,8 +711,8 @@
         <plugin name="Bouquet Maker Xtream 1.60.20250807 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.60_20250807_all.deb"</url>
         </plugin>
-        <plugin name="eStalker v.1.07.20250816 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.07.20250816_all.deb"</url>
+        <plugin name="eStalker v.1.08_20250819 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.08_20250819_all.deb"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
@@ -1000,7 +1000,10 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-accuweather_1.2.1_all.deb"</url>
         </plugin>
         <plugin name="Addkeys v.8.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius//enigma2-plugin-extensions-addkey_8.2_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-addkey_8.2_all.deb"</url>
+        </plugin>
+        <plugin name="Auto-dcw-key-add_v1.0.7 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-auto-dcw-key-add_v1.0.7_all.deb"</url>
         </plugin>
         <plugin name="AdvancedMovieSelection v.5.6.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-advancedmovieselection_5.6.2_all.deb"</url>
@@ -2123,6 +2126,9 @@
     <plugins cont="Keys Tools OE2.0 ">
         <plugin name="Addkey 8.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-addkey_8.2_all.ipk"</url>
+        </plugin>
+        <plugin name="Auto-dcw-key-add_v1.0.7 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-auto-dcw-key-add_v1.0.7_all.ipk"</url>
         </plugin>
         <plugin name="Bissfeed autokey py3 2.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-bissfeed-autokey-py3_2.8_all.ipk"</url>
