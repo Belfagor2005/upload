@@ -774,8 +774,8 @@
         <plugin name="DOscam Status 1.0 Modded all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="FilmOn v.2.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.3_all.ipk"</url>
+        <plugin name="FilmOn v.2.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.4_all.ipk"</url>
         </plugin>
         <plugin name="FilmXY v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmxy_1.4_all.ipk"</url>
