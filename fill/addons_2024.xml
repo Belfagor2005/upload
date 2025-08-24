@@ -3072,6 +3072,9 @@
     </plugins>
     <!-- SKINS ALL -->
     <plugins cont="Skins All ">
+        <plugin name="FHD Aglare v.6.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.0_all.ipk"</url>
+        </plugin>
         <plugin name="FHD oZeta Universal Skin by MMark v.2.0.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-ozeta_2.0.6_all.ipk"</url>
         </plugin>
@@ -3483,8 +3486,8 @@
         <plugin name="Fhd Odreamy v.2.6_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Aglare v.5.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_5.8_all.ipk"</url>
+        <plugin name="FHD Aglare v.6.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.0_all.ipk"</url>
         </plugin>
         <plugin name="FHD Artemis mod.dragon poster-backdrop v.8.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-artemis-mod-dragon_8.5.poster.backdrop_all.ipk"</url>
@@ -3540,6 +3543,9 @@
     </plugins>
     <!-- Skins_OpenAtv -->
     <plugins cont="Skins OPEN ATV ">
+        <plugin name="FHD Aglare v.6.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.0_all.ipk"</url>
+        </plugin>
         <plugin name="FHD Areadeltasat Dragon v.1.9 Poster Backdrop all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2_plugin_skins_areadeltasat_fhd_dragon_1_9_Poster_Backdrop.ipk"</url>
         </plugin>
@@ -3888,8 +3894,8 @@
     </plugins>
     <!-- Skins_Oebased -->
     <plugins cont="Skins Oe Based ">
-        <plugin name="FHD Aglare v.5.7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_5.7_all.ipk"</url>
+        <plugin name="FHD Aglare v.6.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.0_all.ipk"</url>
         </plugin>
         <plugin name="FHD Artemis mod.dragon poster-backdrop v.8.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-artemis-mod-dragon_8.5.poster.backdrop_all.ipk"</url>
