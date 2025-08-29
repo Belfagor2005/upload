@@ -665,8 +665,8 @@
         <plugin name="Bouquet Maker Xtream 1.61_20250828 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.61.20250828_all.ipk"</url>
         </plugin>
-        <plugin name="eStalker v.1.08.20250819 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.08.20250819_all.ipk"</url>
+        <plugin name="eStalker v.1.09_20250828 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.09.20250828_all.ipk"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
@@ -711,8 +711,8 @@
         <plugin name="Bouquet Maker Xtream 1.61_20250828 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.61_20250828_all.deb"</url>
         </plugin>
-        <plugin name="eStalker v.1.08_20250819 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.08_20250819_all.deb"</url>
+        <plugin name="eStalker v.1.09_20250828 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.09_20250828_all.deb"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
@@ -3480,10 +3480,7 @@
     </plugins>
     <!-- Skins_Egami -->
     <plugins cont="Skins Egami ">
-        <plugin name="Fhd Luka v.1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-luka-fhd_1.0_egami.ipk"</url>
-        </plugin>
-        <plugin name="Fhd Odreamy v.2.6_all">
+        <plugin name="FHD Odreamy v.2.6_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
         </plugin>
         <plugin name="FHD Aglare v.6.0 all">
@@ -3495,6 +3492,9 @@
         <plugin name="FHD Dark v.1.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-darkfhd_v1.7_all.ipk"</url>
         </plugin>
+        <plugin name="FHD Luka v.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-luka-fhd_1.1_all.ipk"</url>
+        </plugin>        
         <plugin name="FHD Maxy v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
         </plugin>
@@ -3579,6 +3579,9 @@
         <plugin name="FHD Infinity neo V.7s-v6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-infinity-neo_V.7s-v6_all.ipk"</url>
         </plugin>
+        <plugin name="FHD Luka v.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-luka-fhd_1.1_all.ipk"</url>
+        </plugin>        
         <plugin name="FHD Madmax impossible v.2.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-madmax-impossible_2.8_all.ipk"</url>
         </plugin>
@@ -3903,6 +3906,9 @@
         <plugin name="FHD Dark v.1.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-darkfhd_v1.7_all.ipk"</url>
         </plugin>
+        <plugin name="FHD Luka v.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-luka-fhd_1.1_all.ipk"</url>
+        </plugin>        
         <plugin name="FHD Maxy v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
         </plugin>
