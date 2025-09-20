@@ -665,8 +665,8 @@
         <plugin name="Bouquet Maker Xtream 1.61_20250828 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.61.20250828_all.ipk"</url>
         </plugin>
-        <plugin name="eStalker v.1.09_20250828 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.09.20250828_all.ipk"</url>
+        <plugin name="eStalker v.1.13.20250920 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.13.20250920_all.ipk"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
@@ -683,8 +683,8 @@
         <plugin name="Slyk EPG 7 Day v.2.11.20241030 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-slykepg7day_2.11.20241030_all.ipk"</url>
         </plugin>
-        <plugin name="Skin e2sentials v.1.01.20250201 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.01.20250201_all.ipk"</url>
+        <plugin name="Skin e2sentials v.1.04.20250920 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.04.20250920_all.ipk"</url>
         </plugin>
         <plugin name="Skins Slyk Toppicks 7.6.20240529 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skins-slyk-toppicks_7.6.20240529_all.ipk"</url>
@@ -711,8 +711,8 @@
         <plugin name="Bouquet Maker Xtream 1.61_20250828 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.61_20250828_all.deb"</url>
         </plugin>
-        <plugin name="eStalker v.1.09_20250828 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.09_20250828_all.deb"</url>
+        <plugin name="eStalker v.1.13_20250920 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.13_20250920_all.deb"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
@@ -729,8 +729,8 @@
         <plugin name="Screen Names v.1.06.20240825">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
         </plugin>
-        <plugin name="Skin e2sentials v.1.01_20250201 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.01_20250201_all.deb"</url>
+        <plugin name="Skin e2sentials v.1.04_20250920 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.04_20250920_all.deb"</url>
         </plugin>
         <plugin name="Visual Weather 1.10_20241030">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.10_20241030_all.deb"</url>
