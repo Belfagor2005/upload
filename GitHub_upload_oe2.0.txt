@@ -1,16 +1,11 @@
-upload\oe2.0\*.*
-Total files: 1530 (3.1GB)
-
-
-
 ==================================================
-upload\oe2.0\adult\
+GitHub\upload\oe2.0\adult\
 ==================================================
 enigma2-plugin-extensions-searchporn_1.0_r0_all.ipk (178.0KB)
 enigma2-plugin-extensions-webmediaxxx_1.0_r0_all.ipk (2.1MB)
 
 =========================================================
-upload\oe2.0\dependencies\
+GitHub\upload\oe2.0\dependencies\
 =========================================================
 enigma2-install-cron_1.0_openpli40_all.ipk (860.0B)
 enigma2-install-curl_1.0_openpli40_all.ipk (858.0B)
@@ -93,7 +88,7 @@ xmltvimport-library_1.0+git91+f9a1444-r28_mips32el.ipk (3.9KB)
 xz_5.2.0-r0_mips32el.ipk (50.6KB)
 
 ====================================================
-upload\oe2.0\drivers\
+GitHub\upload\oe2.0\drivers\
 ====================================================
 dvbt-dib0700_dm800_07-2011-2.6.18-7.4_mipsel.ipk (162.6KB)
 enigma2-install-dvbt-dib0700_1.0_openpli40_all.ipk (1.0KB)
@@ -125,7 +120,7 @@ ralink-wifi-firmwares_1.0_dm800se.ipk (13.1KB)
 TrialTuner_2.0.0b_DM800se_oe_2.0.ipk (24.4KB)
 
 =================================================
-upload\oe2.0\feed\
+GitHub\upload\oe2.0\feed\
 =================================================
 enigma2-plugin-external-extra-feed_2.1_arm.ipk (744.0B)
 enigma2-plugin-external-extra-feed_2.1_mipsel.ipk (738.0B)
@@ -143,45 +138,53 @@ softcam-feed-universal_7.0-r0_all.ipk (2.0KB)
 softcamfeed-openeight-armv7_1.0.ipk (860.0B)
 
 =====================================================
-upload\oe2.0\freeccam\
+GitHub\upload\oe2.0\freeccam\
 =====================================================
 bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk (2.7MB)
 cfg_Zoom_Final_FIX7x_all.ipk (628.3KB)
 enigma2-plugin-extensions-addkey_8.2_all.ipk (1.7KB)
+enigma2-plugin-extensions-auto-dcw-key-add_v1.0.7_all.ipk (86.1KB)
 enigma2-plugin-extensions-bissfeed-autokey-py3_2.8_all.ipk (2.7MB)
 enigma2-plugin-extensions-cccam-finder_06-04-19_all.ipk (25.4KB)
 enigma2-plugin-extensions-freecccam-mod_1.7_all.ipk (19.4KB)
 enigma2-plugin-extensions-freecccam_2.3_all.ipk (679.2KB)
 enigma2-plugin-extensions-freeserver_8.3.8_all.ipk (2.4MB)
+enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.ipk (10.1KB)
+enigma2-plugin-extensions-levi45-freeserver_1.4_all.ipk (10.1KB)
 enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk (2.6MB)
-enigma2-plugin-extensions-simple-zoom-panel_2.2.4_all.ipk (170.4KB)
+enigma2-plugin-extensions-simple-zoom-panel_2.2.7_all.ipk (180.7KB)
 zoom_1.1.2_all.ipk (58.1KB)
 
 ===================================================
-upload\oe2.0\kiddac\
+GitHub\upload\oe2.0\kiddac\
 ===================================================
-enigma2-plugin-extensions-bouquetmakerxtream_1.34.20241031_all.ipk (1.4MB)
-enigma2-plugin-extensions-bouquetmakerxtream_1.34_20241031_all.deb (1.1MB)
+enigma2-plugin-extensions-bouquetmakerxtream_1.61.20250828_all.ipk (1.4MB)
+enigma2-plugin-extensions-bouquetmakerxtream_1.61_20250828_all.deb (1.1MB)
 enigma2-plugin-extensions-e2piconizer_1.25.20231110_all.ipk (1.9MB)
+enigma2-plugin-extensions-e2piconizer_1.27.20241030_all.ipk (1.9MB)
+enigma2-plugin-extensions-estalker_1.14.20250920_all.ipk (2.5MB)
+enigma2-plugin-extensions-estalker_1.14_20250920_all.deb (2.3MB)
 enigma2-plugin-extensions-jediepgxtream_2.12.20241030_all.ipk (346.3KB)
 enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb (283.6KB)
-enigma2-plugin-extensions-jedimakerxtream_6.37.20240530_all.ipk (3.5MB)
-enigma2-plugin-extensions-jedimakerxtream_6.37_20240530_all.deb (2.6MB)
-enigma2-plugin-extensions-movieplannermod_4.03.20241002_all.ipk (20.0KB)
+enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk (3.5MB)
+enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb (2.6MB)
+enigma2-plugin-extensions-kiddac-skin-e2sentials_1.04.20250920_all.ipk (1.2MB)
+enigma2-plugin-extensions-kiddac-skin-e2sentials_1.04_20250920_all.deb (1.2MB)
+enigma2-plugin-extensions-movieplannermod_4.04.20241003_all.ipk (20.1KB)
 enigma2-plugin-extensions-screennames_1.06.20240825_all.deb (4.9KB)
-enigma2-plugin-extensions-screennames_1.06.20240825_all.ipk (5.2KB)
+enigma2-plugin-extensions-screennames_1.07.20250608_all.ipk (6.3KB)
 enigma2-plugin-extensions-slykepg7day_2.11.20241030_all.ipk (32.5KB)
 enigma2-plugin-extensions-visualweather_1.10.20241030_all.ipk (2.4MB)
 enigma2-plugin-extensions-visualweather_1.10_20241030_all.deb (2.1MB)
-enigma2-plugin-extensions-xklass_1.26.20241202_all.ipk (5.4MB)
-enigma2-plugin-extensions-xklass_1.26_20241202_all.deb (5.1MB)
-enigma2-plugin-extensions-xstreamity_4.67.20241202_all.ipk (4.3MB)
-enigma2-plugin-extensions-xstreamity_4.67_20241202_all.deb (3.9MB)
+enigma2-plugin-extensions-xklass_1.66.20250920_all.ipk (5.7MB)
+enigma2-plugin-extensions-xklass_1.66_20250920_all.deb (5.4MB)
+enigma2-plugin-extensions-xstreamity_5.15.20250920_all.ipk (3.8MB)
+enigma2-plugin-extensions-xstreamity_5.15_20250920_all.deb (3.4MB)
 enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk (9.6KB)
 enigma2-plugin-skins-slyk-toppicks_7.6.20240529_all.ipk (631.4KB)
 
 =====================================================
-upload\oe2.0\kodilite\
+GitHub\upload\oe2.0\kodilite\
 =====================================================
 enigma2-plugin-extensions-kodiliteinstaller_1.0_r0_all.ipk (3.8KB)
 enigma2-plugin-extensions-kodilite_9.1-r0_all.deb (6.3MB)
@@ -190,7 +193,7 @@ enigma2-plugin-extensions-kodilite_9.1_r0_all.ipk (9.1MB)
 enigma2-plugin-extensions-kodilite_9.1_r1_all.ipk (6.7MB)
 
 =================================================================
-upload\oe2.0\kodilite\pluginadult\
+GitHub\upload\oe2.0\kodilite\pluginadult\
 =================================================================
 plugin.video.adulthideout-0.9.4.zip (1.2MB)
 plugin.video.AdultTV-1.0.5.zip (3.6KB)
@@ -204,7 +207,7 @@ plugin.video.xvideos-1.0.0.zip (65.9KB)
 plugin.video.YTsports-1.0.2.zip (16.5KB)
 
 =============================================================
-upload\oe2.0\kodilite\plugins\
+GitHub\upload\oe2.0\kodilite\plugins\
 =============================================================
 plugin.video.catchuptvandmore-0.2.35.zip (2.4MB)
 plugin.video.filmon-1.0.4.zip (18.2KB)
@@ -247,14 +250,14 @@ plugin.video.youtube-2.0.5.zip (60.2KB)
 plugin.video.YTplus-2.0.6.zip (60.3KB)
 
 ================================================================
-upload\oe2.0\kodilite\repository\
+GitHub\upload\oe2.0\kodilite\repository\
 ================================================================
 repository.linuxsat-1.0.4.zip (494.0B)
 repository.linuxsat18-1.0.1.zip (512.0B)
 repository.phate89-1.0.0.zip (8.2KB)
 
 ============================================================
-upload\oe2.0\kodilite\script\
+GitHub\upload\oe2.0\kodilite\script\
 ============================================================
 inputstream.adaptive-2.0.19.zip (3.3MB)
 metadata.themoviedb.org-5.1.10.zip (66.2KB)
@@ -358,56 +361,63 @@ script.video.F4mProxy-2.8.8.zip (326.7KB)
 xbmc.python-2.25.0.zip (9.6KB)
 
 ====================================================
-upload\oe2.0\lululla\
+GitHub\upload\oe2.0\lululla\
 ====================================================
+enigma2-plugin-extensions-acherone_1.3_all.ipk (13.8KB)
 enigma2-plugin-extensions-addiptv-modded_v.1.2_all.ipk (121.2KB)
 enigma2-plugin-extensions-adulttvlive_1.3_all.deb (341.4KB)
 enigma2-plugin-extensions-adulttvlive_1.3_all.ipk (1.1MB)
+enigma2-plugin-extensions-advancedscreenshot_1.2_all.ipk (41.3KB)
 enigma2-plugin-extensions-alphaporno_1.0_all.deb (193.7KB)
 enigma2-plugin-extensions-alphaporno_1.0_all.ipk (224.9KB)
 enigma2-plugin-extensions-altadefinizione01_1.1.3_all.ipk (94.2KB)
-enigma2-plugin-extensions-apod_1.4_all.deb (989.4KB)
-enigma2-plugin-extensions-apod_1.4_all.ipk (1012.4KB)
+enigma2-plugin-extensions-apod_1.4_all.deb (987.7KB)
+enigma2-plugin-extensions-apod_1.6_all.ipk (1.7MB)
 enigma2-plugin-extensions-apsattv_1.2_all.deb (624.6KB)
-enigma2-plugin-extensions-apsattv_1.2_all.ipk (707.4KB)
+enigma2-plugin-extensions-apsattv_1.4_all.ipk (705.1KB)
 enigma2-plugin-extensions-born2tease_1.0_all.deb (406.5KB)
 enigma2-plugin-extensions-born2tease_1.0_all.ipk (457.4KB)
+enigma2-plugin-extensions-calendar_1.0_all.ipk (33.3KB)
 enigma2-plugin-extensions-clearmem_1.11_all.ipk (10.9KB)
+enigma2-plugin-extensions-crashlogviewer_1.6_all.deb (20.2KB)
+enigma2-plugin-extensions-crashlogviewer_1.6_all.ipk (21.6KB)
 enigma2-plugin-extensions-ddrssreader_0.7_all.deb (289.9KB)
 enigma2-plugin-extensions-ddrssreader_0.7_all.ipk (297.9KB)
 enigma2-plugin-extensions-famefun_1.0_all.deb (828.9KB)
 enigma2-plugin-extensions-famefun_1.0_all.ipk (1.1MB)
 enigma2-plugin-extensions-filmon_2.0_all.deb (763.1KB)
-enigma2-plugin-extensions-filmon_2.0_all.ipk (773.9KB)
+enigma2-plugin-extensions-filmon_2.4_all.ipk (981.4KB)
 enigma2-plugin-extensions-filmxy_1.4_all.deb (2.1MB)
 enigma2-plugin-extensions-filmxy_1.4_all.ipk (2.6MB)
 enigma2-plugin-extensions-freearhey_2.9_all.deb (514.5KB)
-enigma2-plugin-extensions-freearhey_2.9_all.ipk (596.8KB)
+enigma2-plugin-extensions-freearhey_3.1_all.ipk (593.8KB)
 enigma2-plugin-extensions-grifo-update_1.0_all.ipk (3.4KB)
 enigma2-plugin-extensions-hasbahca_1.7_all.deb (6.1MB)
-enigma2-plugin-extensions-hasbahca_1.7_all.ipk (8.9MB)
+enigma2-plugin-extensions-hasbahca_1.9_all.ipk (8.8MB)
 enigma2-plugin-extensions-heavyr_1.0_all.deb (198.1KB)
 enigma2-plugin-extensions-heavyr_1.0_all.ipk (235.9KB)
+enigma2-plugin-extensions-horoscope_1.1_all.ipk (2.7MB)
 enigma2-plugin-extensions-hypnotube_1.0_all.deb (575.4KB)
 enigma2-plugin-extensions-hypnotube_1.0_all.ipk (609.9KB)
 enigma2-plugin-extensions-luxuretv_1.0_all.deb (365.4KB)
 enigma2-plugin-extensions-luxuretv_1.0_all.ipk (428.3KB)
 enigma2-plugin-extensions-m2b-it_0.4-r0-modded_all.ipk (11.2KB)
+enigma2-plugin-extensions-m3uconverter_2.1_all.ipk (128.5KB)
 enigma2-plugin-extensions-m3uiptv_1.1_all.ipk (1.2MB)
-enigma2-plugin-extensions-m7live_1.2_all - Copia.deb (99.3KB)
 enigma2-plugin-extensions-m7live_1.2_all.deb (99.3KB)
 enigma2-plugin-extensions-m7live_1.2_all.ipk (129.2KB)
 enigma2-plugin-extensions-manporn_1.0_all.deb (500.3KB)
 enigma2-plugin-extensions-manporn_1.0_all.ipk (539.5KB)
 enigma2-plugin-extensions-merlinmusicplayer_7.4.ipk (1000.1KB)
 enigma2-plugin-extensions-mmpicons_1.4_all.deb (1.2MB)
-enigma2-plugin-extensions-mmpicons_1.4_all.ipk (1.2MB)
+enigma2-plugin-extensions-mmpicons_1.5_all.ipk (1.2MB)
 enigma2-plugin-extensions-motherless_1.0_all.deb (178.6KB)
 enigma2-plugin-extensions-motherless_1.0_all.ipk (217.1KB)
 enigma2-plugin-extensions-mylust_1.0_all.deb (134.7KB)
 enigma2-plugin-extensions-mylust_1.0_all.ipk (171.5KB)
+enigma2-plugin-extensions-oroscopo_1.0_all.ipk (1.4MB)
 enigma2-plugin-extensions-parsatv_1.7_all.deb (559.1KB)
-enigma2-plugin-extensions-parsatv_1.7_all.ipk (566.2KB)
+enigma2-plugin-extensions-parsatv_1.8_all.ipk (564.9KB)
 enigma2-plugin-extensions-pluginspanel_1.1_all.ipk (36.3KB)
 enigma2-plugin-extensions-pornbimbo_1.0_all.deb (980.8KB)
 enigma2-plugin-extensions-pornbimbo_1.0_all.ipk (1.0MB)
@@ -417,8 +427,9 @@ enigma2-plugin-extensions-pornstars_1.0_all.deb (425.6KB)
 enigma2-plugin-extensions-pornstars_1.0_all.ipk (465.9KB)
 enigma2-plugin-extensions-radiogit_1.1_all.deb (706.1KB)
 enigma2-plugin-extensions-radiogit_1.1_all.ipk (726.4KB)
-enigma2-plugin-extensions-radiom_1.1_all.deb (3.8MB)
-enigma2-plugin-extensions-radiom_1.1_all.ipk (4.9MB)
+enigma2-plugin-extensions-radiom_1.2_all.deb (3.8MB)
+enigma2-plugin-extensions-radiom_1.3_all.ipk (4.9MB)
+enigma2-plugin-extensions-raiplay_1.7_all.ipk (8.1MB)
 enigma2-plugin-extensions-rssreader_1.13_all.deb (1.3MB)
 enigma2-plugin-extensions-rssreader_1.13_all.ipk (1.3MB)
 enigma2-plugin-extensions-scriptexecuter-boot-h9-sl_1.0r3_all.ipk (81.5KB)
@@ -431,6 +442,7 @@ enigma2-plugin-extensions-sport365_1.0_all.ipk (1.0MB)
 enigma2-plugin-extensions-sportsschedule_1.0_all.ipk (1.3MB)
 enigma2-plugin-extensions-sportstv_1.3_all.deb (1.4MB)
 enigma2-plugin-extensions-sportstv_1.3_all.ipk (1.5MB)
+enigma2-plugin-extensions-stalkerportalconverter_1.4_all.ipk (89.4KB)
 enigma2-plugin-extensions-stvcl_1.4_all.deb (1.9MB)
 enigma2-plugin-extensions-stvcl_1.4_all.ipk (2.0MB)
 enigma2-plugin-extensions-theweather-py2-py3_2.4_r3_all.ipk (8.3MB)
@@ -438,28 +450,28 @@ enigma2-plugin-extensions-thumbzilla_1.0_all.deb (414.6KB)
 enigma2-plugin-extensions-thumbzilla_1.0_all.ipk (453.4KB)
 enigma2-plugin-extensions-tvdream_1.3_all.deb (1.5MB)
 enigma2-plugin-extensions-tvdream_1.3_all.ipk (2.0MB)
-enigma2-plugin-extensions-tvmanager_2.1_all.deb (1000.9KB)
-enigma2-plugin-extensions-tvmanager_2.1_all.ipk (1.0MB)
-enigma2-plugin-extensions-tvraipreview_1.4_all.deb (1.3MB)
-enigma2-plugin-extensions-tvraipreview_1.4_all.ipk (1.7MB)
+enigma2-plugin-extensions-tvmanager_2.7_all.deb (1006.5KB)
+enigma2-plugin-extensions-tvmanager_3.0_all.ipk (1.0MB)
 enigma2-plugin-extensions-tvsettings_1.8_all.deb (764.5KB)
 enigma2-plugin-extensions-tvsettings_1.8_all.ipk (799.3KB)
-enigma2-plugin-extensions-tvspro-lite_1.9_all.deb (2.8MB)
-enigma2-plugin-extensions-tvspro-lite_1.9_all.ipk (3.2MB)
-enigma2-plugin-extensions-tvspro-xxx_1.5_all.deb (1.7MB)
-enigma2-plugin-extensions-tvspro-xxx_1.5_all.ipk (1.7MB)
+enigma2-plugin-extensions-tvspro-lite_2.1_all.deb (2.7MB)
+enigma2-plugin-extensions-tvspro-lite_2.1_all.ipk (3.2MB)
+enigma2-plugin-extensions-tvspro-xxx_1.9_all.deb (1.7MB)
+enigma2-plugin-extensions-tvspro-xxx_1.9_all.ipk (1.8MB)
 enigma2-plugin-extensions-tvspro_2.1_all.deb (3.2MB)
 enigma2-plugin-extensions-tvspro_2.1_all.ipk (3.6MB)
 enigma2-plugin-extensions-tvtom3upanel_2.0_all.deb (311.2KB)
 enigma2-plugin-extensions-tvtom3upanel_2.0_all.ipk (342.9KB)
 enigma2-plugin-extensions-uninstaller_1.0_all.deb (9.0KB)
-enigma2-plugin-extensions-uninstaller_1.0_all.ipk (9.7KB)
-enigma2-plugin-extensions-vavoo_1.32_all.deb (8.1MB)
-enigma2-plugin-extensions-vavoo_1.32_all.ipk (9.0MB)
-enigma2-plugin-extensions-worldcam_4.5_all.deb (2.1MB)
-enigma2-plugin-extensions-worldcam_4.5_all.ipk (2.8MB)
-enigma2-plugin-extensions-xcplugin-forever_3.6_all.deb (1.2KB)
-enigma2-plugin-extensions-xcplugin-forever_3.6_all.ipk (1.2KB)
+enigma2-plugin-extensions-uninstaller_1.0_all.ipk (10.0KB)
+enigma2-plugin-extensions-vavoo-maker_1.0_all.deb (150.2KB)
+enigma2-plugin-extensions-vavoo-maker_1.0_all.ipk (153.5KB)
+enigma2-plugin-extensions-vavoo_1.33_all.deb (8.1MB)
+enigma2-plugin-extensions-vavoo_1.38_all.ipk (5.7MB)
+enigma2-plugin-extensions-worldcam_4.9_all.deb (2.7MB)
+enigma2-plugin-extensions-worldcam_6.1_all.ipk (4.6MB)
+enigma2-plugin-extensions-xcplugin-forever_4.0_all.deb (1.3KB)
+enigma2-plugin-extensions-xcplugin-forever_4.8_all.ipk (1.3KB)
 enigma2-plugin-extensions-xcplugin-iptv-mod-lululla_6.7_all.ipk (460.2KB)
 enigma2-plugin-extensions-xhamster_1.0_all.deb (682.4KB)
 enigma2-plugin-extensions-xhamster_1.0_all.ipk (947.1KB)
@@ -470,11 +482,11 @@ enigma2-plugin-extensions-xxxplugin_1.3_all.ipk (5.2MB)
 enigma2-plugin-systemplugins-flashbackupto_1.5_all.ipk (397.5KB)
 
 ==================================================
-upload\oe2.0\other\
+GitHub\upload\oe2.0\other\
 ==================================================
 enigma2-plugin-extensions-ansite_1.5.py3_all.ipk (2.2MB)
 enigma2-plugin-extensions-ansite_1.5_all.ipk (2.9MB)
-enigma2-plugin-extensions-astronomy_1.3_all.ipk (487.6KB)
+enigma2-plugin-extensions-astronomy_1.3_all.ipk (506.2KB)
 enigma2-plugin-extensions-cast-uasay_0.316_all.ipk (1.3MB)
 enigma2-plugin-extensions-embydream_1.3.5_armv7ahf-vfp-neon.ipk (17.2MB)
 enigma2-plugin-extensions-embydream_1.3.5_mips32el.ipk (15.0MB)
@@ -494,24 +506,18 @@ enigma2-plugin-extensions-turkvod_14_PY310_all.ipk (1.8MB)
 enigma2-plugin-extensions-turkvod_14_PY311_all.ipk (1.9MB)
 
 ==========================================================
-upload\oe2.0\plugin_backup\
+GitHub\upload\oe2.0\plugin_backup\
 ==========================================================
 enigma2-plugin-extensions-autobackup_2.0+git77+87cb199-r0_all.ipk (25.4KB)
 enigma2-plugin-extensions-automatic-fullbackup_7.2_all.ipk (806.1KB)
 enigma2-plugin-extensions-backupandflash_1.0-r0_all.ipk (288.9KB)
-enigma2-plugin-extensions-backupflashe_9.4_all.ipk (989.1KB)
-enigma2-plugin-extensions-backupsuite-mips_3.0_r0_all.ipk (168.2KB)
-enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_aarch64.ipk (81.1KB)
-enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_armv7ahf-neon.ipk (81.0KB)
-enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_cortexa15hf-neon-vfpv4.ipk (81.0KB)
-enigma2-plugin-extensions-backupsuite_1.0+git495+48b9906-r0_mips32el.ipk (81.1KB)
-enigma2-plugin-extensions-backupsuite_3.0_r2_all.ipk (217.7KB)
+enigma2-plugin-extensions-backupflashe_9.5_all.ipk (991.8KB)
+enigma2-plugin-extensions-backupsuite_3.0-r9_all.ipk (182.1KB)
 enigma2-plugin-extensions-dbackup_2.8-r1_all.ipk (1.1MB)
 enigma2-plugin-extensions-dflash_13.0_all.ipk (67.3KB)
 enigma2-plugin-extensions-epgbackuptool_1.0_all.ipk (5.2KB)
 enigma2-plugin-extensions-expand-memorey_3.0_all.ipk (1.9KB)
 enigma2-plugin-extensions-flashbackup-ita_6.2-RAED-For-OE1.6-2.0-it_all.ipk (233.4KB)
-enigma2-plugin-extensions-flashexpander-it-openpli4_0.33-r0_all.ipk (27.0KB)
 enigma2-plugin-extensions-gp3flashbackup_1.5.4-20110127-r0_mipsel.ipk (95.4KB)
 enigma2-plugin-extensions-pluginmover_0.2-r2_all.ipk (19.3KB)
 enigma2-plugin-extensions-pluginskinmover_1.0_all.ipk (15.4KB)
@@ -519,17 +525,20 @@ enigma2-plugin-systemplugins-bhbackup_0.1_all.ipk (391.2KB)
 enigma2-plugin-systemplugins-nfibackup_20091024_mipsel.ipk (43.1KB)
 
 ===================================================================
-upload\oe2.0\plugin_emulator\allbox\
+GitHub\upload\oe2.0\plugin_emulator\allbox\
 ===================================================================
-enigma2-plugin-cams-ncam_14.9-r0_all.ipk (3.7MB)
 enigma2-plugin-cams-oscam.1.20.11720_t-j_armv7ahf-vfp-neon.ipk (713.5KB)
 enigma2-plugin-cams-oscam.1.20.11720_t-j_mips32el.ipk (804.3KB)
+enigma2-plugin-extensions-levi45emulator_1.0_all.ipk (272.6KB)
+enigma2-plugin-softcams-cccam-arm_232_all.ipk (358.6KB)
+enigma2-plugin-softcams-cccam-mips_232_all.ipk (418.4KB)
 enigma2-plugin-softcams-gosatplus-ncam_14.4-r0_all.ipk (2.2MB)
-enigma2-plugin-softcams-gosatplus-oscam_11774-emu-r801_all.ipk (2.6MB)
+enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk (3.1MB)
 enigma2-plugin-softcams-gosatplus_2.0_all.ipk (1.1MB)
 enigma2-plugin-softcams-ncam-revcamv2_V12.9-r0_all.ipk (3.8MB)
 enigma2-plugin-softcams-ncam-supcam_V12.9-r0_all.ipk (3.8MB)
-enigma2-plugin-softcams-oscam-emu-levi45_11858-802_all.ipk (9.7MB)
+enigma2-plugin-softcams-ncam_V15.3-r0_all.ipk (4.0MB)
+enigma2-plugin-softcams-oscam-emu-levi45_11887-803_all.ipk (9.9MB)
 enigma2-plugin-softcams-oscam-icam-py2_11777-emu-r801_all.ipk (3.3MB)
 enigma2-plugin-softcams-oscam-icam-py3.10_11777-emu-r801_all.ipk (3.4MB)
 enigma2-plugin-softcams-oscam-icam-py3.21_11777-emu-r801_all.ipk (3.3MB)
@@ -537,20 +546,19 @@ enigma2-plugin-softcams-oscam-icam-py3.9_11777-emu-r801_all.ipk (3.4MB)
 enigma2-plugin-softcams-oscam-revcamv2_11.697-emu-r798_all.ipk (6.3MB)
 enigma2-plugin-softcams-oscamicamnewtest_11857-ICAMEMUTEST-Kitte888-V10Rev_all.ipk (3.9MB)
 enigma2-plugin-softcams-powercam-ncam_14.4-r0_all.ipk (2.2MB)
-enigma2-plugin-softcams-powercam-oscam_11774-emu-r801_all.ipk (2.6MB)
+enigma2-plugin-softcams-powercam-oscam_11860-emu-r802_all.ipk (3.1MB)
 enigma2-plugin-softcams-powercam_3.0_all.ipk (960.9KB)
 enigma2-plugin-softcams-revcam-oscam_11722-emu-r798_all.ipk (3.9MB)
 enigma2-plugin-softcams-supcam-ncam_14.4-r0_all.ipk (2.2MB)
-enigma2-plugin-softcams-supcam-oscam_11774-emu-r801_all.ipk (2.6MB)
+enigma2-plugin-softcams-supcam-oscam_11860-emu-r802_all.ipk (3.1MB)
 enigma2-plugin-softcams-ultracam-ncam_14.4-r0_all.ipk (796.8KB)
-enigma2-plugin-softcams-ultracam-oscam_11774-emu-r801_all.ipk (616.7KB)
+enigma2-plugin-softcams-ultracam-oscam_11860-emu-r802_all.ipk (730.7KB)
 enigma2-plugin-softcams-ultracam_1.0_all.ipk (234.1KB)
-enigma2-softcams-cccam-all-images_2.3.2-emu-r3-arm+mips_all.ipk (1.1MB)
+enigma2-softcams-cccam-all-images_232_all.ipk (1.3MB)
 enigma2-softcams-cccam-all-images_239-r6-RAED_OE2.0_all.ipk (1.3MB)
-enigma2-softcams-ncam-official-all-images_69-r4-arm+mips_all.ipk (4.7MB)
 
 ======================================================================
-upload\oe2.0\plugin_emulator\BlackHole\
+GitHub\upload\oe2.0\plugin_emulator\BlackHole\
 ======================================================================
 enigma2-extension-cccam-arm_BlackHole-2.3.1_all.ipk (698.4KB)
 enigma2-extension-cccam-arm_BlackHole-2.3.2_all.ipk (702.7KB)
@@ -572,7 +580,7 @@ enigma2-plugin-extensions-cccam-osemu-bh_2.3.0_mips32el.ipk (662.2KB)
 enigma2-plugin-softcams-mgcamd-1.45a_blackhole_mips32el.ipk (326.9KB)
 
 =======================================================================
-upload\oe2.0\plugin_emulator\Dreamelite\
+GitHub\upload\oe2.0\plugin_emulator\Dreamelite\
 =======================================================================
 enigma2-plugin-cams-cccam-221-dreamelite-4.0-oe2_v1_mipsel.ipk (591.3KB)
 enigma2-plugin-cams-cccam-230-dreamelite-4.0-oe2_v1_all.ipk (595.6KB)
@@ -586,7 +594,7 @@ enigma2-plugin-softcams-oscam-ymod_v18t55_all.ipk (451.2KB)
 enigma2-plugin-softcams-oscam-ymod_v18t56_all.ipk (451.7KB)
 
 ==================================================================
-upload\oe2.0\plugin_emulator\Egami\
+GitHub\upload\oe2.0\plugin_emulator\Egami\
 ==================================================================
 enigma2-plugin-softcams-ccam230-egami_1.0_mips32el.ipk (495.3KB)
 enigma2-plugin-softcams-cccam221-oscam8540-egami_1.0_mips32el.ipk (837.0KB)
@@ -597,12 +605,12 @@ enigma2-plugin-softcams-oscam-egami_11280_mips32el.ipk (692.5KB)
 enigma2-plugin-softcams-wicardd-egami_1.19-RAED_all.ipk (368.2KB)
 
 ================================================================
-upload\oe2.0\plugin_emulator\Hdf\
+GitHub\upload\oe2.0\plugin_emulator\Hdf\
 ================================================================
 enigma2-plugin-cams-pack_openhdf_mips32el.ipk (1.3MB)
 
 ====================================================================
-upload\oe2.0\plugin_emulator\InfoCam\
+GitHub\upload\oe2.0\plugin_emulator\InfoCam\
 ====================================================================
 enigma2-plugin-extensions-cccaminfo_1.9_all.ipk (59.0KB)
 enigma2-plugin-extensions-cccaminfo_svn-3385-r0_all.ipk (32.5KB)
@@ -612,6 +620,7 @@ enigma2-plugin-extensions-ncamstatus_3.2_all.ipk (82.4KB)
 enigma2-plugin-extensions-oscamstatusview_1.0rc1_all.ipk (710.2KB)
 enigma2-plugin-extensions-oscamstatusview_1.3.1.mod.by.Pr2_all.ipk (59.3KB)
 enigma2-plugin-extensions-oscamstatus_6.4_all.ipk (157.4KB)
+enigma2-plugin-extensions-oscamstatus_6.5_all.ipk (163.9KB)
 enigma2-plugin-extensions-oscamupdater_0.1e_mips32el.ipk (14.3KB)
 enigma2-plugin-pli-softcamsetup-new_3.0-r2_mips32el.ipk (18.2KB)
 enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk (65.9KB)
@@ -621,7 +630,7 @@ enigma2-plugin-systemplugins-oscaminfo_2.1_all.ipk (11.1KB)
 oud-cammanager_V1.4_all.ipk (4.1MB)
 
 =====================================================================
-upload\oe2.0\plugin_emulator\ItalySat\
+GitHub\upload\oe2.0\plugin_emulator\ItalySat\
 =====================================================================
 enigma2-plugin-softcams-cccam_2.1.3_all.ipk (459.4KB)
 enigma2-plugin-softcams-cccam_2.1.4_all.ipk (465.7KB)
@@ -636,7 +645,7 @@ enigma2-plugin-softcams-unicam311008_3.1.1008_all.ipk (677.9KB)
 enigma2-plugin-softcams-wicardd-italysat_1.19-RAED_all.ipk (335.1KB)
 
 ====================================================================
-upload\oe2.0\plugin_emulator\OpenATV\
+GitHub\upload\oe2.0\plugin_emulator\OpenATV\
 ====================================================================
 enigma2-plugin-cams-oscamymod18-56_openatv_all.ipk (450.1KB)
 enigma2-plugin-extensions-openatv_0.1_mips32el.ipk (74.3KB)
@@ -665,7 +674,7 @@ enigma2-plugin-softcams-wicardd-1.17_1.17-r0_mipsel.ipk (305.1KB)
 enigma2-plugins-softcams-oscam-emu-svn10041-oscam-ymodv18-56_openatv_all.ipk (1.1MB)
 
 ======================================================================
-upload\oe2.0\plugin_emulator\OpenDroid\
+GitHub\upload\oe2.0\plugin_emulator\OpenDroid\
 ======================================================================
 enigma2-plugin-cams-oscam-emu-svn10656_opendroid_all.ipk (606.7KB)
 enigma2-plugin-cams-oscam-emu-svn11280_opendroid_all.ipk (692.7KB)
@@ -678,7 +687,7 @@ enigma2-plugin-softcams-scam_3.60_all.ipk (216.2KB)
 enigma2-plugin-softcams-wicardd-opendroid_1.19-RAED_all.ipk (367.5KB)
 
 ====================================================================
-upload\oe2.0\plugin_emulator\OpenEsi\
+GitHub\upload\oe2.0\plugin_emulator\OpenEsi\
 ====================================================================
 enigma2-plugin-softcams-camd-3.908_r0_all.ipk (67.0KB)
 enigma2-plugin-softcams-cccam-2.0.11_r1_mipsel.ipk (391.0KB)
@@ -713,7 +722,7 @@ enigma2-plugin-softcams-wicardd-1.19_r0_mipsel.ipk (333.4KB)
 extra-url-2.0.ipk (712.0B)
 
 ====================================================================
-upload\oe2.0\plugin_emulator\OpenPli\
+GitHub\upload\oe2.0\plugin_emulator\OpenPli\
 ====================================================================
 enigma2-plugin-extensions-cccam-osemu-openpli_2.3.0_mips32el.ipk (662.1KB)
 enigma2-plugin-softcams-cam-Wicardd-OpenPLI_1.19-RAED.ipk (332.3KB)
@@ -737,7 +746,7 @@ enigma2-plugin-softcams-rqcamd_1.31-r0_all.ipk (126.4KB)
 enigma2-plugin-softcams-scam_3.60_all.ipk (216.2KB)
 
 ====================================================================
-upload\oe2.0\plugin_emulator\OpenSpa\
+GitHub\upload\oe2.0\plugin_emulator\OpenSpa\
 ====================================================================
 enigma2-plugin-cams-cccam-2.3.0_openspa_all.ipk (1.6KB)
 enigma2-plugin-cams-doscam024_openspa_all.ipk (501.2KB)
@@ -749,7 +758,7 @@ enigma2-plugin-cams-oscam-ymod-18t56_openspa_all.ipk (450.0KB)
 enigma2-plugin-cams-wicardd-openspa_1.19-RAED_all.ipk (368.1KB)
 
 =====================================================================
-upload\oe2.0\plugin_emulator\PowerSat\
+GitHub\upload\oe2.0\plugin_emulator\PowerSat\
 =====================================================================
 enigma2-plugin-softcams-oscam-11280_powersat_mips32el.ipk (693.2KB)
 enigma2-plugin-softcams-oscam-11283_powersat_mips32el.ipk (693.0KB)
@@ -768,7 +777,7 @@ softcam-powersat-oscam-ymodv18-56_OE2.0_all.ipk (462.9KB)
 softcam-powersat-unicam-3.1.0.all.ipk (609.9KB)
 
 ============================================================================
-upload\oe2.0\plugin_emulator\tvManager\cccam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\cccam\
 ============================================================================
 enigma2-plugin-cams-cccam-aarch_64-2.3.9_all.deb (211.5KB)
 enigma2-plugin-cams-cccam-aarch_64-2.3.9_all.ipk (262.1KB)
@@ -782,18 +791,18 @@ enigma2-plugin-cams-cccam-mips_2.3.9_all.deb (249.8KB)
 enigma2-plugin-cams-cccam-mips_2.3.9_all.ipk (322.6KB)
 
 ===================================================================================
-upload\oe2.0\plugin_emulator\tvManager\Config-Oscam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\Config-Oscam\
 ===================================================================================
 oscam-config-services-srvid-provid.tar.gz (349.5KB)
 
 =============================================================================
-upload\oe2.0\plugin_emulator\tvManager\doscam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\doscam\
 =============================================================================
 enigma2-plugin-cams-doscam-mips_0.25_all.deb (375.1KB)
 enigma2-plugin-cams-doscam-mips_0.25_all.ipk (484.9KB)
 
 ===========================================================================
-upload\oe2.0\plugin_emulator\tvManager\gcam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\gcam\
 ===========================================================================
 enigma2-plugin-cams-gcam-arm_2.1_all.deb (546.7KB)
 enigma2-plugin-cams-gcam-arm_2.1_all.ipk (719.7KB)
@@ -801,7 +810,7 @@ enigma2-plugin-cams-gcam-mips_2.1_all.deb (540.2KB)
 enigma2-plugin-cams-gcam-mips_2.1_all.ipk (729.0KB)
 
 ===========================================================================
-upload\oe2.0\plugin_emulator\tvManager\icam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\icam\
 ===========================================================================
 enigma2-plugin-softcams-oscam-icam-emu-py2_11788-801_all.deb (2.0MB)
 enigma2-plugin-softcams-oscam-icam-emu-py2_11788-801_all.ipk (3.3MB)
@@ -813,19 +822,19 @@ enigma2-plugin-softcams-oscam-icam-emu-py3.9_11788-801_all.deb (2.1MB)
 enigma2-plugin-softcams-oscam-icam-emu-py3.9_11788-801_all.ipk (3.4MB)
 
 ============================================================================
-upload\oe2.0\plugin_emulator\tvManager\mgcam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\mgcam\
 ============================================================================
 enigma2-plugin-cams-mgcamd-arm_1.45_all.deb (335.6KB)
 enigma2-plugin-cams-mgcamd-arm_1.45_all.ipk (669.8KB)
 
 ==============================================================================
-upload\oe2.0\plugin_emulator\tvManager\movicam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\movicam\
 ==============================================================================
 enigma2-plugin-extensions-movicam-arm_1.0_all.ipk (1.1MB)
 enigma2-plugin-extensions-movicam-mips32el_1.0_all.ipk (1.7MB)
 
 ===========================================================================
-upload\oe2.0\plugin_emulator\tvManager\ncam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\ncam\
 ===========================================================================
 enigma2-plugin-cams-ncam-aarch64_14.3_all.deb (787.9KB)
 enigma2-plugin-cams-ncam-aarch64_14.3_all.ipk (952.0KB)
@@ -842,7 +851,7 @@ enigma2-plugin-cams-ncam-mips_14.8_all.ipk (953.3KB)
 enigma2-plugin-cams-ncam_14.9-r0_all.ipk (3.7MB)
 
 ============================================================================
-upload\oe2.0\plugin_emulator\tvManager\oscam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\oscam\
 ============================================================================
 enigma2-plugin-cams-oscam-emu-arm_11.718-r798_all.deb (577.8KB)
 enigma2-plugin-cams-oscam-emu-arm_11.718-r798_all.ipk (707.3KB)
@@ -875,48 +884,44 @@ enigma2-plugin-extensions-oscam-mips-py_3.9-11725_all.deb (618.9KB)
 enigma2-plugin-extensions-oscam-mips-py_3.9-11725_all.ipk (805.0KB)
 
 ===========================================================================
-upload\oe2.0\plugin_emulator\tvManager\scam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\scam\
 ===========================================================================
 enigma2-plugin-cams-scam-mips_0.25_all.ipk (216.2KB)
 enigma2-plugin-cams-scam-mips_3.60_all.deb (167.2KB)
 enigma2-plugin-cams-scam-mips_3.60_all.ipk (216.0KB)
 
 =============================================================================
-upload\oe2.0\plugin_emulator\tvManager\unicam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\unicam\
 =============================================================================
 enigma2-plugin-cams-unicam-mips_3.1.0_all.deb (503.2KB)
 enigma2-plugin-cams-unicam-mips_3.1.0_all.ipk (585.1KB)
 
 ============================================================================
-upload\oe2.0\plugin_emulator\tvManager\vicam\
+GitHub\upload\oe2.0\plugin_emulator\tvManager\vicam\
 ============================================================================
 enigma2-plugin-cams-vicam-mips_2.1_all.deb (781.7KB)
 enigma2-plugin-cams-vicam-mips_2.1_all.ipk (781.0KB)
 
 =======================================================
-upload\oe2.0\plugin_epg\
+GitHub\upload\oe2.0\plugin_epg\
 =======================================================
-enigma2-plugin-extensions-advancedeventlibrary_1.0r142_all.ipk (966.8KB)
-enigma2-plugin-extensions-backsncovers_0.9-r1_all.ipk (19.9KB)
+enigma2-plugin-extensions-advancedeventlibrary_1.0r149_all.ipk (975.4KB)
+enigma2-plugin-extensions-backsncovers_1.0-r0_all.ipk (25.0KB)
 enigma2-plugin-extensions-cooltvguide_Coolman_V8.0_all.ipk (2.4MB)
 enigma2-plugin-extensions-cooltvguide_Coolman_V8.0_py3_all.ipk (2.2MB)
 enigma2-plugin-extensions-epg-epgsearch_1.0_all.ipk (9.3KB)
 enigma2-plugin-extensions-epgexport_1.0-r6_all.ipk (15.7KB)
 enigma2-plugin-extensions-epggrabber_22.5_all.ipk (1.7KB)
 enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk (149.4KB)
-enigma2-plugin-extensions-epgimport-nss_1.0_all.ipk (80.2KB)
-enigma2-plugin-extensions-epgimport-py3-dream_1.0_all.ipk (35.2KB)
-enigma2-plugin-extensions-epgimport-py3_1.0_all.ipk (89.1KB)
-enigma2-plugin-extensions-epgimport-py3_1.0_mipsel.ipk (89.1KB)
-enigma2-plugin-extensions-epgimport-rytec_20171116-r0_all.ipk (55.0KB)
+enigma2-plugin-extensions-epgimport-nss_1.0_all.ipk (87.8KB)
 enigma2-plugin-extensions-epgimportfilter_1.0+git8+244ec71-r0_mips32el.ipk (36.7KB)
-enigma2-plugin-extensions-epgimport_1.0+git206+20190616_all.ipk (60.8KB)
-enigma2-plugin-extensions-epgplugin_v23.5_all.ipk (118.2KB)
+enigma2-plugin-extensions-epgimport_99.5_all.ipk (127.9KB)
+enigma2-plugin-extensions-epgplugin_v23.7_all.ipk (137.2KB)
+enigma2-plugin-extensions-epgtranslator_git3300+4a35314-r0_PY3.ipk (1.8MB)
 enigma2-plugin-extensions-imdb-fnc_3.1-r1_aarch64.ipk (538.2KB)
 enigma2-plugin-extensions-imdb-fnc_3.1-r1_mips32el.ipk (532.9KB)
 enigma2-plugin-extensions-imdb_2.1_all.ipk (81.3KB)
 enigma2-plugin-extensions-jediepgxtream_2.09.20230805_all.ipk (263.5KB)
-enigma2-plugin-extensions-moviebrowser_3.7rc2_all.ipk (1.5MB)
 enigma2-plugin-extensions-myepg_1.08-20231219_all.ipk (105.8KB)
 enigma2-plugin-extensions-openepg_1.4_r5_mips32el.ipk (520.0KB)
 enigma2-plugin-extensions-removeepg_2016_06_17_all.ipk (3.3KB)
@@ -927,7 +932,7 @@ enigma2-plugin-extensions-tmdb_v1.0r1_all.ipk (89.6KB)
 enigma2-plugin-extensions-translator_1.4rc1-fhd-edition_all.ipk (1.8MB)
 enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk (59.0KB)
 enigma2-plugin-extensions-xtraevent-py3_4.4_all.ipk (2.6MB)
-enigma2-plugin-extensions-xtraevent_6.802_all.ipk (744.5KB)
+enigma2-plugin-extensions-xtraevent_6.804_all.ipk (755.8KB)
 enigma2-plugin-extensions-xtraevent_v3.0_all.ipk (2.6MB)
 enigma2-plugin-extensions-xtraevent_v5.2_all.ipk (2.7MB)
 enigma2-plugin-systemplugins-crossepg_0.8.6-20181224_all.ipk (665.4KB)
@@ -935,7 +940,7 @@ enigma2-plugin-systemplugins-epgcacheselector_1.2-r0_all.ipk (6.9KB)
 enigma2-script-e2TURK-i2Z_1.0.DS_all.ipk (1.8KB)
 
 ========================================================
-upload\oe2.0\plugin_game\
+GitHub\upload\oe2.0\plugin_game\
 ========================================================
 enigma2-plugin-extensions-schiffe_7.1r1_all.deb (160.1KB)
 enigma2-plugin-extensions-schiffe_7.1r1_all.ipk (164.3KB)
@@ -947,7 +952,7 @@ sudoku.jpg (401.9KB)
 tetris.jpg (467.2KB)
 
 ========================================================
-upload\oe2.0\plugin_iptv\
+GitHub\upload\oe2.0\plugin_iptv\
 ========================================================
 Athantimes_2.8_PY2.ipk (3.0MB)
 Athantimes_2.8_PY3.ipk (3.0MB)
@@ -955,24 +960,25 @@ enigma2-plugin-extensions-albatros_7.1.2_all.ipk (5.4MB)
 enigma2-plugin-extensions-ardmediathek_v1.5-plus-minitv_all.ipk (51.3KB)
 enigma2-plugin-extensions-autocut_3.11_all.ipk (66.8KB)
 enigma2-plugin-extensions-dreamplex_2.1.4_all.ipk (1.9MB)
-enigma2-plugin-extensions-e2iplayer-py3.10_21.05.2022_all.ipk (13.4MB)
-enigma2-plugin-extensions-e2iplayer-py3_21.05.2022_all.ipk (13.4MB)
+enigma2-plugin-extensions-e2iplayer-deps_1.0+git9+2adf2670+2adf267a1c-r4_cortexa15hf-neon-vfpv4.ipk (201.0KB)
 enigma2-plugin-extensions-e2iplayer-ts_17.05-2024_all.ipk (2.8KB)
 enigma2-plugin-extensions-e2iplayer-zadmario_2023.04.03.02_all.ipk (13.2MB)
-enigma2-plugin-extensions-e2m3u2bouquet_1.9.3_all.ipk (2.4MB)
+enigma2-plugin-extensions-e2iplayer_git4734+d7355cb0+d7355cb9c6-r0_cortexa15hf-neon-vfpv4.ipk (9.9MB)
+enigma2-plugin-extensions-e2m3u2bouquet_2.0.6_all.ipk (2.3MB)
 enigma2-plugin-extensions-enhancedmoviecenter-5-0git20210126-all.ipk (1002.2KB)
+enigma2-plugin-extensions-estalkerwebcontrol_1.0_all.ipk (17.0KB)
 enigma2-plugin-extensions-exodus_7.0_r0_all.ipk (314.4KB)
 enigma2-plugin-extensions-freechannels_py2-git21-735d86d-r0.0.ipk (18.5KB)
 enigma2-plugin-extensions-freechannels_py3-git21-735d86d-r0.0.ipk (18.3KB)
 enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk (196.5KB)
 enigma2-plugin-extensions-iptosat_1.8_all.ipk (13.3KB)
 enigma2-plugin-extensions-iptv-openpli-japhar_1.0_all.ipk (892.0B)
-enigma2-plugin-extensions-iptvarchive_2.0.87_all.ipk (1.0MB)
+enigma2-plugin-extensions-iptv-org-playlists_1.0_all.ipk (24.6KB)
+enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk (1.1MB)
 enigma2-plugin-extensions-iptvbouquet_1.0_r0_all.ipk (147.7KB)
 enigma2-plugin-extensions-iptvlistupdater_1.63.git9930f82968-r28_mips32el.ipk (1.9MB)
 enigma2-plugin-extensions-iptvmanager_1.1.2_all.ipk (25.5KB)
 enigma2-plugin-extensions-iptvremote_1.0.5_all.ipk (30.0KB)
-enigma2-plugin-extensions-iptvstreamlink_1.0_r0_all.ipk (85.2KB)
 enigma2-plugin-extensions-iptvupdater_1.5_all.ipk (870.6KB)
 enigma2-plugin-extensions-iptvworld_6.0_r0_all.ipk (84.8KB)
 enigma2-plugin-extensions-italysmart-240510.1_mipsel.ipk (6.9MB)
@@ -984,7 +990,7 @@ enigma2-plugin-extensions-m3uplayer_1.1_all.ipk (1.8MB)
 enigma2-plugin-extensions-magentamusik360_2.0+git14+a3998e2-r0.ipk (56.4KB)
 enigma2-plugin-extensions-mediaplayer2_git26+17c9822_all.ipk (43.0KB)
 enigma2-plugin-extensions-mediastream_OE2.0_v6.0_all.ipk (249.1KB)
-enigma2-plugin-extensions-moviebrowser_3.8rc0_all.ipk (1.7MB)
+enigma2-plugin-extensions-moviebrowser_3.9-rc0_all.ipk (1.7MB)
 enigma2-plugin-extensions-moviecutcenter_1.09-20220330_all.ipk (176.8KB)
 enigma2-plugin-extensions-movietime_1.0_r1_all.ipk (3.4MB)
 enigma2-plugin-extensions-mp3browser_2.0_all.ipk (762.2KB)
@@ -1008,12 +1014,11 @@ enigma2-plugin-extensions-playstream_0.9c_all.ipk (1.8MB)
 enigma2-plugin-extensions-plutotv_20240831_all.ipk (496.5KB)
 enigma2-plugin-extensions-rakutentv_20240324_all.ipk (550.9KB)
 enigma2-plugin-extensions-remotestreamconvert_2.0+mod_all.ipk (13.2KB)
-enigma2-plugin-extensions-samsungtvplus_20241116_all.ipk (170.4KB)
+enigma2-plugin-extensions-samsungtvplus_20250815_all.ipk (170.9KB)
 enigma2-plugin-extensions-seasondream-ng_3.0.200331b_all.ipk (1.7MB)
 enigma2-plugin-extensions-serienrecorder_4.7.1_all.ipk (706.6KB)
 enigma2-plugin-extensions-seriesplugin_5.9.4_all.ipk (152.2KB)
 enigma2-plugin-extensions-skyrecorder_2.1.3-py2_all.ipk (383.0KB)
-enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk (1.6KB)
 enigma2-plugin-extensions-streamtitle_1.0_all.ipk (3.6KB)
 enigma2-plugin-extensions-torrentplayer_1.1_all.ipk (3.6MB)
 enigma2-plugin-extensions-torrentplayer_2.1_f020920201_all.ipk (3.9MB)
@@ -1042,13 +1047,14 @@ XtreamTVarmv7a_4K_0.2.3.ipk (2.6MB)
 XtreamTVmips32el_0.2.3.ipk (1.6MB)
 
 =============================================================
-upload\oe2.0\plugin_multiboot\
+GitHub\upload\oe2.0\plugin_multiboot\
 =============================================================
 enigma2-plugin-extensions-barryallen_11.3_all.ipk (1.2MB)
 enigma2-plugin-extensions-dumbo_0.27c_mipsel.ipk (555.1KB)
 enigma2-plugin-extensions-egamiboot_10.6+git36161+df20ccb0+df20ccb7f0-r0_all.ipk (297.9KB)
 enigma2-plugin-extensions-meoboot_0.1-r3_arm_all.ipk (258.1KB)
 enigma2-plugin-extensions-multiboot-flashonline_7.1_all.ipk (309.7KB)
+enigma2-plugin-extensions-multibootselector_1.14-r0_all.ipk (21.5KB)
 enigma2-plugin-extensions-neoboot-duo4k_5.3_all.ipk (1.8MB)
 enigma2-plugin-extensions-neoboot-e2turk_3.9.1_all.ipk (2.9MB)
 enigma2-plugin-extensions-neoboot-v9.65-VIP_all.ipk (7.8MB)
@@ -1063,20 +1069,23 @@ mmboot-dreambox_1.40_all.ipk (788.4KB)
 openBH_meoboot_0.1-r14_mips32el.ipk (109.2KB)
 
 =========================================================
-upload\oe2.0\plugin_picon\
+GitHub\upload\oe2.0\plugin_picon\
 =========================================================
 enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.ipk (125.8KB)
-enigma2-plugin-extensions-e2piconizer_1.21.20230301_all.ipk (1.6MB)
+enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk (1.5MB)
 enigma2-plugin-extensions-missingpicons_2024_08_13_all.ipk (4.3KB)
-enigma2-plugin-extensions-picon-buddy_1.0.0_all.ipk (189.2KB)
+enigma2-plugin-extensions-missingpicons_2024_12_20_all.ipk (5.7KB)
+enigma2-plugin-extensions-picon-buddy_1.1_all.ipk (1.4MB)
 enigma2-plugin-extensions-piconcleaner_1.6-r3_all.ipk (8.9KB)
-enigma2-plugin-extensions-piconmanager_2.1-20240813-r3_all.ipk (23.2KB)
+enigma2-plugin-extensions-piconcockpit_5.6.9_all.ipk (88.7KB)
+enigma2-plugin-extensions-piconmanager_2.6-20250511-r0_all.ipk (32.3KB)
 enigma2-plugin-extensions-piconremover_0.1-r1-20240806_all.ipk (6.7KB)
 enigma2-plugin-extensions-piconsupdater_0.3.7.5_all.ipk (18.4KB)
 enigma2-plugin-extensions-renamepicons_2024_08_04_all.ipk (6.9KB)
+enigma2-plugin-extensions-virtualzappicon_1.8_py3_all.ipk (19.1KB)
 
 ==========================================================
-upload\oe2.0\plugin_ppanel\
+GitHub\upload\oe2.0\plugin_ppanel\
 ==========================================================
 enigma2-luxsat-menu_12.9_all.ipk (646.6KB)
 enigma2-plugin-extensions-ajpanel_v10.2.3_all.ipk (506.7KB)
@@ -1091,9 +1100,9 @@ enigma2-plugin-extensions-dreamsatpanel_1.6_all.ipk (6.3KB)
 enigma2-plugin-extensions-epanel-5.8-r2.ipk (164.9KB)
 enigma2-plugin-extensions-goldenfeed_6.8_all.ipk (118.2KB)
 enigma2-plugin-extensions-image-downloader_2.5_all.ipk (450.0KB)
-enigma2-plugin-extensions-levi45-addon_10.1-r27_all.ipk (119.8KB)
-enigma2-plugin-extensions-levi45multicammanager_10.1-r33_all.ipk (984.9KB)
-enigma2-plugin-extensions-linuxsat-panel_2.5_all.ipk (1.2KB)
+enigma2-plugin-extensions-levi45-addon_10.1-r28_all.ipk (119.7KB)
+enigma2-plugin-extensions-levi45multicammanager_10.2-r2_all.ipk (999.7KB)
+enigma2-plugin-extensions-linuxsat-panel_2.7.0_all.ipk (9.0MB)
 enigma2-plugin-extensions-newmenu-OE-2.v0.all.ipk (201.0KB)
 enigma2-plugin-extensions-novacampro-py3.9_3.0-r0_all.ipk (686.0KB)
 enigma2-plugin-extensions-oscamforall_1.2_all.ipk (4.7MB)
@@ -1106,20 +1115,28 @@ enigma2-plugin-systemplugins-autocamsetup_0.6_all.ipk (48.7KB)
 japhar-addons-manager_5.5_all.ipk (9.1KB)
 
 =========================================================
-upload\oe2.0\plugin_radio\
+GitHub\upload\oe2.0\plugin_radio\
 =========================================================
-enigma2-plugin-extensions-hdfradio_2.16.5_py2_cortexa15hf-neon-vfpv4.ipk (2.9MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py2_cortexa7hf-vfp.ipk (3.0MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py2_cortexa9hf-neon-vfpv4.ipk (3.0MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py2_mips32el.ipk (2.4MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py3_3.12.6_cortexa15hf-neon-vfpv4.ipk (3.8MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py3_3.12.6_cortexa7hf-vfp.ipk (3.8MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py3_3.12.6_cortexa9hf-neon.ipk (3.7MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py3_3.12.6_mips32el.ipk (3.3MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py3_3.12_cortexa15hf-neon-vfpv4.ipk (3.8MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py3_3.12_cortexa7hf-vfp.ipk (3.8MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py3_3.12_cortexa9hf-neon.ipk (3.7MB)
-enigma2-plugin-extensions-hdfradio_2.16.5_py3_3.12_mips32el.ipk (3.3MB)
+enigma2-plugin-extensions-hdfradio_2.17.8_py2_cortexa15hf-neon-vfpv4.ipk (3.0MB)
+enigma2-plugin-extensions-hdfradio_2.17.8_py2_cortexa7hf-vfp.ipk (3.0MB)
+enigma2-plugin-extensions-hdfradio_2.17.8_py2_cortexa9hf-neon-vfpv4.ipk (3.0MB)
+enigma2-plugin-extensions-hdfradio_2.17.8_py2_mips32el.ipk (2.4MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.11.2_cortexa15hf-neon-vfpv4.ipk (3.1MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.11.2_cortexa7hf-vfp.ipk (3.1MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.11.2_cortexa9hf-neon.ipk (3.1MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.11.2_mips32el.ipk (2.8MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.12.6_cortexa15hf-neon-vfpv4.ipk (4.2MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.12.6_cortexa7hf-vfp.ipk (4.2MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.12.6_cortexa9hf-neon.ipk (4.1MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.12.6_mips32el.ipk (3.7MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.12_cortexa15hf-neon-vfpv4.ipk (4.2MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.12_cortexa7hf-vfp.ipk (4.2MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.12_cortexa9hf-neon.ipk (4.1MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.12_mips32el.ipk (3.7MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.13_cortexa15hf-neon-vfpv4.ipk (4.3MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.13_cortexa7hf-vfp.ipk (4.3MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.13_cortexa9hf-neon.ipk (4.2MB)
+enigma2-plugin-extensions-hdfradio_2.20.7_py3_3.13_mips32el.ipk (3.8MB)
 enigma2-plugin-extensions-ipaudiopro_1.4_aarch64.ipk (839.3KB)
 enigma2-plugin-extensions-ipaudiopro_1.4_cortexa15hf-neon-vfpv4.ipk (864.6KB)
 enigma2-plugin-extensions-ipaudiopro_1.4_mips32el.ipk (846.8KB)
@@ -1130,18 +1147,13 @@ enigma2-plugin-extensions-yampmusicplayer_3.3.0-T5_2021-05-02_all.ipk (1.2MB)
 enigma2-plugin-extensions-yampmusicplayer_3.3.1.ipk (1.3MB)
 
 ============================================================
-upload\oe2.0\plugin_settings\
+GitHub\upload\oe2.0\plugin_settings\
 ============================================================
 enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.ipk (125.8KB)
 enigma2-plugin-extensions-freechannels_py2-git21-735d86d-r0.0.ipk (18.5KB)
 enigma2-plugin-extensions-freechannels_py3-git21-735d86d-r0.0.ipk (18.3KB)
 enigma2-plugin-extensions-gioppygio_12.2_all.ipk (2.1MB)
-enigma2-plugin-extensions-ngsetting-fhd_1.4_arm.ipk (225.5KB)
-enigma2-plugin-extensions-ngsetting-fhd_2.7_all.ipk (490.8KB)
-enigma2-plugin-extensions-ngsetting-mod-fhd_mipsel_all.ipk (225.2KB)
-enigma2-plugin-extensions-ngsetting-mod-fhd_mipsel_arm.ipk (225.2KB)
-enigma2-plugin-extensions-ngsetting_1.4_all.ipk (42.2KB)
-enigma2-plugin-extensions-ngsetting_1.5_all.ipk (41.5KB)
+enigma2-plugin-extensions-ngsetting-fhd_2.9_all.ipk (491.1KB)
 enigma2-plugin-extensions-satvenus-settings_5.0_all.ipk (91.4KB)
 enigma2-plugin-extensions-settingsmaker_2.2_mips32el.ipk (224.5KB)
 enigma2-plugin-extensions-settloader_1.5_all.ipk (37.8KB)
@@ -1157,7 +1169,7 @@ vhannibal-autosetting-1.1-oe2.0-mips32el.ipk (30.8KB)
 vhannibal-autosetting-1.1-oe2.0-sh4.ipk (30.8KB)
 
 ======================================================================
-upload\oe2.0\plugin_settings\isettings\
+GitHub\upload\oe2.0\plugin_settings\isettings\
 ======================================================================
 enigma2-plugin-extensions-isettinge2-3.6.1-oe2.0-all-arm.ipk (4.0MB)
 enigma2-plugin-extensions-isettinge2-3.6.1-oe2.0-all-mips.ipk (3.7MB)
@@ -1177,12 +1189,14 @@ enigma2-plugin-extensions-isettinge2-3.6.1-oe3.0-all-arm.ipk (4.3MB)
 enigma2-plugin-extensions-isettinge2-3.6.1-oe3.0-all-mips.ipk (4.1MB)
 enigma2-plugin-extensions-isettinge2-start-1.1.deb (9.5KB)
 enigma2-plugin-extensions-isettinge2-start-1.1.ipk (10.0KB)
+enigma2-plugin-extensions-levi45-settings_1.0_all.deb (10.1KB)
+enigma2-plugin-extensions-levi45-settings_1.2_all.ipk (11.8KB)
 enigma2-plugin-extensions-pre-isettinge2-v3.2.deb (5.1KB)
 enigma2-plugin-extensions-pre-isettinge2-v3.2.ipk (5.0KB)
 isetting.tar (30.0KB)
 
 =========================================================
-upload\oe2.0\plugin_sport\
+GitHub\upload\oe2.0\plugin_sport\
 =========================================================
 enigma2-plugin-extensions-eurojackpot_201011_all.ipk (25.0KB)
 enigma2-plugin-extensions-footonsat_1.9-r0_all.ipk (14.7MB)
@@ -1206,7 +1220,7 @@ enigma2-plugin-extensions-wazzup-fnc_1.5-r0_mips32el.ipk (377.7KB)
 livesoccer-plugin-sport_1.5.03_all.ipk (5.5MB)
 
 ===========================================================
-upload\oe2.0\plugin_utility\
+GitHub\upload\oe2.0\plugin_utility\
 ===========================================================
 busybox-cron_1.22.1-r32_mips32el-nf.ipk (1.9KB)
 busybox-cron_1.22.1-r32_mips32el.ipk (1.9KB)
@@ -1226,12 +1240,11 @@ enigma2-plugin-extensions-bitrate_2.1_all.ipk (37.7KB)
 enigma2-plugin-extensions-bootlogochanger_1.0.3_all.ipk (323.0KB)
 enigma2-plugin-extensions-bootlogoswapper-Kids_v2.4_all.ipk (15.8MB)
 enigma2-plugin-extensions-bootlogoswapper_v2.4_all.ipk (17.5MB)
-enigma2-plugin-extensions-cacheflush_2.1_all.ipk (16.2KB)
+enigma2-plugin-extensions-cacheflush_2.1_all.ipk (16.1KB)
 enigma2-plugin-extensions-ci-plus-helper-openbh-openvix_5.x_all.ipk (2.0MB)
-enigma2-plugin-extensions-ci-plus-helper-opentr_10.1_all.ipk (2.0MB)
+enigma2-plugin-extensions-ci-plus-helper-opentr_10.2_all.ipk (2.0MB)
 enigma2-plugin-extensions-ci_plus_helper-openpli8.x_4_all.ipk (2.0MB)
 enigma2-plugin-extensions-clearmem_1.11_all.ipk (10.9KB)
-enigma2-plugin-extensions-crashlogviewer_1.5_all.ipk (21.7KB)
 enigma2-plugin-extensions-cronmanager_2.3_all.ipk (11.8KB)
 enigma2-plugin-extensions-csfd_18.00-20230919_all.ipk (1.6MB)
 enigma2-plugin-extensions-dreamexplorer_7.5_all.ipk (44.6KB)
@@ -1241,12 +1254,12 @@ enigma2-plugin-extensions-exteplayer3_1.0_all.ipk (850.0B)
 enigma2-plugin-extensions-feedsfinder_PY3_v3.1_Mod_BY_Bahaa_all.ipk (749.1KB)
 enigma2-plugin-extensions-filebrowservti_1.9.1_all.ipk (171.6KB)
 enigma2-plugin-extensions-filecommander_mod_2024_by_lululla_all.ipk (164.8KB)
-enigma2-plugin-extensions-flashexpander-it-openpli4_0.33-r0_all.ipk (27.0KB)
+enigma2-plugin-extensions-flashexpander_1.00-r0_all.ipk (21.5KB)
 enigma2-plugin-extensions-fritzcall_20220508-rev1620_all.ipk (361.4KB)
 enigma2-plugin-extensions-fritzdect_v2.0.8_all.ipk (40.9KB)
 enigma2-plugin-extensions-glasssysutil_12.12_all.ipk (2.6MB)
-enigma2-plugin-extensions-hardwareinfo_4.0_all.ipk (3.1MB)
-enigma2-plugin-extensions-historyzap_1.0.41_all.ipk (1.7MB)
+enigma2-plugin-extensions-hardwareinfo_5.1_all.ipk (13.9MB)
+enigma2-plugin-extensions-historyzap_1.0.44_all.ipk (1.8MB)
 enigma2-plugin-extensions-image-flashexpander_1.0_all.ipk (22.1KB)
 enigma2-plugin-extensions-internet-speedtest_1.8_all.ipk (698.6KB)
 enigma2-plugin-extensions-ipkuninstaller_1.3_all.ipk (6.9KB)
@@ -1257,7 +1270,7 @@ enigma2-plugin-extensions-kiosk_1.1.4-C-Experimental_all.ipk (883.5KB)
 enigma2-plugin-extensions-lcd4linux_4.9-r2_mips32el.ipk (961.2KB)
 enigma2-plugin-extensions-mac-plugin_v1.0_all.ipk (9.3KB)
 enigma2-plugin-extensions-mediainfo_3.0.1_all.ipk (10.4KB)
-enigma2-plugin-extensions-mosaic_2.0_all.ipk (34.4KB)
+enigma2-plugin-extensions-mosaic_2.1_all.ipk (39.6KB)
 enigma2-plugin-extensions-multiquickbutton-vu_2.7.17-r6_py3-Mod-RAED_all.ipk (28.8KB)
 enigma2-plugin-extensions-netspeedtest_1.0_all.ipk (263.2KB)
 enigma2-plugin-extensions-newpermanentclock_1.0_all.ipk (64.1KB)
@@ -1286,14 +1299,15 @@ enigma2-plugin-extensions-scriptexecutor_1.3_all.ipk (8.7KB)
 enigma2-plugin-extensions-scriptupd_1.1_all.ipk (13.4KB)
 enigma2-plugin-extensions-sherlockmod_1.4.1_all.ipk (2.5MB)
 enigma2-plugin-extensions-shootyourscreen_0.3_all.ipk (15.5KB)
+enigma2-plugin-extensions-showclock_0.9_all.ipk (9.0KB)
 enigma2-plugin-extensions-skipintro_1.1_all.ipk (14.3KB)
 enigma2-plugin-extensions-smartshell_1.0_all.ipk (377.9KB)
 enigma2-plugin-extensions-softsleepfs_1.6_all.ipk (15.0KB)
-enigma2-plugin-extensions-spinner-selector-mod_3.1_all.ipk (13.8MB)
+enigma2-plugin-extensions-spinner-selector_3.2_all.ipk (11.6MB)
 enigma2-plugin-extensions-subssupport-py2_1.5.8_all.ipk (590.6KB)
 enigma2-plugin-extensions-subssupport-py3_1.5.8_all.ipk (493.1KB)
-enigma2-plugin-extensions-subssupport_1.5.8-r9-py2_all.ipk (922.5KB)
-enigma2-plugin-extensions-subssupport_1.7.0-r10-py3_all.ipk (782.1KB)
+enigma2-plugin-extensions-subssupport_1.7.0-r18-py3_all.ipk (808.8KB)
+enigma2-plugin-extensions-suptv_4.4_all.ipk (201.1KB)
 enigma2-plugin-extensions-translator_1.1_all.ipk (1.7MB)
 enigma2-plugin-extensions-updateuser_1.7_all.ipk (95.3KB)
 enigma2-plugin-extensions-vti-fccextender_0.3-Beta_all.ipk (7.2KB)
@@ -1301,17 +1315,23 @@ enigma2-plugin-extensions-vticonfigexplorer_1.0_all.ipk (310.5KB)
 enigma2-plugin-extensions-vticonfighelper_1.4_all.ipk (212.3KB)
 enigma2-plugin-extensions-vtiscreenshot_1.0_all.ipk (26.9KB)
 enigma2-plugin-extensions-vtitimeshifthelper_1.1_all.ipk (16.9KB)
+enigma2-plugin-extensions-zaptimer_1.0_all.ipk (13.9KB)
 enigma2-plugin-glasssysutil_11.11_all.ipk (2.5MB)
 enigma2-plugin-scripts_1.0_mipsel.ipk (2.7KB)
 enigma2-plugin-systemplugins-automaticcleanup_10.5_all.ipk (25.0KB)
-enigma2-plugin-systemplugins-ciplushelper_5.8-r2_all.ipk (1.3MB)
+enigma2-plugin-systemplugins-ciplushelper_5.8-r3_all.ipk (1.3MB)
 enigma2-plugin-systemplugins-devicemanager_1.2_all.ipk (147.9KB)
 enigma2-plugin-systemplugins-ipk-deb-maker_0.3_armv7ahf-vfp.ipk (528.2KB)
+enigma2-plugin-systemplugins-mountmanager_1+git69+be71327-r0.0_cortexa15hf-neon-vfpv4.ipk (57.3KB)
 enigma2-plugin-systemplugins-mountmanager_2.5_all.ipk (64.8KB)
+enigma2-plugin-systemplugins-satscanlcn_1.0+git46+fd233cb-r0_cortexa15hf-neon-vfpv4.ipk (38.2KB)
+enigma2-plugin-systemplugins-satscanlcn_1.0+git46+fd233cb-r0_mips32el.ipk (38.6KB)
 enigma2-plugin-systemplugins-setpasswd_y-git4897+7278916-r0.0.ipk (9.4KB)
 enigma2-plugin-systemplugins-signalfinder_2.4_all.ipk (44.7KB)
+enigma2-plugin-systemplugins-slowzap_2.7_all.ipk (23.5KB)
 enigma2-plugin-systemplugins-swapmanager_1.0-r0_mipsel.ipk (8.9KB)
 enigma2-plugin-systemplugins-vfdcontrol_2.1_all.ipk (11.8KB)
+enigma2-plugin-systemplugins-vfdcontrol_2.2_all.ipk (13.5KB)
 enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk (22.2KB)
 enigma2-plugin-systemplugins-wirelesslan_6.2+git26804+c76e6a3-r0_all.ipk (13.1KB)
 eparted_0.13-r1_all.ipk (12.4KB)
@@ -1321,18 +1341,19 @@ zerotier_1.4.6-r0_armv7ahf-neon.ipk (732.9KB)
 zerotier_1.4.6-r0_mips32el.ipk (842.3KB)
 
 ===========================================================
-upload\oe2.0\plugin_weather\
+GitHub\upload\oe2.0\plugin_weather\
 ===========================================================
 bhweather_V0.2_all.ipk (2.4MB)
 enigma2-plugin-extensions-accuweather_1.2.1_all.ipk (98.8KB)
 enigma2-plugin-extensions-airly_2.0-r6_all.ipk (9.9MB)
+enigma2-plugin-extensions-foreca_3.3.8-e2openpluginsgit20250223-VTi-mod-r6_all_all.ipk (1.2MB)
+enigma2-plugin-extensions-foreca_3.3.8_all.ipk (1.2MB)
 enigma2-plugin-extensions-hetweer_4.7r01_all.ipk (1.4MB)
 enigma2-plugin-extensions-infobarweather_0.18_all.ipk (92.6KB)
 enigma2-plugin-extensions-infobarweather_all.ipk (34.9KB)
 enigma2-plugin-extensions-netatmo_1.7.3-20230530-r345_py3branch_all.ipk (63.9KB)
-enigma2-plugin-extensions-oaweather_3.0+0.0-50-g17b80070+17b8007634-r0_all.ipk (745.5KB)
-enigma2-plugin-extensions-oaweather_3.1_all.ipk (1.2MB)
-enigma2-plugin-extensions-theweather-py2-py3_2.5_r0_all.ipk (8.4MB)
+enigma2-plugin-extensions-oaweather_4.0_all.ipk (1.5MB)
+enigma2-plugin-extensions-theweather-py3_2.6_r0_all.ipk (8.5MB)
 enigma2-plugin-extensions-vweather3_1.0r61_all.ipk (2.3MB)
 enigma2-plugin-extensions-vweather3_M71_all.ipk (2.7MB)
 enigma2-plugin-extensions-weather-forecast_1.0_mipsel.ipk (107.1KB)
@@ -1352,66 +1373,13 @@ enigma2-plugin-weather_b1.1_all.ipk (307.5KB)
 enigma2-plugin-weather_b1.3_py_3.9.9_all.ipk (557.7KB)
 enigma2-plugin-weather_c1.1_all.ipk (307.5KB)
 
-==================================================================
-upload\oe2.0\plugin_weather\foreca\
-==================================================================
-Africa.ipk (2.3KB)
-Albania.ipk (790.0B)
-Americas.ipk (4.6KB)
-Andorra.ipk (726.0B)
-Australia_Oceania.ipk (1.4KB)
-Austria.ipk (1.4KB)
-Belarus.ipk (756.0B)
-Belgium.ipk (1.0KB)
-Bosnia_and_Herzegovina.ipk (792.0B)
-Bulgaria.ipk (798.0B)
-Croatia.ipk (932.0B)
-Cyprus.ipk (720.0B)
-Czech_Republic.ipk (858.0B)
-Denmark.ipk (858.0B)
-Eire.ipk (812.0B)
-enigma2-plugin-extensions-foreca_3.2.6-r3_all.ipk (792.1KB)
-enigma2-plugin-extensions-foreca_3.2.9-e2openpluginsgit20220806-r1_all.ipk (720.8KB)
-Estonia.ipk (820.0B)
-Finland.ipk (952.0B)
-foreca cowntry.xml (6.2KB)
-France.ipk (1.1KB)
-Germany.ipk (44.0KB)
-Gibraltar.ipk (718.0B)
-Greece.ipk (1.0KB)
-Greenland.ipk (780.0B)
-Hungary.ipk (4.9KB)
-Iceland.ipk (774.0B)
-Italia.ipk (38.5KB)
-Latvia.ipk (1.2KB)
-Liechtenstein.ipk (740.0B)
-Luxembourg.ipk (730.0B)
-Makedonija.ipk (786.0B)
-Malta.ipk (718.0B)
-Monaco.ipk (716.0B)
-Netherlands.ipk (1004.0B)
-Norway.ipk (842.0B)
-Poland.ipk (850.0B)
-Portugal.ipk (852.0B)
-Romania.ipk (888.0B)
-Russia.ipk (852.0B)
-Serbia.ipk (760.0B)
-Slovakia.ipk (1.6KB)
-Slovenia.ipk (800.0B)
-Spain.ipk (890.0B)
-Sweden.ipk (840.0B)
-Switzerland.ipk (1.1KB)
-Turkey.ipk (1.1KB)
-Ukraine.ipk (774.0B)
-United_Kingdom.ipk (852.0B)
-
 ==========================================================
-upload\oe2.0\plugin_webcam\
+GitHub\upload\oe2.0\plugin_webcam\
 ==========================================================
 enigma2-plugin-extensions-camofs_17.46_all.ipk (383.3KB)
 
 ===========================================================
-upload\oe2.0\plugin_youtube\
+GitHub\upload\oe2.0\plugin_youtube\
 ===========================================================
 enigma2-plugin-extensions-mediaportalfix_1.71_all.ipk (63.6KB)
 enigma2-plugin-extensions-mediaportal_all.ipk (3.1MB)
@@ -1422,17 +1390,17 @@ enigma2-plugin-extensions-youtube_1+git1078+adb94bf-r0-Mod-RAED.deb (108.3KB)
 enigma2-plugin-extensions-youtube_2024.12.01-Beta-mod. AMIN_all.deb (92.1KB)
 enigma2-plugin-extensions-youtube_DreamOS-plus-minitv-git1172-r0.0-Mod-Petry_all.deb (124.0KB)
 enigma2-plugin-extensions-youtube_dreamOS-v1-beta-2023.06.19_all.deb (80.1KB)
-enigma2-plugin-extensions-youtube_h1-git1233-95a7d80-r0.0.ipk (179.6KB)
+enigma2-plugin-extensions-youtube_h1-git1294-cbcf8b0-r0.0.ipk (187.8KB)
+enigma2-plugin-extensions-youtube_py3+git1295+963d994-r0.0.ipk (110.1KB)
 enigma2-plugin-extensions-youtube_py3-git1233-95a7d80-r0.0.ipk (180.5KB)
 
 ========================================================
-upload\oe2.0\Skins_Egami\
+GitHub\upload\oe2.0\Skins_Egami\
 ========================================================
 enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk (12.5MB)
-enigma2-plugin-skins-xDreamy_4.5.0_all.ipk (15.9MB)
 
 =====================================================
-upload\oe2.0\Skins_Hd\
+GitHub\upload\oe2.0\Skins_Hd\
 =====================================================
 enigma2-plugin-skin-ABC-HD-V1.1-MOD-By-RAED.ipk (2.3MB)
 enigma2-plugin-skin-adriatic32-turquoise_1.0_mips32el.ipk (4.7MB)
@@ -1459,7 +1427,6 @@ enigma2-plugin-skin-GI-HD-BH-V1.0-MOD-By-RAED.ipk (4.9MB)
 enigma2-plugin-skin-Gold-Star-Black_V1.0-MOD-By-RAED.ipk (2.3MB)
 enigma2-plugin-skin-Grey-V1.0-MOD-By-RAED.ipk (1.6MB)
 enigma2-plugin-skin-HD-X1-v1.0-MOD-By-RAED.ipk (1.9MB)
-enigma2-plugin-skin-hdglass16_10.56_all.ipk (3.6MB)
 enigma2-plugin-skin-Kerni-HD1-V1.0-MOD-By-RAED.ipk (2.0MB)
 enigma2-plugin-skin-Kerni-HD1R2Whitemod-V1.0-MOD-RAED.ipk (3.0MB)
 enigma2-plugin-skin-Kerni.NN2.No2-MD-V1.0-MOD-By-RAED.ipk (2.6MB)
@@ -1527,36 +1494,38 @@ Skin-XTAforME-HD-V1.0-MOD-By-RAED.ipk (2.3MB)
 Skin-XtrendNGHD-MOD-By-RAED.ipk (2.7MB)
 
 ======================================================
-upload\oe2.0\Skins_HDF\
+GitHub\upload\oe2.0\Skins_HDF\
 ======================================================
 enigma2-plugin-skins-revolution-pro_full.HDF.V7.3.dragon_all.ipk (17.6MB)
 enigma2-plugin-skins-xionhdf_1.2-20180204_all.ipk (2.1MB)
 
 ======================================================
-upload\oe2.0\Skins_OBH\
+GitHub\upload\oe2.0\Skins_OBH\
 ======================================================
 enigma2-mx-sline-openbh5.2-by-ahmedriad_v3.11_all.ipk (17.8MB)
 enigma2-plugin-skin-openbhfhd_1.0_all.ipk (20.8MB)
 enigma2-plugin-skin-revolution-pro_full.1.1.OBH.dragon_all.ipk (14.0MB)
 Enigma2-plugin-skins-cobaltfhd3_OpenBH.15.03.2023_all.ipk (52.7MB)
 enigma2-plugin-skins-mx--sline-posterx_2.0-mod2ha_all.ipk (11.4MB)
-enigma2-plugin-skins-xDreamy_4.5.0_all.ipk (15.9MB)
+enigma2-plugin-skins-Youchie-PLI-FHD-for-OpenBH_v1.0.2.ipk (24.8MB)
+enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI-OpenBH-OpenVIX_v1.0.3.ipk (25.6MB)
 enigma2-plugin-skins_CobaltFHD.OBH.21.01.2024_all.ipk (40.5MB)
 enigma2-skin-mx-blacksea_V1.0-r1_all.ipk (3.0MB)
 enigma2-skin-mx-fullhd-line-at_1.0-r0_all.ipk (6.6MB)
 
 ==========================================================
-upload\oe2.0\Skins_Oebased\
+GitHub\upload\oe2.0\Skins_Oebased\
 ==========================================================
-enigma2-plugin-skins-aglare-fhd_4.6_all.ipk (6.7MB)
+enigma2-plugin-skins-aglare-fhd_6.0_all.ipk (9.4MB)
 enigma2-plugin-skins-artemis-mod-dragon_8.5.poster.backdrop_all.ipk (13.7MB)
+enigma2-plugin-skins-darkfhd_v1.7_all.ipk (1.1MB)
+enigma2-plugin-skins-luka-fhd_1.2_all.ipk (9.8MB)
 enigma2-plugin-skins-maxy-fhd_1.2_all.ipk (5.6MB)
 enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk (1.6MB)
-enigma2-plugin-skins-xDreamy_4.5.0_all.ipk (15.9MB)
 enigma2-plugin-skins-xmas-meets-skallihd-mod-fhd_1.01_all.ipk (2.5MB)
 
 ==========================================================
-upload\oe2.0\Skins_OpenAtv\
+GitHub\upload\oe2.0\Skins_OpenAtv\
 ==========================================================
 enigma2-metrixfhd-neo-v.7s-v2-mod-by-biko_x_v.7s_v2_all.ipk (913.2KB)
 enigma2-plugin-skins-artemis-mod-dragon_8.4.poster.backdrop_all.ipk (13.7MB)
@@ -1589,7 +1558,7 @@ enigma2_plugin_skins_areadeltasat_fhd_dragon_1_9_Poster_Backdrop.ipk (6.0MB)
 skins-metrixfhd-neo_oatv_V.7s_r5_all.ipk (746.7KB)
 
 ==========================================================
-upload\oe2.0\Skins_OpenPli\
+GitHub\upload\oe2.0\Skins_OpenPli\
 ==========================================================
 enigma2-plugin-skin-cobaltfhd-openpli_09.02.2021_all.ipk (46.7MB)
 enigma2-plugin-skin-e2-darkos_0.9.9.9_all.ipk (3.5MB)
@@ -1602,7 +1571,8 @@ enigma2-plugin-skin-swain-hd_SR-OpenPLi_mips32el.ipk (254.5KB)
 enigma2-plugin-skin-xmas-allinone-hd-mod-pli6.1_1.0_all.ipk (6.5MB)
 enigma2-plugin-skinbymontana2023-obsplus-fhd-all_1.0_all.ipk (4.1MB)
 enigma2-plugin-skins-adreamy-hd_1.00_all.ipk (583.5KB)
-enigma2-plugin-skins-aglare-fhd-pli_4.6_all.ipk (7.1MB)
+enigma2-plugin-skins-aglare-fhd-pli_5.5_all.ipk (9.8MB)
+enigma2-plugin-skins-aglare-fhd-pli_6.3_all.ipk (9.9MB)
 enigma2-plugin-skins-army-touch-fhd-pli_1.1-r4_all.ipk (9.1MB)
 enigma2-plugin-skins-bluemetalfhd_2.20_all.ipk (8.6MB)
 enigma2-plugin-skins-cino.pli.fhd_by.drsat.OpenPLi_all.ipk (901.3KB)
@@ -1651,12 +1621,14 @@ enigma2-plugin-skins-pli-hd-m-mod_2.2_mipsel.ipk (591.1KB)
 enigma2-plugin-skins-revolution-pro_1.5.openpli.dragon_all.ipk (13.9MB)
 enigma2-plugin-skins-simple-gray_git275-1-d437c9e-r0.0_all.ipk (430.0KB)
 enigma2-plugin-skins-utopia-hd_OpenPLi4_all.ipk (2.4MB)
-enigma2-plugin-skins-xDreamy_4.5.0_all.ipk (15.9MB)
+enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI-OpenBH-OpenVIX_v1.0.3.ipk (25.6MB)
+enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI_v1.0.2.ipk (24.8MB)
 enigma2-plugin-skins-zentellas-fhd-all_1.0_all.ipk (13.2MB)
 enigma2-skin-aeonfhdmod_sharp987_openpli8.3-r2.32_all.ipk (9.9MB)
 enigma2-skin-black-white-pli-image_1.0_mipsel.ipk (1.1MB)
 enigma2-skin-cinogriplifhd-7_20190109-r3_all.ipk (2.0MB)
 enigma2-skin-gradientfhd_sharp987_openpli9.0-r1.00_all.ipk (6.1MB)
+enigma2-skin-moderonfhd_sharp987_openpli9.1-r1.01_all.ipk (7.2MB)
 enigma2-skin-whiteshadowfhd_sharp987_openpli9.0-r2.00_all.ipk (7.9MB)
 enigma2-skin-zflatgyrfhd_sharp987_openpli8.1-r1.06_all.ipk (6.5MB)
 enigma2-skins-gigabluepax-mod-by-ds-openpli6_v.2.5_all.ipk (7.8MB)
@@ -1672,13 +1644,12 @@ Skin-Universum-by-spartak73-4.1_OpenPLi7_mips32el.ipk (4.0MB)
 skins-dmconcinnity-hd-m-mod-pli_3.0_mips32el.ipk (1.4MB)
 
 ==========================================================
-upload\oe2.0\Skins_OpenSpa\
+GitHub\upload\oe2.0\Skins_OpenSpa\
 ==========================================================
 enigma2-plugin-skin-revolution-pro_full.1.0.Openspa.dragon_all.ipk (18.4MB)
-enigma2-plugin-skins-xDreamy_4.5.0_all.ipk (15.9MB)
 
 ======================================================
-upload\oe2.0\Skins_Vti\
+GitHub\upload\oe2.0\Skins_Vti\
 ======================================================
 enigma2-plugin-skin-cerxfhd_20240128_all.ipk (6.1MB)
 enigma2-plugin-skin-iflatfhdvtiwetter_v1.0_all.ipk (312.5KB)
@@ -1695,9 +1666,9 @@ enigma2-skin-aeonfhdmod_sharp987_vti-r3.29_all.ipk (11.0MB)
 enigna2-skin-whiteshadowfhd_sharp987_vti-r1.00_all.ipk (6.4MB)
 
 =====================================================
-upload\oe2.0\Skin_All\
+GitHub\upload\oe2.0\Skin_All\
 =====================================================
-enigma2-plugin-skins-red-dragon-fhd_v1.2_all.ipk (14.5MB)
+enigma2-enigma2-plugin-skins-red-dragon-fhd_v1.2_all.ipk (14.5MB)
 enigma2-inspiron-fhd-xtra_v1.3_all.ipk (33.7MB)
 enigma2-plugin-extensions-oDream_FHD_Mod_v1.0_all.ipk (5.0MB)
 enigma2-plugin-extensions-xstreamity-toys-skin_2.00.20240116_all.ipk (3.9MB)
@@ -1725,11 +1696,10 @@ enigma2-plugin-skins-premium-fhd-blue_3.1_all.ipk (10.6MB)
 enigma2-plugin-skins-premium-fhd-magenta_3.1_all.ipk (10.7MB)
 enigma2-plugin-skins-premium-fhd_2.7_all.ipk (12.6MB)
 enigma2-plugin-skins-slyk-onyx-1080_2.46.20241207_all.ipk (3.2MB)
-enigma2-plugin-skins-slyk-q-1080_1.49.20241207_all.ipk (2.5MB)
+enigma2-plugin-skins-slyk-q-1080_1.52.20250817_all.ipk (2.5MB)
 enigma2-plugin-skins-slyk1080r19_2.30.20241207_all.ipk (2.5MB)
 enigma2-plugin-skins-vskin-1080_2.18.20240830_all.ipk (950.5KB)
-enigma2-skin-fullhdglass17_3.05_all.ipk (8.6MB)
-enigma2-skin-fullhdglass17_9.32_all.ipk (10.8MB)
+enigma2-skin-fullhdglass17_9.50_all.ipk (10.8MB)
 enigma2-skin-matrixresurrections_2.4xtraevent.dragon_all.ipk (24.3MB)
 enigma2-skin-metrixperience-adrenalinnrw_1.1_all.ipk (12.1MB)
 enigma2-skin-metrixperience-adrenalinnrw_black_edition_mod_by_mosad_1.2_all.ipk (7.8MB)
@@ -1744,9 +1714,11 @@ Skin-FULLHDLine-By-MIC71-MOD-By-RAED_Poster.ipk (5.9MB)
 Skin-MX-Sline-Black-I-By-Matrix10-MOD-By-RAED.ipk (3.4MB)
 
 =======================================================
-upload\oe2.0\streamlink\
+GitHub\upload\oe2.0\streamlink\
 =======================================================
-enigma2-plugin-extensions-streamlinkproxy_7.0.0_all.ipk (716.6KB)
+enigma2-plugin-extensions-iptvstreamlink_1.0_r0_all.ipk (85.2KB)
+enigma2-plugin-extensions-streamlinkproxy_7.6.0_all.ipk (741.8KB)
+enigma2-plugin-extensions-streamlinkwrapper_1.1_all.ipk (1.6KB)
 enigma2-plugin-extensions-streamlinkwrapper_7.1+git31248+b05dad4-r0_sf8008.ipk (1.6KB)
 enigma2-plugin-extensions-streamlink_v.3.3_all.ipk (14.0KB)
 enigma2-plugin-extensions-ytdlpwrapper_7.1+git31248+b05dad4-r0_sf8008.ipk (1.6KB)
@@ -1776,7 +1748,7 @@ streamlink_4.0.1-git4166+d9bd451_0.0-git10+6168dfc-r0_cortexa15hf-neon-vfpv4.ipk
 streamlink_5.3.1.ipk (491.3KB)
 
 ===========================================================
-upload\oe2.0\streamlink\arm\
+GitHub\upload\oe2.0\streamlink\arm\
 ===========================================================
 enigma2-plugin-systemplugins-serviceapp_0.5+git106+e2e47a2-r6_cortexa15hf-neon-vfpv4.ipk (81.1KB)
 python-futures_3.0.3-r0_armv7ahf-neon.ipk (13.0KB)
@@ -1785,7 +1757,7 @@ python-singledispatch_3.4.0.3-r0_armv7ahf-neon.ipk (7.1KB)
 python-singledispatch_3.4.0.3-r0_cortexa15hf-neon-vfpv4.ipk (7.1KB)
 
 ================================================
-upload\oe2.0\vpn\
+GitHub\upload\oe2.0\vpn\
 ================================================
 enigma2-plugin-extensions-nordvpnconnector_0.6-r1-by-raed-mod-lululla_all.ipk (81.9KB)
 enigma2-plugin-extensions-openvpnsetupnord_0.6_all.ipk (31.4KB)
@@ -1797,6 +1769,6 @@ enigma2-plugin-extensions-surfsharkvpn_1.0.5-py3_all.ipk (896.8KB)
 enigma2-plugin-extensions-surfsharkvpn_1.0.5_all.ipk (879.5KB)
 enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk (480.1KB)
 enigma2-plugin-extensions-wireguard-vpn-aarch64_13.5_all.ipk (2.6MB)
-enigma2-plugin-extensions-wireguard-vpn-mips_13.5_all.ipk (2.5MB)
-enigma2-plugin-extensions-wireguard-vpn_13.0_all.ipk (2.5MB)
-enigma2-plugin-extensions-wireguard-vpn_13.5_all.ipk (2.8MB)
+enigma2-plugin-extensions-wireguard-vpn-h82h_14.8_all.ipk (3.0MB)
+enigma2-plugin-extensions-wireguard-vpn-mips_14.8_all.ipk (2.6MB)
+enigma2-plugin-extensions-wireguard-vpn_14.8_all.ipk (3.0MB)
