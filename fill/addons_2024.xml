@@ -692,11 +692,11 @@
         <plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
         </plugin>
-        <plugin name="XKlass v.1.63.20250906 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass__all.ipk"</url>
+        <plugin name="XKlass v.1.66.20250920 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.66.20250920_all.ipk"</url>
         </plugin>
-        <plugin name="XStreamity v.5.13.20250913 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.13.20250913_all.ipk"</url>
+        <plugin name="XStreamity v.5.15.20250920 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.15.20250920_all.ipk"</url>
         </plugin>
         <plugin name="E2Piconizer 1.28.20250517 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk"</url>
@@ -720,11 +720,11 @@
         <plugin name="Jedi EPG Xtream 2.12_20241030">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
         </plugin>
-        <plugin name="xKlass v.1.63.20250906 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.63_20250906_all.deb"</url>
+        <plugin name="xKlass v.1.66_20250920 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.66_20250920_all.deb"</url>
         </plugin>
-        <plugin name="XStreamity v.5.13_20250913 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.13_20250913_all.deb"</url>
+        <plugin name="XStreamity v.5.15_20250920 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.15_20250920_all.deb"</url>
         </plugin>
         <plugin name="Screen Names v.1.06.20240825">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
