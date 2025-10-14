@@ -434,8 +434,8 @@
         <plugin name="E2iStream 20191129_r01 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2istream_20191129_r01_all.ipk"</url>
         </plugin>
-        <plugin name="E2m3u2bouquet v.2.0.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_2.0.6_all.ipk"</url>
+        <plugin name="E2m3u2bouquet v.2.0.12 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.ipk"</url>
         </plugin>
         <plugin name="eStalker web control v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-estalkerwebcontrol_1.0_all.ipk"</url>
@@ -666,7 +666,7 @@
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.0 ">
         <plugin name="Bouquet Maker Xtream 1.61_20250830 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.61.20250830_all.ipk"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.63.20251012_all.ipk"</url>
         </plugin>
         <plugin name="eStalker v.1.14.20250920 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.14.20250920_all.ipk"</url>
@@ -712,7 +712,7 @@
     <plugins cont="KiddaC OE2.2/2.5/2.6 ">
         <!-- debian -->
         <plugin name="Bouquet Maker Xtream 1.61_20250830 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.61_20250830_all.deb"</url>
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.63_20251012_all.deb"</url>
         </plugin>
         <plugin name="eStalker v.1.14_20250920 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.14_20250920_all.deb"</url>
@@ -1116,8 +1116,8 @@
         <plugin name="E2iplayer h1+git3988+7977fec-r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"</url>
         </plugin>
-        <plugin name="E2m3u2bouquet v.2.0.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.6_all.deb"</url>
+        <plugin name="E2m3u2bouquet v.2.0.12 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.deb"</url>
         </plugin>
         <plugin name="EmulatorManager v.3.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-emulatormanager_v3.9_all.deb"</url>
