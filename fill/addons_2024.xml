@@ -668,8 +668,8 @@
         <plugin name="Bouquet Maker Xtream 1.61_20250830 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.63.20251012_all.ipk"</url>
         </plugin>
-        <plugin name="eStalker v.1.14.20250920 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.14.20250920_all.ipk"</url>
+        <plugin name="eStalker v.1.15.20251021 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.15.20251021_all.ipk"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"</url>
@@ -714,8 +714,8 @@
         <plugin name="Bouquet Maker Xtream 1.61_20250830 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.63_20251012_all.deb"</url>
         </plugin>
-        <plugin name="eStalker v.1.14_20250920 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.14_20250920_all.deb"</url>
+        <plugin name="eStalker v.1.15_20251021 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.15_20251021_all.deb"</url>
         </plugin>
         <plugin name="Jedimakerxtream v.6.40_20250212 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"</url>
@@ -1355,10 +1355,10 @@
         </plugin>
         <plugin name="Service Scan update v.1.3.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ServiceScanUpdates_1.3.2_all.deb"</url>
-        </plugin>    
+        </plugin>
         <plugin name="Servicescan update v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.deb"</url>
-        </plugin>    
+        </plugin>
         <plugin name="Settings cleaner v.0.1.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-settingscleaner_0.1.9_all.deb"</url>
         </plugin>
@@ -3506,7 +3506,7 @@
         </plugin>
         <plugin name="FHD Luka v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-luka-fhd_1.4_all.ipk"</url>
-        </plugin>        
+        </plugin>
         <plugin name="FHD Maxy v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
         </plugin>
@@ -3593,7 +3593,7 @@
         </plugin>
         <plugin name="FHD Luka v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-luka-fhd_1.2_all.ipk"</url>
-        </plugin>        
+        </plugin>
         <plugin name="FHD Madmax impossible v.2.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-madmax-impossible_2.8_all.ipk"</url>
         </plugin>
@@ -3920,7 +3920,7 @@
         </plugin>
         <plugin name="FHD Luka v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-luka-fhd_1.2_all.ipk"</url>
-        </plugin>        
+        </plugin>
         <plugin name="FHD Maxy v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
         </plugin>
