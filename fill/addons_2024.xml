@@ -3537,6 +3537,9 @@
     </plugins>
     <!-- Skins_Oebased -->
     <plugins cont="Skins Oe Based ">
+        <plugin name="FHD COBALT EGAMI 11.11.2025 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-cobaltfhd_EGAMI-11.11.2025_all.ipk"</url>
+        </plugin>
         <plugin name="FHD Odreamy v.2.6_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
         </plugin>
