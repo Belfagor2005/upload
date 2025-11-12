@@ -2289,8 +2289,8 @@
         <plugin name="Streamlink v.5.3.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/streamlink_5.3.1.ipk"</url>
         </plugin>
-        <plugin name="Streamlink proxy 7.6.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlinkproxy_7.6.0_all"</url>
+        <plugin name="Streamlink proxy 8.0.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/enigma2-plugin-extensions-streamlinkproxy_8.0.0_all.ipk"</url>
         </plugin>
         <plugin name="Streamlink 2.1.1+6.g1baa545 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/streamlink/python-streamlink_2.1.1+6.g1baa545_all.ipk"</url>
