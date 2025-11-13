@@ -293,6 +293,9 @@
         <plugin name="Remove Epg">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-removeepg_2016_06_17_all.ipk"</url>
         </plugin>
+        <plugin name="TMDB2 v.2.1.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb2_2.1.2_all.ipk"</url>
+        </plugin>
         <plugin name="TMDB v.1.0.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb_1.0.9_all.ipk"</url>
         </plugin>
@@ -665,8 +668,8 @@
     </plugins>
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.0 ">
-        <plugin name="Bouquet Maker Xtream 1.61_20250830 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.63.20251012_all.ipk"</url>
+        <plugin name="Bouquet Maker Xtream 1.66.20251113 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.66.20251113_all.ipk"</url>
         </plugin>
         <plugin name="eStalker v.1.18.2025102 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.18.2025102_all.ipk"</url>
@@ -711,8 +714,8 @@
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.2/2.5/2.6 ">
         <!-- debian -->
-        <plugin name="Bouquet Maker Xtream 1.61_20250830 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.63_20251012_all.deb"</url>
+        <plugin name="Bouquet Maker Xtream 1.66.20251113 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.66_20251113_all.deb"</url>
         </plugin>
         <plugin name="eStalker v.1.18.2025102 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.18_2025102_all.deb"</url>
