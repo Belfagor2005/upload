@@ -263,6 +263,9 @@
         <plugin name="EPGImport-mod-dorik1972_1.9.1_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
         </plugin>
+        <plugin name="EPGImport noded iet5 v.2.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport_noded_iet5_2.0_all.ipk"</url>
+        </plugin>
         <plugin name="Epg Import v. 0.9.12 PLi all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk"</url>
         </plugin>
@@ -293,8 +296,8 @@
         <plugin name="Remove Epg">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-removeepg_2016_06_17_all.ipk"</url>
         </plugin>
-        <plugin name="TMDB2 v.2.1.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb2_2.1.2_all.ipk"</url>
+        <plugin name="TMDB2 v.2.2.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb2_2.2.1_all.ipk"</url>
         </plugin>
         <plugin name="TMDB v.1.0.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-tmdb_1.0.9_all.ipk"</url>
@@ -1136,6 +1139,9 @@
         </plugin>
         <plugin name="EPGImport 2.22.20210523 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
+        </plugin>
+        <plugin name="EPGImport noded iet5 v.2.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport_noded_iet5_2.0_all.deb"</url>
         </plugin>
         <plugin name="EPGImport mod-dorik1972 1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
@@ -3557,6 +3563,9 @@
         </plugin>
         <plugin name="FHD Dark v.1.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-darkfhd_v1.7_all.ipk"</url>
+        </plugin>
+        <plugin name="FHD Fury v.4.7 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_4.7_all.ipk"</url>
         </plugin>
         <plugin name="FHD Kitte888 Field v.2.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-kitte888field-fhd_2.5_all.ipk"</url>
