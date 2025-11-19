@@ -894,11 +894,11 @@
         <plugin name="Vavoo Maker v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo-maker_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Vavoo Stream online v.1.38 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.38_all.ipk"</url>
+        <plugin name="Vavoo Stream online v.1.40 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.40_all.ipk"</url>
         </plugin>
-        <plugin name="WiFi Manager v.1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.0_all.ipk"</url>
+        <plugin name="WiFi Manager v.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.1_all.ipk"</url>
         </plugin>
         <plugin name="World Cam v.6.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_6.1_all.ipk"</url>
