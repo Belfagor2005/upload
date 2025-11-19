@@ -263,8 +263,8 @@
         <plugin name="EPGImport-mod-dorik1972_1.9.1_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
         </plugin>
-        <plugin name="EPGImport noded iet5 v.2.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport_noded_iet5_2.0_all.ipk"</url>
+        <plugin name="EPGImport noded iet5 v.2.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_2.1_all.ipk"</url>
         </plugin>
         <plugin name="Epg Import v. 0.9.12 PLi all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk"</url>
@@ -692,8 +692,8 @@
         <plugin name="Slyk EPG 7 Day v.2.11.20241030 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-slykepg7day_2.11.20241030_all.ipk"</url>
         </plugin>
-        <plugin name="Skin e2sentials v.1.04.20250920 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.04.20250920_all.ipk"</url>
+        <plugin name="Skin e2sentials v.1.05.20251116 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.05.20251116_all.deb"</url>
         </plugin>
         <plugin name="Skins Slyk Toppicks 7.6.20240529 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skins-slyk-toppicks_7.6.20240529_all.ipk"</url>
@@ -738,8 +738,8 @@
         <plugin name="Screen Names v.1.06.20240825">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
         </plugin>
-        <plugin name="Skin e2sentials v.1.04_20250920 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.04_20250920_all.deb"</url>
+        <plugin name="Skin e2sentials v.1.05.20251116 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.05.20251116_all.ipk"</url>
         </plugin>
         <plugin name="Visual Weather 1.10_20241030">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.10_20241030_all.deb"</url>
@@ -1140,8 +1140,8 @@
         <plugin name="EPGImport 2.22.20210523 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
         </plugin>
-        <plugin name="EPGImport noded iet5 v.2.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport_noded_iet5_2.0_all.deb"</url>
+        <plugin name="EPGImport noded iet5 v.2.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.1_all.deb"</url>
         </plugin>
         <plugin name="EPGImport mod-dorik1972 1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
