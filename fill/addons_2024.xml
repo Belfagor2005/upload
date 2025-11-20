@@ -671,8 +671,8 @@
     </plugins>
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.0 ">
-        <plugin name="Bouquet Maker Xtream 1.66.20251113 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.66.20251113_all.ipk"</url>
+        <plugin name="Bouquet Maker Xtream 1.67.20251119 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.67.20251119_all.ipk"</url>
         </plugin>
         <plugin name="eStalker v.1.18.2025102 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.18.2025102_all.ipk"</url>
@@ -717,8 +717,8 @@
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.2/2.5/2.6 ">
         <!-- debian -->
-        <plugin name="Bouquet Maker Xtream 1.66.20251113 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.66_20251113_all.deb"</url>
+        <plugin name="Bouquet Maker Xtream 1.67.20251119 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.67_20251119.deb"</url>
         </plugin>
         <plugin name="eStalker v.1.18.2025102 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.18_2025102_all.deb"</url>
@@ -894,8 +894,8 @@
         <plugin name="Vavoo Maker v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo-maker_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Vavoo Stream online v.1.40 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.40_all.ipk"</url>
+        <plugin name="Vavoo Stream online v.1.41 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.41_all.ipk"</url>
         </plugin>
         <plugin name="WiFi Manager v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.1_all.ipk"</url>
