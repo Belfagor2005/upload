@@ -701,8 +701,8 @@
         <plugin name="Skincomponents-kiddac-shared-skin_1.14_all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
         </plugin>
-        <plugin name="XKlass v.1.69.20251111 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.69.20251111_all.ipk"</url>
+        <plugin name="XKlass v.1.71.20251119 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.71.20251119_all.ipk"</url>
         </plugin>
         <plugin name="XStreamity v.5.19.20251114 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.19.20251114_all.ipk"</url>
@@ -729,8 +729,8 @@
         <plugin name="Jedi EPG Xtream 2.12_20241030">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
         </plugin>
-        <plugin name="xKlass v.1.69_20251111 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.69_20251111_all.deb"</url>
+        <plugin name="xKlass v.1.71.20251119 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.71_20251119_all.deb"</url>
         </plugin>
         <plugin name="XStreamity v.5.19_20251114 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.19_20251114_all.deb"</url>
@@ -1311,11 +1311,11 @@
         <plugin name="Perfectprivacy 1.4.4">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-perfectprivacy_1.4.4.deb"</url>
         </plugin>
-        <plugin name="Plexdream 1.1.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-plexdream_1.1.1_all.deb"</url>
-        </plugin>
         <plugin name="Pineas v.0.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pineas_0.3_all.deb"</url>
+        </plugin>
+        <plugin name="Plexdream v.1.1.1">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-plexdream_1.1.1_all.deb"</url>
         </plugin>
         <plugin name="Pluginbrowsericons 0.13">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginbrowsericons_0.13_all.deb"</url>
@@ -3021,8 +3021,8 @@
         <plugin name="Playsrfmediathek v.0.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-playsrfmediathek_0.5_all.ipk"</url>
         </plugin>
-        <plugin name="Plexdream v.1.1.7 armv7ahf-vfp-neon">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-plexdream_1.1.7_armv7ahf-vfp-neon.ipk"</url>
+        <plugin name="Plexdream v.1.2.0_armv7ahf-vfp-neon">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-plexdream_1.2.0_armv7ahf-vfp-neon.ipk"</url>
         </plugin>
         <plugin name="Plexdream v.1.1.7 amips32el">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-plexdream_1.1.7_mips32el.ipk"</url>
