@@ -894,8 +894,8 @@
         <plugin name="Vavoo Maker v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo-maker_1.2_all.ipk"</url>
         </plugin>
-        <plugin name="Vavoo Stream online v.1.41 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.41_all.ipk"</url>
+        <plugin name="Vavoo Stream online v.1.42 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.42_all.ipk"</url>
         </plugin>
         <plugin name="WiFi Manager v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.1_all.ipk"</url>
