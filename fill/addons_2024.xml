@@ -476,6 +476,9 @@
         <plugin name="Iptv Live By Aime_Jeux 1.0.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-iptvlive_1.0.8_all.ipk"</url>
         </plugin>
+        <plugin name="Levi45iptv 1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-levi45iptv_1.0_all.ipk"</url>
+        </plugin>
         <plugin name="Iptv List Updater 1.63.git9930f82968-r28 mips32el">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvlistupdater_1.63.git9930f82968-r28_mips32el.ipk"</url>
         </plugin>
