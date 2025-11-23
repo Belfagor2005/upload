@@ -1203,7 +1203,10 @@
         <plugin name="Iptosat_1.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptosat_1.8.deb"</url>
         </plugin>
-        <plugin name="Iptv Archive 2.0.91 all">
+        <plugin name="Levi45iptv 1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45iptv_1.0_all.deb"</url>
+        </plugin>
+          <plugin name="Iptv Archive 2.0.91 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.91_all.deb"</url>
         </plugin>
         <plugin name="Iptv Remote 1.0.5 all">
