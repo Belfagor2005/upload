@@ -2184,8 +2184,8 @@
         <plugin name="FreeCccam 2.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-freecccam_2.3_all.ipk"</url>
         </plugin>
-        <plugin name="SimpleZoom Panel v.2.3.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.3.2_all.ipk"</url>
+        <plugin name="SimpleZoom Panel v.2.3.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-simple-zoom-panel_2.3.4_all.ipk"</url>
         </plugin>
         <plugin name="Zoom v.1.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/zoom_1.1.2_all.ipk"</url>
