@@ -2823,8 +2823,8 @@
         <plugin name="Weather Plugin py3 v.7.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin-py3_7.0_all.ipk"</url>
         </plugin>
-        <plugin name="Weather Plugin v.2.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin_2.0_all.ipk"</url>
+        <plugin name="Weather Plugin v.2.4 Lululla Fixed all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin_2.4_all.ipk"</url>
         </plugin>
         <plugin name="Weather b1.3 py_3.9.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-weather_b1.3_py_3.9.9_all.ipk"</url>
