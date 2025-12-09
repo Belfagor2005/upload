@@ -2034,6 +2034,15 @@
     </plugins>
     <!-- SOFTCAMS OE2.0 -->
     <plugins cont="Softcams OE2.0 ">
+        <plugin name="Oscam TVSat all ipk">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-tvsat.ipk"</url>
+        </plugin>
+        <plugin name="Oscam TVSat Egami all ipk">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-tvsat-Egami.ipk"</url>
+        </plugin>
+        <plugin name="Oscam TVSat OpenBH all ipk">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-tvsat-openBH.ipk"</url>
+        </plugin>
         <plugin name="Levi45emulator v1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-extensions-levi45emulator_1.1_all.ipk"</url>
         </plugin>
