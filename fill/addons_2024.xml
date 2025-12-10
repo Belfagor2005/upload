@@ -2553,8 +2553,8 @@
         <plugin name="Internet SpeedTest v.1.8">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-internet-speedtest_1.8_all.ipk"</url>
         </plugin>
-        <plugin name="Ipaudio v.7.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ipaudio_v7.2_all.ipk"</url>
+        <plugin name="Ipaudio v.8.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ipaudio_v8.0_all.ipk"</url>
         </plugin>
         <plugin name="Ipk deb maker 0.3 armv7ahf vfp">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-ipk-deb-maker_0.3_armv7ahf-vfp.ipk"</url>
