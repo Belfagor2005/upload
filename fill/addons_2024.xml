@@ -879,8 +879,8 @@
         <plugin name="TvDream V.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.ipk"</url>
         </plugin>
-        <plugin name="TVGarden V.1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_1.0_all.ipk"</url>
+        <plugin name="TVGarden V.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_1.1_all.ipk"</url>
         </plugin>
         <plugin name="Tv Settings Maintener v.1.8">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvsettings_1.8_all.ipk"</url>
