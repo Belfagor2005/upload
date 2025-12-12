@@ -263,8 +263,8 @@
         <plugin name="EPGImport-mod-dorik1972_1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
         </plugin>
-        <plugin name="EPGImport noded iet5 v.2.6.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_2.6.2_all.ipk"</url>
+        <plugin name="EPGImport noded iet5 v.2.6.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_2.6.3_all.ipk"</url>
         </plugin>
         <plugin name="Epg Import v. 0.9.12 PLi all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk"</url>
@@ -804,8 +804,8 @@
         <plugin name="Grifo Update Modded 1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-grifo-update_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="HasBahCa 1.9 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_1.9_all.ipk"</url>
+        <plugin name="HasBahCa 2.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_2.0_all.ipk"</url>
         </plugin>
         <plugin name="M2B m3u to bouquet 0.4 ITA Modded ">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m2b-it_0.4-r0-modded_all.ipk"</url>
@@ -879,8 +879,8 @@
         <plugin name="TvDream V.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.ipk"</url>
         </plugin>
-        <plugin name="TVGarden V.1.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_1.1_all.ipk"</url>
+        <plugin name="TVGarden V.1.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_1.2_all.ipk"</url>
         </plugin>
         <plugin name="Tv Settings Maintener v.1.8">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvsettings_1.8_all.ipk"</url>
@@ -1149,8 +1149,8 @@
         <plugin name="EPGImport 2.22.20210523 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
         </plugin>
-        <plugin name="EPGImport noded iet5 v.2.6.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.6.2_all.deb"</url>
+        <plugin name="EPGImport noded iet5 v.2.6.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.6.3_all.deb"</url>
         </plugin>
         <plugin name="EPGImport mod-dorik1972 1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
