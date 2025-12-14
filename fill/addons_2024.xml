@@ -906,8 +906,8 @@
         <plugin name="WiFi Manager v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.1_all.ipk"</url>
         </plugin>
-        <plugin name="World Cam v.6.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_6.3_all.ipk"</url>
+        <plugin name="World Cam v.6.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_6.4_all.ipk"</url>
         </plugin>
         <plugin name="Xc Forever Gold v.5.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_5.0_all.ipk"</url>
