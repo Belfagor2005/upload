@@ -1044,8 +1044,8 @@
         <plugin name="Backupandflash 1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupandflash_1.4_all.deb"</url>
         </plugin>
-        <plugin name="Barryallen 12.89 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-barryallen_12.89_all.deb"</url>
+        <plugin name="Barryallen 12.91 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-barryallen_12.91_all.deb"</url>
         </plugin>
         <plugin name="BissFeedAutoKey Plugin 2.8.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"</url>
