@@ -777,8 +777,8 @@
         <plugin name="Clear MEM 1.11 Modded Lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-clearmem_1.11_all.ipk"</url>
         </plugin>
-        <plugin name="CrashLogViewer 1.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.6_all.ipk"</url>
+        <plugin name="CrashLogViewer 1.7 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.7_all.ipk"</url>
         </plugin>
         <plugin name="DD RSS FEEDS v.0.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_0.7_all.ipk"</url>
@@ -3630,8 +3630,8 @@
         <plugin name="FHD Metrix Neo 7S v.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Xmas Meets Skallihd mod.Fhd v.1.01 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xmas-meets-skallihd-mod-fhd_1.01_all.ipk"</url>
+        <plugin name="FHD Xmas Meets Skallihd mod.Fhd v.1.03 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-xmas-meets-skallihd-mod-fhd_1.03_all.ipk"</url>
         </plugin>
     </plugins>
     <!-- Skins_OpenAtv -->
