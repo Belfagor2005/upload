@@ -461,46 +461,49 @@
         <plugin name="FreePlayer v.1.70.0 mod lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-freeplayer_1.70.0_all.ipk"</url>
         </plugin>
-        <plugin name="HbbTV Player 0.2-r2 all">
+        <plugin name="HbbTV Player v.0.2-r2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk"</url>
         </plugin>
         <plugin name="Iptosat v.1.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptosat_1.8_all.ipk"</url>
         </plugin>
-        <plugin name="Iptv Archive 2.0.91 all">
+        <plugin name="Iptv Archive v.2.0.91 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk"</url>
         </plugin>
-        <plugin name="Iptv Bouquet 1.0 r0 all">
+        <plugin name="Iptv Bouquet v.1.0 r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvbouquet_1.0_r0_all.ipk"</url>
         </plugin>
-        <plugin name="Iptv Live By Aime_Jeux 1.0.8 all">
+        <plugin name="Iptvdream v.6.04 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_6.0.4_all.ipk"</url>
+        </plugin>
+        <plugin name="Iptv Live By Aime_Jeux v.1.0.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-iptvlive_1.0.8_all.ipk"</url>
         </plugin>
-        <plugin name="Levi45iptv 1.1 all">
+        <plugin name="Levi45iptv v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-levi45iptv_1.1_all.ipk"</url>
         </plugin>
-        <plugin name="Iptv List Updater 1.63.git9930f82968-r28 mips32el">
+        <plugin name="Iptv List Updater v.1.63.git9930f82968-r28 mips32el">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvlistupdater_1.63.git9930f82968-r28_mips32el.ipk"</url>
         </plugin>
         <plugin name="Iptv Org playlists v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptv-org-playlists_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Iptv Manager 1.1.2 all">
+        <plugin name="Iptv Manager v.1.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvmanager_1.1.2_all.ipk"</url>
         </plugin>
         <plugin name="Iptv OpenPli japhar 1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptv-openpli-japhar_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Iptv Remote 1.0.5 all">
+        <plugin name="Iptv Remote v.1.0.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvremote_1.0.5_all.ipk"</url>
         </plugin>
         <plugin name="Iptv Updater V 1.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvupdater_1.5_all.ipk"</url>
         </plugin>
-        <plugin name="Iptv World V 6.0 r0 all">
+        <plugin name="Iptv World V.6.0 r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvworld_6.0_r0_all.ipk"</url>
         </plugin>
-        <plugin name="Italysmart-240510.1_mipsel">
+        <plugin name="Italysmart 240510.1 mipsel">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-italysmart-240510.1_mipsel.ipk"</url>
         </plugin>
         <plugin name="JournalSAT_IPTV v.1.0 PY3 all">
@@ -512,7 +515,7 @@
         <plugin name="Jk multi mod.2.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-jk-multi-mod_2.1_all.ipk"</url>
         </plugin>
-        <plugin name="KodiliveTV 1.0 r0 all">
+        <plugin name="KodiliveTV v.1.0 r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-kodilivetv_1.0_r0_all.ipk"</url>
         </plugin>
         <plugin name="Magentamusik 360 2.0+git14+a3998e2 r0 all">
@@ -533,13 +536,13 @@
         <plugin name="Mediaplayer2 git26+17c9822 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-mediaplayer2_git26+17c9822_all.ipk"</url>
         </plugin>
-        <plugin name="Mediastream 9.2.0 Mips all">
+        <plugin name="Mediastream v.9.2.0 Mips all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Mediastream-9.2.0-mipsel.ipk"</url>
         </plugin>
         <plugin name="Merlin Music Player v.7.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-merlinmusicplayer_7.4.ipk"</url>
         </plugin>
-        <plugin name="Movie Browser 4.1 edit Lululla all">
+        <plugin name="Movie Browser v.4.1 edit Lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_4.1_all.ipk"</url>
         </plugin>
         <plugin name="Movietime v.1.0_r1 all">
@@ -548,7 +551,7 @@
         <plugin name="Movie Cut Center v.1.09-20220330 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviecutcenter_1.09-20220330_all.ipk"</url>
         </plugin>
-        <plugin name="MP3 Browser 2.0 all">
+        <plugin name="MP3 Browser v.2.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-mp3browser_2.0_all.ipk"</url>
         </plugin>
         <plugin name="Multistalker NSS 1.1 PRO all">
@@ -557,37 +560,37 @@
         <plugin name="Multistalker NSS 1.2 PRO all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.2+nss_all.ipk"</url>
         </plugin>
-        <plugin name="Multistalker 1.1 PRO arm all">
+        <plugin name="Multistalker v.1.1 PRO arm all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+git165+24295f8-r0_all.ipk"</url>
         </plugin>
-        <plugin name="Multistalker 1.1 PRO mips all">
+        <plugin name="Multistalker v.1.1 PRO mips all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+git161+e7a638f-r0_mipsel.ipk"</url>
         </plugin>
-        <plugin name="Multistalker 1.1 r5 all">
+        <plugin name="Multistalker v.1.1 r5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+r5_all.ipk"</url>
         </plugin>
-        <plugin name="Multistalker 1.5a PY3.10 all">
+        <plugin name="Multistalker v.1.5a PY3.10 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalker_1.5a_all.ipk"</url>
         </plugin>
-        <plugin name="Multistalker 1.1r0_cortexa15hf-neon-vfpv4 all">
+        <plugin name="Multistalker v.1.1r0_cortexa15hf-neon-vfpv4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+git142+3c917ef0+3c917ef553-r0_cortexa15hf-neon-vfpv4.ipk"</url>
         </plugin>
-        <plugin name="Multistalker 1.0 PY3 all">
+        <plugin name="Multistalker v.1.0 PY3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py3_v1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Multistalker 1.0 PY2 all">
+        <plugin name="Multistalker v.1.0 PY2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py2_v1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Multistalker 1.0 git17+3e81926-r0 all">
+        <plugin name="Multistalker v.1.0 git17+3e81926-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.0+git17+3e81926-r0_all.ipk"</url>
         </plugin>
-        <plugin name="Multistalker+ 1.0 git17+3e81926-r0_mips32el all">
+        <plugin name="Multistalker+ v.1.0 git17+3e81926-r0_mips32el all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.0+git17+3e81926-r0_mips32el.ipk"</url>
         </plugin>
-        <plugin name="Multistalker+ 1.0 git17+3e81926-r0_armv7ahf-neon all">
+        <plugin name="Multistalker+ v.1.0 git17+3e81926-r0_armv7ahf-neon all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.0+git17+3e81926-r0_armv7ahf-neon.ipk"</url>
         </plugin>
-        <plugin name="Multistalker+ 1.0 git16+ab1d5a0-r0_cortexa15hf-neon-vfpv4 all">
+        <plugin name="Multistalker+ v.1.0 git16+ab1d5a0-r0_cortexa15hf-neon-vfpv4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.0+git16+ab1d5a0-r0_cortexa15hf-neon-vfpv4.ipk"</url>
         </plugin>
         <plugin name="Playstream v.0.9c FHD all">
@@ -596,10 +599,10 @@
         <plugin name="Pluto TV 20240831 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240831_all.ipk"</url>
         </plugin>
-        <plugin name="Pictureplayer2_1.0 all">
+        <plugin name="Pictureplayer2 v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Pictureplayer2_1.0 all">
+        <plugin name="Pictureplayer2 v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
         </plugin>
         <plugin name="Rakuten TV 20240324 all">
