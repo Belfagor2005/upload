@@ -2514,8 +2514,8 @@
         <plugin name="Device Manager 1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-devicemanager_1.2_all.ipk"</url>
         </plugin>
-        <plugin name="Dream Explorer mod. Lululla 7.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamexplorer_7.5_all.ipk"</url>
+        <plugin name="Dream Explorer mod. Lululla 7.7 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamexplorer_7.7_all.ipk"</url>
         </plugin>
         <plugin name="Dream Screen 1.4 r1 ">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamscreen_1.4-1_all.ipk"</url>
