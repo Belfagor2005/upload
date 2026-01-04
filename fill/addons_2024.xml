@@ -1653,8 +1653,8 @@
         <plugin name="OscamForAll v.1.2.all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-oscamforall_1.2_all.ipk"</url>
         </plugin>
-        <plugin name="Panel AIO v.1.6.all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_1.6_all.ipk"</url>
+        <plugin name="Panel AIO v.6.0.all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_6.0_all.ipk"</url>
         </plugin>
         <plugin name="Satvenus Panel v.7.3.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-satvenus-panel_7.3.3_all.ipk"</url>
