@@ -3069,8 +3069,8 @@
         <plugin name="Ansite v.1.5 PY3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-ansite_1.5.py3_all.ipk"</url>
         </plugin>
-        <plugin name="Astronomy v.1.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-astronomy_1.3_all.ipk"</url>
+        <plugin name="Astronomy v.1.3_r1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-astronomy_1.3_r1_all.ipk"</url>
         </plugin>
         <plugin name="Cast Uasay v.0.316 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-cast-uasay_0.316_all.ipk"</url>
