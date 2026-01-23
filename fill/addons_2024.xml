@@ -719,8 +719,8 @@
         <plugin name="E2Piconizer 1.28.20250517 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk"</url>
         </plugin>
-        <plugin name="Visual Weather 1.10.20241030 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.10.20241030_all.ipk"</url>
+        <plugin name="Visual Weather 1.12.20260123 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.12.20260123_all.ipk"</url>
         </plugin>
     </plugins>
     <!-- KIDDAC -->
@@ -750,8 +750,8 @@
         <plugin name="Skin e2sentials v.1.05.20251116 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.05.20251116_all.ipk"</url>
         </plugin>
-        <plugin name="Visual Weather 1.10_20241030">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.10_20241030_all.deb"</url>
+        <plugin name="Visual Weather 1.12_20260123">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.12_20260123_all.deb"</url>
         </plugin>
     </plugins>
     <!-- LULULLA ZONE OE2 -->
@@ -3168,8 +3168,8 @@
     </plugins>
     <!-- SKINS ALL -->
     <plugins cont="Skins All ">
-        <plugin name="FHD Aglare v.6.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.3_all.ipk"</url>
+        <plugin name="FHD Aglare v.6.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.4_all.ipk"</url>
         </plugin>
         <plugin name="FHD oZeta Universal Skin by MMark v.2.0.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-ozeta_2.0.6_all.ipk"</url>
@@ -3734,6 +3734,9 @@
         </plugin>
         <plugin name="FHD Metrix Confluencexp pro by Dragon - Lululla v.3.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-metrixconfluencexp-pro-atv-dragon-lululla_3.0_all.ipk"</url>
+        </plugin>
+        <plugin name="FHD Metrix Neo 7.5.6 v4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7.5.6_v4_all.ipk"</url>
         </plugin>
         <plugin name="FHD Metrix Neo 7S v.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
