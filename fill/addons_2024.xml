@@ -2868,8 +2868,8 @@
         <plugin name="VWeather 3.1.0 r61 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_1.0r61_all.ipk"</url>
         </plugin>
-        <plugin name="Weather Foreca4 1.3.4_r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-foreca4_1.3.4_r1_all.ipk"</url>
+        <plugin name="Weather Foreca4 1.3.4_r2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-foreca4_1.3.4_r2_all.ipk"</url>
         </plugin>
         <plugin name="Weather Foreca 3.3.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-foreca_3.3.8_all.ipk"</url>
@@ -3174,8 +3174,8 @@
     </plugins>
     <!-- SKINS ALL -->
     <plugins cont="Skins All ">
-        <plugin name="FHD Aglare v.6.7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.7_all.ipk"</url>
+        <plugin name="FHD Aglare v.6.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.8_all.ipk"</url>
         </plugin>
         <plugin name="FHD oZeta Universal Skin by MMark v.2.0.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-ozeta_2.0.6_all.ipk"</url>
@@ -3633,8 +3633,8 @@
         <plugin name="FHD Odreamy v.2.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Aglare v.6.7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.7_all.ipk"</url>
+        <plugin name="FHD Aglare v.6.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.8_all.ipk"</url>
         </plugin>
         <plugin name="FHD Artemis mod.dragon poster-backdrop v.8.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-artemis-mod-dragon_8.5.poster.backdrop_all.ipk"</url>
@@ -3663,8 +3663,8 @@
         <plugin name="FHD Luka v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-luka-fhd_1.2_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Maxy v.1.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
+        <plugin name="FHD Maxy v.1.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.4_all.ipk"</url>
         </plugin>
         <plugin name="FHD Metrix Neo 7S v.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
@@ -3675,8 +3675,8 @@
     </plugins>
     <!-- Skins_OpenAtv -->
     <plugins cont="Skins OPEN ATV - EGAMI">
-        <plugin name="FHD Aglare v.6.7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.7_all.ipk"</url>
+        <plugin name="FHD Aglare v.6.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.8_all.ipk"</url>
         </plugin>
         <plugin name="FHD Areadeltasat Dragon v.1.9 Poster Backdrop all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2_plugin_skins_areadeltasat_fhd_dragon_1_9_Poster_Backdrop.ipk"</url>
@@ -3735,8 +3735,8 @@
         <plugin name="FHD Madmax impossible v.2.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-madmax-impossible_2.8_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Maxy v.1.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.2_all.ipk"</url>
+        <plugin name="FHD Maxy v.1.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.4_all.ipk"</url>
         </plugin>
         <plugin name="FHD Metrix Confluencexp pro by Dragon - Lululla v.3.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-metrixconfluencexp-pro-atv-dragon-lululla_3.0_all.ipk"</url>
