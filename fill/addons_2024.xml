@@ -1638,8 +1638,8 @@
         <plugin name="Levi45 Addon Panel v.10.1-r31 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.1-r31_all.ipk"</url>
         </plugin>
-        <plugin name="Linuxsat-Panel v.2.8.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_2.8.4_all.ipk"</url>
+        <plugin name="Linuxsat-Panel v.2.8.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_2.8.9_all.ipk"</url>
         </plugin>
         <plugin name="Luxsat-menu 12.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-luxsat-menu_12.9_all.ipk"</url>
