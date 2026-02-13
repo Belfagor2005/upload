@@ -1095,9 +1095,6 @@
         <plugin name="Channel Selection Plus 0.1.1-r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-channelselectionplus_0.1.1-r4_all.deb"</url>
         </plugin>
-        <plugin name="Chocholousek-picons 5.0.240904 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.deb"</url>
-        </plugin>
         <plugin name="Ciplushelper 5.4-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-ciplushelper_5.4-r0_all.deb"</url>
         </plugin>
@@ -1680,9 +1677,6 @@
     </plugins>
     <!-- PICONS TOOLS -->
     <plugins cont="Picons Tools ">
-        <plugin name="Chocholousek Picons 5.0.240904 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-chocholousek-picons_5.0.240904_all.ipk"</url>
-        </plugin>
         <plugin name="Picon Buddy v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.1_all.ipk"</url>
         </plugin>
