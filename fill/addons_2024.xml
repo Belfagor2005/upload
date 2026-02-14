@@ -263,8 +263,8 @@
         <plugin name="EPGImport-mod-dorik1972_1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
         </plugin>
-        <plugin name="EPGImport Mod iet5 v.2.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_mod_iet5_2.8_all.ipk"</url>
+        <plugin name="EPGImport Mod iet5 v.2.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_mod_iet5_2.9_all.ipk"</url>
         </plugin>
         <plugin name="Epg Import v. 0.9.12 PLi all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk"</url>
@@ -1155,8 +1155,8 @@
         <plugin name="EPGImport 2.22.20210523 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
         </plugin>
-        <plugin name="EPGImport noded iet5 v.2.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_mod_iet5_2.8_all.deb"</url>
+        <plugin name="EPGImport noded iet5 v.2.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_mod_iet5_2.9_all.deb"</url>
         </plugin>
         <plugin name="EPGImport mod-dorik1972 1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
