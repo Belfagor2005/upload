@@ -713,8 +713,8 @@
         <plugin name="XKlass v.1.75.20260125 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.75.20260125_all.ipk"</url>
         </plugin>
-        <plugin name="XStreamity v.5.24.20260125 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.24.20260125_all.ipk"</url>
+        <plugin name="XStreamity v.32.20260221 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.32.20260221_all.ipk"</url>
         </plugin>
         <plugin name="E2Piconizer 1.28.20250517 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk"</url>
@@ -741,8 +741,8 @@
         <plugin name="xKlass v.1.75_20260125 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.75_20260125_all.deb"</url>
         </plugin>
-        <plugin name="XStreamity v.5.24_20260125 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.24_20260125_all.deb"</url>
+        <plugin name="XStreamity v.5.32_20260221 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.32_20260221_all.deb"</url>
         </plugin>
         <plugin name="Screen Names v.1.06.20240825">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -783,8 +783,8 @@
         <plugin name="Clear MEM 1.11 Modded Lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-clearmem_1.11_all.ipk"</url>
         </plugin>
-        <plugin name="CrashLogViewer 1.7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.7_all.ipk"</url>
+        <plugin name="CrashLogViewer 1.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_1.8_all.ipk"</url>
         </plugin>
         <plugin name="DD RSS FEEDS v.0.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_0.7_all.ipk"</url>
@@ -1155,16 +1155,16 @@
         <plugin name="EPGImport 2.22.20210523 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
         </plugin>
-        <plugin name="EPGImport noded iet5 v.2.9 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_mod_iet5_2.9_all.deb"</url>
+        <plugin name="EPGImport noded iet5 v.2.9.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.9.3_iet5_all.deb"</url>
         </plugin>
         <plugin name="EPGImport mod-dorik1972 1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
         </plugin>
-        <plugin name="EpgGrabber 22.5 all">
+        <plugin name="Epg Grabber 22.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epggrabber_22.5_all.deb"</url>
         </plugin>
-        <plugin name="EPGGrabber 2.0-r219 all">
+        <plugin name="EPG Grabber 2.0-r219 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.0-r219_all.deb"</url>
         </plugin>
         <plugin name="EPG Language v.3.0 all">
@@ -3789,8 +3789,8 @@
         <plugin name="FHD Youchie PL v.1.0.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI-OpenBH-OpenVIX_v1.0.3.ipk"</url>
         </plugin>
-        <plugin name="FHD Aglare pli AGP v.6.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_6.6_all.ipk"</url>
+        <plugin name="FHD Aglare pli AGP v.7.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_7.0_all.ipk"</url>
         </plugin>
         <plugin name="FHD Aglare pli v.5.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_5.5_all.ipk"</url>
