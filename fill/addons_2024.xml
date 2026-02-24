@@ -710,8 +710,8 @@
         <plugin name="Skincomponents-kiddac-shared-skin_1.14 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk"</url>
         </plugin>
-        <plugin name="XKlass v.1.76.20260222 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.76.20260222_all.ipk"</url>
+        <plugin name="XKlass v.1.77.20260224 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.77.20260224_all.ipk"</url>
         </plugin>
         <plugin name="XStreamity v.32.20260221 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.32.20260221_all.ipk"</url>
@@ -738,8 +738,8 @@
         <plugin name="Jedi EPG Xtream 2.12_20241030">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"</url>
         </plugin>
-        <plugin name="xKlass v.1.76_20260222 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.76_20260222_all.deb"</url>
+        <plugin name="xKlass v.1.77_20260224 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.77_20260224_all.deb"</url>
         </plugin>
         <plugin name="XStreamity v.5.32_20260221 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.32_20260221_all.deb"</url>
@@ -3168,8 +3168,8 @@
     </plugins>
     <!-- SKINS ALL -->
     <plugins cont="Skins All ">
-        <plugin name="FHD Aglare v.6.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.8_all.ipk"</url>
+        <plugin name="FHD Aglare v.7.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_7.1_all.ipk"</url>
         </plugin>
         <plugin name="FHD oZeta Universal Skin by MMark v.2.0.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-ozeta_2.0.6_all.ipk"</url>
@@ -3627,8 +3627,8 @@
         <plugin name="FHD Odreamy v.2.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Egami/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Aglare v.6.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.8_all.ipk"</url>
+        <plugin name="FHD Aglare v.7.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_7.1_all.ipk"</url>
         </plugin>
         <plugin name="FHD Artemis mod.dragon poster-backdrop v.8.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-artemis-mod-dragon_8.5.poster.backdrop_all.ipk"</url>
@@ -3669,8 +3669,8 @@
     </plugins>
     <!-- Skins_OpenAtv -->
     <plugins cont="Skins OPEN ATV - EGAMI">
-        <plugin name="FHD Aglare v.6.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_6.8_all.ipk"</url>
+        <plugin name="FHD Aglare v.7.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_7.1_all.ipk"</url>
         </plugin>
         <plugin name="FHD Areadeltasat Dragon v.1.9 Poster Backdrop all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2_plugin_skins_areadeltasat_fhd_dragon_1_9_Poster_Backdrop.ipk"</url>
@@ -3789,8 +3789,8 @@
         <plugin name="FHD Youchie PL v.1.0.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI-OpenBH-OpenVIX_v1.0.3.ipk"</url>
         </plugin>
-        <plugin name="FHD Aglare pli AGP v.7.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_7.0_all.ipk"</url>
+        <plugin name="FHD Aglare pli AGP v.6.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_6.9_all.ipk"</url>
         </plugin>
         <plugin name="FHD Aglare pli v.5.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_5.5_all.ipk"</url>
