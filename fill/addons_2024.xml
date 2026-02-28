@@ -416,11 +416,8 @@
         <plugin name="Ardmediathek v1.5 plus-minitv all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ardmediathek_v1.5-plus-minitv_all.ipk"</url>
         </plugin>
-        <plugin name="Athantimes v.2.8 PY2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Athantimes_2.8_PY2.ipk"</url>
-        </plugin>
-        <plugin name="Athantimes v.2.8 PY3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Athantimes_2.8_PY3.ipk"</url>
+        <plugin name="Athantimes v.2.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Athantimes_2.9_PY3-PY2.ipk"</url>
         </plugin>
         <plugin name="Camofs_17.46 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-camofs_17.46_all.ipk"</url>
@@ -804,6 +801,10 @@
         <plugin name="Freearhey v. 3.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.1_all.ipk"</url>
         </plugin>
+        <plugin name="Foreca One v. 1.0.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.0.0_all.ipk"</url>
+        </plugin>
+
         <plugin name="Gcam Status 1.0 Modded all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
         </plugin>
@@ -1041,8 +1042,8 @@
         <plugin name="Astronomy v.1.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-astronomy_1.3_all.deb"</url>
         </plugin>
-        <plugin name="Athantimes v.2.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/Athantimes_2.8_DreamOS.deb"</url>
+        <plugin name="Athantimes v.2.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/Athantimes_2.9_DreamOS.deb"</url>
         </plugin>
         <plugin name="Backupflashe v.9.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupflashe_9.5_all.deb"</url>
@@ -2862,6 +2863,9 @@
         <plugin name="VWeather 3.1.0 r61 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_1.0r61_all.ipk"</url>
         </plugin>
+        <plugin name="Foreca One v. 1.0.0 make Lululla all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.0.0_all.ipk"</url>
+        </plugin>        
         <plugin name="Weather Foreca4 1.3.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-foreca4_1.3.6_all.ipk"</url>
         </plugin>
