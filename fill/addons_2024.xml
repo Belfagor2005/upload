@@ -801,10 +801,9 @@
         <plugin name="Freearhey v. 3.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.1_all.ipk"</url>
         </plugin>
-        <plugin name="Foreca One v. 1.0.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.0.0_all.ipk"</url>
+        <plugin name="Foreca One v. 1.0.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.0.1_all.ipk"</url>
         </plugin>
-
         <plugin name="Gcam Status 1.0 Modded all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
         </plugin>
@@ -2863,8 +2862,8 @@
         <plugin name="VWeather 3.1.0 r61 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_1.0r61_all.ipk"</url>
         </plugin>
-        <plugin name="Foreca One v. 1.0.0 make Lululla all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.0.0_all.ipk"</url>
+        <plugin name="Foreca One v. 1.0.1 make Lululla all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.0.1_all.ipk"</url>
         </plugin>        
         <plugin name="Weather Foreca4 1.3.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-foreca4_1.3.6_all.ipk"</url>
