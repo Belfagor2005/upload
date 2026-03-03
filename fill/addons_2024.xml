@@ -596,8 +596,8 @@
         <plugin name="Playstream v.0.9c FHD all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-playstream_0.9c_all.ipk"</url>
         </plugin>
-        <plugin name="Pluto TV 20240831 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_20240831_all.ipk"</url>
+        <plugin name="Pluto TV v.3.0.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_3.0.2-git33+a7261760+a7261764a1-r0_cortexa15hf-neon-vfpv4.ipk"</url>
         </plugin>
         <plugin name="Pictureplayer2 v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk"</url>
@@ -1334,9 +1334,6 @@
         </plugin>
         <plugin name="Plugin Skin Mover 1.0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginskinmover_1.0_all.deb"</url>
-        </plugin>
-        <plugin name="Plutotv 1.0-r7">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-plutotv_1.0-r7_all.deb"</url>
         </plugin>
         <plugin name="Purevpn 1.1.1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-purevpn_1.1.1_all.deb"</url>
@@ -3627,8 +3624,8 @@
         <plugin name="FHD Dark v.1.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-darkfhd_v1.7_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Fury v.4.7 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_4.7_all.ipk"</url>
+        <plugin name="FHD Fury v.7.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk"</url>
         </plugin>
         <plugin name="FHD Kitte888 Field v.2.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-kitte888field-fhd_2.5_all.ipk"</url>
