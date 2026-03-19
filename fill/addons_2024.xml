@@ -903,8 +903,8 @@
         <plugin name="Uninstaller 1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-uninstaller_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Vavoo Stream online v.1.60 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.60_all.ipk"</url>
+        <plugin name="Vavoo Stream online v.1.61 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.61_all.ipk"</url>
         </plugin>
         <plugin name="WiFi Manager v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.1_all.ipk"</url>
