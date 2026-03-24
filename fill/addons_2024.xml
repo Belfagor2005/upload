@@ -674,6 +674,9 @@
         <plugin name="Visionvivapro v.240525 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-visionvivapro_240525_all.ipk"</url>
         </plugin>
+        <plugin name="ZouPlayer v.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ZouPlayer_1.1_all.ipk"</url>
+        </plugin>        
     </plugins>
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.0 ">
@@ -801,8 +804,8 @@
         <plugin name="Freearhey v. 3.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.1_all.ipk"</url>
         </plugin>
-        <plugin name="Foreca One v.1.1.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.1.4_all.ipk"</url>
+        <plugin name="Foreca One v.1.1.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.1.8_all.ipk"</url>
         </plugin>
         <plugin name="Gcam Status 1.0 Modded all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
@@ -1413,8 +1416,8 @@
         <plugin name="Telekomsport 2.0+git93+b0dca2f-r0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.deb"</url>
         </plugin>
-        <plugin name="The Weather Mod. by iet5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweatheriet5_4.3_all.deb"</url>
+        <plugin name="The Weather v.4.3B Mod. by iet5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweatheriet5_4.3B_all.deb"</url>
         </plugin>        
         <plugin name="The Weather py2-py3 v.2.6 r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather-py3_2.6_r0_all.deb"</url>
@@ -2838,8 +2841,8 @@
         <plugin name="OaWeather v.4.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_4.1_all.ipk"</url>
         </plugin>
-        <plugin name="The Weather Mod. by iet5 all ">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweatheriet5_4.3_all.ipk"</url>
+        <plugin name="The Weather v.4.3B Mod. by iet5 all ">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweatheriet5_4.3B_all.ipk"</url>
         </plugin>
         <plugin name="The Weather py2-py3 v.2.6_r0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweather-py3_2.6_r0_all.ipk"</url>
@@ -2850,8 +2853,8 @@
         <plugin name="VWeather 3.1.0 r61 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_1.0r61_all.ipk"</url>
         </plugin>
-        <plugin name="Foreca One v.1.1.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.1.4_all.ipk"</url>
+        <plugin name="Foreca One v.1.1.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.1.8_all.ipk"</url>
         </plugin>       
         <plugin name="Weather Plugin py3 v.7.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin-py3_7.0_all.ipk"</url>
