@@ -713,8 +713,8 @@
         <plugin name="XKlass v.1.80.20260325 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.80.20260325_all.ipk"</url>
         </plugin>
-        <plugin name="XStreamity v.5.41.20260406 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddacenigma2-plugin-extensions-xstreamity_5.41.20260406_all.ipk"</url>
+        <plugin name="XStreamity v.5.42.20260411 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddacenigma2-plugin-extensions-xstreamity_5.42.20260411_all.ipk"</url>
         </plugin>
         <plugin name="E2Piconizer 1.28.20250517 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk"</url>
@@ -741,8 +741,8 @@
         <plugin name="xKlass v.1.80.20260325 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.80_20260325.deb"</url>
         </plugin>
-        <plugin name="XStreamity v.5.41_20260406 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.41_20260406_all.deb"</url>
+        <plugin name="XStreamity v.5.42_20260411 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.42_20260411_all.deb"</url>
         </plugin>
         <plugin name="Screen Names v.1.06.20240825">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -804,8 +804,8 @@
         <plugin name="Freearhey v. 3.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.1_all.ipk"</url>
         </plugin>
-        <plugin name="Foreca One v.1.2.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.2.2_all.ipk"</url>
+        <plugin name="Foreca One v.1.2.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.2.3_all.ipk"</url>
         </plugin>
         <plugin name="Gcam Status 1.0 Modded all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
@@ -2850,8 +2850,8 @@
         <plugin name="VWeather 3.1.0 r61 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_1.0r61_all.ipk"</url>
         </plugin>
-        <plugin name="Foreca One v.1.2.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.2.2_all.ipk"</url>
+        <plugin name="Foreca One v.1.2.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.2.3_all.ipk"</url>
         </plugin>       
         <plugin name="Weather Plugin py3 v.7.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin-py3_7.0_all.ipk"</url>
