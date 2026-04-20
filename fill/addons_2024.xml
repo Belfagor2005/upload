@@ -4009,13 +4009,70 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/skin/enigma2-skin-metrixstylehd_13.1-r2_all.deb"</url>
         </plugin>
     </plugins>
-    <!-- games -->
-    <plugins cont="Games2.5">
+    <!-- GAMES -->
+    <plugins cont="Games Tools OE2.2/2.5/2.6 ">
+        <plugin name="backgammon">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-backgammon_all.deb"</url>
+        </plugin>
+        <plugin name="battleship">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-battleship_all.deb"</url>
+        </plugin>
+        <plugin name="bowling">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-bowling_all.deb"</url>
+        </plugin>
+        <plugin name="chess">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-chess_all.deb"</url>
+        </plugin>
+        <plugin name="dame">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-dame_all.deb"</url>
+        </plugin>
+        <plugin name="lemmings">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-lemmings_all.deb"</url>
+        </plugin>
+        <plugin name="ludo">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-ludo_all.deb"</url>
+        </plugin>
+        <plugin name="mastermind">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-mastermind_all.deb"</url>
+        </plugin>
+        <plugin name="minesweeper">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-minesweeper_all.deb"</url>
+        </plugin>
+        <plugin name="muehle">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-muehle_all.deb"</url>
+        </plugin>
+        <plugin name="pacman">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-pacman_all.deb"</url>
+        </plugin>
+        <plugin name="snake">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-snake_all.deb"</url>
+        </plugin>
+        <plugin name="sokoban">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-sokoban_all.deb"</url>
+        </plugin>
         <plugin name="Sudoku v.7.1-r1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-sudoku_7.1r1_all.deb"</url>
         </plugin>
+        <plugin name="solitaire">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-solitaire_all.deb"</url>
+        </plugin>
+        <plugin name="spaceInvaders">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-spaceInvaders_all.deb"</url>
+        </plugin>
+        <plugin name="tankwars">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-tankwars_all.deb"</url>
+        </plugin>
+        <plugin name="tetris">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-tetris_all.deb"</url>
+        </plugin>
+        <plugin name="uno">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-uno_all.deb"</url>
+        </plugin>
+        <plugin name="viergewinnt">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-viergewinnt_all.deb"</url>
+        </plugin>
+        <plugin name="yahtzee">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/games/enigma2-plugin-extensions-game-yahtzee_all.deb"</url>
+        </plugin>
     </plugins>
-
-
-
 </xml>
