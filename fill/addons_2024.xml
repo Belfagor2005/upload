@@ -263,8 +263,8 @@
         <plugin name="EPGImport-mod-dorik1972_1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
         </plugin>
-        <plugin name="EPGImport Mod iet5 v.2.9 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_mod_iet5_2.9_all.ipk"</url>
+        <plugin name="EPGImport Mod iet5 v.3.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimportiet5_3.0_all.ipk"</url>
         </plugin>
         <plugin name="Epg Import v. 0.9.12 PLi all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk"</url>
@@ -392,14 +392,20 @@
     </plugins>
     <!-- GAMES -->
     <plugins cont="Games Tools ">
-        <plugin name="Schiffe 7.1r1 FHD/HD all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-schiffe_7.1r1_all.ipk"</url>
+        <plugin name="Mastermind 2.5 FHD all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-mastermind_2.5_all.ipk"</url>
         </plugin>
-        <plugin name="Sudoku 7.1r1 FHD/HD all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-sudoku_7.1r1_all.ipk"</url>
+        <plugin name="Schiffe 7.1.1 FHD all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-schiffe_7.1.1_all.ipk"</url>
         </plugin>
-        <plugin name="Tetris 7.1r0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-tetris_7.1r0_all.ipk"</url>
+        <plugin name="Snake 2.5 FHD all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-snake_2.5_all.ipk"</url>
+        </plugin>
+        <plugin name="Sudoku 7.1.1 FHD all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-sudoku_7.1.1_all.ipk"</url>
+        </plugin>
+        <plugin name="Tetris 7.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-tetris_7.1.1_all.ipk"</url>
         </plugin>
     </plugins>
     <!-- IPTV -->
@@ -659,8 +665,8 @@
     </plugins>
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.0 ">
-        <plugin name="Bouquet Maker Xtream 1.72.20260125_all all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.72.20260125_all.ipk"</url>
+        <plugin name="Bouquet Maker Xtream 1.73.20260421_all all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.73.20260421_all.ipk"</url>
         </plugin>
         <plugin name="eStalker v.1.35.20260326 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.35.20260326_all.ipk"</url>
@@ -705,8 +711,8 @@
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.2/2.5/2.6 ">
         <!-- debian -->
-        <plugin name="Bouquet Maker Xtream 1.72_20260125 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.72_20260125_all.deb"</url>
+        <plugin name="Bouquet Maker Xtream 1.73_20260421 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.73_20260421_all.deb"</url>
         </plugin>
         <plugin name="eStalker v.1.35_20260326 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.35_20260326_all.deb"</url>
@@ -1086,8 +1092,8 @@
         <plugin name="EPGImport 2.22.20210523 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
         </plugin>
-        <plugin name="EPGImport noded iet5 v.2.9.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.9.3_iet5_all.deb"</url>
+        <plugin name="EPGImport noded iet5 v.3.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimportiet5_3.0_all.deb"</url>
         </plugin>
         <plugin name="EPGImport mod-dorik1972 1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
