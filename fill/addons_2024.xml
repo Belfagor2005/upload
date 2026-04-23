@@ -419,11 +419,17 @@
         <plugin name="Snake v.2.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-snake_2.5_all.ipk"</url>
         </plugin>
+        <plugin name="Space Invaders v.1.0.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-spaceinvaders_1.0.1_all.ipk"</url>
+        </plugin>
         <plugin name="Sudoku v.7.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-sudoku_7.1.1_all.ipk"</url>
         </plugin>
         <plugin name="Tetris v.7.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-tetris_7.1.1_all.ipk"</url>
+        </plugin>
+        <plugin name="Uno v.1.0.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-uno_1.0.1_all.ipk"</url>
         </plugin>
     </plugins>
     <!-- IPTV -->
@@ -804,8 +810,8 @@
         <plugin name="Freearhey v.3.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.1_all.ipk"</url>
         </plugin>
-        <plugin name="Foreca One v.1.2.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.2.4_all.ipk"</url>
+        <plugin name="Foreca One v.1.2.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.2.6_all.ipk"</url>
         </plugin>
         <plugin name="Gcam Status v.1.0 Modded all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url>
@@ -2796,8 +2802,8 @@
         <plugin name="VWeather 3.1.0 r61 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-vweather3_1.0r61_all.ipk"</url>
         </plugin>
-        <plugin name="Foreca One v.1.2.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.2.4_all.ipk"</url>
+        <plugin name="Foreca One v.1.2.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.2.6_all.ipk"</url>
         </plugin>       
         <plugin name="Weather Plugin py3 v.7.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin-py3_7.0_all.ipk"</url>
