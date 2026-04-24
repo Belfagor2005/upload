@@ -392,44 +392,14 @@
     </plugins>
     <!-- GAMES -->
     <plugins cont="Games Tools ">
-        <plugin name="Battleship v.1.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-battleship_1.0.1_all.ipk"</url>
-        </plugin>
-        <plugin name="Connect Four v.1.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-connectfour_1.0.1_all.ipk"</url>
-        </plugin>
-        <plugin name="Dame v.1.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-dame_1.0.1_all.ipk"</url>
-        </plugin>
-        <plugin name="Ludo v.1.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-ludo_1.0.1_all.ipk"</url>
-        </plugin>        
-        <plugin name="Mastermind v.2.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-mastermind_2.6_all.ipk"</url>
-        </plugin>
-        <plugin name="Minesweeper v.1.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-minesweeper_1.0.1_all.ipk"</url>
-        </plugin>
-        <plugin name="Muehle v.1.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-muehle_1.0.1_all.ipk"</url>
-        </plugin>
         <plugin name="Schiffe v.7.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-schiffe_7.1.1_all.ipk"</url>
-        </plugin>
-        <plugin name="Snake v.2.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-snake_2.5_all.ipk"</url>
-        </plugin>
-        <plugin name="Space Invaders v.1.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-spaceinvaders_1.0.1_all.ipk"</url>
         </plugin>
         <plugin name="Sudoku v.7.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-sudoku_7.1.1_all.ipk"</url>
         </plugin>
         <plugin name="Tetris v.7.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-tetris_7.1.1_all.ipk"</url>
-        </plugin>
-        <plugin name="Uno v.1.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-uno_1.0.1_all.ipk"</url>
         </plugin>
     </plugins>
     <!-- IPTV -->
