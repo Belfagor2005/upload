@@ -263,8 +263,8 @@
         <plugin name="EPGImport-mod-dorik1972_1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
         </plugin>
-        <plugin name="EPGImport Mod iet5 v.3.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimportiet5_3.0_all.ipk"</url>
+        <plugin name="EPGImport Mod iet5 v.3.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimportiet5_3.3_all.ipk"</url>
         </plugin>
         <plugin name="Epg Import v. 0.9.12 PLi all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk"</url>
@@ -1059,6 +1059,9 @@
         <plugin name="Dreamsat Panel v.1.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamsatpanel_1.6_all.deb"</url>
         </plugin>
+        <plugin name="Dreamtimesync v.1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-dreamtimesync_1.0_all.deb"</url>
+        </plugin>
         <plugin name="Dream Xtream v.0.3-r8.0 arm64">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamxtream_0.3-r8.0_arm64.deb"</url>
         </plugin>
@@ -1086,8 +1089,8 @@
         <plugin name="EPGImport v.2.22.20210523 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
         </plugin>
-        <plugin name="EPGImport noded iet5 v.3.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimportiet5_3.0_all.deb"</url>
+        <plugin name="EPGImport noded iet5 v.3.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimportiet5_3.3_all.deb"</url>
         </plugin>
         <plugin name="EPGImport mod-dorik1972 v.1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
@@ -1233,8 +1236,8 @@
         <plugin name="Netnetflix Dream v.1.4.2 arm64">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-netflixdream_1.4.2_arm64.deb"</url>
         </plugin>
-        <plugin name="New Virtual Keyboard v.12.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-newvirtualkeyboard_v12.3_all.deb"</url>
+        <plugin name="New Virtual Keyboard v.13.8.20260425 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-newvirtualkeyboard_13.8.20260425_all.deb"</url>
         </plugin>
         <plugin name="Vhannibal Autosetting FHD Mod by Lululla v.2.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ngsetting-fhd_2.9_all.deb"</url>
