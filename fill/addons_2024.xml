@@ -659,8 +659,8 @@
     </plugins>
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.0 ">
-        <plugin name="Bouquet Maker Xtream v.1.73.20260421_all all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.73.20260421_all.ipk"</url>
+        <plugin name="Bouquet Maker Xtream v.1.74.20260429_all all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.74.20260429_all.ipk"</url>
         </plugin>
         <plugin name="eStalker v.1.35.20260326 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.35.20260326_all.ipk"</url>
@@ -692,8 +692,8 @@
         <plugin name="XKlass v.1.80.20260325 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.80.20260325_all.ipk"</url>
         </plugin>
-        <plugin name="XStreamity v.5.43.20260428 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.43.20260428_all.ipk"</url>
+        <plugin name="XStreamity v.5.44.20260429 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.44.20260429_all.ipk"</url>
         </plugin>
         <plugin name="E2Piconizer v.1.28.20250517 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk"</url>
@@ -705,8 +705,8 @@
     <!-- KIDDAC -->
     <plugins cont="KiddaC OE2.2/2.5/2.6 ">
         <!-- debian -->
-        <plugin name="Bouquet Maker Xtream v.1.73_20260421 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.73_20260421_all.deb"</url>
+        <plugin name="Bouquet Maker Xtream v.1.74.20260429 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.74_20260429_all.deb"</url>
         </plugin>
         <plugin name="eStalker v.1.35_20260326 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.35_20260326_all.deb"</url>
@@ -720,8 +720,8 @@
         <plugin name="xKlass v.1.80.20260325 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.80_20260325.deb"</url>
         </plugin>
-        <plugin name="XStreamity v.5.43_20260428 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.43_20260428_all.deb"</url>
+        <plugin name="XStreamity v.5.44.20260429 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.44_20260429_all.deb"</url>
         </plugin>
         <plugin name="Screen Names v.1.06.20240825">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -3533,6 +3533,9 @@
         </plugin>
         <plugin name="FHD Fury v.7.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk"</url>
+        </plugin>
+        <plugin name="FHD Infinity Neo V.7.6-r4.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-infinity-neo_V.7.6-r4.1_all.ipk"</url>
         </plugin>
         <plugin name="FHD Kitte888 Field v.2.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-kitte888field-fhd_2.5_all.ipk"</url>
