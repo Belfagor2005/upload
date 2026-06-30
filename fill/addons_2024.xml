@@ -416,6 +416,9 @@
         <plugin name="Camofs_17.46 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-camofs_17.46_all.ipk"</url>
         </plugin>
+        <plugin name="Custom Iptvarchive Maker Pro v.8.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-customiptvarchivemakerpro_v8.1.all.ipk"</url>
+        </plugin>
         <plugin name="Dreamplex v.2.1.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-dreamplex_2.1.3_all.ipk"</url>
         </plugin>
@@ -460,7 +463,7 @@
         </plugin>
         <plugin name="Iptv Archive v.2.0.91 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk"</url>
-        </plugin>
+        </plugin>        
         <plugin name="Iptv Bouquet v.1.0 r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvbouquet_1.0_r0_all.ipk"</url>
         </plugin>
