@@ -1599,8 +1599,8 @@
         <plugin name="OscamForAll v.1.2.all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-oscamforall_1.2_all.ipk"</url>
         </plugin>
-        <plugin name="Panel AIO v.6.0.all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_6.0_all.ipk"</url>
+        <plugin name="Panel AIO v.13.0.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_13.0.1_all.ipk"</url>
         </plugin>
         <plugin name="S4aupdater 23.05.16 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-s4aupdater_23.05.16.2143_all.ipk"</url>
