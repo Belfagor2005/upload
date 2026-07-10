@@ -1074,9 +1074,6 @@
         <plugin name="Dreamsat Panel v.1.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamsatpanel_1.6_all.deb"</url>
         </plugin>
-        <plugin name="Dreamtimesync v.1.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-dreamtimesync_1.0_all.deb"</url>
-        </plugin>
         <plugin name="Dream Xtream v.0.3-r8.0 arm64">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamxtream_0.3-r8.0_arm64.deb"</url>
         </plugin>
@@ -3612,8 +3609,8 @@
         <plugin name="FHD Kitte888 Rack v.1.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-kitte888rack-fhd_1.8_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Jihad v.2.15 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-jihad_2.15_all.ipk"</url>
+        <plugin name="FHD Jihad v.2.16 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-jihad_2.16_all.ipk"</url>
         </plugin>
         <plugin name="FHD Luka v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-luka-fhd_1.2_all.ipk"</url>
