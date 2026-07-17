@@ -73,4 +73,5 @@ Changelog:
 Changelog:
 --Order List Category
 
-
+for major info read on github
+https://github.com/OwnerPlugins/LinuxsatPanel

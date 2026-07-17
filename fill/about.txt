@@ -9,6 +9,10 @@ by Lululla
 maintener
 20240720 init version 2.0
 
+On github repository
+https://github.com/OwnerPlugins/LinuxsatPanel
+https://github.com/OwnerPlugins/upload
+
 ATTENTION PLEASE...    
 
 I am NOT responsible for any issues you may
