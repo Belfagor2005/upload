@@ -629,8 +629,8 @@
         <plugin name="Tvspiel Film Fix v.1.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-tvspielfilmfix_1.1.1_all.ipk"</url>
         </plugin>
-        <plugin name="Videoplayer Simple v.3.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-videoplayer-simple_3.0_all.ipk"</url>
+        <plugin name="Videoplayer Simple v.3.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-videoplayer-simple_3.3_all.ipk"</url>
         </plugin>
         <plugin name="Vlc Player v.3.999 git5056+e504cee-r2 mips32el">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-vlcplayer_3.999+git5056+e504cee-r2_mips32el.ipk"</url>
@@ -843,8 +843,8 @@
         <plugin name="RSILive v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rsilive_1.0_all.ipk"</url>
         </plugin>        
-        <plugin name="RSS Reader v.1.13 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.13_all.ipk"</url>
+        <plugin name="RSS Reader v.1.14 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.14_all.ipk"</url>
         </plugin>
         <plugin name="Scriptexecuter boot h9 v.1.0r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scriptexecuter-boot-h9_1.0r4_all.ipk"</url>
