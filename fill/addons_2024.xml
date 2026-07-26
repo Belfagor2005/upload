@@ -2112,7 +2112,7 @@
         <plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
         </plugin>
-        <plugin name="Oscam Icam emu pcsc levi45 11965-803 all">
+        <plugin name="Oscam Icam emu pcsc levi45 11966-803 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11966-803_all.deb"</url>
         </plugin>
         <plugin name="Oscam Icam 11787-py3.21_emu-r801 all">
