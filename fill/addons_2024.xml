@@ -765,8 +765,8 @@
         <plugin name="Calendar Planner v.2.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-calendar_2.1_all.ipk"</url>
         </plugin>
-        <plugin name="Ciplus helper Merged Lululla v.6.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_6.5_all.ipk"</url>
+        <plugin name="Ciplus helper Merged Lululla v.6.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_6.6_all.ipk"</url>
         </plugin>
         <plugin name="Clear MEM v.1.11 Modded Lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-clearmem_1.11_all.ipk"</url>
@@ -1593,8 +1593,8 @@
         <plugin name="Levi45 Addon Panel v.10.1-r31 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.1-r31_all.ipk"</url>
         </plugin>
-        <plugin name="Linuxsat-Panel v.3.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_3.0.1_all.ipk"</url>
+        <plugin name="Linuxsat-Panel v.3.0.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_3.0.2_all.ipk"</url>
         </plugin>
         <plugin name="Luxsat-menu 12.9 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-luxsat-menu_12.9_all.ipk"</url>
@@ -2463,21 +2463,23 @@
         <plugin name="Change Mac Address e2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/Change-mac-address_e2_all.ipk"</url>
         </plugin>
-        <plugin name="Ciplus helper 5.8-r3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-ciplushelper_5.8-r3_all.ipk"</url>
+
+        <plugin name="Ciplus helper Lululla v.6.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_6.6_all.ipk"</url>
+        </plugin>
+        <plugin name="Ciplus helper openpli8.x_5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci_plus_helper-openpli8.x_5_all.ipk"</url>
         </plugin>
         <plugin name="Ciplus helper openbh-openvix_5.x all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper-openbh-openvix_5.x_all.ipk"</url>
         </plugin>
-        <plugin name="Ciplus helper openpli8.x_4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci_plus_helper-openpli8.x_4_all.ipk"</url>
+        <plugin name="Ciplus helper 5.8-r3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-ciplushelper_5.8-r3_all.ipk"</url>
         </plugin>
         <plugin name="Ciplus helper opentr_10.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper-opentr_10.2_all.ipk"</url>
         </plugin>
-        <plugin name="Ciplus helper Lululla v.6.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_6.1_all.ipk"</url>
-        </plugin>
+
         <plugin name="Cronmanager 2.3 all all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cronmanager_2.3_all.ipk"</url>
         </plugin>
