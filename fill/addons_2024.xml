@@ -1380,6 +1380,9 @@
         <plugin name="Telekomsport v.2.0+git93+b0dca2f-r0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.deb"</url>
         </plugin>
+        <plugin name="The Weather v.3.0 mod. Caught all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_3.0_all.deb"</url>
+        </plugin>
         <plugin name="The Weather v.5.8 Mod. by iet5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweatheriet5_5.8_all.deb"</url>
         </plugin>
@@ -2824,6 +2827,9 @@
         </plugin>
         <plugin name="OaWeather-iet v.1.4B all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.ipk"</url>
+        </plugin>
+        <plugin name="The Weather v.3.0 mod. Caught all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_3.0_all.ipk"</url>
         </plugin>
         <plugin name="The Weather v.5.8 Mod. by iet5 all ">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweatheriet5_5.8_all.ipk"</url>
