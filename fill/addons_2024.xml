@@ -852,8 +852,8 @@
         <plugin name="Scriptexecuter boot h9 v.1.0r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scriptexecuter-boot-h9_1.0r4_all.ipk"</url>
         </plugin>
-        <plugin name="Scsearch v.1.28 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.28_all.ipk"</url>
+        <plugin name="Scsearch v.1.29 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.29_all.ipk"</url>
         </plugin>
         <plugin name="SLWebcam 1.0.3 Mod Lululla">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-slwebcams_1.0.3_all.ipk"</url>
@@ -864,8 +864,8 @@
         <plugin name="Stalker Portal Converter v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stalkerportalconverter_1.4_all.ipk"</url>
         </plugin>
-        <plugin name="Streamproxy v.1.3_20260712 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-streamproxy_1.3_20260712_all.ipk"</url>
+        <plugin name="Streamproxy v.1.3_20260807 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-streamproxy_1.3_20260807_all.ipk"</url>
         </plugin>
         <plugin name="S.T.V.C.L. v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stvcl_1.4_all.ipk"</url>
