@@ -2467,6 +2467,10 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/Change-mac-address_e2_all.ipk"</url>
         </plugin>
 
+        <plugin name="Ci OFF/ON v.1.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-cioffon_1.2_all.ipk"</url>
+        </plugin>
+
         <plugin name="Ciplus helper Lululla v.6.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_6.8_all.ipk"</url>
         </plugin>
