@@ -10,10 +10,12 @@ import sys
 from pathlib import Path
 
 # Fallback location when no prior version of a package exists anywhere in
-# the repo yet, keyed by package extension (oe2.0 ships .ipk, oe2.5 .deb).
+# the repo yet. Both extensions land in oe2.0/lululla: that's where the
+# existing .deb builds for these packages already live, alongside the
+# .ipk files, regardless of the OE2.5 labeling in addons_2024.xml.
 FALLBACK_DIR = {
     "ipk": "oe2.0/lululla",
-    "deb": "oe2.5/varius",
+    "deb": "oe2.0/lululla",
 }
 
 
