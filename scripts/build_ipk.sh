@@ -11,7 +11,16 @@ OUT_DIR="${2:?usage: build_ipk.sh <repo_dir> <out_dir>}"
 
 CONTROL_FILE="$SRC_DIR/CONTROL/control"
 [ -f "$CONTROL_FILE" ] || { echo "no CONTROL/control in $SRC_DIR" >&2; exit 1; }
-[ -d "$SRC_DIR/usr" ] || { echo "no usr/ tree in $SRC_DIR" >&2; exit 1; }
+
+# usr/ normally sits at the repo root alongside CONTROL/, but a few repos
+# nest it one level down (e.g. XStreamity/usr/). Tolerate that instead of
+# failing the build.
+if [ -d "$SRC_DIR/usr" ]; then
+  DATA_ROOT="$SRC_DIR"
+else
+  DATA_ROOT=$(find "$SRC_DIR" -mindepth 2 -maxdepth 2 -type d -name usr -printf '%h\n' 2>/dev/null | head -1)
+  [ -n "$DATA_ROOT" ] || { echo "no usr/ tree in $SRC_DIR (checked root and one level down)" >&2; exit 1; }
+fi
 
 PKG=$(awk -F': ' '/^Package:/{print $2; exit}' "$CONTROL_FILE" | tr -d '\r')
 VER=$(awk -F': ' '/^Version:/{print $2; exit}' "$CONTROL_FILE" | tr -d '\r')
@@ -31,7 +40,7 @@ build_one() {
   local out_file="$OUT_DIR/$filename"
 
   tar --numeric-owner --owner=0 --group=0 "$tar_flag" -C "$SRC_DIR/CONTROL" -cf "$WORK/control.tar.$compress" .
-  tar --numeric-owner --owner=0 --group=0 "$tar_flag" -C "$SRC_DIR" -cf "$WORK/data.tar.$compress" usr
+  tar --numeric-owner --owner=0 --group=0 "$tar_flag" -C "$DATA_ROOT" -cf "$WORK/data.tar.$compress" usr
 
   rm -f "$out_file"
   ar rc "$out_file" "$WORK/debian-binary" "$WORK/control.tar.$compress" "$WORK/data.tar.$compress"
