@@ -1023,8 +1023,8 @@
         <plugin name="Ts-sateditor v.4.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ts-sateditor_4.4_all.deb"</url>
         </plugin>
-        <plugin name="CacheFlush v.2.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cacheflush_2.1_all.deb"</url>
+        <plugin name="CacheFlush v.2.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cacheflush_2.2_all.deb"</url>
         </plugin>
         <plugin name="Camofs v.17.46 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-camofs_17.46_all.deb"</url>
