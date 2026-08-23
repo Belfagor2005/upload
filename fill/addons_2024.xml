@@ -918,8 +918,8 @@
         <plugin name="Freearhey v.2.9">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_2.9_all.deb"</url>
         </plugin>
-        <plugin name="HasBahCa v.1.7">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_1.7_all.deb"</url>
+        <plugin name="HasBahCa v.2.3">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_2.3_all.deb"</url>
         </plugin>
         <plugin name="M3U Iptv v.1.1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m3uiptv_1.1_all.deb"</url>
