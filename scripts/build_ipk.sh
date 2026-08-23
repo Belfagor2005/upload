@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
-# Build an Enigma2 .ipk (opkg/ar package) from a plugin repo checkout.
-# Expected repo layout: CONTROL/{control,preinst,postinst,postrm} + usr/...
+# Build both an Enigma2 .ipk (opkg, gzip) and a .deb (dpkg, xz) from a
+# plugin repo checkout. Both packages are built from the same
+# CONTROL/{control,preinst,postinst,postrm} + usr/... tree — they only
+# differ in compression, matching what opkg (oe2.0) and dpkg (oe2.5)
+# actually expect.
 set -euo pipefail
 
 SRC_DIR="${1:?usage: build_ipk.sh <repo_dir> <out_dir>}"
@@ -19,23 +22,32 @@ ARCH=$(awk -F': ' '/^Architecture:/{print $2; exit}' "$CONTROL_FILE" | tr -d '\r
 WORK=$(mktemp -d)
 trap 'rm -rf "$WORK"' EXIT
 
-echo "2.0" > "$WORK/debian-binary"
-tar --numeric-owner --owner=0 --group=0 -C "$SRC_DIR/CONTROL" -czf "$WORK/control.tar.gz" .
-tar --numeric-owner --owner=0 --group=0 -C "$SRC_DIR" -czf "$WORK/data.tar.gz" usr
-
-FILENAME="${PKG}_${VER}_${ARCH}.ipk"
-OUT_FILE="$OUT_DIR/$FILENAME"
 mkdir -p "$OUT_DIR"
-rm -f "$OUT_FILE"
-ar rc "$OUT_FILE" "$WORK/debian-binary" "$WORK/control.tar.gz" "$WORK/data.tar.gz"
+echo "2.0" > "$WORK/debian-binary"
 
-cat > "$OUT_DIR/$FILENAME.manifest.json" <<JSON
+build_one() {
+  local ext="$1" compress="$2" tar_flag="$3"
+  local filename="${PKG}_${VER}_${ARCH}.${ext}"
+  local out_file="$OUT_DIR/$filename"
+
+  tar --numeric-owner --owner=0 --group=0 "$tar_flag" -C "$SRC_DIR/CONTROL" -cf "$WORK/control.tar.$compress" .
+  tar --numeric-owner --owner=0 --group=0 "$tar_flag" -C "$SRC_DIR" -cf "$WORK/data.tar.$compress" usr
+
+  rm -f "$out_file"
+  ar rc "$out_file" "$WORK/debian-binary" "$WORK/control.tar.$compress" "$WORK/data.tar.$compress"
+  rm -f "$WORK/control.tar.$compress" "$WORK/data.tar.$compress"
+
+  cat > "$OUT_DIR/$filename.manifest.json" <<JSON
 {
   "package": "$PKG",
   "version": "$VER",
   "arch": "$ARCH",
-  "filename": "$FILENAME"
+  "filename": "$filename",
+  "ext": "$ext"
 }
 JSON
+  echo "built: $out_file"
+}
 
-echo "built: $OUT_FILE"
+build_one ipk gz -z
+build_one deb xz -J

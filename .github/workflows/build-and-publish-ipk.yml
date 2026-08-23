@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.UPLOAD_REPO_TOKEN }}
           path: upload
 
-      - name: Build ipk
+      - name: Build ipk and deb
         run: |
           mkdir -p "$RUNNER_TEMP/out"
           bash upload/scripts/build_ipk.sh source "$RUNNER_TEMP/out"
@@ -39,8 +39,8 @@ jobs:
       - name: Sync into upload repo
         run: |
           shopt -s nullglob
-          for f in "$RUNNER_TEMP"/out/*.ipk; do
-            python3 upload/scripts/sync_package.py --ipk "$f" --upload-dir upload
+          for f in "$RUNNER_TEMP"/out/*.ipk "$RUNNER_TEMP"/out/*.deb; do
+            python3 upload/scripts/sync_package.py --pkg "$f" --upload-dir upload
           done
 
       - name: Commit and push
