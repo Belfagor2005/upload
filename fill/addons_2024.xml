@@ -759,8 +759,8 @@
         <plugin name="Apod Picture of the Day v.2.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apod_2.2_all.ipk"</url>
         </plugin>
-        <plugin name="Apsat TV v.1.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.4_all.ipk"</url>
+        <plugin name="Apsat TV v.1.5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.5_all.ipk"</url>
         </plugin>
         <plugin name="Bouquet Updaterv.3.0.2.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-bouquetupdater_3.0.2.0_all.ipk"</url>
@@ -909,8 +909,8 @@
         <plugin name="Apod Picture of the Day v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apod_1.4_all.deb"</url>
         </plugin>
-        <plugin name="Apsat TV v.1.2">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.2_all.deb"</url>
+        <plugin name="Apsat TV v.1.5">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.5_all.deb"</url>
         </plugin>
         <plugin name="FilmOn v.2.0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.0_all.deb"</url>
