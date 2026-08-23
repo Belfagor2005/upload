@@ -915,8 +915,8 @@
         <plugin name="FilmOn v.2.6">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.6_all.deb"</url>
         </plugin>
-        <plugin name="Freearhey v.2.9">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_2.9_all.deb"</url>
+        <plugin name="Freearhey v.3.2">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.2_all.deb"</url>
         </plugin>
         <plugin name="HasBahCa v.2.3">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_2.3_all.deb"</url>
