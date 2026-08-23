@@ -227,8 +227,8 @@
         <plugin name="Advancedevent library v. 1.0r150 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-advancedeventlibrary_1.0r150_all.ipk"</url>
         </plugin>
-        <plugin name="Backs Ncovers v. 1.0-r0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_1.0-r0_all.ipk"</url>
+        <plugin name="Backs Ncovers v. 1.5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-backsncovers_1.5_all.ipk"</url>
         </plugin>
         <plugin name="Cooltvguide Coolman V8.0 py3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-cooltvguide_Coolman_V8.0_py3_all.ipk"</url>
@@ -2427,8 +2427,8 @@
         <plugin name="AutoSwap v.0.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-autoswap_0.5_all.ipk"</url>
         </plugin>
-        <plugin name="Backsncovers 0.8-r6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-backsncovers_0.8-r6_all.ipk"</url>
+        <plugin name="Backsncovers 1.5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-backsncovers_1.5_all.ipk"</url>
         </plugin>
         <plugin name="Boxtools_1.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-boxtools_1.7_all.ipk"</url>
