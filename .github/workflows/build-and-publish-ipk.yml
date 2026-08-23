@@ -54,4 +54,23 @@ jobs:
           fi
           git add -A
           git commit -m "Auto-update ${{ inputs.source_repo }} package"
-          git push origin HEAD:main
+
+          # Many of these workflows can fire around the same time and race
+          # to push to main. Retry with a rebase on top of whatever landed
+          # in between, rather than failing outright on a non-fast-forward.
+          for attempt in 1 2 3 4 5 6 7 8; do
+            if git push origin HEAD:main; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt), fetching and rebasing..."
+            sleep $(( (RANDOM % 10) + attempt * 3 ))
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "::error::Rebase conflict against origin/main, needs manual resolution."
+              git rebase --abort
+              exit 1
+            fi
+          done
+          echo "::error::Failed to push after repeated retries."
+          exit 1
