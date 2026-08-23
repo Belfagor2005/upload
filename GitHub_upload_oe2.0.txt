@@ -177,7 +177,7 @@ enigma2-plugin-skins-slyk-toppicks_7.6.20240529_all.ipk (631.4KB)
 ====================================================
 \upload\oe2.0\lululla\
 ====================================================
-enigma2-plugin-extensions-acherone_1.3_all.ipk (13.8KB)
+enigma2-plugin-extensions-acherone_1.4_all.ipk (186.7KB)
 enigma2-plugin-extensions-addiptv-modded_v.1.2_all.ipk (121.2KB)
 enigma2-plugin-extensions-adulttvlive_1.3_all.deb (341.4KB)
 enigma2-plugin-extensions-adulttvlive_1.3_all.ipk (1.1MB)
