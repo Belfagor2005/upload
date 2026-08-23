@@ -455,6 +455,9 @@
         <plugin name="FreePlayer v.1.70.0 mod lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-freeplayer_1.70.0_all.ipk"</url>
         </plugin>
+        <plugin name="Gtiptvplayerpro V.0.9.64+universal-r0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_0.9.64+universal-r0_all.ipk"</url>
+        </plugin>
         <plugin name="HbbTV Player v.0.2-r2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk"</url>
         </plugin>
@@ -1287,6 +1290,9 @@
         <plugin name="Openwebif latest 20231224 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-openwebif_latest_all.deb"</url>
         </plugin>
+        <plugin name="Panelaio v.16.0.0-r1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-panelaio_16.0.0-r1_all.deb"</url>
+        </plugin>
         <plugin name="Perfectprivacy v.1.4.4">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-perfectprivacy_1.4.4.deb"</url>
         </plugin>
@@ -1380,8 +1386,8 @@
         <plugin name="Telekomsport v.2.0+git93+b0dca2f-r0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.deb"</url>
         </plugin>
-        <plugin name="The Weather v.3.0 mod. Caught all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_3.0_all.deb"</url>
+        <plugin name="The Weather v.3.2 mod. Caught all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_3.2_all.deb"</url>
         </plugin>
         <plugin name="The Weather v.5.8 Mod. by iet5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweatheriet5_5.8_all.deb"</url>
@@ -2832,8 +2838,8 @@
         <plugin name="OaWeather-iet v.1.4B all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.ipk"</url>
         </plugin>
-        <plugin name="The Weather v.3.0 mod. Caught all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_3.0_all.ipk"</url>
+        <plugin name="The Weather v.3.2 mod. Caught all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_3.2_all.ipk"</url>
         </plugin>
         <plugin name="The Weather v.5.8 Mod. by iet5 all ">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweatheriet5_5.8_all.ipk"</url>
