@@ -927,8 +927,8 @@
         <plugin name="mmPicons v.1.4 mMark">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mmpicons_1.4_all.deb"</url>
         </plugin>
-        <plugin name="Parsa TV v.1.7">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.7_all.deb"</url>
+        <plugin name="Parsa TV v.1.8">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.8_all.deb"</url>
         </plugin>
         <plugin name="RadioGit v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.2_all.deb"</url>
