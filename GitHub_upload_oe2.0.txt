@@ -280,8 +280,8 @@ enigma2-plugin-extensions-xhamster_1.0_all.deb (682.4KB)
 enigma2-plugin-extensions-xhamster_1.0_all.ipk (947.1KB)
 enigma2-plugin-extensions-xvideos18plus_1.0_all.deb (1.2MB)
 enigma2-plugin-extensions-xvideos18plus_1.0_all.ipk (1.6MB)
-enigma2-plugin-extensions-xxxplugin_1.3_all.deb (4.7MB)
-enigma2-plugin-extensions-xxxplugin_1.3_all.ipk (5.2MB)
+enigma2-plugin-extensions-xxxplugin_1.4_all.deb (4.9MB)
+enigma2-plugin-extensions-xxxplugin_1.4_all.ipk (5.5MB)
 enigma2-plugin-systemplugins-flashbackupto_1.5_all.ipk (397.5KB)
 
 ==================================================
