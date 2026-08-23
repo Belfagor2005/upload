@@ -1,0 +1,57 @@
+name: Build and publish ipk
+
+on:
+  workflow_call:
+    inputs:
+      source_repo:
+        required: true
+        type: string
+      source_ref:
+        required: true
+        type: string
+    secrets:
+      UPLOAD_REPO_TOKEN:
+        required: true
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source plugin repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ inputs.source_repo }}
+          ref: ${{ inputs.source_ref }}
+          path: source
+
+      - name: Checkout upload repo
+        uses: actions/checkout@v4
+        with:
+          repository: OwnerPlugins/upload
+          token: ${{ secrets.UPLOAD_REPO_TOKEN }}
+          path: upload
+
+      - name: Build ipk
+        run: |
+          mkdir -p "$RUNNER_TEMP/out"
+          bash upload/scripts/build_ipk.sh source "$RUNNER_TEMP/out"
+
+      - name: Sync into upload repo
+        run: |
+          shopt -s nullglob
+          for f in "$RUNNER_TEMP"/out/*.ipk; do
+            python3 upload/scripts/sync_package.py --ipk "$f" --upload-dir upload
+          done
+
+      - name: Commit and push
+        working-directory: upload
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to publish."
+            exit 0
+          fi
+          git add -A
+          git commit -m "Auto-update ${{ inputs.source_repo }} package"
+          git push origin HEAD:main
