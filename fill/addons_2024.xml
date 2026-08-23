@@ -903,8 +903,8 @@
     </plugins>
     <!-- LULULLA ZONE OE2.5-2.6 -->
     <plugins cont="Lululla Zone OE2.2/2.5/2.6 ">
-        <plugin name="Softcam Manager v.2.7">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_2.7_all.deb"</url>
+        <plugin name="Softcam Manager v.3.4">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.4_all.deb"</url>
         </plugin>
         <plugin name="Apod Picture of the Day v.2.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apod_2.2_all.deb"</url>
