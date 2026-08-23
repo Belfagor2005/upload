@@ -27,19 +27,44 @@ def fmt_size(n: int) -> str:
     return f"{n / 1024 ** 2:.1f}MB"
 
 
+def name_pattern(package: str, arch: str, ext: str) -> re.Pattern:
+    return re.compile(rf"^{re.escape(package)}_(.+)_{re.escape(arch)}\.{re.escape(ext)}$")
+
+
 def find_matches(upload_dir: Path, package: str, arch: str, ext: str):
-    pattern = re.compile(rf"^{re.escape(package)}_.+_{re.escape(arch)}\.{re.escape(ext)}$")
+    pattern = name_pattern(package, arch, ext)
     return [p for p in upload_dir.rglob(f"*.{ext}") if pattern.match(p.name)]
 
 
-def update_addons_xml(upload_dir: Path, old_name: str, new_name: str) -> bool:
+def extract_version(filename: str, package: str, arch: str, ext: str) -> str:
+    m = name_pattern(package, arch, ext).match(filename)
+    return m.group(1) if m else ""
+
+
+def update_addons_xml(upload_dir: Path, old_name: str, new_name: str,
+                       old_version: str, new_version: str) -> bool:
+    """Replace the <url> filename, and also patch the version number embedded
+    in the preceding <plugin name="..."> display name, if present there."""
     xml_path = upload_dir / "fill" / "addons_2024.xml"
     if not xml_path.exists() or old_name == new_name:
         return False
     text = xml_path.read_text(encoding="utf-8")
     if old_name not in text:
         return False
-    xml_path.write_text(text.replace(old_name, new_name), encoding="utf-8")
+    text = text.replace(old_name, new_name)
+
+    if old_version and new_version and old_version != new_version:
+        # Scope the version swap to the specific <plugin name="..."> block
+        # that leads into this url, so we never touch an unrelated plugin
+        # that happens to share the same version string.
+        block_pattern = re.compile(
+            r'(<plugin name="[^"]*?)' + re.escape(old_version) +
+            r'([^"]*">(?:(?!</plugin>).)*?' + re.escape(new_name) + r')',
+            re.DOTALL,
+        )
+        text = block_pattern.sub(lambda m: m.group(1) + new_version + m.group(2), text)
+
+    xml_path.write_text(text, encoding="utf-8")
     return True
 
 
@@ -85,6 +110,7 @@ def main():
 
     for old_path in matches:
         old_name = old_path.name
+        old_version = extract_version(old_name, package, arch, ext)
         rel_dir = old_path.parent.relative_to(upload_dir)
         dest = old_path.parent / new_name
         if old_name == new_name:
@@ -92,7 +118,7 @@ def main():
         old_path.unlink()
         shutil.copy2(pkg_path, dest)
 
-        xml_updated = update_addons_xml(upload_dir, old_name, new_name)
+        xml_updated = update_addons_xml(upload_dir, old_name, new_name, old_version, manifest["version"])
         txt_updated = update_listing_txt(upload_dir, rel_dir, old_name, new_name, new_size)
 
         print(f"UPDATED: {rel_dir}/{old_name} -> {new_name} "
