@@ -1302,8 +1302,8 @@
         <plugin name="Openwebif latest 20231224 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-openwebif_latest_all.deb"</url>
         </plugin>
-        <plugin name="Panelaio v.16.0.0-r1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-panelaio_16.0.0-r1_all.deb"</url>
+        <plugin name="Panelaio v.16.0.0-r2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-panelaio_16.0.0-r2_all.deb"</url>
         </plugin>
         <plugin name="Perfectprivacy v.1.4.4">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-perfectprivacy_1.4.4.deb"</url>
