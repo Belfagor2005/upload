@@ -2268,6 +2268,9 @@
     </plugins>
     <!-- SPORT -->
     <plugins cont="Sport Tools ">
+        <plugin name="Search Channels v.1.0.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-searchan-dev_1.0.1_all.ipk"</url>
+        </plugin>
         <plugin name="Eurojackpot 201011 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-eurojackpot_201011_all.ipk"</url>
         </plugin>
