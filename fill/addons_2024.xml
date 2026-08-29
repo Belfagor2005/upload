@@ -270,8 +270,8 @@
         <plugin name="EPGImport-mod-dorik1972_1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"</url>
         </plugin>
-        <plugin name="EPGImport Mod iet5 v.3.4A all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimportiet5_3.4A_all.ipk"</url>
+        <plugin name="EPGImport Mod iet5 v.3.5.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimportiet5_3.5.2_all.ipk"</url>
         </plugin>
         <plugin name="Epg Import v. 0.9.12 PLi all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xmltvimport_0.9.12_all.ipk"</url>
@@ -865,8 +865,8 @@
         <plugin name="Scriptexecuter boot h9 v.1.0r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scriptexecuter-boot-h9_1.0r4_all.ipk"</url>
         </plugin>
-        <plugin name="Scsearch v.1.30 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.30_all.ipk"</url>
+        <plugin name="Scsearch v.1.30.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.30.1_pub_all.ipk"</url>
         </plugin>
         <plugin name="SearChan v.1.0.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-searchan_1.0.2_all.ipk"</url>
@@ -951,6 +951,9 @@
         </plugin>
         <plugin name="RSS Reader v.1.14 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.14_all.deb"</url>
+        </plugin>
+        <plugin name="Scsearch v.1.30.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.30.1_pub_all.deb"</url>
         </plugin>
         <plugin name="Softcam Key Updater v.6.1-12.20 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.deb"</url>
@@ -1126,8 +1129,8 @@
         <plugin name="EPGImport v.2.22.20210523 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"</url>
         </plugin>
-        <plugin name="EPGImport moded iet5 v.3.4A all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimportiet5_3.4A_all.deb"</url>
+        <plugin name="EPGImport moded iet5 v.3.5.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimportiet5_3.5.2_all.deb"</url>
         </plugin>
         <plugin name="EPGImport mod-dorik1972 v.1.9.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"</url>
@@ -3654,8 +3657,8 @@
         <plugin name="FHD Kitte888 Rack v.1.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-kitte888rack-fhd_1.8_all.ipk"</url>
         </plugin>
-        <plugin name="FHD Jihad v.2.16 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-jihad_2.16_all.ipk"</url>
+        <plugin name="FHD Jihad v.2.19 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-jihad_2.19_all.ipk"</url>
         </plugin>
         <plugin name="FHD Luka v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-luka-fhd_1.2_all.ipk"</url>
