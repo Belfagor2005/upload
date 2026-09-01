@@ -868,8 +868,8 @@
         <plugin name="Scsearch v.1.30.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.30.1_pub_all.ipk"</url>
         </plugin>
-        <plugin name="SearChan v.1.0.3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-searchan-dev_1.0.3_all.ipk"</url>
+        <plugin name="SearChan v.1.0.10 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-searchan_1.0.10_all.ipk"</url>
         </plugin>
         <plugin name="SLWebcam 1.0.3 Mod Lululla">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-slwebcams_1.0.3_all.ipk"</url>
