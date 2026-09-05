@@ -462,6 +462,9 @@
         <plugin name="FreePlayer v.1.70.0 mod lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-freeplayer_1.70.0_all.ipk"</url>
         </plugin>
+        <plugin name="Gtiptvplayerpro 1.0.0-r80 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.0.0-r80_all.ipk"</url>
+        </plugin>
         <plugin name="Gtiptvplayerpro V.0.9.64+universal-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_0.9.64+universal-r0_all.ipk"</url>
         </plugin>
